@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T16:06:40.365614+00:00",
+  "updated": "2026-06-22T16:10:34.206285+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -25,7 +25,7 @@
         "workflows"
       ],
       "created_at": "2026-06-16T10:51:20Z",
-      "updated_at": "2026-06-22T15:51:55Z",
+      "updated_at": "2026-06-22T16:07:11Z",
       "rank": 1
     },
     {
@@ -58,7 +58,7 @@
       "language": "Python",
       "stars": 292,
       "stars_gained": 0,
-      "forks": 92,
+      "forks": 93,
       "topics": [
         "ai",
         "ai-agents",
@@ -78,7 +78,7 @@
       "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
       "full_description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
       "language": "Python",
-      "stars": 284,
+      "stars": 285,
       "stars_gained": 0,
       "forks": 5,
       "topics": [
@@ -102,7 +102,7 @@
         "textrank"
       ],
       "created_at": "2026-06-19T20:36:41Z",
-      "updated_at": "2026-06-22T15:55:07Z",
+      "updated_at": "2026-06-22T16:09:02Z",
       "rank": 4
     },
     {
@@ -769,28 +769,23 @@
       "rank": 29
     },
     {
-      "name": "liebaojun/MakoCode",
-      "url": "https://github.com/liebaojun/MakoCode",
-      "description": "MakoCode — 茉子版 Agent | Galgame 风格桌面 AI Agent，零门槛体验 Agent 的乐趣",
-      "full_description": "MakoCode — 茉子版 Agent | Galgame 风格桌面 AI Agent，零门槛体验 Agent 的乐趣",
-      "language": "HTML",
+      "name": "moely-ai/claude-fable-5-prompt",
+      "url": "https://github.com/moely-ai/claude-fable-5-prompt",
+      "description": "A curated collection of Claude Fable 5 system prompts for developers and researchers. Discover more advanced prompt engineering tools at Moely AI.",
+      "full_description": "A curated collection of Claude Fable 5 system prompts for developers and researchers. Discover more advanced prompt engineering tools at Moely AI.",
+      "language": "",
       "stars": 51,
       "stars_gained": 0,
-      "forks": 4,
+      "forks": 20,
       "topics": [
-        "ai-agent",
-        "anime",
-        "claude-code",
-        "deepseek",
-        "desktop-app",
-        "electron-app",
-        "galgame",
+        "claude",
         "llm",
-        "visual-novel",
-        "windows"
+        "moely-ai",
+        "prompt-engineering",
+        "system-prompt"
       ],
-      "created_at": "2026-06-16T13:56:01Z",
-      "updated_at": "2026-06-22T14:43:52Z",
+      "created_at": "2026-06-15T03:01:23Z",
+      "updated_at": "2026-06-22T13:56:11Z",
       "rank": 30
     }
   ]
