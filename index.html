@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>AI Trending · GitHub 热门 AI 项目</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <h1>AI Trending</h1>
+    <p class="subtitle">GitHub 热门 AI 项目追踪</p>
+  </div>
+</header>
+
+<nav class="tabs">
+  <button class="tab active" data-period="daily">昨日</button>
+  <button class="tab" data-period="weekly">本周</button>
+  <button class="tab" data-period="monthly">本月</button>
+  <button class="tab" data-period="halfyearly">半年</button>
+</nav>
+
+<main>
+  <div class="status-bar">
+    <span class="update-time"></span>
+    <span class="result-count"></span>
+  </div>
+  <div class="project-list" id="project-list">
+    <div class="skeleton" style="height:80px"></div>
+    <div class="skeleton" style="height:80px"></div>
+    <div class="skeleton" style="height:80px"></div>
+    <div class="skeleton" style="height:80px"></div>
+    <div class="skeleton" style="height:80px"></div>
+  </div>
+</main>
+
+<footer>
+  <p>数据由 GitHub Actions 每日自动更新 · <a href="https://github.com/JivonKiang/ai-trending" target="_blank" rel="noopener">View on GitHub</a></p>
+</footer>
+
+<script src="js/app.js"></script>
+</body>
+</html>
