@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T16:10:34.206285+00:00",
+  "updated": "2026-06-23T04:39:38.104126+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "The Framework for Building Agents",
       "full_description": "The Framework for Building Agents",
       "language": "TypeScript",
-      "stars": 2222,
+      "stars": 2305,
       "stars_gained": 0,
-      "forks": 160,
+      "forks": 165,
       "topics": [
         "agent",
         "framework",
@@ -25,7 +25,7 @@
         "workflows"
       ],
       "created_at": "2026-06-16T10:51:20Z",
-      "updated_at": "2026-06-22T16:07:11Z",
+      "updated_at": "2026-06-23T04:34:05Z",
       "rank": 1
     },
     {
@@ -34,9 +34,9 @@
       "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
       "full_description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
       "language": "JavaScript",
-      "stars": 700,
+      "stars": 728,
       "stars_gained": 0,
-      "forks": 61,
+      "forks": 63,
       "topics": [
         "apps-sdk",
         "chatgpt",
@@ -47,7 +47,7 @@
         "ngrok"
       ],
       "created_at": "2026-06-16T21:22:43Z",
-      "updated_at": "2026-06-22T16:06:27Z",
+      "updated_at": "2026-06-23T04:12:44Z",
       "rank": 2
     },
     {
@@ -56,9 +56,9 @@
       "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
       "full_description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
       "language": "Python",
-      "stars": 292,
+      "stars": 386,
       "stars_gained": 0,
-      "forks": 93,
+      "forks": 138,
       "topics": [
         "ai",
         "ai-agents",
@@ -69,7 +69,7 @@
         "openai"
       ],
       "created_at": "2026-06-19T13:24:44Z",
-      "updated_at": "2026-06-22T16:06:02Z",
+      "updated_at": "2026-06-23T04:33:24Z",
       "rank": 3
     },
     {
@@ -78,9 +78,9 @@
       "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
       "full_description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
       "language": "Python",
-      "stars": 285,
+      "stars": 335,
       "stars_gained": 0,
-      "forks": 5,
+      "forks": 8,
       "topics": [
         "ai",
         "ai-agents",
@@ -102,7 +102,7 @@
         "textrank"
       ],
       "created_at": "2026-06-19T20:36:41Z",
-      "updated_at": "2026-06-22T16:09:02Z",
+      "updated_at": "2026-06-23T04:31:07Z",
       "rank": 4
     },
     {
@@ -138,35 +138,6 @@
       "rank": 5
     },
     {
-      "name": "larlarua/AutoCVE",
-      "url": "https://github.com/larlarua/AutoCVE",
-      "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generation.",
-      "full_description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generation.",
-      "language": "Python",
-      "stars": 220,
-      "stars_gained": 0,
-      "forks": 7,
-      "topics": [
-        "agent",
-        "ai-security",
-        "code-audit",
-        "cve",
-        "fastapi",
-        "llm-agent",
-        "multi-agent",
-        "penetration-testing",
-        "react",
-        "security-audit",
-        "security-tools",
-        "source-code-analysis",
-        "vulnerability-detection",
-        "vulnerability-research"
-      ],
-      "created_at": "2026-06-15T14:50:47Z",
-      "updated_at": "2026-06-22T13:11:51Z",
-      "rank": 6
-    },
-    {
       "name": "yolfinance/yolfi-agent",
       "url": "https://github.com/yolfinance/yolfi-agent",
       "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
@@ -185,8 +156,8 @@
         "webhooks"
       ],
       "created_at": "2026-06-16T15:43:27Z",
-      "updated_at": "2026-06-22T15:51:36Z",
-      "rank": 7
+      "updated_at": "2026-06-22T16:12:57Z",
+      "rank": 6
     },
     {
       "name": "sneakers-the-rat/ImportantCode",
@@ -194,7 +165,7 @@
       "description": "This is a repository with a lot of high profile, high prestige code in it that new programmers can make pull requests to and build their reputation",
       "full_description": "This is a repository with a lot of high profile, high prestige code in it that new programmers can make pull requests to and build their reputation",
       "language": "Python",
-      "stars": 157,
+      "stars": 161,
       "stars_gained": 0,
       "forks": 18,
       "topics": [
@@ -220,8 +191,8 @@
         "specops"
       ],
       "created_at": "2026-06-16T04:54:39Z",
-      "updated_at": "2026-06-22T15:16:29Z",
-      "rank": 8
+      "updated_at": "2026-06-23T02:34:51Z",
+      "rank": 7
     },
     {
       "name": "LichAmnesia/awesome-ad-video-prompts",
@@ -250,29 +221,7 @@
       ],
       "created_at": "2026-06-16T04:36:14Z",
       "updated_at": "2026-06-22T02:19:18Z",
-      "rank": 9
-    },
-    {
-      "name": "Happy-Chen-CH/Educational_RAG_System",
-      "url": "https://github.com/Happy-Chen-CH/Educational_RAG_System",
-      "description": "面向教育场景的RAG智能问答系统，融合关键词匹配与语义检索双引擎，融合MySQL和RAG技术，先经过MySQL数据库的检索(还融合了Redis辅助储存和搜索)，若无符合条件答案，则进入RAG系统，RAG知识库中的知识储存在Milvus向量数据库中",
-      "full_description": "面向教育场景的RAG智能问答系统，融合关键词匹配与语义检索双引擎，融合MySQL和RAG技术，先经过MySQL数据库的检索(还融合了Redis辅助储存和搜索)，若无符合条件答案，则进入RAG系统，RAG知识库中的知识储存在Milvus向量数据库中",
-      "language": "Python",
-      "stars": 137,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "ai",
-        "llm",
-        "milvus",
-        "mysql",
-        "python",
-        "rag",
-        "redis"
-      ],
-      "created_at": "2026-06-15T11:50:53Z",
-      "updated_at": "2026-06-22T12:36:29Z",
-      "rank": 10
+      "rank": 8
     },
     {
       "name": "Manavarya09/public-apis-live",
@@ -280,7 +229,7 @@
       "description": "Every public API in one place — aggregated, deduped, and auto-checked for reachability. Refreshed daily. npm + Claude plugin + live search.",
       "full_description": "Every public API in one place — aggregated, deduped, and auto-checked for reachability. Refreshed daily. npm + Claude plugin + live search.",
       "language": "TypeScript",
-      "stars": 124,
+      "stars": 128,
       "stars_gained": 0,
       "forks": 8,
       "topics": [
@@ -296,35 +245,8 @@
         "public-apis"
       ],
       "created_at": "2026-06-17T06:47:04Z",
-      "updated_at": "2026-06-22T15:27:24Z",
-      "rank": 11
-    },
-    {
-      "name": "machinefi/trio-retina",
-      "url": "https://github.com/machinefi/trio-retina",
-      "description": "Model-agnostic state layer for world models — turn any detector (YOLO · VLM · DINO) into one standard, queryable stream of events + latent state. numpy-only, runs on CPU at the edge.",
-      "full_description": "Model-agnostic state layer for world models — turn any detector (YOLO · VLM · DINO) into one standard, queryable stream of events + latent state. numpy-only, runs on CPU at the edge.",
-      "language": "Python",
-      "stars": 104,
-      "stars_gained": 0,
-      "forks": 31,
-      "topics": [
-        "computer-vision",
-        "edge-ai",
-        "event-stream",
-        "object-detection",
-        "object-tracking",
-        "perception",
-        "python",
-        "rtsp",
-        "video-analytics",
-        "vlm",
-        "world-models",
-        "yolo"
-      ],
-      "created_at": "2026-06-15T20:13:33Z",
-      "updated_at": "2026-06-21T14:32:27Z",
-      "rank": 12
+      "updated_at": "2026-06-23T00:33:22Z",
+      "rank": 9
     },
     {
       "name": "PerfectXM/mcp-db-server",
@@ -332,7 +254,7 @@
       "description": "🔥 让 AI 直接操刀你的数据库！无状态 MCP 数据库服务，支持 MySQL / PostgreSQL / SQLite / SQL Server / Oracle / H2，连接参数即传即用，零持久化零配置。",
       "full_description": "🔥 让 AI 直接操刀你的数据库！无状态 MCP 数据库服务，支持 MySQL / PostgreSQL / SQLite / SQL Server / Oracle / H2，连接参数即传即用，零持久化零配置。",
       "language": "Java",
-      "stars": 94,
+      "stars": 103,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -341,8 +263,8 @@
         "mcp"
       ],
       "created_at": "2026-06-16T09:11:37Z",
-      "updated_at": "2026-06-22T15:48:51Z",
-      "rank": 13
+      "updated_at": "2026-06-22T19:34:38Z",
+      "rank": 10
     },
     {
       "name": "umacloud/umadev",
@@ -350,9 +272,9 @@
       "description": "AI 编码项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode，套上 9 阶段可治理的商业级交付流水线。  AI Coding Project Director Agent | Power Claude Code, Codex & OpenCode with a 9-stage governable commercial delivery pipeline.",
       "full_description": "AI 编码项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode，套上 9 阶段可治理的商业级交付流水线。  AI Coding Project Director Agent | Power Claude Code, Codex & OpenCode with a 9-stage governable commercial delivery pipeline.",
       "language": "Rust",
-      "stars": 89,
+      "stars": 92,
       "stars_gained": 0,
-      "forks": 35,
+      "forks": 36,
       "topics": [
         "agents",
         "ai",
@@ -369,8 +291,8 @@
         "vibe-coding"
       ],
       "created_at": "2026-06-19T16:43:11Z",
-      "updated_at": "2026-06-22T15:50:49Z",
-      "rank": 14
+      "updated_at": "2026-06-23T03:10:32Z",
+      "rank": 11
     },
     {
       "name": "VisionForge-OU/foreman",
@@ -378,9 +300,9 @@
       "description": "A Boris-style agentic orchestrator TUI that supervises headless Claude Code agents through a gated software-delivery pipeline — pointed at any repository.",
       "full_description": "A Boris-style agentic orchestrator TUI that supervises headless Claude Code agents through a gated software-delivery pipeline — pointed at any repository.",
       "language": "Python",
-      "stars": 84,
+      "stars": 86,
       "stars_gained": 0,
-      "forks": 22,
+      "forks": 24,
       "topics": [
         "agent",
         "agent-loop",
@@ -392,8 +314,8 @@
         "claude-code"
       ],
       "created_at": "2026-06-17T10:49:49Z",
-      "updated_at": "2026-06-22T15:00:23Z",
-      "rank": 15
+      "updated_at": "2026-06-23T01:01:25Z",
+      "rank": 12
     },
     {
       "name": "databufflabs/databuff",
@@ -401,7 +323,7 @@
       "description": "AI Native 的 OpenTelemetry APM",
       "full_description": "AI Native 的 OpenTelemetry APM",
       "language": "Vue",
-      "stars": 79,
+      "stars": 84,
       "stars_gained": 0,
       "forks": 19,
       "topics": [
@@ -414,8 +336,38 @@
         "tracing"
       ],
       "created_at": "2026-06-18T02:06:27Z",
-      "updated_at": "2026-06-22T14:36:25Z",
-      "rank": 16
+      "updated_at": "2026-06-23T04:10:28Z",
+      "rank": 13
+    },
+    {
+      "name": "Karovia/fullstack-ai-agent-roadmap",
+      "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
+      "description": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
+      "full_description": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
+      "language": "",
+      "stars": 79,
+      "stars_gained": 0,
+      "forks": 4,
+      "topics": [
+        "ai",
+        "ai-agent",
+        "chinese",
+        "claude",
+        "fastapi",
+        "fullstack",
+        "javascript",
+        "langgraph",
+        "learning-roadmap",
+        "llm",
+        "mcp",
+        "obsidian",
+        "python",
+        "react",
+        "tutorial"
+      ],
+      "created_at": "2026-06-19T06:34:06Z",
+      "updated_at": "2026-06-23T04:17:01Z",
+      "rank": 14
     },
     {
       "name": "psinetron/echoes-vault-opencode",
@@ -440,30 +392,7 @@
       ],
       "created_at": "2026-06-16T09:49:55Z",
       "updated_at": "2026-06-22T15:21:17Z",
-      "rank": 17
-    },
-    {
-      "name": "lokikill123/codex-token-skills",
-      "url": "https://github.com/lokikill123/codex-token-skills",
-      "description": "⚡ Cut 60-80% token cost for DeepSeek V4 Pro on Codex CLI. token-saver + memory skills with prefix-cache optimization.",
-      "full_description": "⚡ Cut 60-80% token cost for DeepSeek V4 Pro on Codex CLI. token-saver + memory skills with prefix-cache optimization.",
-      "language": "",
-      "stars": 78,
-      "stars_gained": 0,
-      "forks": 6,
-      "topics": [
-        "ai-coding",
-        "cache-optimization",
-        "codex",
-        "codex-cli",
-        "codex-skill",
-        "deepseek",
-        "llm",
-        "token-optimization"
-      ],
-      "created_at": "2026-06-15T11:57:30Z",
-      "updated_at": "2026-06-21T09:15:47Z",
-      "rank": 18
+      "rank": 15
     },
     {
       "name": "rzhub/GateMem",
@@ -471,9 +400,9 @@
       "description": "GateMem: a benchmark and evaluation toolkit for memory governance in multi-principal shared-memory LLM agents.",
       "full_description": "GateMem: a benchmark and evaluation toolkit for memory governance in multi-principal shared-memory LLM agents.",
       "language": "Python",
-      "stars": 74,
+      "stars": 77,
       "stars_gained": 0,
-      "forks": 1,
+      "forks": 2,
       "topics": [
         "agent-memory",
         "ai-safety",
@@ -482,38 +411,8 @@
         "nlp"
       ],
       "created_at": "2026-06-16T10:03:13Z",
-      "updated_at": "2026-06-22T15:04:11Z",
-      "rank": 19
-    },
-    {
-      "name": "Karovia/fullstack-ai-agent-roadmap",
-      "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
-      "description": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
-      "full_description": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
-      "language": "",
-      "stars": 73,
-      "stars_gained": 0,
-      "forks": 3,
-      "topics": [
-        "ai",
-        "ai-agent",
-        "chinese",
-        "claude",
-        "fastapi",
-        "fullstack",
-        "javascript",
-        "langgraph",
-        "learning-roadmap",
-        "llm",
-        "mcp",
-        "obsidian",
-        "python",
-        "react",
-        "tutorial"
-      ],
-      "created_at": "2026-06-19T06:34:06Z",
-      "updated_at": "2026-06-22T15:39:39Z",
-      "rank": 20
+      "updated_at": "2026-06-23T02:40:53Z",
+      "rank": 16
     },
     {
       "name": "agiwhitelist/tokdiet",
@@ -547,7 +446,7 @@
       ],
       "created_at": "2026-06-16T17:26:01Z",
       "updated_at": "2026-06-21T00:13:02Z",
-      "rank": 21
+      "rank": 17
     },
     {
       "name": "catnip-ai-tech/MaineCoon",
@@ -555,7 +454,7 @@
       "description": "MaineCoon: Pursuing a Real-Time Audio-Visual Social World Model — technical report & project links. 🌐 https://mainecoon.tech/",
       "full_description": "MaineCoon: Pursuing a Real-Time Audio-Visual Social World Model — technical report & project links. 🌐 https://mainecoon.tech/",
       "language": "",
-      "stars": 65,
+      "stars": 68,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
@@ -573,8 +472,58 @@
         "world-model"
       ],
       "created_at": "2026-06-16T04:31:19Z",
-      "updated_at": "2026-06-22T15:08:41Z",
-      "rank": 22
+      "updated_at": "2026-06-23T01:39:23Z",
+      "rank": 18
+    },
+    {
+      "name": "HMDSimDev/heartmorrow",
+      "url": "https://github.com/HMDSimDev/heartmorrow",
+      "description": "LLM-powered dating simulator",
+      "full_description": "LLM-powered dating simulator",
+      "language": "TypeScript",
+      "stars": 64,
+      "stars_gained": 0,
+      "forks": 6,
+      "topics": [
+        "ai",
+        "dating-simulator",
+        "game",
+        "llm",
+        "llms",
+        "local-ai",
+        "local-llm",
+        "node",
+        "nodejs",
+        "simulator"
+      ],
+      "created_at": "2026-06-20T05:44:15Z",
+      "updated_at": "2026-06-23T03:06:33Z",
+      "rank": 19
+    },
+    {
+      "name": "Huxiaoyou97/ManvoTV",
+      "url": "https://github.com/Huxiaoyou97/ManvoTV",
+      "description": "Manvo TV — 想到什么就生成什么 · AI 原生创作平台(无限画布 + 漫剧剧本工厂) | https://manvo.tv",
+      "full_description": "Manvo TV — 想到什么就生成什么 · AI 原生创作平台(无限画布 + 漫剧剧本工厂) | https://manvo.tv",
+      "language": "",
+      "stars": 63,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-video",
+        "aigc",
+        "creative-tools",
+        "infinite-canvas",
+        "manvo",
+        "short-drama",
+        "storyboard",
+        "video-generation"
+      ],
+      "created_at": "2026-06-21T11:27:16Z",
+      "updated_at": "2026-06-23T02:46:39Z",
+      "rank": 20
     },
     {
       "name": "anasu1/text-humanizer",
@@ -597,7 +546,7 @@
       ],
       "created_at": "2026-06-16T17:18:50Z",
       "updated_at": "2026-06-21T21:48:11Z",
-      "rank": 23
+      "rank": 21
     },
     {
       "name": "gintasz/neuralyzer",
@@ -627,32 +576,40 @@
       ],
       "created_at": "2026-06-19T17:51:04Z",
       "updated_at": "2026-06-21T20:11:57Z",
-      "rank": 24
+      "rank": 22
     },
     {
-      "name": "HMDSimDev/heartmorrow",
-      "url": "https://github.com/HMDSimDev/heartmorrow",
-      "description": "LLM-powered dating simulator",
-      "full_description": "LLM-powered dating simulator",
+      "name": "wellwelwel/blue-spec",
+      "url": "https://github.com/wellwelwel/blue-spec",
+      "description": "🌊 Blue Spec is a toolkit for Security-Driven Hardening, a defensive workflow to help AI agents detect what a system does and harden the defenses that matter.",
+      "full_description": "🌊 Blue Spec is a toolkit for Security-Driven Hardening, a defensive workflow to help AI agents detect what a system does and harden the defenses that matter.",
       "language": "TypeScript",
       "stars": 58,
       "stars_gained": 0,
-      "forks": 5,
+      "forks": 0,
       "topics": [
+        "agent-skills",
         "ai",
-        "dating-simulator",
-        "game",
+        "blue-team",
+        "claude-code",
+        "codex",
+        "copilot",
+        "cursor-ai",
+        "ia-driven",
         "llm",
-        "llms",
-        "local-ai",
-        "local-llm",
-        "node",
-        "nodejs",
-        "simulator"
+        "prd",
+        "prompt-engineering",
+        "prompt-toolkit",
+        "sdh",
+        "security",
+        "security-driven-hardening",
+        "skills",
+        "spec-driven",
+        "spec-kit"
       ],
-      "created_at": "2026-06-20T05:44:15Z",
-      "updated_at": "2026-06-22T12:41:39Z",
-      "rank": 25
+      "created_at": "2026-06-17T21:19:02Z",
+      "updated_at": "2026-06-22T21:25:48Z",
+      "rank": 23
     },
     {
       "name": "abluva-research/mcp-trust-plane",
@@ -679,73 +636,7 @@
       ],
       "created_at": "2026-06-18T08:14:29Z",
       "updated_at": "2026-06-21T06:38:39Z",
-      "rank": 26
-    },
-    {
-      "name": "wellwelwel/blue-spec",
-      "url": "https://github.com/wellwelwel/blue-spec",
-      "description": "🌊 Blue Spec is a toolkit for Security-Driven Hardening, a defensive workflow to help AI agents detect what a system does and harden the defenses that matter.",
-      "full_description": "🌊 Blue Spec is a toolkit for Security-Driven Hardening, a defensive workflow to help AI agents detect what a system does and harden the defenses that matter.",
-      "language": "TypeScript",
-      "stars": 57,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "agent-skills",
-        "ai",
-        "blue-team",
-        "claude-code",
-        "codex",
-        "copilot",
-        "cursor-ai",
-        "ia-driven",
-        "llm",
-        "prd",
-        "prompt-engineering",
-        "prompt-toolkit",
-        "sdh",
-        "security",
-        "security-driven-hardening",
-        "skills",
-        "spec-driven",
-        "spec-kit"
-      ],
-      "created_at": "2026-06-17T21:19:02Z",
-      "updated_at": "2026-06-22T03:53:13Z",
-      "rank": 27
-    },
-    {
-      "name": "SantanderAI/autoguardrails",
-      "url": "https://github.com/SantanderAI/autoguardrails",
-      "description": "Alignment-research scaffold (autoresearch-style) for LLM guardrails: search over a single policy.md surface",
-      "full_description": "Alignment-research scaffold (autoresearch-style) for LLM guardrails: search over a single policy.md surface",
-      "language": "Python",
-      "stars": 52,
-      "stars_gained": 0,
-      "forks": 9,
-      "topics": [
-        "ai",
-        "ai-safety",
-        "alignment",
-        "autoresearch",
-        "benchmark",
-        "content-moderation",
-        "evaluation",
-        "guardrails",
-        "jailbreak",
-        "llm",
-        "llm-safety",
-        "machine-learning",
-        "prompt-injection",
-        "python",
-        "red-teaming",
-        "responsible-ai",
-        "santander",
-        "security"
-      ],
-      "created_at": "2026-06-15T13:10:50Z",
-      "updated_at": "2026-06-22T15:45:01Z",
-      "rank": 28
+      "rank": 24
     },
     {
       "name": "spronta/crawlie",
@@ -753,7 +644,7 @@
       "description": "Fast, free, open-source technical SEO + GEO crawler: built for humans and agents.",
       "full_description": "Fast, free, open-source technical SEO + GEO crawler: built for humans and agents.",
       "language": "Rust",
-      "stars": 51,
+      "stars": 53,
       "stars_gained": 0,
       "forks": 4,
       "topics": [
@@ -765,27 +656,133 @@
         "seo"
       ],
       "created_at": "2026-06-18T21:18:06Z",
-      "updated_at": "2026-06-22T15:38:17Z",
+      "updated_at": "2026-06-23T04:26:03Z",
+      "rank": 25
+    },
+    {
+      "name": "liebaojun/MakoCode",
+      "url": "https://github.com/liebaojun/MakoCode",
+      "description": "MakoCode — 茉子版 Agent | Galgame 风格桌面 AI Agent，零门槛体验 Agent 的乐趣",
+      "full_description": "MakoCode — 茉子版 Agent | Galgame 风格桌面 AI Agent，零门槛体验 Agent 的乐趣",
+      "language": "HTML",
+      "stars": 53,
+      "stars_gained": 0,
+      "forks": 4,
+      "topics": [
+        "ai-agent",
+        "anime",
+        "claude-code",
+        "deepseek",
+        "desktop-app",
+        "electron-app",
+        "galgame",
+        "llm",
+        "visual-novel",
+        "windows"
+      ],
+      "created_at": "2026-06-16T13:56:01Z",
+      "updated_at": "2026-06-23T02:05:38Z",
+      "rank": 26
+    },
+    {
+      "name": "SantanderAI/ralph",
+      "url": "https://github.com/SantanderAI/ralph",
+      "description": "A configurable Bash/PowerShell loop that runs an AI coding CLI with a fresh session each iteration",
+      "full_description": "A configurable Bash/PowerShell loop that runs an AI coding CLI with a fresh session each iteration",
+      "language": "PowerShell",
+      "stars": 48,
+      "stars_gained": 0,
+      "forks": 8,
+      "topics": [
+        "agent",
+        "agentic",
+        "ai",
+        "ai-agent",
+        "automation",
+        "bash",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agent",
+        "developer-productivity",
+        "developer-tools",
+        "gemini",
+        "llm",
+        "powershell"
+      ],
+      "created_at": "2026-06-17T13:24:43Z",
+      "updated_at": "2026-06-23T03:15:42Z",
+      "rank": 27
+    },
+    {
+      "name": "Rimagination/bili-note",
+      "url": "https://github.com/Rimagination/bili-note",
+      "description": "Extract Bilibili videos into learning-oriented Markdown notes with full subtitle and comment archives",
+      "full_description": "Extract Bilibili videos into learning-oriented Markdown notes with full subtitle and comment archives",
+      "language": "Python",
+      "stars": 45,
+      "stars_gained": 0,
+      "forks": 2,
+      "topics": [
+        "bilibili",
+        "codex-skill",
+        "markdown",
+        "notes",
+        "rag"
+      ],
+      "created_at": "2026-06-21T08:42:43Z",
+      "updated_at": "2026-06-23T04:05:19Z",
+      "rank": 28
+    },
+    {
+      "name": "Intuned/selector-forge",
+      "url": "https://github.com/Intuned/selector-forge",
+      "description": "Browser extension to create reliable selectors (CSS and Xpath) using AI",
+      "full_description": "Browser extension to create reliable selectors (CSS and Xpath) using AI",
+      "language": "TypeScript",
+      "stars": 45,
+      "stars_gained": 0,
+      "forks": 1,
+      "topics": [
+        "ai",
+        "chrome",
+        "css",
+        "extention",
+        "firefox",
+        "mx3",
+        "playwright",
+        "scraping",
+        "selector",
+        "testing",
+        "xpath"
+      ],
+      "created_at": "2026-06-16T13:53:50Z",
+      "updated_at": "2026-06-23T04:36:29Z",
       "rank": 29
     },
     {
-      "name": "moely-ai/claude-fable-5-prompt",
-      "url": "https://github.com/moely-ai/claude-fable-5-prompt",
-      "description": "A curated collection of Claude Fable 5 system prompts for developers and researchers. Discover more advanced prompt engineering tools at Moely AI.",
-      "full_description": "A curated collection of Claude Fable 5 system prompts for developers and researchers. Discover more advanced prompt engineering tools at Moely AI.",
-      "language": "",
-      "stars": 51,
+      "name": "joeseesun/qiaomu-llm-mcp",
+      "url": "https://github.com/joeseesun/qiaomu-llm-mcp",
+      "description": "把多模型 Provider、本地密钥和 HeavySkill 讨论统一成 MCP 网关 | Local MCP gateway for multi-provider LLM routing, secrets, and HeavySkill discussions.",
+      "full_description": "把多模型 Provider、本地密钥和 HeavySkill 讨论统一成 MCP 网关 | Local MCP gateway for multi-provider LLM routing, secrets, and HeavySkill discussions.",
+      "language": "Python",
+      "stars": 43,
       "stars_gained": 0,
-      "forks": 20,
+      "forks": 2,
       "topics": [
-        "claude",
+        "ai-workflow",
+        "claude-code",
+        "codex",
+        "deepseek",
         "llm",
-        "moely-ai",
-        "prompt-engineering",
-        "system-prompt"
+        "mcp",
+        "model-routing",
+        "multi-model",
+        "python",
+        "zai"
       ],
-      "created_at": "2026-06-15T03:01:23Z",
-      "updated_at": "2026-06-22T13:56:11Z",
+      "created_at": "2026-06-19T03:27:42Z",
+      "updated_at": "2026-06-22T00:00:01Z",
       "rank": 30
     }
   ]
