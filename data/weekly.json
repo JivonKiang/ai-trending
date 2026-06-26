@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T04:43:44.695917+00:00",
+  "updated": "2026-06-26T04:48:51.293232+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
       "full_description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
       "language": "Python",
-      "stars": 682,
+      "stars": 754,
       "stars_gained": 0,
-      "forks": 242,
+      "forks": 268,
       "topics": [
         "ai",
         "ai-agents",
@@ -23,7 +23,7 @@
         "openai"
       ],
       "created_at": "2026-06-19T13:24:44Z",
-      "updated_at": "2026-06-25T04:36:06Z",
+      "updated_at": "2026-06-26T04:46:22Z",
       "rank": 1
     },
     {
@@ -32,9 +32,9 @@
       "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
       "full_description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
       "language": "Python",
-      "stars": 491,
+      "stars": 551,
       "stars_gained": 0,
-      "forks": 19,
+      "forks": 29,
       "topics": [
         "ai",
         "ai-agents",
@@ -56,39 +56,8 @@
         "textrank"
       ],
       "created_at": "2026-06-19T20:36:41Z",
-      "updated_at": "2026-06-25T04:10:35Z",
+      "updated_at": "2026-06-26T04:31:29Z",
       "rank": 2
-    },
-    {
-      "name": "shy3130/tickflow-stock-panel",
-      "url": "https://github.com/shy3130/tickflow-stock-panel",
-      "description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据 | 能力驱动适配全档位订阅 | 自由接入第三方扩展数据(Tushare 等)",
-      "full_description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据 | 能力驱动适配全档位订阅 | 自由接入第三方扩展数据(Tushare 等)",
-      "language": "TypeScript",
-      "stars": 225,
-      "stars_gained": 0,
-      "forks": 47,
-      "topics": [
-        "a-stock",
-        "ai-agent",
-        "aigc",
-        "backtesting",
-        "duckdb",
-        "fastapi",
-        "llm",
-        "polars",
-        "quant",
-        "quantitative-finance",
-        "quantitative-trading",
-        "react",
-        "screener",
-        "self-hosted",
-        "stock-analysis",
-        "tickflow"
-      ],
-      "created_at": "2026-06-18T06:18:29Z",
-      "updated_at": "2026-06-25T03:27:52Z",
-      "rank": 3
     },
     {
       "name": "benchflow-ai/awesome-evals",
@@ -96,9 +65,9 @@
       "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
       "full_description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
       "language": "",
-      "stars": 198,
+      "stars": 334,
       "stars_gained": 0,
-      "forks": 9,
+      "forks": 23,
       "topics": [
         "agent-evaluation",
         "ai-agents",
@@ -111,8 +80,8 @@
         "rl-environments"
       ],
       "created_at": "2026-06-24T08:10:33Z",
-      "updated_at": "2026-06-25T04:35:12Z",
-      "rank": 4
+      "updated_at": "2026-06-26T04:47:20Z",
+      "rank": 3
     },
     {
       "name": "Karovia/fullstack-ai-agent-roadmap",
@@ -120,9 +89,9 @@
       "description": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
       "full_description": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
       "language": "",
-      "stars": 179,
+      "stars": 198,
       "stars_gained": 0,
-      "forks": 11,
+      "forks": 14,
       "topics": [
         "ai",
         "ai-agent",
@@ -141,8 +110,73 @@
         "tutorial"
       ],
       "created_at": "2026-06-19T06:34:06Z",
-      "updated_at": "2026-06-25T04:22:01Z",
+      "updated_at": "2026-06-26T04:20:23Z",
+      "rank": 4
+    },
+    {
+      "name": "Env-Kit/envkit-releases",
+      "url": "https://github.com/Env-Kit/envkit-releases",
+      "description": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
+      "full_description": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
+      "language": "Shell",
+      "stars": 155,
+      "stars_gained": 0,
+      "forks": 4,
+      "topics": [
+        "apache",
+        "development-environment",
+        "herd-alternative",
+        "laragon-alternative",
+        "laravel",
+        "local-development",
+        "mailpit",
+        "mariadb",
+        "mcp",
+        "mongodb",
+        "mysql",
+        "nginx",
+        "nodejs",
+        "php",
+        "postgresql",
+        "redis",
+        "web-development",
+        "windows",
+        "wordpress",
+        "xampp-alternative"
+      ],
+      "created_at": "2026-06-20T15:20:52Z",
+      "updated_at": "2026-06-26T04:24:33Z",
       "rank": 5
+    },
+    {
+      "name": "umacloud/umadev",
+      "url": "https://github.com/umacloud/umadev",
+      "description": "A project-director agent that drives your Claude Code / Codex / OpenCode to plan, build, review, govern & ship software like a real dev team — runnable code + a delivery proof. Brings no model of its own.项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode,像真实开发团队那样规划、编码、评审、治理、交付,交还可运行代码。",
+      "full_description": "A project-director agent that drives your Claude Code / Codex / OpenCode to plan, build, review, govern & ship software like a real dev team — runnable code + a delivery proof. Brings no model of its own.项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode,像真实开发团队那样规划、编码、评审、治理、交付,交还可运行代码。",
+      "language": "Rust",
+      "stars": 134,
+      "stars_gained": 0,
+      "forks": 45,
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-coding",
+        "claude-code",
+        "codex-cli",
+        "coding",
+        "coding-agents",
+        "open-code",
+        "rag",
+        "rust",
+        "rust-agent",
+        "rust-lang",
+        "tui",
+        "vibe-coding"
+      ],
+      "created_at": "2026-06-19T16:43:11Z",
+      "updated_at": "2026-06-26T04:43:26Z",
+      "rank": 6
     },
     {
       "name": "Reyzowter/Hello-Agents",
@@ -150,7 +184,7 @@
       "description": "🤖 Building AI Agent Systems from Scratch — A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications",
       "full_description": "🤖 Building AI Agent Systems from Scratch — A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications",
       "language": "Python",
-      "stars": 129,
+      "stars": 132,
       "stars_gained": 0,
       "forks": 3,
       "topics": [
@@ -166,33 +200,38 @@
         "tutorial"
       ],
       "created_at": "2026-06-23T17:09:31Z",
-      "updated_at": "2026-06-25T03:04:07Z",
-      "rank": 6
+      "updated_at": "2026-06-26T04:20:24Z",
+      "rank": 7
     },
     {
-      "name": "databufflabs/databuff",
-      "url": "https://github.com/databufflabs/databuff",
-      "description": "AI Native  OpenTelemetry APM",
-      "full_description": "AI Native  OpenTelemetry APM",
-      "language": "Vue",
-      "stars": 129,
+      "name": "benlamiro/ShipGenAI",
+      "url": "https://github.com/benlamiro/ShipGenAI",
+      "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
+      "full_description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
+      "language": "JavaScript",
+      "stars": 124,
       "stars_gained": 0,
-      "forks": 23,
+      "forks": 0,
       "topics": [
         "ai",
-        "ai-agent",
-        "apm",
-        "application-monitoring",
-        "multi-agent",
-        "observabiltiy",
+        "boilerplate",
+        "generative-ai",
+        "gpt",
+        "image-generation",
+        "machine-learning",
+        "nextjs",
         "open-source",
-        "opentelemetry",
-        "root-cause-analysis",
-        "tracing"
+        "saas",
+        "starter-kit",
+        "stripe",
+        "template",
+        "typescript",
+        "vercel",
+        "video-generation"
       ],
-      "created_at": "2026-06-18T02:06:27Z",
-      "updated_at": "2026-06-25T04:27:15Z",
-      "rank": 7
+      "created_at": "2026-06-24T19:15:25Z",
+      "updated_at": "2026-06-26T01:59:37Z",
+      "rank": 8
     },
     {
       "name": "lightbearco/tupper",
@@ -223,43 +262,131 @@
         "typescript"
       ],
       "created_at": "2026-06-23T18:07:33Z",
-      "updated_at": "2026-06-25T04:03:39Z",
-      "rank": 8
+      "updated_at": "2026-06-25T14:35:54Z",
+      "rank": 9
     },
     {
-      "name": "Env-Kit/envkit-releases",
-      "url": "https://github.com/Env-Kit/envkit-releases",
-      "description": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
-      "full_description": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
+      "name": "lemma-work/lemma-platform",
+      "url": "https://github.com/lemma-work/lemma-platform",
+      "description": "The open-source workspace where humans and AI agents work as one team.",
+      "full_description": "The open-source workspace where humans and AI agents work as one team.",
+      "language": "Python",
+      "stars": 114,
+      "stars_gained": 0,
+      "forks": 27,
+      "topics": [
+        "ai",
+        "harness",
+        "harness-ai"
+      ],
+      "created_at": "2026-06-23T12:53:55Z",
+      "updated_at": "2026-06-26T04:20:27Z",
+      "rank": 10
+    },
+    {
+      "name": "NotASithLord/peerd",
+      "url": "https://github.com/NotASithLord/peerd",
+      "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.",
+      "full_description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.",
       "language": "JavaScript",
-      "stars": 115,
+      "stars": 111,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "agentic",
+        "ai-agent",
+        "browser-extension",
+        "chrome-extension",
+        "firefox-extension",
+        "llm",
+        "manifest-v3",
+        "p2p",
+        "webassembly",
+        "webrtc"
+      ],
+      "created_at": "2026-06-22T05:55:13Z",
+      "updated_at": "2026-06-26T03:52:54Z",
+      "rank": 11
+    },
+    {
+      "name": "GraeLefix/GITVERSE",
+      "url": "https://github.com/GraeLefix/GITVERSE",
+      "description": "🔍 Reverse engineer any codebase into a build prompt — architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
+      "full_description": "🔍 Reverse engineer any codebase into a build prompt — architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
+      "language": "TypeScript",
+      "stars": 109,
+      "stars_gained": 0,
+      "forks": 1,
+      "topics": [
+        "ai",
+        "build-prompt",
+        "claude",
+        "code-analysis",
+        "codebase-analysis",
+        "cursor",
+        "developer-tools",
+        "github-api",
+        "llm",
+        "nextjs",
+        "openai",
+        "prompt-engineering",
+        "reverse-engineering",
+        "tailwindcss",
+        "typescript"
+      ],
+      "created_at": "2026-06-25T16:50:48Z",
+      "updated_at": "2026-06-26T04:33:43Z",
+      "rank": 12
+    },
+    {
+      "name": "Huxiaoyou97/ManvoTV",
+      "url": "https://github.com/Huxiaoyou97/ManvoTV",
+      "description": "Manvo TV — 想到什么就生成什么 · AI 原生创作平台(无限画布 + 漫剧剧本工厂) | https://manvo.tv",
+      "full_description": "Manvo TV — 想到什么就生成什么 · AI 原生创作平台(无限画布 + 漫剧剧本工厂) | https://manvo.tv",
+      "language": "",
+      "stars": 108,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
-        "apache",
-        "development-environment",
-        "herd-alternative",
-        "laragon-alternative",
-        "laravel",
-        "local-development",
-        "mailpit",
-        "mariadb",
-        "mcp",
-        "mongodb",
-        "mysql",
-        "nginx",
-        "nodejs",
-        "php",
-        "postgresql",
-        "redis",
-        "web-development",
-        "windows",
-        "wordpress",
-        "xampp-alternative"
+        "ai",
+        "ai-agent",
+        "ai-video",
+        "aigc",
+        "creative-tools",
+        "infinite-canvas",
+        "manvo",
+        "short-drama",
+        "storyboard",
+        "video-generation"
       ],
-      "created_at": "2026-06-20T15:20:52Z",
-      "updated_at": "2026-06-25T04:27:25Z",
-      "rank": 9
+      "created_at": "2026-06-21T11:27:16Z",
+      "updated_at": "2026-06-26T02:11:57Z",
+      "rank": 13
+    },
+    {
+      "name": "HMDSimDev/heartmorrow",
+      "url": "https://github.com/HMDSimDev/heartmorrow",
+      "description": "LLM-powered dating simulator",
+      "full_description": "LLM-powered dating simulator",
+      "language": "TypeScript",
+      "stars": 106,
+      "stars_gained": 0,
+      "forks": 9,
+      "topics": [
+        "ai",
+        "dating-simulator",
+        "game",
+        "llm",
+        "llms",
+        "local-ai",
+        "local-llm",
+        "node",
+        "nodejs",
+        "simulator"
+      ],
+      "created_at": "2026-06-20T05:44:15Z",
+      "updated_at": "2026-06-26T02:45:43Z",
+      "rank": 14
     },
     {
       "name": "Simpl3x3/ESEILANE",
@@ -286,133 +413,28 @@
       ],
       "created_at": "2026-06-23T08:22:43Z",
       "updated_at": "2026-06-24T08:26:55Z",
-      "rank": 10
-    },
-    {
-      "name": "HMDSimDev/heartmorrow",
-      "url": "https://github.com/HMDSimDev/heartmorrow",
-      "description": "LLM-powered dating simulator",
-      "full_description": "LLM-powered dating simulator",
-      "language": "TypeScript",
-      "stars": 105,
-      "stars_gained": 0,
-      "forks": 10,
-      "topics": [
-        "ai",
-        "dating-simulator",
-        "game",
-        "llm",
-        "llms",
-        "local-ai",
-        "local-llm",
-        "node",
-        "nodejs",
-        "simulator"
-      ],
-      "created_at": "2026-06-20T05:44:15Z",
-      "updated_at": "2026-06-25T03:13:15Z",
-      "rank": 11
-    },
-    {
-      "name": "umacloud/umadev",
-      "url": "https://github.com/umacloud/umadev",
-      "description": "AI 编码项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode，套上 9 阶段可治理的商业级交付流水线。  AI Coding Project Director Agent | Power Claude Code, Codex & OpenCode with a 9-stage governable commercial delivery pipeline.",
-      "full_description": "AI 编码项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode，套上 9 阶段可治理的商业级交付流水线。  AI Coding Project Director Agent | Power Claude Code, Codex & OpenCode with a 9-stage governable commercial delivery pipeline.",
-      "language": "Rust",
-      "stars": 103,
-      "stars_gained": 0,
-      "forks": 38,
-      "topics": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "ai-coding",
-        "claude-code",
-        "codex-cli",
-        "coding",
-        "coding-agents",
-        "open-code",
-        "rust",
-        "rust-agent",
-        "rust-lang",
-        "vibe-coding"
-      ],
-      "created_at": "2026-06-19T16:43:11Z",
-      "updated_at": "2026-06-25T04:36:04Z",
-      "rank": 12
-    },
-    {
-      "name": "benlamiro/ShipGenAI",
-      "url": "https://github.com/benlamiro/ShipGenAI",
-      "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
-      "full_description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
-      "language": "JavaScript",
-      "stars": 79,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai",
-        "boilerplate",
-        "generative-ai",
-        "gpt",
-        "image-generation",
-        "machine-learning",
-        "nextjs",
-        "open-source",
-        "saas",
-        "starter-kit",
-        "stripe",
-        "template",
-        "typescript",
-        "vercel",
-        "video-generation"
-      ],
-      "created_at": "2026-06-24T19:15:25Z",
-      "updated_at": "2026-06-25T03:30:46Z",
-      "rank": 13
-    },
-    {
-      "name": "lemma-work/lemma-platform",
-      "url": "https://github.com/lemma-work/lemma-platform",
-      "description": "The open-source workspace where humans and AI agents work as one team.",
-      "full_description": "The open-source workspace where humans and AI agents work as one team.",
-      "language": "Python",
-      "stars": 75,
-      "stars_gained": 0,
-      "forks": 17,
-      "topics": [
-        "ai",
-        "harness",
-        "harness-ai"
-      ],
-      "created_at": "2026-06-23T12:53:55Z",
-      "updated_at": "2026-06-25T03:14:34Z",
-      "rank": 14
-    },
-    {
-      "name": "NotASithLord/peerd",
-      "url": "https://github.com/NotASithLord/peerd",
-      "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.",
-      "full_description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.",
-      "language": "JavaScript",
-      "stars": 72,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "agentic",
-        "ai-agent",
-        "browser-extension",
-        "chrome-extension",
-        "firefox-extension",
-        "llm",
-        "manifest-v3",
-        "p2p",
-        "webassembly",
-        "webrtc"
-      ],
-      "created_at": "2026-06-22T05:55:13Z",
-      "updated_at": "2026-06-25T04:24:36Z",
       "rank": 15
+    },
+    {
+      "name": "a-Fig/Accordion",
+      "url": "https://github.com/a-Fig/Accordion",
+      "description": "🏆 AI Hackathon 2026 @ UC Berkeley  Intelligent context management for developers",
+      "full_description": "🏆 AI Hackathon 2026 @ UC Berkeley  Intelligent context management for developers",
+      "language": "TypeScript",
+      "stars": 93,
+      "stars_gained": 0,
+      "forks": 8,
+      "topics": [
+        "ai-agents",
+        "context-window",
+        "llm",
+        "pi",
+        "pi-coding-agent",
+        "uc-berkeley-ai-hackathon"
+      ],
+      "created_at": "2026-06-20T19:31:53Z",
+      "updated_at": "2026-06-26T04:18:22Z",
+      "rank": 16
     },
     {
       "name": "Rimagination/bili-note",
@@ -420,7 +442,7 @@
       "description": "Extract Bilibili videos into learning-oriented Markdown notes with full subtitle and comment archives",
       "full_description": "Extract Bilibili videos into learning-oriented Markdown notes with full subtitle and comment archives",
       "language": "Python",
-      "stars": 69,
+      "stars": 77,
       "stars_gained": 0,
       "forks": 3,
       "topics": [
@@ -431,8 +453,8 @@
         "rag"
       ],
       "created_at": "2026-06-21T08:42:43Z",
-      "updated_at": "2026-06-25T02:27:19Z",
-      "rank": 16
+      "updated_at": "2026-06-26T01:28:08Z",
+      "rank": 17
     },
     {
       "name": "humblebanana/open-record-replay",
@@ -440,7 +462,7 @@
       "description": "Open-source macOS record-and-replay workflow recorder for computer use agents. Captures mouse, keyboard, and UI events as structured traces so agents can learn, replay, and automate real desktop tasks.",
       "full_description": "Open-source macOS record-and-replay workflow recorder for computer use agents. Captures mouse, keyboard, and UI events as structured traces so agents can learn, replay, and automate real desktop tasks.",
       "language": "Swift",
-      "stars": 68,
+      "stars": 73,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -450,36 +472,61 @@
         "skills"
       ],
       "created_at": "2026-06-21T15:28:35Z",
-      "updated_at": "2026-06-25T03:11:08Z",
-      "rank": 17
+      "updated_at": "2026-06-26T03:55:30Z",
+      "rank": 18
     },
     {
-      "name": "mindmuxai/brain.md",
-      "url": "https://github.com/mindmuxai/brain.md",
-      "description": "A persistent, file-based memory layer for coding agents — give Claude Code, Codex & others a project brain (durable decisions, requirements, constraints) via a zero-dependency CLI.",
-      "full_description": "A persistent, file-based memory layer for coding agents — give Claude Code, Codex & others a project brain (durable decisions, requirements, constraints) via a zero-dependency CLI.",
+      "name": "Green-PT/honey-for-devs",
+      "url": "https://github.com/Green-PT/honey-for-devs",
+      "description": "Honey (I Shrunk the AI) by GreenPT: a cross-tool coding skill that cuts AI coding-agent token usage and LLM API costs — write less code, less prose, and denser agent-to-agent handoffs (−53%, lossless in benchmarks) with no loss of quality. Works with Claude Code, Cursor, GitHub Copilot, Codex, Gemini CLI, Windsurf, Cline & Kiro.",
+      "full_description": "Honey (I Shrunk the AI) by GreenPT: a cross-tool coding skill that cuts AI coding-agent token usage and LLM API costs — write less code, less prose, and denser agent-to-agent handoffs (−53%, lossless in benchmarks) with no loss of quality. Works with Claude Code, Cursor, GitHub Copilot, Codex, Gemini CLI, Windsurf, Cline & Kiro.",
       "language": "JavaScript",
-      "stars": 66,
+      "stars": 72,
       "stars_gained": 0,
-      "forks": 1,
+      "forks": 6,
       "topics": [
-        "agent-memory",
-        "ai-agents",
+        "agents",
+        "ai",
+        "claude",
         "claude-code",
-        "cli",
         "codex",
-        "coding-agents",
-        "context-engineering",
+        "cursor",
         "developer-tools",
-        "knowledge-management",
         "llm",
-        "markdown",
-        "project-brain",
-        "project-memory"
+        "prompt-engineering",
+        "token-optimization"
       ],
-      "created_at": "2026-06-18T06:45:01Z",
-      "updated_at": "2026-06-25T02:55:09Z",
-      "rank": 18
+      "created_at": "2026-06-19T11:58:06Z",
+      "updated_at": "2026-06-26T03:49:38Z",
+      "rank": 19
+    },
+    {
+      "name": "ibrahimqureshae/mdflux",
+      "url": "https://github.com/ibrahimqureshae/mdflux",
+      "description": "Turn any document into clean, AI-ready Markdown. Local-first desktop app: reads scanned PDFs, batches folders, runs offline, and uses far fewer tokens than vision models.",
+      "full_description": "Turn any document into clean, AI-ready Markdown. Local-first desktop app: reads scanned PDFs, batches folders, runs offline, and uses far fewer tokens than vision models.",
+      "language": "Svelte",
+      "stars": 70,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "desktop-app",
+        "document-conversion",
+        "llm",
+        "local-first",
+        "markdown",
+        "markitdown",
+        "ocr",
+        "offline",
+        "pdf-to-markdown",
+        "rag",
+        "rust",
+        "svelte",
+        "tauri"
+      ],
+      "created_at": "2026-06-21T12:13:45Z",
+      "updated_at": "2026-06-26T04:44:08Z",
+      "rank": 20
     },
     {
       "name": "BDMisME/us-stock-radar",
@@ -487,7 +534,7 @@
       "description": "Personal US-stock AI dashboard — rules engine + resident analyst · Alpaca · Streamlit · MIT",
       "full_description": "Personal US-stock AI dashboard — rules engine + resident analyst · Alpaca · Streamlit · MIT",
       "language": "Python",
-      "stars": 66,
+      "stars": 67,
       "stars_gained": 0,
       "forks": 32,
       "topics": [
@@ -503,8 +550,62 @@
         "technical-analysis"
       ],
       "created_at": "2026-06-21T12:02:27Z",
-      "updated_at": "2026-06-25T04:30:35Z",
-      "rank": 19
+      "updated_at": "2026-06-25T10:54:33Z",
+      "rank": 21
+    },
+    {
+      "name": "badchars/darknet-mcp-server",
+      "url": "https://github.com/badchars/darknet-mcp-server",
+      "description": "66-tool MCP server for dark web intelligence — breach data, ransomware tracking, Tor .onion access, malware analysis, blockchain intel, exploit search, stealer logs",
+      "full_description": "66-tool MCP server for dark web intelligence — breach data, ransomware tracking, Tor .onion access, malware analysis, blockchain intel, exploit search, stealer logs",
+      "language": "TypeScript",
+      "stars": 65,
+      "stars_gained": 0,
+      "forks": 10,
+      "topics": [
+        "ai-agent",
+        "breach",
+        "claude",
+        "cybersecurity",
+        "dark-web",
+        "darknet",
+        "exploit",
+        "malware",
+        "mcp",
+        "model-context-protocol",
+        "osint",
+        "ransomware",
+        "security",
+        "stealer-logs",
+        "threat-intelligence",
+        "tor"
+      ],
+      "created_at": "2026-06-23T18:45:38Z",
+      "updated_at": "2026-06-25T19:37:34Z",
+      "rank": 22
+    },
+    {
+      "name": "AIScientists-Dev/academic-humanizer",
+      "url": "https://github.com/AIScientists-Dev/academic-humanizer",
+      "description": "Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind.",
+      "full_description": "Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind.",
+      "language": "",
+      "stars": 65,
+      "stars_gained": 0,
+      "forks": 9,
+      "topics": [
+        "academic-writing",
+        "grant-writing",
+        "llm",
+        "nih",
+        "nsf",
+        "research",
+        "scientific-writing",
+        "writing-assistant"
+      ],
+      "created_at": "2026-06-20T13:23:52Z",
+      "updated_at": "2026-06-26T04:07:06Z",
+      "rank": 23
     },
     {
       "name": "gintasz/neuralyzer",
@@ -534,55 +635,7 @@
       ],
       "created_at": "2026-06-19T17:51:04Z",
       "updated_at": "2026-06-24T18:19:06Z",
-      "rank": 20
-    },
-    {
-      "name": "abluva-research/mcp-trust-plane",
-      "url": "https://github.com/abluva-research/mcp-trust-plane",
-      "description": "Composable data security plane for Model Context Protocol. Pluggable layers — collect, analyze, guard — across 50+ enterprise providers. Open architecture.",
-      "full_description": "Composable data security plane for Model Context Protocol. Pluggable layers — collect, analyze, guard — across 50+ enterprise providers. Open architecture.",
-      "language": "JavaScript",
-      "stars": 59,
-      "stars_gained": 0,
-      "forks": 13,
-      "topics": [
-        "access-control",
-        "agentic-ai",
-        "ai-agents",
-        "data-governance-and-ai",
-        "data-security",
-        "enterprise-security",
-        "guardrails",
-        "llm-security",
-        "mcp",
-        "model-context-protocol",
-        "open-source",
-        "trust-plane"
-      ],
-      "created_at": "2026-06-18T08:14:29Z",
-      "updated_at": "2026-06-24T09:43:05Z",
-      "rank": 21
-    },
-    {
-      "name": "spronta/crawlie",
-      "url": "https://github.com/spronta/crawlie",
-      "description": "Fast, free, open-source technical SEO + GEO crawler: built for humans and agents.",
-      "full_description": "Fast, free, open-source technical SEO + GEO crawler: built for humans and agents.",
-      "language": "Rust",
-      "stars": 58,
-      "stars_gained": 0,
-      "forks": 4,
-      "topics": [
-        "aeo",
-        "crawler",
-        "geo",
-        "marketing-tools",
-        "mcp",
-        "seo"
-      ],
-      "created_at": "2026-06-18T21:18:06Z",
-      "updated_at": "2026-06-24T22:33:03Z",
-      "rank": 22
+      "rank": 24
     },
     {
       "name": "HKUSTDial/DataMagic",
@@ -590,7 +643,7 @@
       "description": "AI-powered data-to-video generation. Upload a table, get a narrated animated data story.",
       "full_description": "AI-powered data-to-video generation. Upload a table, get a narrated animated data story.",
       "language": "",
-      "stars": 52,
+      "stars": 59,
       "stars_gained": 0,
       "forks": 3,
       "topics": [
@@ -603,33 +656,8 @@
         "vldb2026"
       ],
       "created_at": "2026-06-20T09:37:56Z",
-      "updated_at": "2026-06-24T15:25:58Z",
-      "rank": 23
-    },
-    {
-      "name": "Green-PT/honey-for-devs",
-      "url": "https://github.com/Green-PT/honey-for-devs",
-      "description": "Honey (I Shrunk the AI) by GreenPT: a cross-tool coding skill that cuts AI coding-agent token usage and LLM API costs — write less code, less prose, and denser agent-to-agent handoffs (−53%, lossless in benchmarks) with no loss of quality. Works with Claude Code, Cursor, GitHub Copilot, Codex, Gemini CLI, Windsurf, Cline & Kiro.",
-      "full_description": "Honey (I Shrunk the AI) by GreenPT: a cross-tool coding skill that cuts AI coding-agent token usage and LLM API costs — write less code, less prose, and denser agent-to-agent handoffs (−53%, lossless in benchmarks) with no loss of quality. Works with Claude Code, Cursor, GitHub Copilot, Codex, Gemini CLI, Windsurf, Cline & Kiro.",
-      "language": "JavaScript",
-      "stars": 52,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "agents",
-        "ai",
-        "claude",
-        "claude-code",
-        "codex",
-        "cursor",
-        "developer-tools",
-        "llm",
-        "prompt-engineering",
-        "token-optimization"
-      ],
-      "created_at": "2026-06-19T11:58:06Z",
-      "updated_at": "2026-06-25T02:56:30Z",
-      "rank": 24
+      "updated_at": "2026-06-26T04:03:14Z",
+      "rank": 25
     },
     {
       "name": "spinabot/brigade",
@@ -637,7 +665,7 @@
       "description": "Brigade — Your personal intelligence, built enterprise-grade",
       "full_description": "Brigade — Your personal intelligence, built enterprise-grade",
       "language": "TypeScript",
-      "stars": 52,
+      "stars": 55,
       "stars_gained": 0,
       "forks": 5,
       "topics": [
@@ -663,8 +691,27 @@
         "spinabot"
       ],
       "created_at": "2026-06-19T15:18:17Z",
-      "updated_at": "2026-06-25T04:03:10Z",
-      "rank": 25
+      "updated_at": "2026-06-25T23:00:23Z",
+      "rank": 26
+    },
+    {
+      "name": "evo-design/proto-tools",
+      "url": "https://github.com/evo-design/proto-tools",
+      "description": "A universal infrastructure layer for generative biology",
+      "full_description": "A universal infrastructure layer for generative biology",
+      "language": "Python",
+      "stars": 55,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "bioengineering",
+        "bioinformatics",
+        "generative-biology",
+        "machine-learning"
+      ],
+      "created_at": "2026-06-23T10:07:15Z",
+      "updated_at": "2026-06-26T04:39:38Z",
+      "rank": 27
     },
     {
       "name": "Enping-Hu/minimind-deep-dive",
@@ -672,7 +719,7 @@
       "description": "逐行对照 MiniMind 源码精读、并延伸到大模型技术体系的中文学习笔记 —— 预训练 / SFT / DPO / PPO / GRPO、训练机制、MiniMind2→3 版本对照、真实实验证据。",
       "full_description": "逐行对照 MiniMind 源码精读、并延伸到大模型技术体系的中文学习笔记 —— 预训练 / SFT / DPO / PPO / GRPO、训练机制、MiniMind2→3 版本对照、真实实验证据。",
       "language": "HTML",
-      "stars": 51,
+      "stars": 53,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
@@ -696,63 +743,7 @@
         "transformer"
       ],
       "created_at": "2026-06-19T13:17:24Z",
-      "updated_at": "2026-06-24T16:53:39Z",
-      "rank": 26
-    },
-    {
-      "name": "badchars/darknet-mcp-server",
-      "url": "https://github.com/badchars/darknet-mcp-server",
-      "description": "66-tool MCP server for dark web intelligence — breach data, ransomware tracking, Tor .onion access, malware analysis, blockchain intel, exploit search, stealer logs",
-      "full_description": "66-tool MCP server for dark web intelligence — breach data, ransomware tracking, Tor .onion access, malware analysis, blockchain intel, exploit search, stealer logs",
-      "language": "TypeScript",
-      "stars": 46,
-      "stars_gained": 0,
-      "forks": 6,
-      "topics": [
-        "ai-agent",
-        "breach",
-        "claude",
-        "cybersecurity",
-        "dark-web",
-        "darknet",
-        "exploit",
-        "malware",
-        "mcp",
-        "model-context-protocol",
-        "osint",
-        "ransomware",
-        "security",
-        "stealer-logs",
-        "threat-intelligence",
-        "tor"
-      ],
-      "created_at": "2026-06-23T18:45:38Z",
-      "updated_at": "2026-06-25T03:46:33Z",
-      "rank": 27
-    },
-    {
-      "name": "Huxiaoyou97/ManvoTV",
-      "url": "https://github.com/Huxiaoyou97/ManvoTV",
-      "description": "Manvo TV — 想到什么就生成什么 · AI 原生创作平台(无限画布 + 漫剧剧本工厂) | https://manvo.tv",
-      "full_description": "Manvo TV — 想到什么就生成什么 · AI 原生创作平台(无限画布 + 漫剧剧本工厂) | https://manvo.tv",
-      "language": "",
-      "stars": 46,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai",
-        "ai-agent",
-        "ai-video",
-        "aigc",
-        "creative-tools",
-        "infinite-canvas",
-        "manvo",
-        "short-drama",
-        "storyboard",
-        "video-generation"
-      ],
-      "created_at": "2026-06-21T11:27:16Z",
-      "updated_at": "2026-06-24T06:47:17Z",
+      "updated_at": "2026-06-25T10:08:21Z",
       "rank": 28
     },
     {
@@ -763,7 +754,7 @@
       "language": "Python",
       "stars": 44,
       "stars_gained": 0,
-      "forks": 2,
+      "forks": 3,
       "topics": [
         "ai-workflow",
         "claude-code",
@@ -781,22 +772,21 @@
       "rank": 29
     },
     {
-      "name": "evo-design/proto-tools",
-      "url": "https://github.com/evo-design/proto-tools",
-      "description": "A universal infrastructure layer for generative biology",
-      "full_description": "A universal infrastructure layer for generative biology",
+      "name": "MSALab-PKU/PerceptionDLM",
+      "url": "https://github.com/MSALab-PKU/PerceptionDLM",
+      "description": "Official Repo For PerceptionDLM Codebase",
+      "full_description": "Official Repo For PerceptionDLM Codebase",
       "language": "Python",
-      "stars": 44,
+      "stars": 43,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 1,
       "topics": [
-        "bioengineering",
-        "bioinformatics",
-        "generative-biology",
-        "machine-learning"
+        "computer-vision",
+        "dllm",
+        "mllm"
       ],
-      "created_at": "2026-06-23T10:07:15Z",
-      "updated_at": "2026-06-25T03:34:41Z",
+      "created_at": "2026-06-19T03:38:53Z",
+      "updated_at": "2026-06-26T03:47:59Z",
       "rank": 30
     }
   ]
