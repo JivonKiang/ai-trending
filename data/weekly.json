@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T04:33:13.965516+00:00",
+  "updated": "2026-06-28T04:59:13.674433+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
       "full_description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
       "language": "TypeScript",
-      "stars": 479,
+      "stars": 648,
       "stars_gained": 0,
-      "forks": 0,
+      "forks": 2,
       "topics": [
         "ai-agents",
         "defi",
@@ -33,7 +33,7 @@
         "x-layer"
       ],
       "created_at": "2026-06-25T07:42:50Z",
-      "updated_at": "2026-06-27T04:24:04Z",
+      "updated_at": "2026-06-28T04:47:44Z",
       "rank": 1
     },
     {
@@ -42,9 +42,9 @@
       "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
       "full_description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
       "language": "",
-      "stars": 479,
+      "stars": 537,
       "stars_gained": 0,
-      "forks": 34,
+      "forks": 39,
       "topics": [
         "agent-evaluation",
         "ai-agents",
@@ -57,42 +57,32 @@
         "rl-environments"
       ],
       "created_at": "2026-06-24T08:10:33Z",
-      "updated_at": "2026-06-27T04:31:00Z",
+      "updated_at": "2026-06-28T03:26:07Z",
       "rank": 2
     },
     {
-      "name": "Env-Kit/envkit-releases",
-      "url": "https://github.com/Env-Kit/envkit-releases",
-      "description": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
-      "full_description": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
-      "language": "Shell",
-      "stars": 168,
+      "name": "eli-labz/Godcoder",
+      "url": "https://github.com/eli-labz/Godcoder",
+      "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
+      "full_description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
+      "language": "Rust",
+      "stars": 241,
       "stars_gained": 0,
-      "forks": 5,
+      "forks": 0,
       "topics": [
-        "apache",
-        "development-environment",
-        "herd-alternative",
-        "laragon-alternative",
-        "laravel",
-        "local-development",
-        "mailpit",
-        "mariadb",
+        "ai",
+        "coding-agent",
+        "desktop-app",
+        "llm",
+        "local-first",
         "mcp",
-        "mongodb",
-        "mysql",
-        "nginx",
-        "nodejs",
-        "php",
-        "postgresql",
-        "redis",
-        "web-development",
-        "windows",
-        "wordpress",
-        "xampp-alternative"
+        "open-source",
+        "openai",
+        "rust",
+        "tauri"
       ],
-      "created_at": "2026-06-20T15:20:52Z",
-      "updated_at": "2026-06-27T03:38:55Z",
+      "created_at": "2026-06-27T00:56:36Z",
+      "updated_at": "2026-06-28T04:36:49Z",
       "rank": 3
     },
     {
@@ -101,9 +91,9 @@
       "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.",
       "full_description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.",
       "language": "JavaScript",
-      "stars": 150,
+      "stars": 195,
       "stars_gained": 0,
-      "forks": 9,
+      "forks": 17,
       "topics": [
         "agentic",
         "ai-agent",
@@ -117,7 +107,7 @@
         "webrtc"
       ],
       "created_at": "2026-06-22T05:55:13Z",
-      "updated_at": "2026-06-27T04:11:04Z",
+      "updated_at": "2026-06-28T02:05:44Z",
       "rank": 4
     },
     {
@@ -126,16 +116,16 @@
       "description": "The open-source workspace where humans and AI agents work as one team.",
       "full_description": "The open-source workspace where humans and AI agents work as one team.",
       "language": "Python",
-      "stars": 133,
+      "stars": 144,
       "stars_gained": 0,
-      "forks": 29,
+      "forks": 32,
       "topics": [
         "ai",
         "harness",
         "harness-ai"
       ],
       "created_at": "2026-06-23T12:53:55Z",
-      "updated_at": "2026-06-27T03:20:45Z",
+      "updated_at": "2026-06-28T04:23:33Z",
       "rank": 5
     },
     {
@@ -144,7 +134,7 @@
       "description": "🤖 Building AI Agent Systems from Scratch — A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications",
       "full_description": "🤖 Building AI Agent Systems from Scratch — A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications",
       "language": "Python",
-      "stars": 132,
+      "stars": 134,
       "stars_gained": 0,
       "forks": 3,
       "topics": [
@@ -160,7 +150,7 @@
         "tutorial"
       ],
       "created_at": "2026-06-23T17:09:31Z",
-      "updated_at": "2026-06-26T09:16:51Z",
+      "updated_at": "2026-06-27T13:42:59Z",
       "rank": 6
     },
     {
@@ -169,7 +159,7 @@
       "description": "🔍 Reverse engineer any codebase into a build prompt — architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
       "full_description": "🔍 Reverse engineer any codebase into a build prompt — architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
       "language": "TypeScript",
-      "stars": 132,
+      "stars": 131,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
@@ -190,7 +180,7 @@
         "typescript"
       ],
       "created_at": "2026-06-25T16:50:48Z",
-      "updated_at": "2026-06-27T01:31:31Z",
+      "updated_at": "2026-06-27T21:02:11Z",
       "rank": 7
     },
     {
@@ -199,7 +189,7 @@
       "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
       "full_description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
       "language": "JavaScript",
-      "stars": 127,
+      "stars": 130,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -220,7 +210,7 @@
         "video-generation"
       ],
       "created_at": "2026-06-24T19:15:25Z",
-      "updated_at": "2026-06-26T11:04:18Z",
+      "updated_at": "2026-06-28T03:39:07Z",
       "rank": 8
     },
     {
@@ -229,7 +219,7 @@
       "description": "Open-source sandboxes for AI agents — run untrusted, AI-generated code safely on your own machine.",
       "full_description": "Open-source sandboxes for AI agents — run untrusted, AI-generated code safely on your own machine.",
       "language": "TypeScript",
-      "stars": 125,
+      "stars": 127,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
@@ -252,7 +242,7 @@
         "typescript"
       ],
       "created_at": "2026-06-23T18:07:33Z",
-      "updated_at": "2026-06-26T05:06:42Z",
+      "updated_at": "2026-06-27T21:08:17Z",
       "rank": 9
     },
     {
@@ -275,24 +265,31 @@
       "rank": 10
     },
     {
-      "name": "a-Fig/Accordion",
-      "url": "https://github.com/a-Fig/Accordion",
-      "description": "🏆 AI Hackathon 2026 @ UC Berkeley  Intelligent context management for developers",
-      "full_description": "🏆 AI Hackathon 2026 @ UC Berkeley  Intelligent context management for developers",
-      "language": "TypeScript",
+      "name": "ibrahimqureshae/mdflux",
+      "url": "https://github.com/ibrahimqureshae/mdflux",
+      "description": "Turn any document into clean, AI-ready Markdown. Local-first desktop app: reads scanned PDFs, batches folders, runs offline, and uses far fewer tokens than vision models.",
+      "full_description": "Turn any document into clean, AI-ready Markdown. Local-first desktop app: reads scanned PDFs, batches folders, runs offline, and uses far fewer tokens than vision models.",
+      "language": "Svelte",
       "stars": 110,
       "stars_gained": 0,
-      "forks": 9,
+      "forks": 6,
       "topics": [
-        "ai-agents",
-        "context-window",
+        "desktop-app",
+        "document-conversion",
         "llm",
-        "pi",
-        "pi-coding-agent",
-        "uc-berkeley-ai-hackathon"
+        "local-first",
+        "markdown",
+        "markitdown",
+        "ocr",
+        "offline",
+        "pdf-to-markdown",
+        "rag",
+        "rust",
+        "svelte",
+        "tauri"
       ],
-      "created_at": "2026-06-20T19:31:53Z",
-      "updated_at": "2026-06-27T04:03:07Z",
+      "created_at": "2026-06-21T12:13:45Z",
+      "updated_at": "2026-06-28T04:53:49Z",
       "rank": 11
     },
     {
@@ -321,31 +318,6 @@
       "rank": 12
     },
     {
-      "name": "HMDSimDev/heartmorrow",
-      "url": "https://github.com/HMDSimDev/heartmorrow",
-      "description": "LLM-powered dating simulator",
-      "full_description": "LLM-powered dating simulator",
-      "language": "TypeScript",
-      "stars": 106,
-      "stars_gained": 0,
-      "forks": 9,
-      "topics": [
-        "ai",
-        "dating-simulator",
-        "game",
-        "llm",
-        "llms",
-        "local-ai",
-        "local-llm",
-        "node",
-        "nodejs",
-        "simulator"
-      ],
-      "created_at": "2026-06-20T05:44:15Z",
-      "updated_at": "2026-06-26T02:45:43Z",
-      "rank": 13
-    },
-    {
       "name": "Simpl3x3/ESEILANE",
       "url": "https://github.com/Simpl3x3/ESEILANE",
       "description": "High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
@@ -370,35 +342,7 @@
       ],
       "created_at": "2026-06-23T08:22:43Z",
       "updated_at": "2026-06-24T08:26:55Z",
-      "rank": 14
-    },
-    {
-      "name": "ibrahimqureshae/mdflux",
-      "url": "https://github.com/ibrahimqureshae/mdflux",
-      "description": "Turn any document into clean, AI-ready Markdown. Local-first desktop app: reads scanned PDFs, batches folders, runs offline, and uses far fewer tokens than vision models.",
-      "full_description": "Turn any document into clean, AI-ready Markdown. Local-first desktop app: reads scanned PDFs, batches folders, runs offline, and uses far fewer tokens than vision models.",
-      "language": "Svelte",
-      "stars": 93,
-      "stars_gained": 0,
-      "forks": 6,
-      "topics": [
-        "desktop-app",
-        "document-conversion",
-        "llm",
-        "local-first",
-        "markdown",
-        "markitdown",
-        "ocr",
-        "offline",
-        "pdf-to-markdown",
-        "rag",
-        "rust",
-        "svelte",
-        "tauri"
-      ],
-      "created_at": "2026-06-21T12:13:45Z",
-      "updated_at": "2026-06-27T03:59:10Z",
-      "rank": 15
+      "rank": 13
     },
     {
       "name": "Rimagination/bili-note",
@@ -406,9 +350,9 @@
       "description": "Extract Bilibili videos into learning-oriented Markdown notes with full subtitle and comment archives",
       "full_description": "Extract Bilibili videos into learning-oriented Markdown notes with full subtitle and comment archives",
       "language": "Python",
-      "stars": 82,
+      "stars": 101,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 4,
       "topics": [
         "bilibili",
         "codex-skill",
@@ -417,30 +361,93 @@
         "rag"
       ],
       "created_at": "2026-06-21T08:42:43Z",
-      "updated_at": "2026-06-27T03:21:59Z",
-      "rank": 16
+      "updated_at": "2026-06-28T04:57:29Z",
+      "rank": 14
     },
     {
-      "name": "AIScientists-Dev/academic-humanizer",
-      "url": "https://github.com/AIScientists-Dev/academic-humanizer",
-      "description": "Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind.",
-      "full_description": "Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind.",
-      "language": "",
-      "stars": 72,
+      "name": "kevin333353/jobsmith",
+      "url": "https://github.com/kevin333353/jobsmith",
+      "description": "針對台灣求職市場的開源多代理 AI 求職 co-pilot：自動找職缺、履歷健檢、一鍵產生客製投遞包（履歷・求職信・面試準備・公司情報）與模擬面試。本機 Claude Code／Codex CLI 免 API key，也可自備金鑰接 OpenAI 相容模型。",
+      "full_description": "針對台灣求職市場的開源多代理 AI 求職 co-pilot：自動找職缺、履歷健檢、一鍵產生客製投遞包（履歷・求職信・面試準備・公司情報）與模擬面試。本機 Claude Code／Codex CLI 免 API key，也可自備金鑰接 OpenAI 相容模型。",
+      "language": "Python",
+      "stars": 89,
       "stars_gained": 0,
       "forks": 11,
       "topics": [
-        "academic-writing",
-        "grant-writing",
+        "ai-agents",
+        "ats",
+        "career",
+        "career-tools",
+        "claude-code",
+        "codex-cli",
+        "fastapi",
+        "job-hunting",
+        "job-matching",
+        "job-search",
+        "langgraph",
         "llm",
-        "nih",
-        "nsf",
-        "research",
-        "scientific-writing",
-        "writing-assistant"
+        "multi-agent",
+        "python",
+        "react",
+        "resume",
+        "resume-review",
+        "taiwan",
+        "typescript",
+        "windows"
       ],
-      "created_at": "2026-06-20T13:23:52Z",
-      "updated_at": "2026-06-27T01:45:54Z",
+      "created_at": "2026-06-24T06:27:16Z",
+      "updated_at": "2026-06-28T04:03:58Z",
+      "rank": 15
+    },
+    {
+      "name": "Yuuhann1999/codex-storyboard",
+      "url": "https://github.com/Yuuhann1999/codex-storyboard",
+      "description": "本地多项目 Codex 视频分镜工作台，支持图片/视频生成任务、HyperFrames 与 Remotion 自动回填。Local multi-project storyboard workspace for Codex.",
+      "full_description": "本地多项目 Codex 视频分镜工作台，支持图片/视频生成任务、HyperFrames 与 Remotion 自动回填。Local multi-project storyboard workspace for Codex.",
+      "language": "JavaScript",
+      "stars": 74,
+      "stars_gained": 0,
+      "forks": 12,
+      "topics": [
+        "ai-video",
+        "codex",
+        "mcp",
+        "openai",
+        "storyboard"
+      ],
+      "created_at": "2026-06-23T02:09:36Z",
+      "updated_at": "2026-06-28T04:07:16Z",
+      "rank": 16
+    },
+    {
+      "name": "ik190/macos-chatgpt-overlay-bar",
+      "url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
+      "description": "ChatGPT for Mac, living in your menubar.",
+      "full_description": "ChatGPT for Mac, living in your menubar.",
+      "language": "",
+      "stars": 70,
+      "stars_gained": 0,
+      "forks": 6,
+      "topics": [
+        "ai",
+        "chatgpt",
+        "chatgpt-bar-mac",
+        "chatgpt-menubar-mac",
+        "chatgpt-quick-access-mac",
+        "chatgpt-statusbar",
+        "free-gpt-bar",
+        "mac",
+        "macos",
+        "macos-ai",
+        "macos-ai-app",
+        "macos-app",
+        "macos-application",
+        "macos-gpt",
+        "macos-menubar",
+        "menubar-app"
+      ],
+      "created_at": "2026-06-26T08:39:46Z",
+      "updated_at": "2026-06-27T17:36:42Z",
       "rank": 17
     },
     {
@@ -465,7 +472,7 @@
         "technical-analysis"
       ],
       "created_at": "2026-06-21T12:02:27Z",
-      "updated_at": "2026-06-26T23:44:02Z",
+      "updated_at": "2026-06-27T09:44:36Z",
       "rank": 18
     },
     {
@@ -476,7 +483,7 @@
       "language": "TypeScript",
       "stars": 67,
       "stars_gained": 0,
-      "forks": 10,
+      "forks": 11,
       "topics": [
         "ai-agent",
         "breach",
@@ -500,34 +507,12 @@
       "rank": 19
     },
     {
-      "name": "HKUSTDial/DataMagic",
-      "url": "https://github.com/HKUSTDial/DataMagic",
-      "description": "AI-powered data-to-video generation. Upload a table, get a narrated animated data story.",
-      "full_description": "AI-powered data-to-video generation. Upload a table, get a narrated animated data story.",
-      "language": "",
-      "stars": 63,
-      "stars_gained": 0,
-      "forks": 3,
-      "topics": [
-        "ai",
-        "data-storytelling",
-        "data-visualization",
-        "llm",
-        "python",
-        "video-generation",
-        "vldb2026"
-      ],
-      "created_at": "2026-06-20T09:37:56Z",
-      "updated_at": "2026-06-27T04:28:28Z",
-      "rank": 20
-    },
-    {
       "name": "evo-design/proto-tools",
       "url": "https://github.com/evo-design/proto-tools",
       "description": "A universal infrastructure layer for generative biology",
       "full_description": "A universal infrastructure layer for generative biology",
       "language": "Python",
-      "stars": 57,
+      "stars": 61,
       "stars_gained": 0,
       "forks": 3,
       "topics": [
@@ -537,84 +522,177 @@
         "machine-learning"
       ],
       "created_at": "2026-06-23T10:07:15Z",
-      "updated_at": "2026-06-26T23:43:58Z",
+      "updated_at": "2026-06-27T15:51:40Z",
+      "rank": 20
+    },
+    {
+      "name": "MADEVAL/HumanAI",
+      "url": "https://github.com/MADEVAL/HumanAI",
+      "description": "AI skill for rewriting machine-generated text to sound human-written across 9 languages - 5-stage pipeline: cleanup → specificity → tone → rhythm → proofread.",
+      "full_description": "AI skill for rewriting machine-generated text to sound human-written across 9 languages - 5-stage pipeline: cleanup → specificity → tone → rhythm → proofread.",
+      "language": "PowerShell",
+      "stars": 52,
+      "stars_gained": 0,
+      "forks": 18,
+      "topics": [
+        "ai",
+        "anti-ai",
+        "copywriting",
+        "humanization",
+        "humanizer",
+        "llm",
+        "multilingual",
+        "prompt-engineering",
+        "skill",
+        "text-rewriting"
+      ],
+      "created_at": "2026-06-21T10:21:52Z",
+      "updated_at": "2026-06-27T16:56:26Z",
       "rank": 21
     },
     {
-      "name": "kevin333353/jobsmith",
-      "url": "https://github.com/kevin333353/jobsmith",
-      "description": "針對台灣求職市場的開源多代理 AI 求職 co-pilot：自動找職缺、履歷健檢、一鍵產生客製投遞包（履歷・求職信・面試準備・公司情報）與模擬面試。本機 Claude Code／Codex CLI 免 API key，也可自備金鑰接 OpenAI 相容模型。",
-      "full_description": "針對台灣求職市場的開源多代理 AI 求職 co-pilot：自動找職缺、履歷健檢、一鍵產生客製投遞包（履歷・求職信・面試準備・公司情報）與模擬面試。本機 Claude Code／Codex CLI 免 API key，也可自備金鑰接 OpenAI 相容模型。",
+      "name": "sums001/Deepseek-API",
+      "url": "https://github.com/sums001/Deepseek-API",
+      "description": "Reverse engineered Deepseek chat into an OpenAI compatible API. Access V4 and R1 models through a simple REST interface without API keys or billing.",
+      "full_description": "Reverse engineered Deepseek chat into an OpenAI compatible API. Access V4 and R1 models through a simple REST interface without API keys or billing.",
       "language": "Python",
-      "stars": 49,
+      "stars": 48,
       "stars_gained": 0,
-      "forks": 4,
+      "forks": 6,
       "topics": [
+        "ai",
         "ai-agents",
-        "ats",
-        "career",
-        "career-tools",
-        "claude-code",
-        "codex-cli",
-        "fastapi",
-        "job-hunting",
-        "job-matching",
-        "job-search",
-        "langgraph",
+        "ai-tools",
+        "copilot",
+        "deepseek",
+        "deepseek-api",
+        "deepseek-r1",
+        "deepseek-v4",
         "llm",
-        "multi-agent",
-        "python",
-        "react",
-        "resume",
-        "resume-review",
-        "taiwan",
-        "typescript",
-        "windows"
+        "local-ai",
+        "openai"
       ],
-      "created_at": "2026-06-24T06:27:16Z",
-      "updated_at": "2026-06-27T04:29:33Z",
+      "created_at": "2026-06-27T13:55:27Z",
+      "updated_at": "2026-06-28T04:56:29Z",
       "rank": 22
     },
     {
-      "name": "Yuuhann1999/codex-storyboard",
-      "url": "https://github.com/Yuuhann1999/codex-storyboard",
-      "description": "本地多项目 Codex 视频分镜工作台，支持图片/视频生成任务、HyperFrames 与 Remotion 自动回填。Local multi-project storyboard workspace for Codex.",
-      "full_description": "本地多项目 Codex 视频分镜工作台，支持图片/视频生成任务、HyperFrames 与 Remotion 自动回填。Local multi-project storyboard workspace for Codex.",
-      "language": "JavaScript",
+      "name": "MADEVAL/AngleCraft",
+      "url": "https://github.com/MADEVAL/AngleCraft",
+      "description": "Turn dry expert topics into high-engagement content with 7+2 journalistic angle types. An AI skill for any LLM, any niche, any language.",
+      "full_description": "Turn dry expert topics into high-engagement content with 7+2 journalistic angle types. An AI skill for any LLM, any niche, any language.",
+      "language": "",
+      "stars": 46,
+      "stars_gained": 0,
+      "forks": 14,
+      "topics": [
+        "agent-skill",
+        "ai-skill",
+        "anglecraft",
+        "content-creation",
+        "content-marketing",
+        "content-strategy",
+        "copywriting",
+        "infotainment",
+        "llm",
+        "marketing",
+        "newsletter",
+        "prompt-engineering",
+        "social-media",
+        "storytelling"
+      ],
+      "created_at": "2026-06-27T10:33:05Z",
+      "updated_at": "2026-06-27T16:54:56Z",
+      "rank": 23
+    },
+    {
+      "name": "OpenDataBox/MemoryData",
+      "url": "https://github.com/OpenDataBox/MemoryData",
+      "description": "A Unified Memory Benchmark Suite for Memory-Augmented Agents",
+      "full_description": "A Unified Memory Benchmark Suite for Memory-Augmented Agents",
+      "language": "Python",
       "stars": 45,
       "stars_gained": 0,
       "forks": 5,
       "topics": [
-        "ai-video",
-        "codex",
-        "mcp",
-        "openai",
-        "storyboard"
+        "agent",
+        "llm",
+        "memory"
       ],
-      "created_at": "2026-06-23T02:09:36Z",
-      "updated_at": "2026-06-27T04:21:55Z",
-      "rank": 23
+      "created_at": "2026-06-21T06:37:28Z",
+      "updated_at": "2026-06-27T13:23:01Z",
+      "rank": 24
     },
     {
-      "name": "Forward-Future/DeployBot",
-      "url": "https://github.com/Forward-Future/DeployBot",
-      "description": "Agent-managed GitHub merge queue for Codex, Claude Code, Cursor, and MCP clients",
-      "full_description": "Agent-managed GitHub merge queue for Codex, Claude Code, Cursor, and MCP clients",
+      "name": "MADEVAL/RankWise",
+      "url": "https://github.com/MADEVAL/RankWise",
+      "description": "SEO Content Engine for LLMs - a prompt-engineering system that turns any capable AI into a world-class SEO strategist: generate, rewrite, and audit content against 49 ranking factors with multilingual support.",
+      "full_description": "SEO Content Engine for LLMs - a prompt-engineering system that turns any capable AI into a world-class SEO strategist: generate, rewrite, and audit content against 49 ranking factors with multilingual support.",
+      "language": "Python",
+      "stars": 45,
+      "stars_gained": 0,
+      "forks": 12,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "content",
+        "content-marketing",
+        "content-strategy",
+        "content-strategy-optimization",
+        "llm",
+        "llm-agent",
+        "multilingual",
+        "prompt-engineering",
+        "seo",
+        "seo-audit",
+        "seo-optimization",
+        "seo-tools"
+      ],
+      "created_at": "2026-06-21T16:52:59Z",
+      "updated_at": "2026-06-27T16:55:20Z",
+      "rank": 25
+    },
+    {
+      "name": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "full_description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "language": "Rust",
+      "stars": 43,
+      "stars_gained": 0,
+      "forks": 2,
+      "topics": [
+        "agent",
+        "browser-use"
+      ],
+      "created_at": "2026-06-22T07:24:40Z",
+      "updated_at": "2026-06-27T15:19:03Z",
+      "rank": 26
+    },
+    {
+      "name": "onism1767-creator/potato",
+      "url": "https://github.com/onism1767-creator/potato",
+      "description": "Free Easy AI visibility check - measure how often a brand is mentioned & cited in Claude's web-search answers. Deterministic, reproducible, runs 100% locally, $0 mock by default.",
+      "full_description": "Free Easy AI visibility check - measure how often a brand is mentioned & cited in Claude's web-search answers. Deterministic, reproducible, runs 100% locally, $0 mock by default.",
       "language": "Python",
       "stars": 43,
       "stars_gained": 0,
-      "forks": 1,
+      "forks": 0,
       "topics": [
-        "claude-code",
-        "codex",
-        "coding-agents",
-        "github-actions",
-        "mcp",
-        "merge-queue"
+        "ai",
+        "ai-visibility",
+        "anthropic",
+        "brand-monitoring",
+        "claude",
+        "cli",
+        "llm",
+        "python",
+        "seo",
+        "web-search"
       ],
-      "created_at": "2026-06-20T20:22:48Z",
-      "updated_at": "2026-06-25T15:51:58Z",
-      "rank": 24
+      "created_at": "2026-06-22T17:23:53Z",
+      "updated_at": "2026-06-28T04:52:12Z",
+      "rank": 27
     },
     {
       "name": "Zsatti/NTE-Cheat",
@@ -622,7 +700,7 @@
       "description": "nte neverness to everness download pc auto fish ray tracing bot teleport esp speedhack macro script nte fishingbot cheeto maaframework oknte maante game automation assistant dialogue skip daily rewards helper utility pc gaming trainer  automatic assistant hotta studio open source github download",
       "full_description": "nte neverness to everness download pc auto fish ray tracing bot teleport esp speedhack macro script nte fishingbot cheeto maaframework oknte maante game automation assistant dialogue skip daily rewards helper utility pc gaming trainer  automatic assistant hotta studio open source github download",
       "language": "TypeScript",
-      "stars": 42,
+      "stars": 41,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -648,52 +726,39 @@
         "oknte"
       ],
       "created_at": "2026-06-25T17:42:30Z",
-      "updated_at": "2026-06-26T22:45:05Z",
-      "rank": 25
+      "updated_at": "2026-06-27T17:12:39Z",
+      "rank": 28
     },
     {
-      "name": "Tencent/BrowserSkill",
-      "url": "https://github.com/Tencent/BrowserSkill",
-      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "full_description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "language": "Rust",
-      "stars": 41,
+      "name": "hirokawaguchi/open-genai",
+      "url": "https://github.com/hirokawaguchi/open-genai",
+      "description": "デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像生成(SD)・チーム単位ナレッジをローカル完結。",
+      "full_description": "デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像生成(SD)・チーム単位ナレッジをローカル完結。",
+      "language": "TypeScript",
+      "stars": 39,
       "stars_gained": 0,
-      "forks": 0,
+      "forks": 2,
       "topics": [
-        "agent",
-        "browser-use"
+        "digital-agency",
+        "fastapi",
+        "genai",
+        "japan",
+        "keycloak",
+        "local-llm",
+        "ollama",
+        "open-genai",
+        "openai-compatible",
+        "qdrant",
+        "rag",
+        "react",
+        "saml",
+        "self-hosted",
+        "stable-diffusion",
+        "whisper"
       ],
-      "created_at": "2026-06-22T07:24:40Z",
-      "updated_at": "2026-06-27T02:40:47Z",
-      "rank": 26
-    },
-    {
-      "name": "dvbs2000/visible-ai",
-      "url": "https://github.com/dvbs2000/visible-ai",
-      "description": "看得见的 AI · The Visible AI —— 一本全图解、零基础到亲手构建的 AI 通识书,永久免费。30 章 / 6 阶段,元元×小满带你从一个神经元走到亲手搭 AI 应用。",
-      "full_description": "看得见的 AI · The Visible AI —— 一本全图解、零基础到亲手构建的 AI 通识书,永久免费。30 章 / 6 阶段,元元×小满带你从一个神经元走到亲手搭 AI 应用。",
-      "language": "HTML",
-      "stars": 40,
-      "stars_gained": 0,
-      "forks": 1,
-      "topics": [
-        "ai",
-        "ai-education",
-        "beginners",
-        "chinese",
-        "deep-learning",
-        "ebook",
-        "free-book",
-        "llm",
-        "llm-tutorial",
-        "machine-learning",
-        "transformer",
-        "tutorial"
-      ],
-      "created_at": "2026-06-20T16:46:08Z",
-      "updated_at": "2026-06-27T00:16:12Z",
-      "rank": 27
+      "created_at": "2026-06-26T22:52:08Z",
+      "updated_at": "2026-06-28T04:50:41Z",
+      "rank": 29
     },
     {
       "name": "todd866/codex-adversary",
@@ -713,50 +778,7 @@
         "llm"
       ],
       "created_at": "2026-06-24T09:40:40Z",
-      "updated_at": "2026-06-26T07:51:23Z",
-      "rank": 28
-    },
-    {
-      "name": "OpenDataBox/MemoryData",
-      "url": "https://github.com/OpenDataBox/MemoryData",
-      "description": "A Unified Memory Benchmark Suite for Memory-Augmented Agents",
-      "full_description": "A Unified Memory Benchmark Suite for Memory-Augmented Agents",
-      "language": "Python",
-      "stars": 37,
-      "stars_gained": 0,
-      "forks": 4,
-      "topics": [
-        "agent",
-        "llm",
-        "memory"
-      ],
-      "created_at": "2026-06-21T06:37:28Z",
-      "updated_at": "2026-06-27T02:23:42Z",
-      "rank": 29
-    },
-    {
-      "name": "onism1767-creator/potato",
-      "url": "https://github.com/onism1767-creator/potato",
-      "description": "Free Easy AI visibility check - measure how often a brand is mentioned & cited in Claude's web-search answers. Deterministic, reproducible, runs 100% locally, $0 mock by default.",
-      "full_description": "Free Easy AI visibility check - measure how often a brand is mentioned & cited in Claude's web-search answers. Deterministic, reproducible, runs 100% locally, $0 mock by default.",
-      "language": "Python",
-      "stars": 35,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai",
-        "ai-visibility",
-        "anthropic",
-        "brand-monitoring",
-        "claude",
-        "cli",
-        "llm",
-        "python",
-        "seo",
-        "web-search"
-      ],
-      "created_at": "2026-06-22T17:23:53Z",
-      "updated_at": "2026-06-27T03:02:31Z",
+      "updated_at": "2026-06-28T00:22:37Z",
       "rank": 30
     }
   ]
