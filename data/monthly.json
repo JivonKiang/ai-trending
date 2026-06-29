@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T04:59:14.555389+00:00",
+  "updated": "2026-06-29T05:10:57.973516+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "full_description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars": 62046,
+      "stars": 65164,
       "stars_gained": 0,
-      "forks": 3189,
+      "forks": 3354,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -26,7 +26,7 @@
         "yagni"
       ],
       "created_at": "2026-06-12T00:52:37Z",
-      "updated_at": "2026-06-28T04:57:16Z",
+      "updated_at": "2026-06-29T05:10:42Z",
       "rank": 1
     },
     {
@@ -35,9 +35,9 @@
       "description": "MiMo Code: Where Models and Agents Co-Evolve",
       "full_description": "MiMo Code: Where Models and Agents Co-Evolve",
       "language": "TypeScript",
-      "stars": 10944,
+      "stars": 11001,
       "stars_gained": 0,
-      "forks": 1051,
+      "forks": 1062,
       "topics": [
         "ai",
         "ai-agents",
@@ -46,32 +46,8 @@
         "mimo-code"
       ],
       "created_at": "2026-06-10T11:52:41Z",
-      "updated_at": "2026-06-28T03:50:33Z",
+      "updated_at": "2026-06-29T05:06:56Z",
       "rank": 2
-    },
-    {
-      "name": "StarTrail-org/PixelRAG",
-      "url": "https://github.com/StarTrail-org/PixelRAG",
-      "description": "The end of web parsing. The beginning of scalable pixel-native search.",
-      "full_description": "The end of web parsing. The beginning of scalable pixel-native search.",
-      "language": "Python",
-      "stars": 5515,
-      "stars_gained": 0,
-      "forks": 434,
-      "topics": [
-        "agent",
-        "ai",
-        "memory",
-        "multimodal",
-        "rag",
-        "search",
-        "searchengine",
-        "vision",
-        "vlm"
-      ],
-      "created_at": "2026-05-29T07:25:40Z",
-      "updated_at": "2026-06-28T04:10:25Z",
-      "rank": 3
     },
     {
       "name": "omnigent-ai/omnigent",
@@ -79,9 +55,9 @@
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
       "full_description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
       "language": "Python",
-      "stars": 5148,
+      "stars": 5333,
       "stars_gained": 0,
-      "forks": 640,
+      "forks": 678,
       "topics": [
         "agent-framework",
         "agent-governance",
@@ -101,8 +77,8 @@
         "sandbox"
       ],
       "created_at": "2026-06-11T12:18:13Z",
-      "updated_at": "2026-06-28T04:50:20Z",
-      "rank": 4
+      "updated_at": "2026-06-29T05:10:37Z",
+      "rank": 3
     },
     {
       "name": "cobusgreyling/loop-engineering",
@@ -110,9 +86,9 @@
       "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
       "full_description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
       "language": "JavaScript",
-      "stars": 3341,
+      "stars": 3768,
       "stars_gained": 0,
-      "forks": 437,
+      "forks": 491,
       "topics": [
         "agentic-ai",
         "ai-agents",
@@ -133,8 +109,8 @@
         "prompt-engineering"
       ],
       "created_at": "2026-06-09T06:28:20Z",
-      "updated_at": "2026-06-28T04:53:16Z",
-      "rank": 5
+      "updated_at": "2026-06-29T05:10:41Z",
+      "rank": 4
     },
     {
       "name": "vercel/eve",
@@ -142,9 +118,9 @@
       "description": "The Framework for Building Agents",
       "full_description": "The Framework for Building Agents",
       "language": "TypeScript",
-      "stars": 2813,
+      "stars": 2871,
       "stars_gained": 0,
-      "forks": 208,
+      "forks": 214,
       "topics": [
         "agent",
         "framework",
@@ -157,8 +133,8 @@
         "workflows"
       ],
       "created_at": "2026-06-16T10:51:20Z",
-      "updated_at": "2026-06-28T04:19:38Z",
-      "rank": 6
+      "updated_at": "2026-06-29T05:05:59Z",
+      "rank": 5
     },
     {
       "name": "inkeep/open-knowledge",
@@ -166,9 +142,9 @@
       "description": "Beautiful, AI-native markdown editor and LLM Wiki",
       "full_description": "Beautiful, AI-native markdown editor and LLM Wiki",
       "language": "TypeScript",
-      "stars": 1365,
+      "stars": 1472,
       "stars_gained": 0,
-      "forks": 56,
+      "forks": 61,
       "topics": [
         "2nd-brain",
         "agent-skills",
@@ -189,7 +165,29 @@
         "skills"
       ],
       "created_at": "2026-06-03T11:12:40Z",
-      "updated_at": "2026-06-28T04:50:56Z",
+      "updated_at": "2026-06-29T05:08:12Z",
+      "rank": 6
+    },
+    {
+      "name": "TestSprite/testsprite-cli",
+      "url": "https://github.com/TestSprite/testsprite-cli",
+      "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
+      "full_description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
+      "language": "TypeScript",
+      "stars": 1276,
+      "stars_gained": 0,
+      "forks": 51,
+      "topics": [
+        "ai",
+        "cli",
+        "e2e-testing",
+        "playwright",
+        "qa",
+        "test-automation",
+        "testing"
+      ],
+      "created_at": "2026-06-11T10:44:15Z",
+      "updated_at": "2026-06-29T05:10:22Z",
       "rank": 7
     },
     {
@@ -198,9 +196,9 @@
       "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
       "full_description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
       "language": "Python",
-      "stars": 1205,
+      "stars": 1207,
       "stars_gained": 0,
-      "forks": 112,
+      "forks": 113,
       "topics": [
         "ai-memory",
         "context-injection",
@@ -216,30 +214,8 @@
         "vector-database"
       ],
       "created_at": "2026-05-31T19:50:25Z",
-      "updated_at": "2026-06-27T21:46:37Z",
+      "updated_at": "2026-06-29T02:13:07Z",
       "rank": 8
-    },
-    {
-      "name": "TestSprite/testsprite-cli",
-      "url": "https://github.com/TestSprite/testsprite-cli",
-      "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
-      "full_description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
-      "language": "TypeScript",
-      "stars": 1185,
-      "stars_gained": 0,
-      "forks": 49,
-      "topics": [
-        "ai",
-        "cli",
-        "e2e-testing",
-        "playwright",
-        "qa",
-        "test-automation",
-        "testing"
-      ],
-      "created_at": "2026-06-11T10:44:15Z",
-      "updated_at": "2026-06-28T04:49:41Z",
-      "rank": 9
     },
     {
       "name": "agent0ai/dox",
@@ -247,9 +223,9 @@
       "description": "Self-documenting AGENTS.md",
       "full_description": "Self-documenting AGENTS.md",
       "language": "",
-      "stars": 1008,
+      "stars": 1038,
       "stars_gained": 0,
-      "forks": 134,
+      "forks": 139,
       "topics": [
         "agents-md",
         "ai",
@@ -257,8 +233,8 @@
         "documentation"
       ],
       "created_at": "2026-06-01T08:25:21Z",
-      "updated_at": "2026-06-28T04:22:36Z",
-      "rank": 10
+      "updated_at": "2026-06-29T04:58:40Z",
+      "rank": 9
     },
     {
       "name": "rebel0789/codexpro",
@@ -266,9 +242,9 @@
       "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
       "full_description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
       "language": "JavaScript",
-      "stars": 970,
+      "stars": 1003,
       "stars_gained": 0,
-      "forks": 88,
+      "forks": 91,
       "topics": [
         "apps-sdk",
         "chatgpt",
@@ -279,8 +255,8 @@
         "ngrok"
       ],
       "created_at": "2026-06-16T21:22:43Z",
-      "updated_at": "2026-06-28T03:03:41Z",
-      "rank": 11
+      "updated_at": "2026-06-29T04:40:25Z",
+      "rank": 10
     },
     {
       "name": "superloglabs/superlog",
@@ -288,7 +264,7 @@
       "description": "Open-source observability tool that uses AI agents to self-heal your software",
       "full_description": "Open-source observability tool that uses AI agents to self-heal your software",
       "language": "TypeScript",
-      "stars": 950,
+      "stars": 952,
       "stars_gained": 0,
       "forks": 72,
       "topics": [
@@ -303,7 +279,29 @@
         "typescript"
       ],
       "created_at": "2026-06-02T19:13:48Z",
-      "updated_at": "2026-06-27T23:25:23Z",
+      "updated_at": "2026-06-28T15:18:47Z",
+      "rank": 11
+    },
+    {
+      "name": "sums001/Windows-Copilot-API",
+      "url": "https://github.com/sums001/Windows-Copilot-API",
+      "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+      "full_description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+      "language": "Python",
+      "stars": 938,
+      "stars_gained": 0,
+      "forks": 316,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "api",
+        "copilot",
+        "llm",
+        "microsoft-copilot",
+        "openai"
+      ],
+      "created_at": "2026-06-19T13:24:44Z",
+      "updated_at": "2026-06-29T04:55:33Z",
       "rank": 12
     },
     {
@@ -312,7 +310,7 @@
       "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
       "full_description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
       "language": "",
-      "stars": 904,
+      "stars": 919,
       "stars_gained": 0,
       "forks": 106,
       "topics": [
@@ -327,7 +325,7 @@
         "wordpress"
       ],
       "created_at": "2026-06-06T16:59:27Z",
-      "updated_at": "2026-06-27T23:38:59Z",
+      "updated_at": "2026-06-29T04:38:29Z",
       "rank": 13
     },
     {
@@ -336,7 +334,7 @@
       "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
       "full_description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
       "language": "TypeScript",
-      "stars": 889,
+      "stars": 893,
       "stars_gained": 0,
       "forks": 12,
       "topics": [
@@ -347,55 +345,8 @@
         "palantir"
       ],
       "created_at": "2026-06-13T03:15:46Z",
-      "updated_at": "2026-06-27T23:28:42Z",
+      "updated_at": "2026-06-28T23:03:30Z",
       "rank": 14
-    },
-    {
-      "name": "sums001/Windows-Copilot-API",
-      "url": "https://github.com/sums001/Windows-Copilot-API",
-      "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-      "full_description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-      "language": "Python",
-      "stars": 876,
-      "stars_gained": 0,
-      "forks": 289,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "api",
-        "copilot",
-        "llm",
-        "microsoft-copilot",
-        "openai"
-      ],
-      "created_at": "2026-06-19T13:24:44Z",
-      "updated_at": "2026-06-28T04:44:23Z",
-      "rank": 15
-    },
-    {
-      "name": "alchaincyf/fanbox",
-      "url": "https://github.com/alchaincyf/fanbox",
-      "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-      "full_description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-      "language": "JavaScript",
-      "stars": 817,
-      "stars_gained": 0,
-      "forks": 109,
-      "topics": [
-        "agent",
-        "ai",
-        "claude",
-        "codex",
-        "electron",
-        "file-manager",
-        "local-first",
-        "macos",
-        "terminal",
-        "vibe-coding"
-      ],
-      "created_at": "2026-06-10T01:01:42Z",
-      "updated_at": "2026-06-28T01:27:11Z",
-      "rank": 16
     },
     {
       "name": "caezium/Burrow",
@@ -403,7 +354,7 @@
       "description": "🐹 A free, open-source, native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents. Coming to Windows",
       "full_description": "🐹 A free, open-source, native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents. Coming to Windows",
       "language": "Swift",
-      "stars": 816,
+      "stars": 824,
       "stars_gained": 0,
       "forks": 140,
       "topics": [
@@ -421,34 +372,33 @@
         "winui3"
       ],
       "created_at": "2026-05-31T08:37:49Z",
-      "updated_at": "2026-06-28T02:51:26Z",
-      "rank": 17
+      "updated_at": "2026-06-29T04:00:07Z",
+      "rank": 15
     },
     {
-      "name": "jdevalk/specification.website",
-      "url": "https://github.com/jdevalk/specification.website",
-      "description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.",
-      "full_description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.",
-      "language": "TypeScript",
-      "stars": 725,
+      "name": "alchaincyf/fanbox",
+      "url": "https://github.com/alchaincyf/fanbox",
+      "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+      "full_description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+      "language": "JavaScript",
+      "stars": 821,
       "stars_gained": 0,
-      "forks": 47,
+      "forks": 109,
       "topics": [
-        "accessibility",
-        "agent-readiness",
-        "astro",
-        "cloudflare-pages",
-        "llms-txt",
-        "mcp",
-        "seo",
-        "specification",
-        "web-security",
-        "web-standards",
-        "well-known"
+        "agent",
+        "ai",
+        "claude",
+        "codex",
+        "electron",
+        "file-manager",
+        "local-first",
+        "macos",
+        "terminal",
+        "vibe-coding"
       ],
-      "created_at": "2026-05-29T09:13:26Z",
-      "updated_at": "2026-06-27T19:53:56Z",
-      "rank": 18
+      "created_at": "2026-06-10T01:01:42Z",
+      "updated_at": "2026-06-29T05:04:53Z",
+      "rank": 16
     },
     {
       "name": "duckbugio/flock",
@@ -456,7 +406,7 @@
       "description": "Autonomous AI dev-team bot",
       "full_description": "Autonomous AI dev-team bot",
       "language": "Go",
-      "stars": 715,
+      "stars": 722,
       "stars_gained": 0,
       "forks": 3,
       "topics": [
@@ -474,8 +424,8 @@
         "vk-bot"
       ],
       "created_at": "2026-06-08T15:48:15Z",
-      "updated_at": "2026-06-27T22:26:32Z",
-      "rank": 19
+      "updated_at": "2026-06-29T01:13:22Z",
+      "rank": 17
     },
     {
       "name": "coder/boo",
@@ -483,9 +433,9 @@
       "description": "A GNU screen style terminal multiplexer built on libghostty.",
       "full_description": "A GNU screen style terminal multiplexer built on libghostty.",
       "language": "Zig",
-      "stars": 706,
+      "stars": 710,
       "stars_gained": 0,
-      "forks": 19,
+      "forks": 20,
       "topics": [
         "ai",
         "coding",
@@ -495,8 +445,8 @@
         "terminal"
       ],
       "created_at": "2026-06-10T01:53:01Z",
-      "updated_at": "2026-06-26T21:16:40Z",
-      "rank": 20
+      "updated_at": "2026-06-28T22:08:42Z",
+      "rank": 18
     },
     {
       "name": "tastyeffectco/sandboxd",
@@ -504,7 +454,7 @@
       "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
       "full_description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
       "language": "Go",
-      "stars": 702,
+      "stars": 704,
       "stars_gained": 0,
       "forks": 33,
       "topics": [
@@ -519,8 +469,8 @@
         "self-hosted"
       ],
       "created_at": "2026-06-03T18:55:02Z",
-      "updated_at": "2026-06-28T04:51:51Z",
-      "rank": 21
+      "updated_at": "2026-06-28T13:50:49Z",
+      "rank": 19
     },
     {
       "name": "winsznx/theeleven",
@@ -528,7 +478,7 @@
       "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
       "full_description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
       "language": "TypeScript",
-      "stars": 648,
+      "stars": 702,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
@@ -551,8 +501,8 @@
         "x-layer"
       ],
       "created_at": "2026-06-25T07:42:50Z",
-      "updated_at": "2026-06-28T04:47:44Z",
-      "rank": 22
+      "updated_at": "2026-06-29T04:56:06Z",
+      "rank": 20
     },
     {
       "name": "Dong90/oh-my-taiyiforge",
@@ -560,7 +510,7 @@
       "description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
       "full_description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
       "language": "TypeScript",
-      "stars": 618,
+      "stars": 650,
       "stars_gained": 0,
       "forks": 12,
       "topics": [
@@ -579,8 +529,8 @@
         "workflow"
       ],
       "created_at": "2026-06-05T02:25:33Z",
-      "updated_at": "2026-06-28T04:28:18Z",
-      "rank": 23
+      "updated_at": "2026-06-29T04:52:03Z",
+      "rank": 21
     },
     {
       "name": "datalab-to/lift",
@@ -588,9 +538,9 @@
       "description": "Extract structured data from documents quickly and accurately.",
       "full_description": "Extract structured data from documents quickly and accurately.",
       "language": "Python",
-      "stars": 593,
+      "stars": 628,
       "stars_gained": 0,
-      "forks": 55,
+      "forks": 56,
       "topics": [
         "ai",
         "extract",
@@ -599,8 +549,41 @@
         "python"
       ],
       "created_at": "2026-06-03T19:28:14Z",
-      "updated_at": "2026-06-28T04:06:35Z",
-      "rank": 24
+      "updated_at": "2026-06-29T04:51:20Z",
+      "rank": 22
+    },
+    {
+      "name": "raiyanyahya/recall",
+      "url": "https://github.com/raiyanyahya/recall",
+      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "full_description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "language": "Python",
+      "stars": 609,
+      "stars_gained": 0,
+      "forks": 33,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-plugin",
+        "context",
+        "developer-tools",
+        "llm",
+        "local-first",
+        "memory",
+        "offline",
+        "privacy",
+        "productivity",
+        "python",
+        "summarization",
+        "textrank"
+      ],
+      "created_at": "2026-06-19T20:36:41Z",
+      "updated_at": "2026-06-29T03:29:31Z",
+      "rank": 23
     },
     {
       "name": "kadevin/ilab-gpt-conjure",
@@ -608,9 +591,9 @@
       "description": "面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队列管理。An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management.",
       "full_description": "面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队列管理。An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management.",
       "language": "JavaScript",
-      "stars": 586,
+      "stars": 592,
       "stars_gained": 0,
-      "forks": 80,
+      "forks": 81,
       "topics": [
         "ai-art",
         "ai-image-generation",
@@ -634,41 +617,8 @@
         "windows"
       ],
       "created_at": "2026-06-08T08:20:30Z",
-      "updated_at": "2026-06-27T17:40:12Z",
-      "rank": 25
-    },
-    {
-      "name": "raiyanyahya/recall",
-      "url": "https://github.com/raiyanyahya/recall",
-      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-      "full_description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-      "language": "Python",
-      "stars": 585,
-      "stars_gained": 0,
-      "forks": 31,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-plugin",
-        "context",
-        "developer-tools",
-        "llm",
-        "local-first",
-        "memory",
-        "offline",
-        "privacy",
-        "productivity",
-        "python",
-        "summarization",
-        "textrank"
-      ],
-      "created_at": "2026-06-19T20:36:41Z",
-      "updated_at": "2026-06-28T01:29:02Z",
-      "rank": 26
+      "updated_at": "2026-06-29T02:29:46Z",
+      "rank": 24
     },
     {
       "name": "kennss/SiliconScope",
@@ -676,9 +626,9 @@
       "description": "Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidth tracking",
       "full_description": "Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidth tracking",
       "language": "Swift",
-      "stars": 578,
+      "stars": 585,
       "stars_gained": 0,
-      "forks": 37,
+      "forks": 38,
       "topics": [
         "apple-silicon",
         "gpu",
@@ -697,30 +647,8 @@
         "system-monitor"
       ],
       "created_at": "2026-06-08T17:19:50Z",
-      "updated_at": "2026-06-28T02:03:33Z",
-      "rank": 27
-    },
-    {
-      "name": "tigicion/dao-code",
-      "url": "https://github.com/tigicion/dao-code",
-      "description": "Terminal coding agent for DeepSeek V4 — cost-efficient, self-verifying memory, robust long tasks.  MIT",
-      "full_description": "Terminal coding agent for DeepSeek V4 — cost-efficient, self-verifying memory, robust long tasks.  MIT",
-      "language": "TypeScript",
-      "stars": 547,
-      "stars_gained": 0,
-      "forks": 7,
-      "topics": [
-        "ai-agent",
-        "cli",
-        "coding-agent",
-        "deepseek",
-        "llm",
-        "terminal",
-        "typescript"
-      ],
-      "created_at": "2026-06-08T08:10:42Z",
-      "updated_at": "2026-06-28T00:29:30Z",
-      "rank": 28
+      "updated_at": "2026-06-29T01:22:17Z",
+      "rank": 25
     },
     {
       "name": "benchflow-ai/awesome-evals",
@@ -728,9 +656,9 @@
       "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
       "full_description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
       "language": "",
-      "stars": 537,
+      "stars": 568,
       "stars_gained": 0,
-      "forks": 39,
+      "forks": 42,
       "topics": [
         "agent-evaluation",
         "ai-agents",
@@ -743,8 +671,64 @@
         "rl-environments"
       ],
       "created_at": "2026-06-24T08:10:33Z",
-      "updated_at": "2026-06-28T03:26:07Z",
-      "rank": 29
+      "updated_at": "2026-06-29T04:58:10Z",
+      "rank": 26
+    },
+    {
+      "name": "shy3130/tickflow-stock-panel",
+      "url": "https://github.com/shy3130/tickflow-stock-panel",
+      "description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方个性化扩展数据",
+      "full_description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方个性化扩展数据",
+      "language": "TypeScript",
+      "stars": 555,
+      "stars_gained": 0,
+      "forks": 111,
+      "topics": [
+        "a-stock",
+        "ai-agent",
+        "aigc",
+        "backtesting",
+        "daily",
+        "duckdb",
+        "fastapi",
+        "llm",
+        "polars",
+        "quant",
+        "quantitative-finance",
+        "quantitative-trading",
+        "react",
+        "screener",
+        "self-hosted",
+        "stock",
+        "stock-analysis",
+        "tdx",
+        "tickflow"
+      ],
+      "created_at": "2026-06-18T06:18:29Z",
+      "updated_at": "2026-06-29T03:50:43Z",
+      "rank": 27
+    },
+    {
+      "name": "tigicion/dao-code",
+      "url": "https://github.com/tigicion/dao-code",
+      "description": "Terminal coding agent that turns DeepSeek-V4's cache economics into capability — trustworthy memory (re-verified against your code), robust long tasks. MIT.",
+      "full_description": "Terminal coding agent that turns DeepSeek-V4's cache economics into capability — trustworthy memory (re-verified against your code), robust long tasks. MIT.",
+      "language": "TypeScript",
+      "stars": 549,
+      "stars_gained": 0,
+      "forks": 7,
+      "topics": [
+        "ai-agent",
+        "cli",
+        "coding-agent",
+        "deepseek",
+        "llm",
+        "terminal",
+        "typescript"
+      ],
+      "created_at": "2026-06-08T08:10:42Z",
+      "updated_at": "2026-06-29T02:18:01Z",
+      "rank": 28
     },
     {
       "name": "PentesterFlow/agent",
@@ -752,9 +736,9 @@
       "description": "Agentic offensive-security in your terminal",
       "full_description": "Agentic offensive-security in your terminal",
       "language": "TypeScript",
-      "stars": 515,
+      "stars": 520,
       "stars_gained": 0,
-      "forks": 76,
+      "forks": 77,
       "topics": [
         "ai",
         "ai-agents",
@@ -764,7 +748,42 @@
         "security-automation"
       ],
       "created_at": "2026-05-31T11:14:35Z",
-      "updated_at": "2026-06-27T23:59:46Z",
+      "updated_at": "2026-06-29T03:33:57Z",
+      "rank": 29
+    },
+    {
+      "name": "myccarl/ai-shortVideo-pipeline",
+      "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
+      "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
+      "full_description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
+      "language": "Python",
+      "stars": 494,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "ai",
+        "ai-pipeline",
+        "circuit-breaker",
+        "clip-model",
+        "deepseek",
+        "docker-compose",
+        "failover",
+        "fastapi",
+        "ffmpeg",
+        "java",
+        "kling",
+        "langfuse",
+        "llm",
+        "multi-model",
+        "prompt-engineering",
+        "python",
+        "resilience4j",
+        "short-video",
+        "spring-boot",
+        "video-generation"
+      ],
+      "created_at": "2026-06-04T13:49:51Z",
+      "updated_at": "2026-06-29T04:28:17Z",
       "rank": 30
     }
   ]
