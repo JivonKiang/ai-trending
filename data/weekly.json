@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T04:24:49.952653+00:00",
+  "updated": "2026-07-04T04:09:52.184291+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,47 +10,62 @@
       "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
       "full_description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
       "language": "Python",
-      "stars": 756,
+      "stars": 520,
       "stars_gained": 0,
-      "forks": 78,
+      "forks": 52,
       "topics": [
         "ai",
         "ai-agents"
       ],
       "created_at": "2026-06-30T01:04:13Z",
-      "updated_at": "2026-07-03T03:54:55Z",
+      "updated_at": "2026-07-04T01:30:56Z",
       "rank": 1
     },
     {
-      "name": "ik190/macos-chatgpt-overlay-bar",
-      "url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
-      "description": "ChatGPT for Mac, living in your menubar.",
-      "full_description": "ChatGPT for Mac, living in your menubar.",
-      "language": "",
-      "stars": 312,
+      "name": "uzairansaruzi/hermex",
+      "url": "https://github.com/uzairansaruzi/hermex",
+      "description": "Native iPhone app for your Hermes agent",
+      "full_description": "Native iPhone app for your Hermes agent",
+      "language": "Swift",
+      "stars": 453,
       "stars_gained": 0,
-      "forks": 22,
+      "forks": 51,
+      "topics": [
+        "hermes",
+        "hermes-agent",
+        "hermex",
+        "ios",
+        "llm",
+        "self-hosted",
+        "swift",
+        "swiftui"
+      ],
+      "created_at": "2026-07-02T12:47:31Z",
+      "updated_at": "2026-07-04T04:02:05Z",
+      "rank": 2
+    },
+    {
+      "name": "jmerelnyc/Talos",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "full_description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "language": "Python",
+      "stars": 347,
+      "stars_gained": 0,
+      "forks": 12,
       "topics": [
         "ai",
-        "chatgpt",
-        "chatgpt-bar-mac",
-        "chatgpt-menubar-mac",
-        "chatgpt-quick-access-mac",
-        "chatgpt-statusbar",
-        "free-gpt-bar",
-        "mac",
-        "macos",
-        "macos-ai",
-        "macos-ai-app",
-        "macos-app",
-        "macos-application",
-        "macos-gpt",
-        "macos-menubar",
-        "menubar-app"
+        "distributed-computing",
+        "gpu",
+        "llm",
+        "ollama",
+        "python",
+        "websocket",
+        "worker"
       ],
-      "created_at": "2026-06-26T08:39:46Z",
-      "updated_at": "2026-07-02T13:54:06Z",
-      "rank": 2
+      "created_at": "2026-07-02T14:43:11Z",
+      "updated_at": "2026-07-04T04:04:22Z",
+      "rank": 3
     },
     {
       "name": "eli-labz/Godcoder",
@@ -58,9 +73,9 @@
       "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
       "full_description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
       "language": "Rust",
-      "stars": 272,
+      "stars": 277,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 4,
       "topics": [
         "ai",
         "coding-agent",
@@ -74,31 +89,36 @@
         "tauri"
       ],
       "created_at": "2026-06-27T00:56:36Z",
-      "updated_at": "2026-07-03T01:56:26Z",
-      "rank": 3
+      "updated_at": "2026-07-04T02:14:16Z",
+      "rank": 4
     },
     {
-      "name": "uzairansaruzi/hermex",
-      "url": "https://github.com/uzairansaruzi/hermex",
-      "description": "Native iPhone app for your Hermes agent",
-      "full_description": "Native iPhone app for your Hermes agent",
-      "language": "Swift",
-      "stars": 172,
+      "name": "SuperJJ007/CSswitch",
+      "url": "https://github.com/SuperJJ007/CSswitch",
+      "description": "让 Claude Science 的推理走自选的第三方 API（DeepSeek / 通义千问 / 任意 OpenAI 兼容端点），保留工具调用·Skill·MCP·代码执行，含本地虚拟登录跳过。macOS 菜单栏 app。仅供个人学习研究，使用者自负风险。",
+      "full_description": "让 Claude Science 的推理走自选的第三方 API（DeepSeek / 通义千问 / 任意 OpenAI 兼容端点），保留工具调用·Skill·MCP·代码执行，含本地虚拟登录跳过。macOS 菜单栏 app。仅供个人学习研究，使用者自负风险。",
+      "language": "Rust",
+      "stars": 168,
       "stars_gained": 0,
-      "forks": 22,
+      "forks": 24,
       "topics": [
-        "hermes",
-        "hermes-agent",
-        "hermex",
-        "ios",
+        "anthropic",
+        "claude",
+        "claude-science",
+        "dashscope",
+        "deepseek",
         "llm",
-        "self-hosted",
-        "swift",
-        "swiftui"
+        "macos",
+        "mcp",
+        "menubar",
+        "openai-compatible",
+        "proxy",
+        "qwen",
+        "tauri"
       ],
-      "created_at": "2026-07-02T12:47:31Z",
-      "updated_at": "2026-07-03T04:24:00Z",
-      "rank": 4
+      "created_at": "2026-07-02T16:46:56Z",
+      "updated_at": "2026-07-04T03:33:12Z",
+      "rank": 5
     },
     {
       "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
@@ -106,7 +126,7 @@
       "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
       "full_description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
       "language": "HTML",
-      "stars": 158,
+      "stars": 159,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -132,8 +152,8 @@
         "use-cases"
       ],
       "created_at": "2026-06-28T19:26:01Z",
-      "updated_at": "2026-07-03T03:14:54Z",
-      "rank": 5
+      "updated_at": "2026-07-04T03:21:47Z",
+      "rank": 6
     },
     {
       "name": "Sakshxm1/hermes-agency-orchestrator",
@@ -157,8 +177,8 @@
         "workflows"
       ],
       "created_at": "2026-06-28T19:45:35Z",
-      "updated_at": "2026-07-03T02:36:48Z",
-      "rank": 6
+      "updated_at": "2026-07-04T00:10:17Z",
+      "rank": 7
     },
     {
       "name": "Frisher1/ClaudeCode-Workflow-Lab",
@@ -192,8 +212,38 @@
         "workflow"
       ],
       "created_at": "2026-06-28T19:35:10Z",
-      "updated_at": "2026-07-03T02:42:20Z",
-      "rank": 7
+      "updated_at": "2026-07-04T00:14:15Z",
+      "rank": 8
+    },
+    {
+      "name": "aayushgames19-hash/claude-gateway-manager",
+      "url": "https://github.com/aayushgames19-hash/claude-gateway-manager",
+      "description": "Best Tenbin AI Proxy for Anthropic Opus 4.8 & Sonnet 4.6 API Access 2026",
+      "full_description": "Best Tenbin AI Proxy for Anthropic Opus 4.8 & Sonnet 4.6 API Access 2026",
+      "language": "HTML",
+      "stars": 153,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "anthropic",
+        "anthropic-api",
+        "api-proxy",
+        "claude",
+        "claude-api",
+        "claude-code",
+        "claude-haiku",
+        "claude-opus",
+        "claude-opus-4-8",
+        "claude-sonnet",
+        "llm",
+        "messages-api",
+        "proxy",
+        "tenbin",
+        "web2api"
+      ],
+      "created_at": "2026-06-28T21:01:13Z",
+      "updated_at": "2026-07-03T20:42:39Z",
+      "rank": 9
     },
     {
       "name": "MIKOTOKAWAII25/local-ai-code-assistant",
@@ -227,8 +277,8 @@
         "ragionex"
       ],
       "created_at": "2026-06-28T19:55:37Z",
-      "updated_at": "2026-07-03T02:30:31Z",
-      "rank": 8
+      "updated_at": "2026-07-04T02:01:49Z",
+      "rank": 10
     },
     {
       "name": "AgustiPuigserver/opus-prompt-architect",
@@ -262,8 +312,8 @@
         "xml-prompt"
       ],
       "created_at": "2026-06-28T19:34:17Z",
-      "updated_at": "2026-07-03T03:46:26Z",
-      "rank": 9
+      "updated_at": "2026-07-04T03:38:22Z",
+      "rank": 11
     },
     {
       "name": "israriqbal/agent-ecologies",
@@ -292,8 +342,8 @@
         "virtual-world"
       ],
       "created_at": "2026-06-28T13:04:32Z",
-      "updated_at": "2026-07-03T02:36:40Z",
-      "rank": 10
+      "updated_at": "2026-07-04T00:10:15Z",
+      "rank": 12
     },
     {
       "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
@@ -327,8 +377,8 @@
         "whatsapp-bot"
       ],
       "created_at": "2026-06-28T20:35:10Z",
-      "updated_at": "2026-07-03T03:29:31Z",
-      "rank": 11
+      "updated_at": "2026-07-03T20:42:38Z",
+      "rank": 13
     },
     {
       "name": "Brenonunesx/agent-pilot",
@@ -359,38 +409,8 @@
         "xcuitest"
       ],
       "created_at": "2026-06-28T19:19:37Z",
-      "updated_at": "2026-07-03T02:56:20Z",
-      "rank": 12
-    },
-    {
-      "name": "aayushgames19-hash/claude-gateway-manager",
-      "url": "https://github.com/aayushgames19-hash/claude-gateway-manager",
-      "description": "Best Tenbin AI Proxy for Anthropic Opus 4.8 & Sonnet 4.6 API Access 2026",
-      "full_description": "Best Tenbin AI Proxy for Anthropic Opus 4.8 & Sonnet 4.6 API Access 2026",
-      "language": "HTML",
-      "stars": 152,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "anthropic",
-        "anthropic-api",
-        "api-proxy",
-        "claude",
-        "claude-api",
-        "claude-code",
-        "claude-haiku",
-        "claude-opus",
-        "claude-opus-4-8",
-        "claude-sonnet",
-        "llm",
-        "messages-api",
-        "proxy",
-        "tenbin",
-        "web2api"
-      ],
-      "created_at": "2026-06-28T21:01:13Z",
-      "updated_at": "2026-07-02T21:53:08Z",
-      "rank": 13
+      "updated_at": "2026-07-04T02:07:35Z",
+      "rank": 14
     },
     {
       "name": "rak7777/mythic-mcp-proxy",
@@ -418,8 +438,8 @@
         "opus-4-8"
       ],
       "created_at": "2026-06-28T20:26:32Z",
-      "updated_at": "2026-07-03T03:43:28Z",
-      "rank": 14
+      "updated_at": "2026-07-04T01:29:02Z",
+      "rank": 15
     },
     {
       "name": "reunios2024/cortex-sentinel-trading-nexus",
@@ -453,8 +473,8 @@
         "trading-bot"
       ],
       "created_at": "2026-06-28T20:34:53Z",
-      "updated_at": "2026-07-03T03:40:35Z",
-      "rank": 15
+      "updated_at": "2026-07-04T03:33:40Z",
+      "rank": 16
     },
     {
       "name": "rafaelmateo123/Arena-of-Autonomous-Threads",
@@ -482,8 +502,8 @@
         "vibe-coding"
       ],
       "created_at": "2026-06-28T19:32:44Z",
-      "updated_at": "2026-07-03T02:55:31Z",
-      "rank": 16
+      "updated_at": "2026-07-04T02:51:41Z",
+      "rank": 17
     },
     {
       "name": "ninouanis84-sudo/foxl-orchestrator",
@@ -517,8 +537,8 @@
         "windows"
       ],
       "created_at": "2026-06-28T19:54:51Z",
-      "updated_at": "2026-07-03T00:00:36Z",
-      "rank": 17
+      "updated_at": "2026-07-04T03:52:52Z",
+      "rank": 18
     },
     {
       "name": "vishalGitthub/cli-llm-mesh",
@@ -551,8 +571,8 @@
         "xai"
       ],
       "created_at": "2026-06-28T19:59:02Z",
-      "updated_at": "2026-07-03T03:47:43Z",
-      "rank": 18
+      "updated_at": "2026-07-04T03:39:25Z",
+      "rank": 19
     },
     {
       "name": "heavenaruba/codified-prompt-rule-engine",
@@ -585,8 +605,8 @@
         "xml-prompt"
       ],
       "created_at": "2026-06-28T19:33:45Z",
-      "updated_at": "2026-07-03T03:42:38Z",
-      "rank": 19
+      "updated_at": "2026-07-04T03:36:07Z",
+      "rank": 20
     },
     {
       "name": "gunawan1996/world-forge-ai",
@@ -617,8 +637,8 @@
         "typescript"
       ],
       "created_at": "2026-06-28T21:07:14Z",
-      "updated_at": "2026-07-03T02:44:07Z",
-      "rank": 20
+      "updated_at": "2026-07-04T02:39:49Z",
+      "rank": 21
     },
     {
       "name": "AkshayPatil9370/picsart-genai-composer-sdk",
@@ -649,8 +669,8 @@
         "text2image"
       ],
       "created_at": "2026-06-28T20:37:53Z",
-      "updated_at": "2026-07-03T02:39:00Z",
-      "rank": 21
+      "updated_at": "2026-07-04T00:13:00Z",
+      "rank": 22
     },
     {
       "name": "2501035-wq/mobile-sim-streamer",
@@ -684,8 +704,29 @@
         "testing"
       ],
       "created_at": "2026-06-28T21:00:03Z",
-      "updated_at": "2026-07-03T02:01:53Z",
-      "rank": 22
+      "updated_at": "2026-07-04T00:08:33Z",
+      "rank": 23
+    },
+    {
+      "name": "dhapat3927/mcp-edd-analytics-vantage",
+      "url": "https://github.com/dhapat3927/mcp-edd-analytics-vantage",
+      "description": "EDD MCP Server: Easy Digital Downloads API for Sales, Analytics & Products 2026",
+      "full_description": "EDD MCP Server: Easy Digital Downloads API for Sales, Analytics & Products 2026",
+      "language": "HTML",
+      "stars": 151,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "easy-digital-downloads",
+        "ecommerce",
+        "edd",
+        "mcp",
+        "mcp-server",
+        "wordpress"
+      ],
+      "created_at": "2026-06-28T20:17:31Z",
+      "updated_at": "2026-07-04T02:03:02Z",
+      "rank": 24
     },
     {
       "name": "pakgik01/ask-expert-consult-mcp",
@@ -708,63 +749,7 @@
         "typescript"
       ],
       "created_at": "2026-06-28T19:24:57Z",
-      "updated_at": "2026-07-03T01:56:35Z",
-      "rank": 23
-    },
-    {
-      "name": "dhapat3927/mcp-edd-analytics-vantage",
-      "url": "https://github.com/dhapat3927/mcp-edd-analytics-vantage",
-      "description": "EDD MCP Server: Easy Digital Downloads API for Sales, Analytics & Products 2026",
-      "full_description": "EDD MCP Server: Easy Digital Downloads API for Sales, Analytics & Products 2026",
-      "language": "HTML",
-      "stars": 151,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "easy-digital-downloads",
-        "ecommerce",
-        "edd",
-        "mcp",
-        "mcp-server",
-        "wordpress"
-      ],
-      "created_at": "2026-06-28T20:17:31Z",
-      "updated_at": "2026-07-03T02:33:37Z",
-      "rank": 24
-    },
-    {
-      "name": "grandgaming9321-prog/reality-engine",
-      "url": "https://github.com/grandgaming9321-prog/reality-engine",
-      "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-      "full_description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-      "language": "HTML",
-      "stars": 151,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "3d",
-        "ai",
-        "ai-simulation",
-        "creative-ai",
-        "digital-twin",
-        "game-ai",
-        "game-development",
-        "generative-ai",
-        "hacktoberfest",
-        "llm",
-        "llm-agent",
-        "machine-learning",
-        "open-source",
-        "predictive-modeling",
-        "procedural-generation",
-        "python",
-        "reinforcement-learning",
-        "simulation",
-        "virtual-worlds",
-        "world-generation"
-      ],
-      "created_at": "2026-06-28T21:06:56Z",
-      "updated_at": "2026-07-02T21:54:12Z",
+      "updated_at": "2026-07-04T03:26:31Z",
       "rank": 25
     },
     {
@@ -799,7 +784,7 @@
         "watermark-remover-bot"
       ],
       "created_at": "2026-06-28T20:46:31Z",
-      "updated_at": "2026-07-03T02:49:06Z",
+      "updated_at": "2026-07-04T02:44:57Z",
       "rank": 26
     },
     {
@@ -834,8 +819,43 @@
         "remove-objects"
       ],
       "created_at": "2026-06-28T20:45:56Z",
-      "updated_at": "2026-07-03T00:06:51Z",
+      "updated_at": "2026-07-04T00:05:27Z",
       "rank": 27
+    },
+    {
+      "name": "grandgaming9321-prog/reality-engine",
+      "url": "https://github.com/grandgaming9321-prog/reality-engine",
+      "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+      "full_description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+      "language": "HTML",
+      "stars": 151,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "3d",
+        "ai",
+        "ai-simulation",
+        "creative-ai",
+        "digital-twin",
+        "game-ai",
+        "game-development",
+        "generative-ai",
+        "hacktoberfest",
+        "llm",
+        "llm-agent",
+        "machine-learning",
+        "open-source",
+        "predictive-modeling",
+        "procedural-generation",
+        "python",
+        "reinforcement-learning",
+        "simulation",
+        "virtual-worlds",
+        "world-generation"
+      ],
+      "created_at": "2026-06-28T21:06:56Z",
+      "updated_at": "2026-07-03T20:43:00Z",
+      "rank": 28
     },
     {
       "name": "okesipoke/manuscript-phoneme-decipher",
@@ -869,8 +889,8 @@
         "voynich-manuscript"
       ],
       "created_at": "2026-06-28T21:05:02Z",
-      "updated_at": "2026-07-03T03:44:39Z",
-      "rank": 28
+      "updated_at": "2026-07-04T03:32:39Z",
+      "rank": 29
     },
     {
       "name": "seuksaedu-beep/Persona-Flow-Chat",
@@ -897,42 +917,7 @@
         "textual"
       ],
       "created_at": "2026-06-28T20:10:39Z",
-      "updated_at": "2026-07-02T21:49:48Z",
-      "rank": 29
-    },
-    {
-      "name": "09omerdgn-droid/api-model-playground-cookbook",
-      "url": "https://github.com/09omerdgn-droid/api-model-playground-cookbook",
-      "description": "Ultimate LLM API Integration Cookbook 2026 for Cursor & AI Agents",
-      "full_description": "Ultimate LLM API Integration Cookbook 2026 for Cursor & AI Agents",
-      "language": "HTML",
-      "stars": 151,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai-api",
-        "chatbox",
-        "claude",
-        "claude-code",
-        "claude-opus",
-        "cline",
-        "cursor",
-        "deepseek",
-        "dify",
-        "gemini",
-        "glm",
-        "gpt",
-        "gpt-5",
-        "integration",
-        "kimi",
-        "llm",
-        "multi-model",
-        "openai-compatible",
-        "sora",
-        "suno"
-      ],
-      "created_at": "2026-06-28T19:19:44Z",
-      "updated_at": "2026-07-03T02:52:49Z",
+      "updated_at": "2026-07-03T20:42:20Z",
       "rank": 30
     }
   ]
