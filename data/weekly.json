@@ -1,56 +1,16 @@
 {
-  "updated": "2026-07-04T04:09:52.184291+00:00",
+  "updated": "2026-07-05T04:38:45.077557+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
   "projects": [
-    {
-      "name": "TianhangZhuzth/Fundamental-Ava",
-      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "full_description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "language": "Python",
-      "stars": 520,
-      "stars_gained": 0,
-      "forks": 52,
-      "topics": [
-        "ai",
-        "ai-agents"
-      ],
-      "created_at": "2026-06-30T01:04:13Z",
-      "updated_at": "2026-07-04T01:30:56Z",
-      "rank": 1
-    },
-    {
-      "name": "uzairansaruzi/hermex",
-      "url": "https://github.com/uzairansaruzi/hermex",
-      "description": "Native iPhone app for your Hermes agent",
-      "full_description": "Native iPhone app for your Hermes agent",
-      "language": "Swift",
-      "stars": 453,
-      "stars_gained": 0,
-      "forks": 51,
-      "topics": [
-        "hermes",
-        "hermes-agent",
-        "hermex",
-        "ios",
-        "llm",
-        "self-hosted",
-        "swift",
-        "swiftui"
-      ],
-      "created_at": "2026-07-02T12:47:31Z",
-      "updated_at": "2026-07-04T04:02:05Z",
-      "rank": 2
-    },
     {
       "name": "jmerelnyc/Talos",
       "url": "https://github.com/jmerelnyc/Talos",
       "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "full_description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "language": "Python",
-      "stars": 347,
+      "stars": 599,
       "stars_gained": 0,
       "forks": 12,
       "topics": [
@@ -64,43 +24,78 @@
         "worker"
       ],
       "created_at": "2026-07-02T14:43:11Z",
-      "updated_at": "2026-07-04T04:04:22Z",
+      "updated_at": "2026-07-05T04:26:59Z",
+      "rank": 1
+    },
+    {
+      "name": "uzairansaruzi/hermex",
+      "url": "https://github.com/uzairansaruzi/hermex",
+      "description": "Native iPhone app for your Hermes agent",
+      "full_description": "Native iPhone app for your Hermes agent",
+      "language": "Swift",
+      "stars": 561,
+      "stars_gained": 0,
+      "forks": 56,
+      "topics": [
+        "hermes",
+        "hermes-agent",
+        "hermex",
+        "ios",
+        "llm",
+        "self-hosted",
+        "swift",
+        "swiftui"
+      ],
+      "created_at": "2026-07-02T12:47:31Z",
+      "updated_at": "2026-07-05T04:38:40Z",
+      "rank": 2
+    },
+    {
+      "name": "TianhangZhuzth/Fundamental-Ava",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "full_description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "language": "Python",
+      "stars": 523,
+      "stars_gained": 0,
+      "forks": 53,
+      "topics": [
+        "ai",
+        "ai-agents"
+      ],
+      "created_at": "2026-06-30T01:04:13Z",
+      "updated_at": "2026-07-04T19:42:13Z",
       "rank": 3
     },
     {
-      "name": "eli-labz/Godcoder",
-      "url": "https://github.com/eli-labz/Godcoder",
-      "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
-      "full_description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
-      "language": "Rust",
-      "stars": 277,
+      "name": "elder-plinius/T3MP3ST",
+      "url": "https://github.com/elder-plinius/T3MP3ST",
+      "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "full_description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "language": "TypeScript",
+      "stars": 347,
       "stars_gained": 0,
-      "forks": 4,
+      "forks": 105,
       "topics": [
+        "agents",
         "ai",
-        "coding-agent",
-        "desktop-app",
-        "llm",
-        "local-first",
-        "mcp",
-        "open-source",
-        "openai",
-        "rust",
-        "tauri"
+        "multi-agent",
+        "offensive-security",
+        "redteam"
       ],
-      "created_at": "2026-06-27T00:56:36Z",
-      "updated_at": "2026-07-04T02:14:16Z",
+      "created_at": "2026-07-02T17:53:55Z",
+      "updated_at": "2026-07-05T04:38:27Z",
       "rank": 4
     },
     {
-      "name": "SuperJJ007/CSswitch",
-      "url": "https://github.com/SuperJJ007/CSswitch",
-      "description": "让 Claude Science 的推理走自选的第三方 API（DeepSeek / 通义千问 / 任意 OpenAI 兼容端点），保留工具调用·Skill·MCP·代码执行，含本地虚拟登录跳过。macOS 菜单栏 app。仅供个人学习研究，使用者自负风险。",
-      "full_description": "让 Claude Science 的推理走自选的第三方 API（DeepSeek / 通义千问 / 任意 OpenAI 兼容端点），保留工具调用·Skill·MCP·代码执行，含本地虚拟登录跳过。macOS 菜单栏 app。仅供个人学习研究，使用者自负风险。",
+      "name": "SuperJJ007/CSSwitch",
+      "url": "https://github.com/SuperJJ007/CSSwitch",
+      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "full_description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
       "language": "Rust",
-      "stars": 168,
+      "stars": 226,
       "stars_gained": 0,
-      "forks": 24,
+      "forks": 33,
       "topics": [
         "anthropic",
         "claude",
@@ -117,7 +112,7 @@
         "tauri"
       ],
       "created_at": "2026-07-02T16:46:56Z",
-      "updated_at": "2026-07-04T03:33:12Z",
+      "updated_at": "2026-07-05T04:37:28Z",
       "rank": 5
     },
     {
@@ -126,9 +121,9 @@
       "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
       "full_description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
       "language": "HTML",
-      "stars": 159,
+      "stars": 160,
       "stars_gained": 0,
-      "forks": 0,
+      "forks": 2,
       "topics": [
         "agentic-coding",
         "ai-agents",
@@ -152,7 +147,7 @@
         "use-cases"
       ],
       "created_at": "2026-06-28T19:26:01Z",
-      "updated_at": "2026-07-04T03:21:47Z",
+      "updated_at": "2026-07-05T03:50:07Z",
       "rank": 6
     },
     {
@@ -161,7 +156,7 @@
       "description": "Claude Code Agent Workflows Guide 2026: Skills vs Teams vs Cost Analysis",
       "full_description": "Claude Code Agent Workflows Guide 2026: Skills vs Teams vs Cost Analysis",
       "language": "HTML",
-      "stars": 155,
+      "stars": 156,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -177,7 +172,7 @@
         "workflows"
       ],
       "created_at": "2026-06-28T19:45:35Z",
-      "updated_at": "2026-07-04T00:10:17Z",
+      "updated_at": "2026-07-05T00:02:05Z",
       "rank": 7
     },
     {
@@ -212,7 +207,7 @@
         "workflow"
       ],
       "created_at": "2026-06-28T19:35:10Z",
-      "updated_at": "2026-07-04T00:14:15Z",
+      "updated_at": "2026-07-05T00:08:05Z",
       "rank": 8
     },
     {
@@ -242,7 +237,7 @@
         "web2api"
       ],
       "created_at": "2026-06-28T21:01:13Z",
-      "updated_at": "2026-07-03T20:42:39Z",
+      "updated_at": "2026-07-04T20:15:06Z",
       "rank": 9
     },
     {
@@ -277,7 +272,7 @@
         "ragionex"
       ],
       "created_at": "2026-06-28T19:55:37Z",
-      "updated_at": "2026-07-04T02:01:49Z",
+      "updated_at": "2026-07-05T02:10:10Z",
       "rank": 10
     },
     {
@@ -312,7 +307,7 @@
         "xml-prompt"
       ],
       "created_at": "2026-06-28T19:34:17Z",
-      "updated_at": "2026-07-04T03:38:22Z",
+      "updated_at": "2026-07-05T03:57:15Z",
       "rank": 11
     },
     {
@@ -342,7 +337,7 @@
         "virtual-world"
       ],
       "created_at": "2026-06-28T13:04:32Z",
-      "updated_at": "2026-07-04T00:10:15Z",
+      "updated_at": "2026-07-05T00:02:05Z",
       "rank": 12
     },
     {
@@ -377,7 +372,7 @@
         "whatsapp-bot"
       ],
       "created_at": "2026-06-28T20:35:10Z",
-      "updated_at": "2026-07-03T20:42:38Z",
+      "updated_at": "2026-07-04T20:15:07Z",
       "rank": 13
     },
     {
@@ -409,7 +404,7 @@
         "xcuitest"
       ],
       "created_at": "2026-06-28T19:19:37Z",
-      "updated_at": "2026-07-04T02:07:35Z",
+      "updated_at": "2026-07-05T02:23:00Z",
       "rank": 14
     },
     {
@@ -438,7 +433,7 @@
         "opus-4-8"
       ],
       "created_at": "2026-06-28T20:26:32Z",
-      "updated_at": "2026-07-04T01:29:02Z",
+      "updated_at": "2026-07-05T01:44:40Z",
       "rank": 15
     },
     {
@@ -473,7 +468,7 @@
         "trading-bot"
       ],
       "created_at": "2026-06-28T20:34:53Z",
-      "updated_at": "2026-07-04T03:33:40Z",
+      "updated_at": "2026-07-05T03:51:58Z",
       "rank": 16
     },
     {
@@ -502,7 +497,7 @@
         "vibe-coding"
       ],
       "created_at": "2026-06-28T19:32:44Z",
-      "updated_at": "2026-07-04T02:51:41Z",
+      "updated_at": "2026-07-05T00:00:42Z",
       "rank": 17
     },
     {
@@ -537,7 +532,7 @@
         "windows"
       ],
       "created_at": "2026-06-28T19:54:51Z",
-      "updated_at": "2026-07-04T03:52:52Z",
+      "updated_at": "2026-07-05T03:22:22Z",
       "rank": 18
     },
     {
@@ -571,7 +566,7 @@
         "xai"
       ],
       "created_at": "2026-06-28T19:59:02Z",
-      "updated_at": "2026-07-04T03:39:25Z",
+      "updated_at": "2026-07-05T03:58:19Z",
       "rank": 19
     },
     {
@@ -605,7 +600,7 @@
         "xml-prompt"
       ],
       "created_at": "2026-06-28T19:33:45Z",
-      "updated_at": "2026-07-04T03:36:07Z",
+      "updated_at": "2026-07-05T03:54:24Z",
       "rank": 20
     },
     {
@@ -637,7 +632,7 @@
         "typescript"
       ],
       "created_at": "2026-06-28T21:07:14Z",
-      "updated_at": "2026-07-04T02:39:49Z",
+      "updated_at": "2026-07-05T00:09:15Z",
       "rank": 21
     },
     {
@@ -669,7 +664,7 @@
         "text2image"
       ],
       "created_at": "2026-06-28T20:37:53Z",
-      "updated_at": "2026-07-04T00:13:00Z",
+      "updated_at": "2026-07-05T00:03:03Z",
       "rank": 22
     },
     {
@@ -704,29 +699,8 @@
         "testing"
       ],
       "created_at": "2026-06-28T21:00:03Z",
-      "updated_at": "2026-07-04T00:08:33Z",
+      "updated_at": "2026-07-05T02:07:53Z",
       "rank": 23
-    },
-    {
-      "name": "dhapat3927/mcp-edd-analytics-vantage",
-      "url": "https://github.com/dhapat3927/mcp-edd-analytics-vantage",
-      "description": "EDD MCP Server: Easy Digital Downloads API for Sales, Analytics & Products 2026",
-      "full_description": "EDD MCP Server: Easy Digital Downloads API for Sales, Analytics & Products 2026",
-      "language": "HTML",
-      "stars": 151,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "easy-digital-downloads",
-        "ecommerce",
-        "edd",
-        "mcp",
-        "mcp-server",
-        "wordpress"
-      ],
-      "created_at": "2026-06-28T20:17:31Z",
-      "updated_at": "2026-07-04T02:03:02Z",
-      "rank": 24
     },
     {
       "name": "pakgik01/ask-expert-consult-mcp",
@@ -749,43 +723,29 @@
         "typescript"
       ],
       "created_at": "2026-06-28T19:24:57Z",
-      "updated_at": "2026-07-04T03:26:31Z",
-      "rank": 25
+      "updated_at": "2026-07-05T02:03:09Z",
+      "rank": 24
     },
     {
-      "name": "Sujal-142/ai-image-clean-eraser",
-      "url": "https://github.com/Sujal-142/ai-image-clean-eraser",
-      "description": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
-      "full_description": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
+      "name": "dhapat3927/mcp-edd-analytics-vantage",
+      "url": "https://github.com/dhapat3927/mcp-edd-analytics-vantage",
+      "description": "EDD MCP Server: Easy Digital Downloads API for Sales, Analytics & Products 2026",
+      "full_description": "EDD MCP Server: Easy Digital Downloads API for Sales, Analytics & Products 2026",
       "language": "HTML",
       "stars": 151,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
-        "artificial-intelligence",
-        "computer-vision",
-        "image-editing",
-        "image-editing-software",
-        "image-editing-tool",
-        "image-editing-website",
-        "image-processing",
-        "image-processing-programming",
-        "machine-learning",
-        "ocr",
-        "photo-editing",
-        "photo-editing-ai",
-        "photo-editor",
-        "photo-editor-app",
-        "photo-editor-free",
-        "photo-editor-project",
-        "photo-editors",
-        "remove-text-on-images",
-        "watermark-remover",
-        "watermark-remover-bot"
+        "easy-digital-downloads",
+        "ecommerce",
+        "edd",
+        "mcp",
+        "mcp-server",
+        "wordpress"
       ],
-      "created_at": "2026-06-28T20:46:31Z",
-      "updated_at": "2026-07-04T02:44:57Z",
-      "rank": 26
+      "created_at": "2026-06-28T20:17:31Z",
+      "updated_at": "2026-07-05T02:11:22Z",
+      "rank": 25
     },
     {
       "name": "onlyoneshakibul/magic-eraser-studio",
@@ -819,7 +779,42 @@
         "remove-objects"
       ],
       "created_at": "2026-06-28T20:45:56Z",
-      "updated_at": "2026-07-04T00:05:27Z",
+      "updated_at": "2026-07-05T03:32:59Z",
+      "rank": 26
+    },
+    {
+      "name": "Sujal-142/ai-image-clean-eraser",
+      "url": "https://github.com/Sujal-142/ai-image-clean-eraser",
+      "description": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
+      "full_description": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
+      "language": "HTML",
+      "stars": 151,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "artificial-intelligence",
+        "computer-vision",
+        "image-editing",
+        "image-editing-software",
+        "image-editing-tool",
+        "image-editing-website",
+        "image-processing",
+        "image-processing-programming",
+        "machine-learning",
+        "ocr",
+        "photo-editing",
+        "photo-editing-ai",
+        "photo-editor",
+        "photo-editor-app",
+        "photo-editor-free",
+        "photo-editor-project",
+        "photo-editors",
+        "remove-text-on-images",
+        "watermark-remover",
+        "watermark-remover-bot"
+      ],
+      "created_at": "2026-06-28T20:46:31Z",
+      "updated_at": "2026-07-05T02:55:37Z",
       "rank": 27
     },
     {
@@ -854,7 +849,7 @@
         "world-generation"
       ],
       "created_at": "2026-06-28T21:06:56Z",
-      "updated_at": "2026-07-03T20:43:00Z",
+      "updated_at": "2026-07-04T20:31:02Z",
       "rank": 28
     },
     {
@@ -889,7 +884,7 @@
         "voynich-manuscript"
       ],
       "created_at": "2026-06-28T21:05:02Z",
-      "updated_at": "2026-07-04T03:32:39Z",
+      "updated_at": "2026-07-05T02:41:43Z",
       "rank": 29
     },
     {
@@ -917,7 +912,7 @@
         "textual"
       ],
       "created_at": "2026-06-28T20:10:39Z",
-      "updated_at": "2026-07-03T20:42:20Z",
+      "updated_at": "2026-07-04T20:14:23Z",
       "rank": 30
     }
   ]
