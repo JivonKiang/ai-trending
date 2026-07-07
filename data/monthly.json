@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T04:50:32.736864+00:00",
+  "updated": "2026-07-07T04:31:33.856880+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "full_description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars": 75072,
+      "stars": 76077,
       "stars_gained": 0,
-      "forks": 3968,
+      "forks": 4038,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -26,7 +26,7 @@
         "yagni"
       ],
       "created_at": "2026-06-12T00:52:37Z",
-      "updated_at": "2026-07-06T04:46:27Z",
+      "updated_at": "2026-07-07T04:30:24Z",
       "rank": 1
     },
     {
@@ -35,9 +35,9 @@
       "description": "MiMo Code: Where Models and Agents Co-Evolve",
       "full_description": "MiMo Code: Where Models and Agents Co-Evolve",
       "language": "TypeScript",
-      "stars": 11490,
+      "stars": 11553,
       "stars_gained": 0,
-      "forks": 1123,
+      "forks": 1131,
       "topics": [
         "ai",
         "ai-agents",
@@ -46,7 +46,7 @@
         "mimo-code"
       ],
       "created_at": "2026-06-10T11:52:41Z",
-      "updated_at": "2026-07-06T04:44:28Z",
+      "updated_at": "2026-07-07T04:25:28Z",
       "rank": 2
     },
     {
@@ -55,9 +55,9 @@
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
       "full_description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
       "language": "Python",
-      "stars": 6331,
+      "stars": 6478,
       "stars_gained": 0,
-      "forks": 829,
+      "forks": 857,
       "topics": [
         "agent-framework",
         "agent-governance",
@@ -77,7 +77,7 @@
         "sandbox"
       ],
       "created_at": "2026-06-11T12:18:13Z",
-      "updated_at": "2026-07-06T04:45:23Z",
+      "updated_at": "2026-07-07T04:28:12Z",
       "rank": 3
     },
     {
@@ -86,9 +86,9 @@
       "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
       "full_description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
       "language": "JavaScript",
-      "stars": 6012,
+      "stars": 6250,
       "stars_gained": 0,
-      "forks": 781,
+      "forks": 801,
       "topics": [
         "agentic-ai",
         "ai-agents",
@@ -109,7 +109,7 @@
         "prompt-engineering"
       ],
       "created_at": "2026-06-09T06:28:20Z",
-      "updated_at": "2026-07-06T04:48:19Z",
+      "updated_at": "2026-07-07T04:28:10Z",
       "rank": 4
     },
     {
@@ -118,9 +118,9 @@
       "description": "The Framework for Building Agents",
       "full_description": "The Framework for Building Agents",
       "language": "TypeScript",
-      "stars": 3234,
+      "stars": 3275,
       "stars_gained": 0,
-      "forks": 260,
+      "forks": 265,
       "topics": [
         "agent",
         "framework",
@@ -133,8 +133,28 @@
         "workflows"
       ],
       "created_at": "2026-06-16T10:51:20Z",
-      "updated_at": "2026-07-06T03:37:42Z",
+      "updated_at": "2026-07-07T03:16:12Z",
       "rank": 5
+    },
+    {
+      "name": "elder-plinius/T3MP3ST",
+      "url": "https://github.com/elder-plinius/T3MP3ST",
+      "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "full_description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "language": "TypeScript",
+      "stars": 2724,
+      "stars_gained": 0,
+      "forks": 644,
+      "topics": [
+        "agents",
+        "ai",
+        "multi-agent",
+        "offensive-security",
+        "redteam"
+      ],
+      "created_at": "2026-07-02T17:53:55Z",
+      "updated_at": "2026-07-07T04:28:58Z",
+      "rank": 6
     },
     {
       "name": "TestSprite/testsprite-cli",
@@ -142,9 +162,9 @@
       "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
       "full_description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
       "language": "TypeScript",
-      "stars": 1985,
+      "stars": 2082,
       "stars_gained": 0,
-      "forks": 73,
+      "forks": 75,
       "topics": [
         "ai",
         "cli",
@@ -155,50 +175,8 @@
         "testing"
       ],
       "created_at": "2026-06-11T10:44:15Z",
-      "updated_at": "2026-07-06T04:49:46Z",
-      "rank": 6
-    },
-    {
-      "name": "elder-plinius/T3MP3ST",
-      "url": "https://github.com/elder-plinius/T3MP3ST",
-      "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
-      "full_description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
-      "language": "TypeScript",
-      "stars": 1822,
-      "stars_gained": 0,
-      "forks": 452,
-      "topics": [
-        "agents",
-        "ai",
-        "multi-agent",
-        "offensive-security",
-        "redteam"
-      ],
-      "created_at": "2026-07-02T17:53:55Z",
-      "updated_at": "2026-07-06T04:47:25Z",
+      "updated_at": "2026-07-07T03:44:34Z",
       "rank": 7
-    },
-    {
-      "name": "tigicion/dao-code",
-      "url": "https://github.com/tigicion/dao-code",
-      "description": "Open-source TypeScript terminal coding agent for DeepSeek-V4 — builds on DeepSeek's strong price-performance and ultra-cheap cache pricing, engineering byte-stable prefixes and cache-reusing forks so cross-session memory and a continuous self-correction layer add almost no token cost; 1M context, Skills/MCP/Hooks, Claude Code config compatible.",
-      "full_description": "Open-source TypeScript terminal coding agent for DeepSeek-V4 — builds on DeepSeek's strong price-performance and ultra-cheap cache pricing, engineering byte-stable prefixes and cache-reusing forks so cross-session memory and a continuous self-correction layer add almost no token cost; 1M context, Skills/MCP/Hooks, Claude Code config compatible.",
-      "language": "TypeScript",
-      "stars": 1606,
-      "stars_gained": 0,
-      "forks": 54,
-      "topics": [
-        "ai-agent",
-        "cli",
-        "coding-agent",
-        "deepseek",
-        "llm",
-        "terminal",
-        "typescript"
-      ],
-      "created_at": "2026-06-08T08:10:42Z",
-      "updated_at": "2026-07-06T03:06:08Z",
-      "rank": 8
     },
     {
       "name": "shy3130/tickflow-stock-panel",
@@ -206,9 +184,9 @@
       "description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
       "full_description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
       "language": "TypeScript",
-      "stars": 1569,
+      "stars": 1761,
       "stars_gained": 0,
-      "forks": 310,
+      "forks": 341,
       "topics": [
         "a-stock",
         "ai-agent",
@@ -231,7 +209,29 @@
         "tickflow"
       ],
       "created_at": "2026-06-18T06:18:29Z",
-      "updated_at": "2026-07-06T04:46:16Z",
+      "updated_at": "2026-07-07T04:30:40Z",
+      "rank": 8
+    },
+    {
+      "name": "tigicion/dao-code",
+      "url": "https://github.com/tigicion/dao-code",
+      "description": "Open-source TypeScript terminal coding agent for DeepSeek-V4 — builds on DeepSeek's strong price-performance and ultra-cheap cache pricing, engineering byte-stable prefixes and cache-reusing forks so cross-session memory and a continuous self-correction layer add almost no token cost; 1M context, Skills/MCP/Hooks, Claude Code config compatible.",
+      "full_description": "Open-source TypeScript terminal coding agent for DeepSeek-V4 — builds on DeepSeek's strong price-performance and ultra-cheap cache pricing, engineering byte-stable prefixes and cache-reusing forks so cross-session memory and a continuous self-correction layer add almost no token cost; 1M context, Skills/MCP/Hooks, Claude Code config compatible.",
+      "language": "TypeScript",
+      "stars": 1610,
+      "stars_gained": 0,
+      "forks": 54,
+      "topics": [
+        "ai-agent",
+        "cli",
+        "coding-agent",
+        "deepseek",
+        "llm",
+        "terminal",
+        "typescript"
+      ],
+      "created_at": "2026-06-08T08:10:42Z",
+      "updated_at": "2026-07-07T01:54:04Z",
       "rank": 9
     },
     {
@@ -240,9 +240,9 @@
       "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
       "full_description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
       "language": "JavaScript",
-      "stars": 1172,
+      "stars": 1194,
       "stars_gained": 0,
-      "forks": 104,
+      "forks": 107,
       "topics": [
         "apps-sdk",
         "chatgpt",
@@ -253,7 +253,7 @@
         "ngrok"
       ],
       "created_at": "2026-06-16T21:22:43Z",
-      "updated_at": "2026-07-06T03:20:41Z",
+      "updated_at": "2026-07-07T03:24:28Z",
       "rank": 10
     },
     {
@@ -262,9 +262,9 @@
       "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
       "full_description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
       "language": "Python",
-      "stars": 1047,
+      "stars": 1057,
       "stars_gained": 0,
-      "forks": 352,
+      "forks": 357,
       "topics": [
         "ai",
         "ai-agents",
@@ -275,7 +275,7 @@
         "openai"
       ],
       "created_at": "2026-06-19T13:24:44Z",
-      "updated_at": "2026-07-06T02:29:31Z",
+      "updated_at": "2026-07-07T02:56:05Z",
       "rank": 11
     },
     {
@@ -284,9 +284,9 @@
       "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generation.",
       "full_description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generation.",
       "language": "Python",
-      "stars": 1003,
+      "stars": 1050,
       "stars_gained": 0,
-      "forks": 61,
+      "forks": 64,
       "topics": [
         "agent",
         "ai-security",
@@ -304,32 +304,8 @@
         "vulnerability-research"
       ],
       "created_at": "2026-06-15T14:50:47Z",
-      "updated_at": "2026-07-06T04:32:26Z",
+      "updated_at": "2026-07-07T04:25:52Z",
       "rank": 12
-    },
-    {
-      "name": "amElnagdy/guard-skills",
-      "url": "https://github.com/amElnagdy/guard-skills",
-      "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-      "full_description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-      "language": "",
-      "stars": 965,
-      "stars_gained": 0,
-      "forks": 111,
-      "topics": [
-        "agent-skills",
-        "ai",
-        "claude",
-        "claude-code",
-        "code-review",
-        "codex",
-        "skills-sh",
-        "woocommerce",
-        "wordpress"
-      ],
-      "created_at": "2026-06-06T16:59:27Z",
-      "updated_at": "2026-07-06T02:26:04Z",
-      "rank": 13
     },
     {
       "name": "eli-labz/Third-Eye",
@@ -337,7 +313,7 @@
       "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
       "full_description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
       "language": "TypeScript",
-      "stars": 933,
+      "stars": 934,
       "stars_gained": 0,
       "forks": 13,
       "topics": [
@@ -348,8 +324,8 @@
         "palantir"
       ],
       "created_at": "2026-06-13T03:15:46Z",
-      "updated_at": "2026-07-05T18:18:22Z",
-      "rank": 14
+      "updated_at": "2026-07-07T01:18:04Z",
+      "rank": 13
     },
     {
       "name": "alchaincyf/fanbox",
@@ -357,9 +333,9 @@
       "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
       "full_description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
       "language": "JavaScript",
-      "stars": 888,
+      "stars": 895,
       "stars_gained": 0,
-      "forks": 121,
+      "forks": 122,
       "topics": [
         "agent",
         "ai",
@@ -373,8 +349,8 @@
         "vibe-coding"
       ],
       "created_at": "2026-06-10T01:01:42Z",
-      "updated_at": "2026-07-06T04:18:07Z",
-      "rank": 15
+      "updated_at": "2026-07-07T02:33:28Z",
+      "rank": 14
     },
     {
       "name": "modiqo/skillspec",
@@ -382,9 +358,9 @@
       "description": "SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof.",
       "full_description": "SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof.",
       "language": "Rust",
-      "stars": 864,
+      "stars": 886,
       "stars_gained": 0,
-      "forks": 55,
+      "forks": 57,
       "topics": [
         "ai",
         "ai-agents",
@@ -392,47 +368,38 @@
         "ai-tool"
       ],
       "created_at": "2026-06-19T23:42:55Z",
-      "updated_at": "2026-07-06T04:38:18Z",
+      "updated_at": "2026-07-07T04:18:27Z",
+      "rank": 15
+    },
+    {
+      "name": "synthetic-sciences/openscience",
+      "url": "https://github.com/synthetic-sciences/openscience",
+      "description": "The open-source AI workbench for scientific research",
+      "full_description": "The open-source AI workbench for scientific research",
+      "language": "TypeScript",
+      "stars": 847,
+      "stars_gained": 0,
+      "forks": 109,
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "bun",
+        "cli",
+        "co-scientist",
+        "llm",
+        "ml",
+        "ml-engineering",
+        "open-source",
+        "research",
+        "research-tools",
+        "science",
+        "scientific-computing",
+        "typescript"
+      ],
+      "created_at": "2026-07-03T15:06:45Z",
+      "updated_at": "2026-07-07T04:29:35Z",
       "rank": 16
-    },
-    {
-      "name": "coder/boo",
-      "url": "https://github.com/coder/boo",
-      "description": "A GNU screen style terminal multiplexer built on libghostty.",
-      "full_description": "A GNU screen style terminal multiplexer built on libghostty.",
-      "language": "Zig",
-      "stars": 715,
-      "stars_gained": 0,
-      "forks": 20,
-      "topics": [
-        "ai",
-        "coding",
-        "ghostty",
-        "multiplexer",
-        "screen",
-        "terminal"
-      ],
-      "created_at": "2026-06-10T01:53:01Z",
-      "updated_at": "2026-07-05T18:33:43Z",
-      "rank": 17
-    },
-    {
-      "name": "modiqo/cliare",
-      "url": "https://github.com/modiqo/cliare",
-      "description": "CLI agent-readiness measurement, command-shape inference, and CI scorecards",
-      "full_description": "CLI agent-readiness measurement, command-shape inference, and CI scorecards",
-      "language": "Rust",
-      "stars": 700,
-      "stars_gained": 0,
-      "forks": 40,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "cli"
-      ],
-      "created_at": "2026-06-13T00:38:35Z",
-      "updated_at": "2026-07-06T04:36:10Z",
-      "rank": 18
     },
     {
       "name": "jmerelnyc/Talos",
@@ -440,9 +407,9 @@
       "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "full_description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "language": "Python",
-      "stars": 683,
+      "stars": 722,
       "stars_gained": 0,
-      "forks": 12,
+      "forks": 13,
       "topics": [
         "ai",
         "distributed-computing",
@@ -454,8 +421,71 @@
         "worker"
       ],
       "created_at": "2026-07-02T14:43:11Z",
-      "updated_at": "2026-07-06T04:37:21Z",
+      "updated_at": "2026-07-06T19:33:23Z",
+      "rank": 17
+    },
+    {
+      "name": "coder/boo",
+      "url": "https://github.com/coder/boo",
+      "description": "A GNU screen style terminal multiplexer built on libghostty.",
+      "full_description": "A GNU screen style terminal multiplexer built on libghostty.",
+      "language": "Zig",
+      "stars": 716,
+      "stars_gained": 0,
+      "forks": 20,
+      "topics": [
+        "ai",
+        "coding",
+        "ghostty",
+        "multiplexer",
+        "screen",
+        "terminal"
+      ],
+      "created_at": "2026-06-10T01:53:01Z",
+      "updated_at": "2026-07-06T22:13:02Z",
+      "rank": 18
+    },
+    {
+      "name": "modiqo/cliare",
+      "url": "https://github.com/modiqo/cliare",
+      "description": "CLI agent-readiness measurement, command-shape inference, and CI scorecards",
+      "full_description": "CLI agent-readiness measurement, command-shape inference, and CI scorecards",
+      "language": "Rust",
+      "stars": 708,
+      "stars_gained": 0,
+      "forks": 42,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "cli"
+      ],
+      "created_at": "2026-06-13T00:38:35Z",
+      "updated_at": "2026-07-07T01:22:43Z",
       "rank": 19
+    },
+    {
+      "name": "benchflow-ai/awesome-evals",
+      "url": "https://github.com/benchflow-ai/awesome-evals",
+      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+      "full_description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+      "language": "",
+      "stars": 683,
+      "stars_gained": 0,
+      "forks": 49,
+      "topics": [
+        "agent-evaluation",
+        "ai-agents",
+        "awesome",
+        "awesome-list",
+        "benchmarks",
+        "evals",
+        "llm",
+        "llm-evaluation",
+        "rl-environments"
+      ],
+      "created_at": "2026-06-24T08:10:33Z",
+      "updated_at": "2026-07-07T02:24:06Z",
+      "rank": 20
     },
     {
       "name": "raiyanyahya/recall",
@@ -463,7 +493,7 @@
       "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
       "full_description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
       "language": "Python",
-      "stars": 678,
+      "stars": 681,
       "stars_gained": 0,
       "forks": 41,
       "topics": [
@@ -487,31 +517,7 @@
         "textrank"
       ],
       "created_at": "2026-06-19T20:36:41Z",
-      "updated_at": "2026-07-06T03:22:16Z",
-      "rank": 20
-    },
-    {
-      "name": "benchflow-ai/awesome-evals",
-      "url": "https://github.com/benchflow-ai/awesome-evals",
-      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-      "full_description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-      "language": "",
-      "stars": 677,
-      "stars_gained": 0,
-      "forks": 48,
-      "topics": [
-        "agent-evaluation",
-        "ai-agents",
-        "awesome",
-        "awesome-list",
-        "benchmarks",
-        "evals",
-        "llm",
-        "llm-evaluation",
-        "rl-environments"
-      ],
-      "created_at": "2026-06-24T08:10:33Z",
-      "updated_at": "2026-07-06T00:10:36Z",
+      "updated_at": "2026-07-06T20:14:15Z",
       "rank": 21
     },
     {
@@ -520,9 +526,9 @@
       "description": "Native iPhone app for your Hermes agent",
       "full_description": "Native iPhone app for your Hermes agent",
       "language": "Swift",
-      "stars": 625,
+      "stars": 661,
       "stars_gained": 0,
-      "forks": 66,
+      "forks": 71,
       "topics": [
         "hermes",
         "hermes-agent",
@@ -534,7 +540,7 @@
         "swiftui"
       ],
       "created_at": "2026-07-02T12:47:31Z",
-      "updated_at": "2026-07-06T04:33:48Z",
+      "updated_at": "2026-07-07T04:31:00Z",
       "rank": 22
     },
     {
@@ -543,7 +549,7 @@
       "description": "Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidth tracking",
       "full_description": "Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidth tracking",
       "language": "Swift",
-      "stars": 624,
+      "stars": 637,
       "stars_gained": 0,
       "forks": 41,
       "topics": [
@@ -564,7 +570,7 @@
         "system-monitor"
       ],
       "created_at": "2026-06-08T17:19:50Z",
-      "updated_at": "2026-07-05T16:36:46Z",
+      "updated_at": "2026-07-07T03:10:45Z",
       "rank": 23
     },
     {
@@ -573,7 +579,7 @@
       "description": "面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队列管理。An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management.",
       "full_description": "面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队列管理。An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management.",
       "language": "JavaScript",
-      "stars": 613,
+      "stars": 617,
       "stars_gained": 0,
       "forks": 83,
       "topics": [
@@ -599,8 +605,41 @@
         "windows"
       ],
       "created_at": "2026-06-08T08:20:30Z",
-      "updated_at": "2026-07-05T12:03:12Z",
+      "updated_at": "2026-07-07T00:29:24Z",
       "rank": 24
+    },
+    {
+      "name": "oomol-lab/open-connector",
+      "url": "https://github.com/oomol-lab/open-connector",
+      "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+      "full_description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+      "language": "TypeScript",
+      "stars": 594,
+      "stars_gained": 0,
+      "forks": 22,
+      "topics": [
+        "agent-tools",
+        "ai-agents",
+        "api-gateway",
+        "automation",
+        "cli",
+        "cloudflare-workers",
+        "connectors",
+        "integration-platform",
+        "mcp",
+        "model-context-protocol",
+        "oauth",
+        "oomol",
+        "openapi",
+        "openconnector",
+        "saas-integrations",
+        "sdk",
+        "self-hosted",
+        "typescript"
+      ],
+      "created_at": "2026-06-29T10:49:36Z",
+      "updated_at": "2026-07-07T04:26:38Z",
+      "rank": 25
     },
     {
       "name": "duckbugio/flock",
@@ -626,8 +665,8 @@
         "vk-bot"
       ],
       "created_at": "2026-06-08T15:48:15Z",
-      "updated_at": "2026-07-05T06:41:44Z",
-      "rank": 25
+      "updated_at": "2026-07-06T19:22:29Z",
+      "rank": 26
     },
     {
       "name": "xingwudao/xquant-beginner",
@@ -635,7 +674,7 @@
       "description": "《XQuant：人人都是量化交易员》开源书稿",
       "full_description": "《XQuant：人人都是量化交易员》开源书稿",
       "language": "TypeScript",
-      "stars": 534,
+      "stars": 540,
       "stars_gained": 0,
       "forks": 93,
       "topics": [
@@ -646,8 +685,8 @@
         "vitepress"
       ],
       "created_at": "2026-06-09T07:08:36Z",
-      "updated_at": "2026-07-06T04:34:47Z",
-      "rank": 26
+      "updated_at": "2026-07-07T02:50:25Z",
+      "rank": 27
     },
     {
       "name": "TianhangZhuzth/Fundamental-Ava",
@@ -655,16 +694,16 @@
       "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
       "full_description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
       "language": "Python",
-      "stars": 525,
+      "stars": 527,
       "stars_gained": 0,
-      "forks": 53,
+      "forks": 50,
       "topics": [
         "ai",
         "ai-agents"
       ],
       "created_at": "2026-06-30T01:04:13Z",
-      "updated_at": "2026-07-06T01:45:07Z",
-      "rank": 27
+      "updated_at": "2026-07-06T22:10:46Z",
+      "rank": 28
     },
     {
       "name": "chubbyguan/chubbyskills",
@@ -672,7 +711,7 @@
       "description": "把中文全渠道内容（抖音 / B站 / 小红书 / 公众号 / X / 播客）采集进个人知识库的 13 个 AI Skill：图文存图、视频转文字稿、字幕优先免 GPU，附带知识库 MCP server。 ｜ Ingest Chinese content into your personal knowledge base — image/video routing, subtitle-first transcription, and a KB MCP server.",
       "full_description": "把中文全渠道内容（抖音 / B站 / 小红书 / 公众号 / X / 播客）采集进个人知识库的 13 个 AI Skill：图文存图、视频转文字稿、字幕优先免 GPU，附带知识库 MCP server。 ｜ Ingest Chinese content into your personal knowledge base — image/video routing, subtitle-first transcription, and a KB MCP server.",
       "language": "Python",
-      "stars": 511,
+      "stars": 520,
       "stars_gained": 0,
       "forks": 73,
       "topics": [
@@ -688,8 +727,8 @@
         "xiaohongshu"
       ],
       "created_at": "2026-06-08T09:22:13Z",
-      "updated_at": "2026-07-06T04:49:22Z",
-      "rank": 28
+      "updated_at": "2026-07-07T02:11:16Z",
+      "rank": 29
     },
     {
       "name": "buynao/aipath",
@@ -697,7 +736,7 @@
       "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
       "full_description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
       "language": "JavaScript",
-      "stars": 470,
+      "stars": 473,
       "stars_gained": 0,
       "forks": 54,
       "topics": [
@@ -705,38 +744,7 @@
         "machine-learning"
       ],
       "created_at": "2026-06-12T10:58:35Z",
-      "updated_at": "2026-07-06T02:14:49Z",
-      "rank": 29
-    },
-    {
-      "name": "OtterMind/Nubase",
-      "url": "https://github.com/OtterMind/Nubase",
-      "description": "🔥🔥🔥 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one self-hostable service.",
-      "full_description": "🔥🔥🔥 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one self-hostable service.",
-      "language": "Java",
-      "stars": 455,
-      "stars_gained": 0,
-      "forks": 40,
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agents",
-        "claude-code",
-        "cli",
-        "deno",
-        "memory",
-        "openclaw",
-        "opencode",
-        "pgvector",
-        "postgresql",
-        "postgrest",
-        "rag",
-        "skill",
-        "supabase",
-        "supabase-auth"
-      ],
-      "created_at": "2026-06-08T08:42:51Z",
-      "updated_at": "2026-07-06T03:07:00Z",
+      "updated_at": "2026-07-07T03:32:50Z",
       "rank": 30
     }
   ]
