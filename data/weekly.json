@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T03:53:07.555828+00:00",
+  "updated": "2026-07-09T04:29:22.263386+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "full_description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "language": "TypeScript",
-      "stars": 3360,
+      "stars": 3910,
       "stars_gained": 0,
-      "forks": 764,
+      "forks": 847,
       "topics": [
         "agents",
         "ai",
@@ -21,7 +21,7 @@
         "redteam"
       ],
       "created_at": "2026-07-02T17:53:55Z",
-      "updated_at": "2026-07-08T03:52:22Z",
+      "updated_at": "2026-07-09T04:27:29Z",
       "rank": 1
     },
     {
@@ -30,9 +30,9 @@
       "description": "The open-source AI workbench for scientific research",
       "full_description": "The open-source AI workbench for scientific research",
       "language": "TypeScript",
-      "stars": 1429,
+      "stars": 1804,
       "stars_gained": 0,
-      "forks": 199,
+      "forks": 256,
       "topics": [
         "agent",
         "ai",
@@ -51,7 +51,7 @@
         "typescript"
       ],
       "created_at": "2026-07-03T15:06:45Z",
-      "updated_at": "2026-07-08T03:51:56Z",
+      "updated_at": "2026-07-09T04:07:26Z",
       "rank": 2
     },
     {
@@ -60,7 +60,7 @@
       "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "full_description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "language": "Python",
-      "stars": 724,
+      "stars": 787,
       "stars_gained": 0,
       "forks": 13,
       "topics": [
@@ -74,7 +74,7 @@
         "worker"
       ],
       "created_at": "2026-07-02T14:43:11Z",
-      "updated_at": "2026-07-08T01:13:53Z",
+      "updated_at": "2026-07-09T04:27:32Z",
       "rank": 3
     },
     {
@@ -83,9 +83,9 @@
       "description": "Native iPhone app for your Hermes agent",
       "full_description": "Native iPhone app for your Hermes agent",
       "language": "Swift",
-      "stars": 680,
+      "stars": 701,
       "stars_gained": 0,
-      "forks": 72,
+      "forks": 71,
       "topics": [
         "hermes",
         "hermes-agent",
@@ -97,7 +97,7 @@
         "swiftui"
       ],
       "created_at": "2026-07-02T12:47:31Z",
-      "updated_at": "2026-07-08T02:39:58Z",
+      "updated_at": "2026-07-09T04:17:43Z",
       "rank": 4
     },
     {
@@ -106,9 +106,9 @@
       "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "full_description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "language": "TypeScript",
-      "stars": 470,
+      "stars": 557,
       "stars_gained": 0,
-      "forks": 87,
+      "forks": 107,
       "topics": [
         "a-stock",
         "ai-agent",
@@ -126,7 +126,7 @@
         "us-stocks"
       ],
       "created_at": "2026-07-05T06:30:55Z",
-      "updated_at": "2026-07-08T03:50:34Z",
+      "updated_at": "2026-07-09T03:20:24Z",
       "rank": 5
     },
     {
@@ -135,9 +135,9 @@
       "description": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
       "full_description": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
       "language": "TypeScript",
-      "stars": 323,
+      "stars": 404,
       "stars_gained": 0,
-      "forks": 40,
+      "forks": 43,
       "topics": [
         "ai-agent",
         "ai-for-science",
@@ -156,8 +156,54 @@
         "tauri"
       ],
       "created_at": "2026-07-03T09:22:31Z",
-      "updated_at": "2026-07-08T03:39:36Z",
+      "updated_at": "2026-07-09T04:28:20Z",
       "rank": 6
+    },
+    {
+      "name": "op7418/guizang-material-illustration",
+      "url": "https://github.com/op7418/guizang-material-illustration",
+      "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+      "full_description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+      "language": "",
+      "stars": 361,
+      "stars_gained": 0,
+      "forks": 32,
+      "topics": [
+        "agent",
+        "chart-visualization",
+        "chinese",
+        "claude-code",
+        "codex",
+        "data-visualization",
+        "explainer",
+        "illustration",
+        "image-generation",
+        "material-illustration",
+        "skill",
+        "social-media"
+      ],
+      "created_at": "2026-07-07T13:57:13Z",
+      "updated_at": "2026-07-09T04:23:26Z",
+      "rank": 7
+    },
+    {
+      "name": "SmileLikeYe/agent-chief",
+      "url": "https://github.com/SmileLikeYe/agent-chief",
+      "description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
+      "full_description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
+      "language": "Python",
+      "stars": 319,
+      "stars_gained": 0,
+      "forks": 1,
+      "topics": [
+        "harness",
+        "harness-engineering",
+        "llm",
+        "local-first"
+      ],
+      "created_at": "2026-07-04T15:28:56Z",
+      "updated_at": "2026-07-09T04:15:56Z",
+      "rank": 8
     },
     {
       "name": "SuperJJ007/CSSwitch",
@@ -165,7 +211,7 @@
       "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
       "full_description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
       "language": "Rust",
-      "stars": 305,
+      "stars": 316,
       "stars_gained": 0,
       "forks": 38,
       "topics": [
@@ -184,8 +230,8 @@
         "tauri"
       ],
       "created_at": "2026-07-02T16:46:56Z",
-      "updated_at": "2026-07-08T02:38:34Z",
-      "rank": 7
+      "updated_at": "2026-07-09T04:20:12Z",
+      "rank": 9
     },
     {
       "name": "eli-labz/Cognitive-Core-Skills",
@@ -193,9 +239,9 @@
       "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI.",
       "full_description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI.",
       "language": "Python",
-      "stars": 274,
+      "stars": 273,
       "stars_gained": 0,
-      "forks": 78,
+      "forks": 77,
       "topics": [
         "agent-skills",
         "agentic-ai",
@@ -215,27 +261,85 @@
         "world-models"
       ],
       "created_at": "2026-07-05T21:25:55Z",
-      "updated_at": "2026-07-07T21:19:41Z",
-      "rank": 8
+      "updated_at": "2026-07-08T08:58:38Z",
+      "rank": 10
     },
     {
-      "name": "SmileLikeYe/agent-chief",
-      "url": "https://github.com/SmileLikeYe/agent-chief",
-      "description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
-      "full_description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
-      "language": "Python",
-      "stars": 241,
+      "name": "sunflower-of-parchman/codex-hygiene",
+      "url": "https://github.com/sunflower-of-parchman/codex-hygiene",
+      "description": "Codex skill for auditing and tuning Codex Desktop context/tool surfaces",
+      "full_description": "Codex skill for auditing and tuning Codex Desktop context/tool surfaces",
+      "language": "Shell",
+      "stars": 206,
       "stars_gained": 0,
-      "forks": 1,
+      "forks": 6,
       "topics": [
-        "harness",
-        "harness-engineering",
-        "llm",
-        "local-first"
+        "codex",
+        "codex-skill",
+        "developer-tools",
+        "mcp",
+        "token-usage"
       ],
-      "created_at": "2026-07-04T15:28:56Z",
-      "updated_at": "2026-07-08T03:43:50Z",
-      "rank": 9
+      "created_at": "2026-07-07T21:51:14Z",
+      "updated_at": "2026-07-09T04:17:00Z",
+      "rank": 11
+    },
+    {
+      "name": "ninjahawk/Subtext",
+      "url": "https://github.com/ninjahawk/Subtext",
+      "description": "To know what models don't say out loud.",
+      "full_description": "To know what models don't say out loud.",
+      "language": "HTML",
+      "stars": 141,
+      "stars_gained": 0,
+      "forks": 17,
+      "topics": [
+        "interpretability",
+        "llm",
+        "mechanistic-interpretability",
+        "pytorch",
+        "qwen",
+        "transformers",
+        "visualization"
+      ],
+      "created_at": "2026-07-06T22:11:53Z",
+      "updated_at": "2026-07-09T03:01:27Z",
+      "rank": 12
+    },
+    {
+      "name": "Brain0-ai/brain0",
+      "url": "https://github.com/Brain0-ai/brain0",
+      "description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
+      "full_description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
+      "language": "Rust",
+      "stars": 131,
+      "stars_gained": 0,
+      "forks": 12,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "attestation",
+        "audit",
+        "claude",
+        "cli",
+        "code-review",
+        "coding-agents",
+        "developer-tools",
+        "dlp",
+        "git",
+        "llm",
+        "local-first",
+        "mcp",
+        "observability",
+        "provenance",
+        "rust",
+        "security",
+        "supply-chain-security",
+        "typescript"
+      ],
+      "created_at": "2026-07-02T12:02:08Z",
+      "updated_at": "2026-07-08T15:38:20Z",
+      "rank": 13
     },
     {
       "name": "atagon-GmbH/kogiqa-mcp",
@@ -243,25 +347,25 @@
       "description": "This web browser has been designed to help your agent debug and develop complex web applications. (MCP Server)",
       "full_description": "This web browser has been designed to help your agent debug and develop complex web applications. (MCP Server)",
       "language": "JavaScript",
-      "stars": 128,
+      "stars": 130,
       "stars_gained": 0,
-      "forks": 10,
+      "forks": 9,
       "topics": [
         "mcp",
         "mcp-server",
         "mcp-tools"
       ],
       "created_at": "2026-07-02T10:53:27Z",
-      "updated_at": "2026-07-07T14:30:10Z",
-      "rank": 10
+      "updated_at": "2026-07-09T02:02:25Z",
+      "rank": 14
     },
     {
       "name": "olemeyer/rocketplaneIO",
       "url": "https://github.com/olemeyer/rocketplaneIO",
       "description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
       "full_description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
-      "language": "TypeScript",
-      "stars": 122,
+      "language": "Go",
+      "stars": 121,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -283,8 +387,8 @@
         "tracing"
       ],
       "created_at": "2026-07-06T11:24:01Z",
-      "updated_at": "2026-07-07T21:37:53Z",
-      "rank": 11
+      "updated_at": "2026-07-08T23:06:10Z",
+      "rank": 15
     },
     {
       "name": "oxbshw/watch-skill",
@@ -292,9 +396,9 @@
       "description": "Give any AI agent the ability to watch video — and to watch its own work and fix it. MCP + CLI + REST; scene-aware frames, OCR, local-first transcription, persistent index, and THE LOOP.",
       "full_description": "Give any AI agent the ability to watch video — and to watch its own work and fix it. MCP + CLI + REST; scene-aware frames, OCR, local-first transcription, persistent index, and THE LOOP.",
       "language": "Python",
-      "stars": 105,
+      "stars": 118,
       "stars_gained": 0,
-      "forks": 18,
+      "forks": 19,
       "topics": [
         "agent-tools",
         "ai-agents",
@@ -310,8 +414,35 @@
         "yt-dlp"
       ],
       "created_at": "2026-07-05T23:25:30Z",
-      "updated_at": "2026-07-08T03:16:14Z",
-      "rank": 12
+      "updated_at": "2026-07-08T23:23:20Z",
+      "rank": 16
+    },
+    {
+      "name": "ahwanulm/AMRouter",
+      "url": "https://github.com/ahwanulm/AMRouter",
+      "description": "Self-hosted AI gateway — one endpoint, many providers, auto-fallback. OpenAI-compatible REST API with Cloudflare Workers AI automation.",
+      "full_description": "Self-hosted AI gateway — one endpoint, many providers, auto-fallback. OpenAI-compatible REST API with Cloudflare Workers AI automation.",
+      "language": "JavaScript",
+      "stars": 113,
+      "stars_gained": 0,
+      "forks": 52,
+      "topics": [
+        "ai",
+        "automation",
+        "claude",
+        "cloudflare-workers",
+        "gemini",
+        "kiro",
+        "llm",
+        "proxy",
+        "qoder",
+        "skills",
+        "token-saver",
+        "worker-ai"
+      ],
+      "created_at": "2026-07-03T09:15:38Z",
+      "updated_at": "2026-07-09T04:01:37Z",
+      "rank": 17
     },
     {
       "name": "7-e1even/learn-agent",
@@ -319,7 +450,7 @@
       "description": "学习Agent开发的笔记，尝试让Agent从可用到可靠",
       "full_description": "学习Agent开发的笔记，尝试让Agent从可用到可靠",
       "language": "JavaScript",
-      "stars": 96,
+      "stars": 100,
       "stars_gained": 0,
       "forks": 8,
       "topics": [
@@ -343,30 +474,8 @@
         "tutorial"
       ],
       "created_at": "2026-07-03T01:24:04Z",
-      "updated_at": "2026-07-08T02:06:48Z",
-      "rank": 13
-    },
-    {
-      "name": "ninjahawk/Subtext",
-      "url": "https://github.com/ninjahawk/Subtext",
-      "description": "To know what models don't say out loud.",
-      "full_description": "To know what models don't say out loud.",
-      "language": "HTML",
-      "stars": 96,
-      "stars_gained": 0,
-      "forks": 14,
-      "topics": [
-        "interpretability",
-        "llm",
-        "mechanistic-interpretability",
-        "pytorch",
-        "qwen",
-        "transformers",
-        "visualization"
-      ],
-      "created_at": "2026-07-06T22:11:53Z",
-      "updated_at": "2026-07-08T03:30:26Z",
-      "rank": 14
+      "updated_at": "2026-07-09T03:34:48Z",
+      "rank": 18
     },
     {
       "name": "DasterProkio/awesome-ai-companion",
@@ -374,9 +483,9 @@
       "description": "A curated list of open-source projects for building long-term AI companion relationships: frontends, backends, memory systems, hardware carriers, and world integrations.",
       "full_description": "A curated list of open-source projects for building long-term AI companion relationships: frontends, backends, memory systems, hardware carriers, and world integrations.",
       "language": "",
-      "stars": 83,
+      "stars": 89,
       "stars_gained": 0,
-      "forks": 5,
+      "forks": 7,
       "topics": [
         "ai-agents",
         "ai-companion",
@@ -389,8 +498,126 @@
         "virtual-companion"
       ],
       "created_at": "2026-07-03T04:24:24Z",
-      "updated_at": "2026-07-08T00:08:36Z",
-      "rank": 15
+      "updated_at": "2026-07-09T01:43:25Z",
+      "rank": 19
+    },
+    {
+      "name": "PKU-YuanGroup/OpenAI4S",
+      "url": "https://github.com/PKU-YuanGroup/OpenAI4S",
+      "description": "9.9 元豆包API复刻 Claude Science",
+      "full_description": "9.9 元豆包API复刻 Claude Science",
+      "language": "Python",
+      "stars": 73,
+      "stars_gained": 0,
+      "forks": 8,
+      "topics": [
+        "agent",
+        "ai4science",
+        "claude-science",
+        "mit-license",
+        "open-source",
+        "science-research"
+      ],
+      "created_at": "2026-07-06T00:34:35Z",
+      "updated_at": "2026-07-09T04:08:32Z",
+      "rank": 20
+    },
+    {
+      "name": "apoorvjain25/frontier",
+      "url": "https://github.com/apoorvjain25/frontier",
+      "description": "Make Claude Opus, Sonnet, GPT, or Gemini produce work close to what Claude Fable 5 would ship. 21 craft standards written and audited by the frontier model itself; single-response lift, or a full convergence loop with a taste gate.",
+      "full_description": "Make Claude Opus, Sonnet, GPT, or Gemini produce work close to what Claude Fable 5 would ship. 21 craft standards written and audited by the frontier model itself; single-response lift, or a full convergence loop with a taste gate.",
+      "language": "JavaScript",
+      "stars": 71,
+      "stars_gained": 0,
+      "forks": 14,
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "code-quality",
+        "gemini",
+        "gpt",
+        "llm",
+        "prompt-engineering",
+        "skills"
+      ],
+      "created_at": "2026-07-03T19:01:36Z",
+      "updated_at": "2026-07-08T18:13:58Z",
+      "rank": 21
+    },
+    {
+      "name": "HaochengLu/contextvc",
+      "url": "https://github.com/HaochengLu/contextvc",
+      "description": "Git-native context control plane for AI coding agents",
+      "full_description": "Git-native context control plane for AI coding agents",
+      "language": "Rust",
+      "stars": 68,
+      "stars_gained": 0,
+      "forks": 1,
+      "topics": [
+        "ai-agents",
+        "cli",
+        "context-engineering",
+        "git-native",
+        "mcp",
+        "rust"
+      ],
+      "created_at": "2026-07-05T14:06:39Z",
+      "updated_at": "2026-07-09T03:20:10Z",
+      "rank": 22
+    },
+    {
+      "name": "Soutar97/instagui",
+      "url": "https://github.com/Soutar97/instagui",
+      "description": "Turn any CLI into a web GUI with one command",
+      "full_description": "Turn any CLI into a web GUI with one command",
+      "language": "TypeScript",
+      "stars": 67,
+      "stars_gained": 0,
+      "forks": 2,
+      "topics": [
+        "ai",
+        "claude",
+        "cli",
+        "developer-tools",
+        "ffmpeg",
+        "gui"
+      ],
+      "created_at": "2026-07-04T18:01:28Z",
+      "updated_at": "2026-07-09T04:08:32Z",
+      "rank": 23
+    },
+    {
+      "name": "bolivestilo/Homekit",
+      "url": "https://github.com/bolivestilo/Homekit",
+      "description": "Homekit gives any AI agent direct, physical control over Apple Home. Flip lights. Lock doors. Read sensors. Through a single open interface.",
+      "full_description": "Homekit gives any AI agent direct, physical control over Apple Home. Flip lights. Lock doors. Read sensors. Through a single open interface.",
+      "language": "TypeScript",
+      "stars": 66,
+      "stars_gained": 0,
+      "forks": 1,
+      "topics": [
+        "ai-agent",
+        "apple-home",
+        "automation",
+        "claude",
+        "cli",
+        "cursor",
+        "homekit",
+        "iot",
+        "macos",
+        "mcp",
+        "model-context-protocol",
+        "nodejs",
+        "openclaw",
+        "smart-home",
+        "typescript"
+      ],
+      "created_at": "2026-07-08T04:34:17Z",
+      "updated_at": "2026-07-08T08:46:43Z",
+      "rank": 24
     },
     {
       "name": "walkpod1007/claude-project-ops",
@@ -413,107 +640,7 @@
       ],
       "created_at": "2026-07-04T06:44:34Z",
       "updated_at": "2026-07-07T15:25:44Z",
-      "rank": 16
-    },
-    {
-      "name": "PKU-YuanGroup/OpenAI4S",
-      "url": "https://github.com/PKU-YuanGroup/OpenAI4S",
-      "description": "9.9 元豆包API复刻 Claude Science",
-      "full_description": "9.9 元豆包API复刻 Claude Science",
-      "language": "Python",
-      "stars": 65,
-      "stars_gained": 0,
-      "forks": 7,
-      "topics": [
-        "agent",
-        "ai4science",
-        "claude-science",
-        "mit-license",
-        "open-source",
-        "science-research"
-      ],
-      "created_at": "2026-07-06T00:34:35Z",
-      "updated_at": "2026-07-08T03:27:31Z",
-      "rank": 17
-    },
-    {
-      "name": "op7418/guizang-material-illustration",
-      "url": "https://github.com/op7418/guizang-material-illustration",
-      "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
-      "full_description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
-      "language": "",
-      "stars": 60,
-      "stars_gained": 0,
-      "forks": 4,
-      "topics": [
-        "agent",
-        "chart-visualization",
-        "chinese",
-        "claude-code",
-        "codex",
-        "data-visualization",
-        "explainer",
-        "illustration",
-        "image-generation",
-        "material-illustration",
-        "skill",
-        "social-media"
-      ],
-      "created_at": "2026-07-07T13:57:13Z",
-      "updated_at": "2026-07-08T03:50:38Z",
-      "rank": 18
-    },
-    {
-      "name": "apoorvjain25/frontier",
-      "url": "https://github.com/apoorvjain25/frontier",
-      "description": "Make Claude Opus, Sonnet, GPT, or Gemini produce work close to what Claude Fable 5 would ship. 21 craft standards written and audited by the frontier model itself; single-response lift, or a full convergence loop with a taste gate.",
-      "full_description": "Make Claude Opus, Sonnet, GPT, or Gemini produce work close to what Claude Fable 5 would ship. 21 craft standards written and audited by the frontier model itself; single-response lift, or a full convergence loop with a taste gate.",
-      "language": "JavaScript",
-      "stars": 60,
-      "stars_gained": 0,
-      "forks": 13,
-      "topics": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "code-quality",
-        "gemini",
-        "gpt",
-        "llm",
-        "prompt-engineering",
-        "skills"
-      ],
-      "created_at": "2026-07-03T19:01:36Z",
-      "updated_at": "2026-07-08T02:02:27Z",
-      "rank": 19
-    },
-    {
-      "name": "ahwanulm/9router-v2",
-      "url": "https://github.com/ahwanulm/9router-v2",
-      "description": "Self-hosted AI gateway — one endpoint, many providers, auto-fallback. OpenAI-compatible REST API with Cloudflare Workers AI automation.",
-      "full_description": "Self-hosted AI gateway — one endpoint, many providers, auto-fallback. OpenAI-compatible REST API with Cloudflare Workers AI automation.",
-      "language": "JavaScript",
-      "stars": 59,
-      "stars_gained": 0,
-      "forks": 29,
-      "topics": [
-        "ai",
-        "automation",
-        "claude",
-        "cloudflare-workers",
-        "gemini",
-        "kiro",
-        "llm",
-        "proxy",
-        "qoder",
-        "skills",
-        "token-saver",
-        "worker-ai"
-      ],
-      "created_at": "2026-07-03T09:15:38Z",
-      "updated_at": "2026-07-08T03:50:51Z",
-      "rank": 20
+      "rank": 25
     },
     {
       "name": "Bike4Mind/bike4mind",
@@ -521,9 +648,9 @@
       "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.",
       "full_description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.",
       "language": "TypeScript",
-      "stars": 54,
+      "stars": 57,
       "stars_gained": 0,
-      "forks": 12,
+      "forks": 14,
       "topics": [
         "agents",
         "ai",
@@ -544,152 +671,83 @@
         "vllm"
       ],
       "created_at": "2026-07-05T15:48:04Z",
-      "updated_at": "2026-07-08T03:19:08Z",
-      "rank": 21
-    },
-    {
-      "name": "kimsh-1/deck-factory",
-      "url": "https://github.com/kimsh-1/deck-factory",
-      "description": "One line of intent → a presentation-grade, dark-editorial HTML deck. A Claude Code skill.",
-      "full_description": "One line of intent → a presentation-grade, dark-editorial HTML deck. A Claude Code skill.",
-      "language": "CSS",
-      "stars": 46,
-      "stars_gained": 0,
-      "forks": 17,
-      "topics": [
-        "agent-skills",
-        "ai",
-        "anthropic",
-        "claude-code",
-        "claude-skills",
-        "deck",
-        "design-system",
-        "html",
-        "presentation",
-        "slides"
-      ],
-      "created_at": "2026-07-03T13:51:02Z",
-      "updated_at": "2026-07-07T09:13:38Z",
-      "rank": 22
-    },
-    {
-      "name": "HaochengLu/contextvc",
-      "url": "https://github.com/HaochengLu/contextvc",
-      "description": "Git-native context control plane for AI coding agents",
-      "full_description": "Git-native context control plane for AI coding agents",
-      "language": "Rust",
-      "stars": 43,
-      "stars_gained": 0,
-      "forks": 1,
-      "topics": [
-        "ai-agents",
-        "cli",
-        "context-engineering",
-        "git-native",
-        "mcp",
-        "rust"
-      ],
-      "created_at": "2026-07-05T14:06:39Z",
-      "updated_at": "2026-07-08T01:54:54Z",
-      "rank": 23
-    },
-    {
-      "name": "wanglinsaputra/OmniPost-AI",
-      "url": "https://github.com/wanglinsaputra/OmniPost-AI",
-      "description": "AI-powered Chrome extension for generating and publishing posts to Facebook, Threads, and X using ChatGPT or Gemini.",
-      "full_description": "AI-powered Chrome extension for generating and publishing posts to Facebook, Threads, and X using ChatGPT or Gemini.",
-      "language": "TypeScript",
-      "stars": 42,
-      "stars_gained": 0,
-      "forks": 21,
-      "topics": [
-        "ai",
-        "automation",
-        "chatgpt",
-        "chrome-extension",
-        "gemini",
-        "typescript",
-        "vite"
-      ],
-      "created_at": "2026-07-05T03:17:33Z",
-      "updated_at": "2026-07-06T05:11:20Z",
-      "rank": 24
-    },
-    {
-      "name": "Key-wxh/market-fish",
-      "url": "https://github.com/Key-wxh/market-fish",
-      "description": "Dont guess. Simulate. Multi-agent market prediction engine.",
-      "full_description": "Dont guess. Simulate. Multi-agent market prediction engine.",
-      "language": "Python",
-      "stars": 41,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "agent-based-modeling",
-        "ai-agents",
-        "generative-agents",
-        "llm",
-        "market-prediction",
-        "market-simulation",
-        "multi-agent",
-        "product-validation",
-        "simulation",
-        "streamlit"
-      ],
-      "created_at": "2026-07-01T08:25:36Z",
-      "updated_at": "2026-07-07T23:47:01Z",
-      "rank": 25
-    },
-    {
-      "name": "fanbidog/okkmax-web",
-      "url": "https://github.com/fanbidog/okkmax-web",
-      "description": "OkkMax — independent review & directory for AI API relay providers: authenticity checks that catch silent model swaps, uptime monitoring, real user reviews. okkmax.com",
-      "full_description": "OkkMax — independent review & directory for AI API relay providers: authenticity checks that catch silent model swaps, uptime monitoring, real user reviews. okkmax.com",
-      "language": "TypeScript",
-      "stars": 38,
-      "stars_gained": 0,
-      "forks": 1,
-      "topics": [
-        "api-relay",
-        "claude",
-        "claude-code",
-        "codex",
-        "gemini",
-        "llm",
-        "nextjs",
-        "prisma"
-      ],
-      "created_at": "2026-07-03T11:40:39Z",
-      "updated_at": "2026-07-08T03:42:18Z",
+      "updated_at": "2026-07-09T03:59:18Z",
       "rank": 26
+    },
+    {
+      "name": "ashutosh-rath02/atrophy",
+      "url": "https://github.com/ashutosh-rath02/atrophy",
+      "description": "Measure what your brain is losing while AI does your work - unaided-skill baselines, decay curves, reliance drills",
+      "full_description": "Measure what your brain is losing while AI does your work - unaided-skill baselines, decay curves, reliance drills",
+      "language": "TypeScript",
+      "stars": 56,
+      "stars_gained": 0,
+      "forks": 1,
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "cli",
+        "deliberate-practice",
+        "developer-tools",
+        "elo-rating",
+        "local-first",
+        "nodejs",
+        "skill-assessment",
+        "skill-decay",
+        "typescript"
+      ],
+      "created_at": "2026-07-05T14:45:19Z",
+      "updated_at": "2026-07-09T04:23:26Z",
+      "rank": 27
+    },
+    {
+      "name": "RightNow-AI/auto",
+      "url": "https://github.com/RightNow-AI/auto",
+      "description": "the agi compiler: records llm agent behavior, proves what repeats, and compiles it into verified, sandboxed wasm binaries that run for microdollars. nothing figured out twice, paper: https://arxiv.org/abs/2607.04542",
+      "full_description": "the agi compiler: records llm agent behavior, proves what repeats, and compiles it into verified, sandboxed wasm binaries that run for microdollars. nothing figured out twice, paper: https://arxiv.org/abs/2607.04542",
+      "language": "Rust",
+      "stars": 53,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "agent",
+        "ai-infrastructure",
+        "compiler",
+        "conformal-prediction",
+        "distillation",
+        "inference-optimization",
+        "llm",
+        "program-synthesis",
+        "webassembly"
+      ],
+      "created_at": "2026-07-05T15:20:57Z",
+      "updated_at": "2026-07-09T04:19:16Z",
+      "rank": 28
     },
     {
       "name": "xingranya/GitHub-Stars-AI-Tools",
       "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
-      "description": "本地优先的 GitHub Stars AI 桌面应用，用于同步、摘要、标签、搜索和发现项目。Local-first AI desktop app for GitHub Stars.",
-      "full_description": "本地优先的 GitHub Stars AI 桌面应用，用于同步、摘要、标签、搜索和发现项目。Local-first AI desktop app for GitHub Stars.",
+      "description": "本地优先的 GitHub Stars AI 桌面应用，可 AI 检索/解析已 Star 项目。Local-first AI desktop app for GitHub Stars.",
+      "full_description": "本地优先的 GitHub Stars AI 桌面应用，可 AI 检索/解析已 Star 项目。Local-first AI desktop app for GitHub Stars.",
       "language": "TypeScript",
-      "stars": 38,
+      "stars": 53,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 10,
       "topics": [
         "ai",
-        "anthropic",
         "desktop-app",
         "github-stars",
         "knowledge-base",
         "local-first",
         "natural-language-search",
-        "openai",
         "react",
-        "readme",
         "rust",
         "sqlite",
         "tauri"
       ],
       "created_at": "2026-07-04T18:03:56Z",
-      "updated_at": "2026-07-08T02:49:56Z",
-      "rank": 27
+      "updated_at": "2026-07-09T04:16:41Z",
+      "rank": 29
     },
     {
       "name": "suiyuebaobao/C-SSH",
@@ -697,7 +755,7 @@
       "description": "Native cross-platform SSH ops: persistent tmux sessions × always-on monitoring × built-in AI assistant. Windows/Android, free forever, open-source soon. 原生跨平台 SSH 运维 · tmux 持久化 · 常驻监控 · 内置 AI 助手",
       "full_description": "Native cross-platform SSH ops: persistent tmux sessions × always-on monitoring × built-in AI assistant. Windows/Android, free forever, open-source soon. 原生跨平台 SSH 运维 · tmux 持久化 · 常驻监控 · 内置 AI 助手",
       "language": "",
-      "stars": 37,
+      "stars": 48,
       "stars_gained": 0,
       "forks": 5,
       "topics": [
@@ -723,64 +781,7 @@
         "windows"
       ],
       "created_at": "2026-07-06T11:18:21Z",
-      "updated_at": "2026-07-08T03:37:09Z",
-      "rank": 28
-    },
-    {
-      "name": "jvogan/a-fable-of-codexes",
-      "url": "https://github.com/jvogan/a-fable-of-codexes",
-      "description": "Claude Code skills that make Claude (Fable) the conductor of AI worker fleets: many parallel OpenAI Codex workers plus Opus design agents, organized into campaigns, waves, squads, and review gates.",
-      "full_description": "Claude Code skills that make Claude (Fable) the conductor of AI worker fleets: many parallel OpenAI Codex workers plus Opus design agents, organized into campaigns, waves, squads, and review gates.",
-      "language": "Python",
-      "stars": 36,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "agent-orchestration",
-        "agent-skills",
-        "agentic-coding",
-        "ai-agents",
-        "anthropic",
-        "automation",
-        "claude",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "developer-tools",
-        "llm",
-        "multi-agent",
-        "openai",
-        "openai-codex",
-        "orchestration"
-      ],
-      "created_at": "2026-07-04T20:59:46Z",
-      "updated_at": "2026-07-07T19:07:22Z",
-      "rank": 29
-    },
-    {
-      "name": "shehryarsaroya/agenttransfer",
-      "url": "https://github.com/shehryarsaroya/agenttransfer",
-      "description": "Open-source file transfer for AI agents — every agent gets an email address, a folder, and an inbox. Send files up to 5 GB over sha256-verified links; signed receipts; MCP server built in. One Go binary, MIT.",
-      "full_description": "Open-source file transfer for AI agents — every agent gets an email address, a folder, and an inbox. Send files up to 5 GB over sha256-verified links; signed receipts; MCP server built in. One Go binary, MIT.",
-      "language": "Go",
-      "stars": 31,
-      "stars_gained": 0,
-      "forks": 3,
-      "topics": [
-        "a2a",
-        "ai-agents",
-        "email",
-        "file-sharing",
-        "file-transfer",
-        "go",
-        "golang",
-        "mcp",
-        "mcp-server",
-        "multi-agent",
-        "self-hosted"
-      ],
-      "created_at": "2026-07-02T22:59:33Z",
-      "updated_at": "2026-07-08T01:36:16Z",
+      "updated_at": "2026-07-09T04:02:50Z",
       "rank": 30
     }
   ]
