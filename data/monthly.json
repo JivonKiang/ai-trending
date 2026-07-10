@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T04:29:23.120154+00:00",
+  "updated": "2026-07-10T04:32:13.271887+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "full_description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars": 78213,
+      "stars": 79370,
       "stars_gained": 0,
-      "forks": 4176,
+      "forks": 4261,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -26,7 +26,7 @@
         "yagni"
       ],
       "created_at": "2026-06-12T00:52:37Z",
-      "updated_at": "2026-07-09T04:28:23Z",
+      "updated_at": "2026-07-10T04:29:53Z",
       "rank": 1
     },
     {
@@ -35,9 +35,9 @@
       "description": "MiMo Code: Where Models and Agents Co-Evolve",
       "full_description": "MiMo Code: Where Models and Agents Co-Evolve",
       "language": "TypeScript",
-      "stars": 11669,
+      "stars": 11725,
       "stars_gained": 0,
-      "forks": 1146,
+      "forks": 1160,
       "topics": [
         "ai",
         "ai-agents",
@@ -46,7 +46,7 @@
         "mimo-code"
       ],
       "created_at": "2026-06-10T11:52:41Z",
-      "updated_at": "2026-07-09T04:16:11Z",
+      "updated_at": "2026-07-10T04:15:00Z",
       "rank": 2
     },
     {
@@ -55,9 +55,9 @@
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
       "full_description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
       "language": "Python",
-      "stars": 6801,
+      "stars": 6934,
       "stars_gained": 0,
-      "forks": 910,
+      "forks": 935,
       "topics": [
         "agent-framework",
         "agent-governance",
@@ -77,40 +77,8 @@
         "sandbox"
       ],
       "created_at": "2026-06-11T12:18:13Z",
-      "updated_at": "2026-07-09T04:18:40Z",
+      "updated_at": "2026-07-10T04:21:29Z",
       "rank": 3
-    },
-    {
-      "name": "cobusgreyling/loop-engineering",
-      "url": "https://github.com/cobusgreyling/loop-engineering",
-      "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
-      "full_description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
-      "language": "JavaScript",
-      "stars": 6648,
-      "stars_gained": 0,
-      "forks": 856,
-      "topics": [
-        "agentic-ai",
-        "ai-agents",
-        "ai-coding",
-        "anthropic",
-        "automation",
-        "claude",
-        "claude-code",
-        "codex",
-        "coding-agents",
-        "devops-automation",
-        "devtools",
-        "github-actions",
-        "grok",
-        "llm",
-        "loop-engineering",
-        "mcp",
-        "prompt-engineering"
-      ],
-      "created_at": "2026-06-09T06:28:20Z",
-      "updated_at": "2026-07-09T04:28:47Z",
-      "rank": 4
     },
     {
       "name": "elder-plinius/T3MP3ST",
@@ -118,9 +86,9 @@
       "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "full_description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "language": "TypeScript",
-      "stars": 3910,
+      "stars": 4205,
       "stars_gained": 0,
-      "forks": 847,
+      "forks": 903,
       "topics": [
         "agents",
         "ai",
@@ -129,8 +97,8 @@
         "redteam"
       ],
       "created_at": "2026-07-02T17:53:55Z",
-      "updated_at": "2026-07-09T04:27:29Z",
-      "rank": 5
+      "updated_at": "2026-07-10T04:26:24Z",
+      "rank": 4
     },
     {
       "name": "vercel/eve",
@@ -138,9 +106,9 @@
       "description": "The Framework for Building Agents",
       "full_description": "The Framework for Building Agents",
       "language": "TypeScript",
-      "stars": 3338,
+      "stars": 3366,
       "stars_gained": 0,
-      "forks": 275,
+      "forks": 279,
       "topics": [
         "agent",
         "framework",
@@ -153,8 +121,8 @@
         "workflows"
       ],
       "created_at": "2026-06-16T10:51:20Z",
-      "updated_at": "2026-07-09T02:39:28Z",
-      "rank": 6
+      "updated_at": "2026-07-10T04:00:58Z",
+      "rank": 5
     },
     {
       "name": "TestSprite/testsprite-cli",
@@ -162,9 +130,9 @@
       "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
       "full_description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
       "language": "TypeScript",
-      "stars": 2228,
+      "stars": 2280,
       "stars_gained": 0,
-      "forks": 81,
+      "forks": 84,
       "topics": [
         "ai",
         "cli",
@@ -175,7 +143,37 @@
         "testing"
       ],
       "created_at": "2026-06-11T10:44:15Z",
-      "updated_at": "2026-07-09T04:15:43Z",
+      "updated_at": "2026-07-10T04:30:09Z",
+      "rank": 6
+    },
+    {
+      "name": "synthetic-sciences/openscience",
+      "url": "https://github.com/synthetic-sciences/openscience",
+      "description": "The open-source AI workbench for scientific research",
+      "full_description": "The open-source AI workbench for scientific research",
+      "language": "TypeScript",
+      "stars": 1967,
+      "stars_gained": 0,
+      "forks": 282,
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "bun",
+        "cli",
+        "co-scientist",
+        "llm",
+        "ml",
+        "ml-engineering",
+        "open-source",
+        "research",
+        "research-tools",
+        "science",
+        "scientific-computing",
+        "typescript"
+      ],
+      "created_at": "2026-07-03T15:06:45Z",
+      "updated_at": "2026-07-10T04:25:12Z",
       "rank": 7
     },
     {
@@ -184,9 +182,9 @@
       "description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
       "full_description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
       "language": "TypeScript",
-      "stars": 1937,
+      "stars": 1966,
       "stars_gained": 0,
-      "forks": 386,
+      "forks": 398,
       "topics": [
         "a-stock",
         "ai-agent",
@@ -209,38 +207,8 @@
         "tickflow"
       ],
       "created_at": "2026-06-18T06:18:29Z",
-      "updated_at": "2026-07-09T03:39:23Z",
+      "updated_at": "2026-07-10T04:24:22Z",
       "rank": 8
-    },
-    {
-      "name": "synthetic-sciences/openscience",
-      "url": "https://github.com/synthetic-sciences/openscience",
-      "description": "The open-source AI workbench for scientific research",
-      "full_description": "The open-source AI workbench for scientific research",
-      "language": "TypeScript",
-      "stars": 1804,
-      "stars_gained": 0,
-      "forks": 256,
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agent",
-        "bun",
-        "cli",
-        "co-scientist",
-        "llm",
-        "ml",
-        "ml-engineering",
-        "open-source",
-        "research",
-        "research-tools",
-        "science",
-        "scientific-computing",
-        "typescript"
-      ],
-      "created_at": "2026-07-03T15:06:45Z",
-      "updated_at": "2026-07-09T04:07:26Z",
-      "rank": 9
     },
     {
       "name": "rebel0789/codexpro",
@@ -248,9 +216,9 @@
       "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
       "full_description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
       "language": "JavaScript",
-      "stars": 1228,
+      "stars": 1249,
       "stars_gained": 0,
-      "forks": 112,
+      "forks": 114,
       "topics": [
         "apps-sdk",
         "chatgpt",
@@ -261,8 +229,8 @@
         "ngrok"
       ],
       "created_at": "2026-06-16T21:22:43Z",
-      "updated_at": "2026-07-09T04:27:06Z",
-      "rank": 10
+      "updated_at": "2026-07-10T03:28:34Z",
+      "rank": 9
     },
     {
       "name": "larlarua/AutoCVE",
@@ -270,9 +238,9 @@
       "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generation.",
       "full_description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generation.",
       "language": "Python",
-      "stars": 1126,
+      "stars": 1152,
       "stars_gained": 0,
-      "forks": 71,
+      "forks": 76,
       "topics": [
         "agent",
         "ai-security",
@@ -290,30 +258,8 @@
         "vulnerability-research"
       ],
       "created_at": "2026-06-15T14:50:47Z",
-      "updated_at": "2026-07-09T04:02:56Z",
-      "rank": 11
-    },
-    {
-      "name": "sums001/Windows-Copilot-API",
-      "url": "https://github.com/sums001/Windows-Copilot-API",
-      "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-      "full_description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-      "language": "Python",
-      "stars": 1075,
-      "stars_gained": 0,
-      "forks": 359,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "api",
-        "copilot",
-        "llm",
-        "microsoft-copilot",
-        "openai"
-      ],
-      "created_at": "2026-06-19T13:24:44Z",
-      "updated_at": "2026-07-09T03:11:09Z",
-      "rank": 12
+      "updated_at": "2026-07-10T04:30:11Z",
+      "rank": 10
     },
     {
       "name": "oomol-lab/open-connector",
@@ -321,9 +267,9 @@
       "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
       "full_description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
       "language": "TypeScript",
-      "stars": 1016,
+      "stars": 1136,
       "stars_gained": 0,
-      "forks": 49,
+      "forks": 64,
       "topics": [
         "agent-tools",
         "ai-agents",
@@ -345,8 +291,30 @@
         "typescript"
       ],
       "created_at": "2026-06-29T10:49:36Z",
-      "updated_at": "2026-07-09T04:27:53Z",
-      "rank": 13
+      "updated_at": "2026-07-10T04:09:34Z",
+      "rank": 11
+    },
+    {
+      "name": "sums001/Windows-Copilot-API",
+      "url": "https://github.com/sums001/Windows-Copilot-API",
+      "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+      "full_description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+      "language": "Python",
+      "stars": 1083,
+      "stars_gained": 0,
+      "forks": 362,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "api",
+        "copilot",
+        "llm",
+        "microsoft-copilot",
+        "openai"
+      ],
+      "created_at": "2026-06-19T13:24:44Z",
+      "updated_at": "2026-07-10T04:21:44Z",
+      "rank": 12
     },
     {
       "name": "eli-labz/Third-Eye",
@@ -354,7 +322,7 @@
       "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
       "full_description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
       "language": "TypeScript",
-      "stars": 935,
+      "stars": 933,
       "stars_gained": 0,
       "forks": 13,
       "topics": [
@@ -365,8 +333,8 @@
         "palantir"
       ],
       "created_at": "2026-06-13T03:15:46Z",
-      "updated_at": "2026-07-08T08:58:40Z",
-      "rank": 14
+      "updated_at": "2026-07-09T10:43:11Z",
+      "rank": 13
     },
     {
       "name": "modiqo/skillspec",
@@ -374,7 +342,7 @@
       "description": "SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof.",
       "full_description": "SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof.",
       "language": "Rust",
-      "stars": 906,
+      "stars": 914,
       "stars_gained": 0,
       "forks": 57,
       "topics": [
@@ -384,8 +352,8 @@
         "ai-tool"
       ],
       "created_at": "2026-06-19T23:42:55Z",
-      "updated_at": "2026-07-09T01:25:51Z",
-      "rank": 15
+      "updated_at": "2026-07-09T23:49:16Z",
+      "rank": 14
     },
     {
       "name": "alchaincyf/fanbox",
@@ -393,9 +361,9 @@
       "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
       "full_description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
       "language": "JavaScript",
-      "stars": 904,
+      "stars": 908,
       "stars_gained": 0,
-      "forks": 125,
+      "forks": 127,
       "topics": [
         "agent",
         "ai",
@@ -409,8 +377,8 @@
         "vibe-coding"
       ],
       "created_at": "2026-06-10T01:01:42Z",
-      "updated_at": "2026-07-08T15:02:58Z",
-      "rank": 16
+      "updated_at": "2026-07-09T21:01:33Z",
+      "rank": 15
     },
     {
       "name": "jmerelnyc/Talos",
@@ -418,7 +386,7 @@
       "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "full_description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "language": "Python",
-      "stars": 787,
+      "stars": 817,
       "stars_gained": 0,
       "forks": 13,
       "topics": [
@@ -432,8 +400,8 @@
         "worker"
       ],
       "created_at": "2026-07-02T14:43:11Z",
-      "updated_at": "2026-07-09T04:27:32Z",
-      "rank": 17
+      "updated_at": "2026-07-10T02:20:14Z",
+      "rank": 16
     },
     {
       "name": "coder/boo",
@@ -454,25 +422,7 @@
       ],
       "created_at": "2026-06-10T01:53:01Z",
       "updated_at": "2026-07-08T07:00:28Z",
-      "rank": 18
-    },
-    {
-      "name": "modiqo/cliare",
-      "url": "https://github.com/modiqo/cliare",
-      "description": "CLI agent-readiness measurement, command-shape inference, and CI scorecards",
-      "full_description": "CLI agent-readiness measurement, command-shape inference, and CI scorecards",
-      "language": "Rust",
-      "stars": 712,
-      "stars_gained": 0,
-      "forks": 42,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "cli"
-      ],
-      "created_at": "2026-06-13T00:38:35Z",
-      "updated_at": "2026-07-08T21:30:20Z",
-      "rank": 19
+      "rank": 17
     },
     {
       "name": "uzairansaruzi/hermex",
@@ -480,9 +430,9 @@
       "description": "Native iPhone app for your Hermes agent",
       "full_description": "Native iPhone app for your Hermes agent",
       "language": "Swift",
-      "stars": 701,
+      "stars": 711,
       "stars_gained": 0,
-      "forks": 71,
+      "forks": 73,
       "topics": [
         "hermes",
         "hermes-agent",
@@ -494,8 +444,26 @@
         "swiftui"
       ],
       "created_at": "2026-07-02T12:47:31Z",
-      "updated_at": "2026-07-09T04:17:43Z",
-      "rank": 20
+      "updated_at": "2026-07-10T03:59:02Z",
+      "rank": 18
+    },
+    {
+      "name": "modiqo/cliare",
+      "url": "https://github.com/modiqo/cliare",
+      "description": "CLI agent-readiness measurement, command-shape inference, and CI scorecards",
+      "full_description": "CLI agent-readiness measurement, command-shape inference, and CI scorecards",
+      "language": "Rust",
+      "stars": 711,
+      "stars_gained": 0,
+      "forks": 42,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "cli"
+      ],
+      "created_at": "2026-06-13T00:38:35Z",
+      "updated_at": "2026-07-09T10:43:11Z",
+      "rank": 19
     },
     {
       "name": "benchflow-ai/awesome-evals",
@@ -503,9 +471,9 @@
       "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
       "full_description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
       "language": "",
-      "stars": 695,
+      "stars": 701,
       "stars_gained": 0,
-      "forks": 51,
+      "forks": 53,
       "topics": [
         "agent-evaluation",
         "ai-agents",
@@ -518,8 +486,8 @@
         "rl-environments"
       ],
       "created_at": "2026-06-24T08:10:33Z",
-      "updated_at": "2026-07-09T03:47:51Z",
-      "rank": 21
+      "updated_at": "2026-07-10T04:32:09Z",
+      "rank": 20
     },
     {
       "name": "raiyanyahya/recall",
@@ -527,7 +495,7 @@
       "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
       "full_description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
       "language": "Python",
-      "stars": 690,
+      "stars": 694,
       "stars_gained": 0,
       "forks": 41,
       "topics": [
@@ -551,28 +519,8 @@
         "textrank"
       ],
       "created_at": "2026-06-19T20:36:41Z",
-      "updated_at": "2026-07-08T23:17:22Z",
-      "rank": 22
-    },
-    {
-      "name": "xingwudao/xquant-beginner",
-      "url": "https://github.com/xingwudao/xquant-beginner",
-      "description": "《XQuant：人人都是量化交易员》开源书稿",
-      "full_description": "《XQuant：人人都是量化交易员》开源书稿",
-      "language": "TypeScript",
-      "stars": 558,
-      "stars_gained": 0,
-      "forks": 98,
-      "topics": [
-        "ai",
-        "gitbook",
-        "quant",
-        "trading",
-        "vitepress"
-      ],
-      "created_at": "2026-06-09T07:08:36Z",
-      "updated_at": "2026-07-09T01:56:56Z",
-      "rank": 23
+      "updated_at": "2026-07-09T19:34:39Z",
+      "rank": 21
     },
     {
       "name": "simonlin1212/Vibe-Research",
@@ -580,9 +528,9 @@
       "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "full_description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "language": "TypeScript",
-      "stars": 557,
+      "stars": 597,
       "stars_gained": 0,
-      "forks": 107,
+      "forks": 118,
       "topics": [
         "a-stock",
         "ai-agent",
@@ -600,7 +548,69 @@
         "us-stocks"
       ],
       "created_at": "2026-07-05T06:30:55Z",
-      "updated_at": "2026-07-09T03:20:24Z",
+      "updated_at": "2026-07-10T04:23:42Z",
+      "rank": 22
+    },
+    {
+      "name": "ai4s-research/open-science",
+      "url": "https://github.com/ai4s-research/open-science",
+      "description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
+      "full_description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
+      "language": "TypeScript",
+      "stars": 518,
+      "stars_gained": 0,
+      "forks": 58,
+      "topics": [
+        "ai-agent",
+        "ai-for-science",
+        "ai-scientist",
+        "ai4s",
+        "claude-science",
+        "claude-science-alternative",
+        "claude-science-desktop-alternative",
+        "desktop-app",
+        "linux",
+        "local-first",
+        "macos",
+        "mcp",
+        "open-science",
+        "open-science-desktop",
+        "reproducible-research",
+        "research-tools",
+        "research-workbench",
+        "scientific-research",
+        "tauri",
+        "windows"
+      ],
+      "created_at": "2026-07-03T09:22:31Z",
+      "updated_at": "2026-07-10T04:21:09Z",
+      "rank": 23
+    },
+    {
+      "name": "op7418/guizang-material-illustration",
+      "url": "https://github.com/op7418/guizang-material-illustration",
+      "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+      "full_description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+      "language": "",
+      "stars": 483,
+      "stars_gained": 0,
+      "forks": 42,
+      "topics": [
+        "agent",
+        "chart-visualization",
+        "chinese",
+        "claude-code",
+        "codex",
+        "data-visualization",
+        "explainer",
+        "illustration",
+        "image-generation",
+        "material-illustration",
+        "skill",
+        "social-media"
+      ],
+      "created_at": "2026-07-07T13:57:13Z",
+      "updated_at": "2026-07-10T04:24:36Z",
       "rank": 24
     },
     {
@@ -611,7 +621,7 @@
       "language": "JavaScript",
       "stars": 476,
       "stars_gained": 0,
-      "forks": 55,
+      "forks": 57,
       "topics": [
         "ai",
         "machine-learning"
@@ -626,9 +636,9 @@
       "description": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
       "full_description": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
       "language": "TypeScript",
-      "stars": 453,
+      "stars": 456,
       "stars_gained": 0,
-      "forks": 49,
+      "forks": 51,
       "topics": [
         "agent-harness",
         "agent-harness-generator",
@@ -652,7 +662,7 @@
         "scaffolding"
       ],
       "created_at": "2026-06-13T18:29:11Z",
-      "updated_at": "2026-07-09T03:23:20Z",
+      "updated_at": "2026-07-09T08:28:42Z",
       "rank": 26
     },
     {
@@ -678,36 +688,6 @@
       "rank": 27
     },
     {
-      "name": "ai4s-research/open-science",
-      "url": "https://github.com/ai4s-research/open-science",
-      "description": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
-      "full_description": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
-      "language": "TypeScript",
-      "stars": 404,
-      "stars_gained": 0,
-      "forks": 43,
-      "topics": [
-        "ai-agent",
-        "ai-for-science",
-        "ai-scientist",
-        "ai4s",
-        "claude-science",
-        "claude-science-alternative",
-        "desktop-app",
-        "llm",
-        "local-first",
-        "mcp",
-        "open-science",
-        "reproducible-research",
-        "research-tools",
-        "scientific-research",
-        "tauri"
-      ],
-      "created_at": "2026-07-03T09:22:31Z",
-      "updated_at": "2026-07-09T04:28:20Z",
-      "rank": 28
-    },
-    {
       "name": "anasu1/text-humanizer",
       "url": "https://github.com/anasu1/text-humanizer",
       "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
@@ -728,33 +708,55 @@
       ],
       "created_at": "2026-06-16T17:18:50Z",
       "updated_at": "2026-07-08T14:05:49Z",
+      "rank": 28
+    },
+    {
+      "name": "axislab-top/Foundry",
+      "url": "https://github.com/axislab-top/Foundry",
+      "description": "Transform any idea into a running AI-powered company",
+      "full_description": "Transform any idea into a running AI-powered company",
+      "language": "TypeScript",
+      "stars": 378,
+      "stars_gained": 0,
+      "forks": 5,
+      "topics": [
+        "agent-platform",
+        "ai",
+        "ai-agents",
+        "ai-company",
+        "autonomous-agents",
+        "collaboration",
+        "digital-company",
+        "llm",
+        "multi-agent",
+        "nestjs",
+        "open-source",
+        "react",
+        "typescript",
+        "workflow"
+      ],
+      "created_at": "2026-06-21T05:59:33Z",
+      "updated_at": "2026-07-10T03:58:27Z",
       "rank": 29
     },
     {
-      "name": "op7418/guizang-material-illustration",
-      "url": "https://github.com/op7418/guizang-material-illustration",
-      "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
-      "full_description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
-      "language": "",
-      "stars": 361,
+      "name": "nullpointexception-i/agent-sphere",
+      "url": "https://github.com/nullpointexception-i/agent-sphere",
+      "description": "This project is an AI Agent orchestration platform. It uses an LLM-driven decision engine, combined with capabilities (built-in tools, MCP protocol, CLI execution, browser operations, etc.), to achieve a basic closed loop from perception → planning → execution → feedback.本项目是一个面向 AI Agent 编排平台。它通过 LLM 驱动的决策引擎，结合能力（内置工具、MCP 协议、CLI 执行、浏览器操作等）",
+      "full_description": "This project is an AI Agent orchestration platform. It uses an LLM-driven decision engine, combined with capabilities (built-in tools, MCP protocol, CLI execution, browser operations, etc.), to achieve a basic closed loop from perception → planning → execution → feedback.本项目是一个面向 AI Agent 编排平台。它通过 LLM 驱动的决策引擎，结合能力（内置工具、MCP 协议、CLI 执行、浏览器操作等）",
+      "language": "Java",
+      "stars": 348,
       "stars_gained": 0,
-      "forks": 32,
+      "forks": 11,
       "topics": [
         "agent",
-        "chart-visualization",
-        "chinese",
-        "claude-code",
-        "codex",
-        "data-visualization",
-        "explainer",
-        "illustration",
-        "image-generation",
-        "material-illustration",
-        "skill",
-        "social-media"
+        "agentic-ai",
+        "java",
+        "llm",
+        "reactjs"
       ],
-      "created_at": "2026-07-07T13:57:13Z",
-      "updated_at": "2026-07-09T04:23:26Z",
+      "created_at": "2026-06-19T11:53:36Z",
+      "updated_at": "2026-07-09T05:46:16Z",
       "rank": 30
     }
   ]
