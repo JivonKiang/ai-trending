@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T03:50:55.259578+00:00",
+  "updated": "2026-07-12T04:06:07.733248+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "full_description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars": 80226,
+      "stars": 80839,
       "stars_gained": 0,
-      "forks": 4320,
+      "forks": 4364,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -26,39 +26,8 @@
         "yagni"
       ],
       "created_at": "2026-06-12T00:52:37Z",
-      "updated_at": "2026-07-11T03:44:48Z",
+      "updated_at": "2026-07-12T04:00:28Z",
       "rank": 1
-    },
-    {
-      "name": "omnigent-ai/omnigent",
-      "url": "https://github.com/omnigent-ai/omnigent",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "full_description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "language": "Python",
-      "stars": 7012,
-      "stars_gained": 0,
-      "forks": 946,
-      "topics": [
-        "agent-framework",
-        "agent-governance",
-        "agent-orchestration",
-        "agents",
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "coding-agents",
-        "developer-tools",
-        "llm",
-        "ml",
-        "multi-agent",
-        "python",
-        "sandbox"
-      ],
-      "created_at": "2026-06-11T12:18:13Z",
-      "updated_at": "2026-07-11T03:38:37Z",
-      "rank": 2
     },
     {
       "name": "elder-plinius/T3MP3ST",
@@ -66,9 +35,9 @@
       "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "full_description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "language": "TypeScript",
-      "stars": 4341,
+      "stars": 4444,
       "stars_gained": 0,
-      "forks": 927,
+      "forks": 946,
       "topics": [
         "agents",
         "ai",
@@ -77,8 +46,8 @@
         "redteam"
       ],
       "created_at": "2026-07-02T17:53:55Z",
-      "updated_at": "2026-07-11T03:41:23Z",
-      "rank": 3
+      "updated_at": "2026-07-12T03:49:14Z",
+      "rank": 2
     },
     {
       "name": "vercel/eve",
@@ -86,9 +55,9 @@
       "description": "The Framework for Building Agents",
       "full_description": "The Framework for Building Agents",
       "language": "TypeScript",
-      "stars": 3411,
+      "stars": 3431,
       "stars_gained": 0,
-      "forks": 285,
+      "forks": 292,
       "topics": [
         "agent",
         "framework",
@@ -101,30 +70,8 @@
         "workflows"
       ],
       "created_at": "2026-06-16T10:51:20Z",
-      "updated_at": "2026-07-11T03:38:48Z",
-      "rank": 4
-    },
-    {
-      "name": "TestSprite/testsprite-cli",
-      "url": "https://github.com/TestSprite/testsprite-cli",
-      "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
-      "full_description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
-      "language": "TypeScript",
-      "stars": 2315,
-      "stars_gained": 0,
-      "forks": 87,
-      "topics": [
-        "ai",
-        "cli",
-        "e2e-testing",
-        "playwright",
-        "qa",
-        "test-automation",
-        "testing"
-      ],
-      "created_at": "2026-06-11T10:44:15Z",
-      "updated_at": "2026-07-11T01:01:16Z",
-      "rank": 5
+      "updated_at": "2026-07-12T03:08:07Z",
+      "rank": 3
     },
     {
       "name": "synthetic-sciences/openscience",
@@ -132,9 +79,9 @@
       "description": "The open-source AI workbench for scientific research",
       "full_description": "The open-source AI workbench for scientific research",
       "language": "TypeScript",
-      "stars": 2090,
+      "stars": 2191,
       "stars_gained": 0,
-      "forks": 298,
+      "forks": 311,
       "topics": [
         "agent",
         "ai",
@@ -153,8 +100,8 @@
         "typescript"
       ],
       "created_at": "2026-07-03T15:06:45Z",
-      "updated_at": "2026-07-11T03:33:19Z",
-      "rank": 6
+      "updated_at": "2026-07-12T03:57:34Z",
+      "rank": 4
     },
     {
       "name": "shy3130/tickflow-stock-panel",
@@ -162,9 +109,9 @@
       "description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
       "full_description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
       "language": "TypeScript",
-      "stars": 1989,
+      "stars": 2026,
       "stars_gained": 0,
-      "forks": 406,
+      "forks": 417,
       "topics": [
         "a-stock",
         "ai-agent",
@@ -187,30 +134,8 @@
         "tickflow"
       ],
       "created_at": "2026-06-18T06:18:29Z",
-      "updated_at": "2026-07-11T03:42:41Z",
-      "rank": 7
-    },
-    {
-      "name": "rebel0789/codexpro",
-      "url": "https://github.com/rebel0789/codexpro",
-      "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-      "full_description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-      "language": "JavaScript",
-      "stars": 1268,
-      "stars_gained": 0,
-      "forks": 115,
-      "topics": [
-        "apps-sdk",
-        "chatgpt",
-        "cloudflare-tunnel",
-        "codex",
-        "local-development",
-        "mcp",
-        "ngrok"
-      ],
-      "created_at": "2026-06-16T21:22:43Z",
-      "updated_at": "2026-07-11T00:40:18Z",
-      "rank": 8
+      "updated_at": "2026-07-12T04:00:39Z",
+      "rank": 5
     },
     {
       "name": "oomol-lab/open-connector",
@@ -218,9 +143,9 @@
       "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
       "full_description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
       "language": "TypeScript",
-      "stars": 1260,
+      "stars": 1428,
       "stars_gained": 0,
-      "forks": 71,
+      "forks": 81,
       "topics": [
         "agent-tools",
         "ai-agents",
@@ -242,8 +167,30 @@
         "typescript"
       ],
       "created_at": "2026-06-29T10:49:36Z",
-      "updated_at": "2026-07-11T03:46:45Z",
-      "rank": 9
+      "updated_at": "2026-07-12T04:02:39Z",
+      "rank": 6
+    },
+    {
+      "name": "rebel0789/codexpro",
+      "url": "https://github.com/rebel0789/codexpro",
+      "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "full_description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "language": "JavaScript",
+      "stars": 1272,
+      "stars_gained": 0,
+      "forks": 115,
+      "topics": [
+        "apps-sdk",
+        "chatgpt",
+        "cloudflare-tunnel",
+        "codex",
+        "local-development",
+        "mcp",
+        "ngrok"
+      ],
+      "created_at": "2026-06-16T21:22:43Z",
+      "updated_at": "2026-07-12T03:05:26Z",
+      "rank": 7
     },
     {
       "name": "larlarua/AutoCVE",
@@ -251,9 +198,9 @@
       "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generation.",
       "full_description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generation.",
       "language": "Python",
-      "stars": 1172,
+      "stars": 1191,
       "stars_gained": 0,
-      "forks": 76,
+      "forks": 78,
       "topics": [
         "agent",
         "ai-security",
@@ -271,8 +218,8 @@
         "vulnerability-research"
       ],
       "created_at": "2026-06-15T14:50:47Z",
-      "updated_at": "2026-07-11T03:22:37Z",
-      "rank": 10
+      "updated_at": "2026-07-12T03:39:33Z",
+      "rank": 8
     },
     {
       "name": "sums001/Windows-Copilot-API",
@@ -280,9 +227,9 @@
       "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
       "full_description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
       "language": "Python",
-      "stars": 1091,
+      "stars": 1101,
       "stars_gained": 0,
-      "forks": 365,
+      "forks": 366,
       "topics": [
         "ai",
         "ai-agents",
@@ -293,28 +240,8 @@
         "openai"
       ],
       "created_at": "2026-06-19T13:24:44Z",
-      "updated_at": "2026-07-11T01:45:58Z",
-      "rank": 11
-    },
-    {
-      "name": "eli-labz/Third-Eye",
-      "url": "https://github.com/eli-labz/Third-Eye",
-      "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
-      "full_description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
-      "language": "TypeScript",
-      "stars": 934,
-      "stars_gained": 0,
-      "forks": 13,
-      "topics": [
-        "ai",
-        "ai-agent",
-        "geospatial",
-        "maven-smart-system",
-        "palantir"
-      ],
-      "created_at": "2026-06-13T03:15:46Z",
-      "updated_at": "2026-07-10T18:15:19Z",
-      "rank": 12
+      "updated_at": "2026-07-12T02:38:15Z",
+      "rank": 9
     },
     {
       "name": "jmerelnyc/Talos",
@@ -322,7 +249,7 @@
       "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "full_description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "language": "Python",
-      "stars": 933,
+      "stars": 973,
       "stars_gained": 0,
       "forks": 16,
       "topics": [
@@ -336,8 +263,8 @@
         "worker"
       ],
       "created_at": "2026-07-02T14:43:11Z",
-      "updated_at": "2026-07-11T01:40:19Z",
-      "rank": 13
+      "updated_at": "2026-07-12T00:21:43Z",
+      "rank": 10
     },
     {
       "name": "modiqo/skillspec",
@@ -345,7 +272,7 @@
       "description": "SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof.",
       "full_description": "SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof.",
       "language": "Rust",
-      "stars": 931,
+      "stars": 936,
       "stars_gained": 0,
       "forks": 58,
       "topics": [
@@ -355,8 +282,28 @@
         "ai-tool"
       ],
       "created_at": "2026-06-19T23:42:55Z",
-      "updated_at": "2026-07-10T18:10:23Z",
-      "rank": 14
+      "updated_at": "2026-07-12T02:45:33Z",
+      "rank": 11
+    },
+    {
+      "name": "eli-labz/Third-Eye",
+      "url": "https://github.com/eli-labz/Third-Eye",
+      "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+      "full_description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+      "language": "TypeScript",
+      "stars": 935,
+      "stars_gained": 0,
+      "forks": 13,
+      "topics": [
+        "ai",
+        "ai-agent",
+        "geospatial",
+        "maven-smart-system",
+        "palantir"
+      ],
+      "created_at": "2026-06-13T03:15:46Z",
+      "updated_at": "2026-07-11T19:09:41Z",
+      "rank": 12
     },
     {
       "name": "uzairansaruzi/hermex",
@@ -364,9 +311,9 @@
       "description": "Native iPhone app for your Hermes agent",
       "full_description": "Native iPhone app for your Hermes agent",
       "language": "Swift",
-      "stars": 730,
+      "stars": 734,
       "stars_gained": 0,
-      "forks": 76,
+      "forks": 78,
       "topics": [
         "hermes",
         "hermes-agent",
@@ -378,8 +325,37 @@
         "swiftui"
       ],
       "created_at": "2026-07-02T12:47:31Z",
-      "updated_at": "2026-07-11T02:24:45Z",
-      "rank": 15
+      "updated_at": "2026-07-11T23:45:42Z",
+      "rank": 13
+    },
+    {
+      "name": "simonlin1212/Vibe-Research",
+      "url": "https://github.com/simonlin1212/Vibe-Research",
+      "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+      "full_description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+      "language": "TypeScript",
+      "stars": 730,
+      "stars_gained": 0,
+      "forks": 145,
+      "topics": [
+        "a-stock",
+        "ai-agent",
+        "dashboard",
+        "fastapi",
+        "fintech",
+        "hk-stocks",
+        "investment-research",
+        "llm",
+        "mcp",
+        "python",
+        "react",
+        "stock-market",
+        "trading",
+        "us-stocks"
+      ],
+      "created_at": "2026-07-05T06:30:55Z",
+      "updated_at": "2026-07-12T02:53:01Z",
+      "rank": 14
     },
     {
       "name": "modiqo/cliare",
@@ -396,8 +372,8 @@
         "cli"
       ],
       "created_at": "2026-06-13T00:38:35Z",
-      "updated_at": "2026-07-10T16:28:38Z",
-      "rank": 16
+      "updated_at": "2026-07-12T01:44:14Z",
+      "rank": 15
     },
     {
       "name": "benchflow-ai/awesome-evals",
@@ -405,9 +381,9 @@
       "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
       "full_description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
       "language": "",
-      "stars": 704,
+      "stars": 707,
       "stars_gained": 0,
-      "forks": 55,
+      "forks": 56,
       "topics": [
         "agent-evaluation",
         "ai-agents",
@@ -420,8 +396,8 @@
         "rl-environments"
       ],
       "created_at": "2026-06-24T08:10:33Z",
-      "updated_at": "2026-07-11T00:25:21Z",
-      "rank": 17
+      "updated_at": "2026-07-11T13:47:03Z",
+      "rank": 16
     },
     {
       "name": "raiyanyahya/recall",
@@ -429,7 +405,7 @@
       "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
       "full_description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
       "language": "Python",
-      "stars": 697,
+      "stars": 702,
       "stars_gained": 0,
       "forks": 41,
       "topics": [
@@ -453,37 +429,8 @@
         "textrank"
       ],
       "created_at": "2026-06-19T20:36:41Z",
-      "updated_at": "2026-07-10T19:43:55Z",
-      "rank": 18
-    },
-    {
-      "name": "simonlin1212/Vibe-Research",
-      "url": "https://github.com/simonlin1212/Vibe-Research",
-      "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "full_description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "language": "TypeScript",
-      "stars": 686,
-      "stars_gained": 0,
-      "forks": 131,
-      "topics": [
-        "a-stock",
-        "ai-agent",
-        "dashboard",
-        "fastapi",
-        "fintech",
-        "hk-stocks",
-        "investment-research",
-        "llm",
-        "mcp",
-        "python",
-        "react",
-        "stock-market",
-        "trading",
-        "us-stocks"
-      ],
-      "created_at": "2026-07-05T06:30:55Z",
-      "updated_at": "2026-07-11T03:09:37Z",
-      "rank": 19
+      "updated_at": "2026-07-11T21:01:26Z",
+      "rank": 17
     },
     {
       "name": "ai4s-research/open-science",
@@ -491,9 +438,9 @@
       "description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
       "full_description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
       "language": "TypeScript",
-      "stars": 607,
+      "stars": 647,
       "stars_gained": 0,
-      "forks": 68,
+      "forks": 76,
       "topics": [
         "ai-agent",
         "ai-for-science",
@@ -517,8 +464,8 @@
         "windows"
       ],
       "created_at": "2026-07-03T09:22:31Z",
-      "updated_at": "2026-07-11T03:29:01Z",
-      "rank": 20
+      "updated_at": "2026-07-12T03:15:49Z",
+      "rank": 18
     },
     {
       "name": "op7418/guizang-material-illustration",
@@ -526,9 +473,9 @@
       "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
       "full_description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
       "language": "",
-      "stars": 534,
+      "stars": 566,
       "stars_gained": 0,
-      "forks": 50,
+      "forks": 60,
       "topics": [
         "agent",
         "chart-visualization",
@@ -544,8 +491,37 @@
         "social-media"
       ],
       "created_at": "2026-07-07T13:57:13Z",
-      "updated_at": "2026-07-11T03:44:34Z",
-      "rank": 21
+      "updated_at": "2026-07-12T04:05:34Z",
+      "rank": 19
+    },
+    {
+      "name": "axislab-top/Foundry",
+      "url": "https://github.com/axislab-top/Foundry",
+      "description": "Transform any idea into a running AI-powered company",
+      "full_description": "Transform any idea into a running AI-powered company",
+      "language": "TypeScript",
+      "stars": 483,
+      "stars_gained": 0,
+      "forks": 5,
+      "topics": [
+        "agent-platform",
+        "ai",
+        "ai-agents",
+        "ai-company",
+        "autonomous-agents",
+        "collaboration",
+        "digital-company",
+        "llm",
+        "multi-agent",
+        "nestjs",
+        "open-source",
+        "react",
+        "typescript",
+        "workflow"
+      ],
+      "created_at": "2026-06-21T05:59:33Z",
+      "updated_at": "2026-07-12T03:31:56Z",
+      "rank": 20
     },
     {
       "name": "buynao/aipath",
@@ -562,7 +538,7 @@
       ],
       "created_at": "2026-06-12T10:58:35Z",
       "updated_at": "2026-07-08T14:57:02Z",
-      "rank": 22
+      "rank": 21
     },
     {
       "name": "ruvnet/metaharness",
@@ -570,7 +546,7 @@
       "description": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
       "full_description": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
       "language": "TypeScript",
-      "stars": 457,
+      "stars": 463,
       "stars_gained": 0,
       "forks": 51,
       "topics": [
@@ -596,8 +572,8 @@
         "scaffolding"
       ],
       "created_at": "2026-06-13T18:29:11Z",
-      "updated_at": "2026-07-10T20:12:43Z",
-      "rank": 23
+      "updated_at": "2026-07-12T00:00:03Z",
+      "rank": 22
     },
     {
       "name": "SmileLikeYe/agent-chief",
@@ -605,9 +581,9 @@
       "description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
       "full_description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
       "language": "Python",
-      "stars": 450,
+      "stars": 455,
       "stars_gained": 0,
-      "forks": 2,
+      "forks": 3,
       "topics": [
         "harness",
         "harness-engineering",
@@ -615,8 +591,8 @@
         "local-first"
       ],
       "created_at": "2026-07-04T15:28:56Z",
-      "updated_at": "2026-07-11T03:14:07Z",
-      "rank": 24
+      "updated_at": "2026-07-12T01:31:41Z",
+      "rank": 23
     },
     {
       "name": "gykim80/perfectpixel-studio",
@@ -638,36 +614,24 @@
       ],
       "created_at": "2026-06-14T04:23:45Z",
       "updated_at": "2026-07-10T09:55:55Z",
-      "rank": 25
+      "rank": 24
     },
     {
-      "name": "axislab-top/Foundry",
-      "url": "https://github.com/axislab-top/Foundry",
-      "description": "Transform any idea into a running AI-powered company",
-      "full_description": "Transform any idea into a running AI-powered company",
-      "language": "TypeScript",
-      "stars": 428,
+      "name": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "full_description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "language": "Rust",
+      "stars": 404,
       "stars_gained": 0,
-      "forks": 5,
+      "forks": 25,
       "topics": [
-        "agent-platform",
-        "ai",
-        "ai-agents",
-        "ai-company",
-        "autonomous-agents",
-        "collaboration",
-        "digital-company",
-        "llm",
-        "multi-agent",
-        "nestjs",
-        "open-source",
-        "react",
-        "typescript",
-        "workflow"
+        "agent",
+        "browser-use"
       ],
-      "created_at": "2026-06-21T05:59:33Z",
-      "updated_at": "2026-07-11T03:03:00Z",
-      "rank": 26
+      "created_at": "2026-06-22T07:24:40Z",
+      "updated_at": "2026-07-12T02:53:58Z",
+      "rank": 25
     },
     {
       "name": "anasu1/text-humanizer",
@@ -690,68 +654,120 @@
       ],
       "created_at": "2026-06-16T17:18:50Z",
       "updated_at": "2026-07-08T14:05:49Z",
+      "rank": 26
+    },
+    {
+      "name": "Brain0-ai/brain0",
+      "url": "https://github.com/Brain0-ai/brain0",
+      "description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
+      "full_description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
+      "language": "Rust",
+      "stars": 363,
+      "stars_gained": 0,
+      "forks": 12,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "attestation",
+        "audit",
+        "claude",
+        "cli",
+        "code-review",
+        "coding-agents",
+        "developer-tools",
+        "dlp",
+        "git",
+        "llm",
+        "local-first",
+        "mcp",
+        "observability",
+        "provenance",
+        "rust",
+        "security",
+        "supply-chain-security",
+        "typescript"
+      ],
+      "created_at": "2026-07-02T12:02:08Z",
+      "updated_at": "2026-07-12T04:03:52Z",
       "rank": 27
     },
     {
-      "name": "Tencent/BrowserSkill",
-      "url": "https://github.com/Tencent/BrowserSkill",
-      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "full_description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "language": "Rust",
-      "stars": 378,
+      "name": "AIScientists-Dev/academic-humanizer",
+      "url": "https://github.com/AIScientists-Dev/academic-humanizer",
+      "description": "Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind.",
+      "full_description": "Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind.",
+      "language": "",
+      "stars": 355,
       "stars_gained": 0,
-      "forks": 21,
+      "forks": 42,
       "topics": [
-        "agent",
-        "browser-use"
+        "academic-writing",
+        "grant-writing",
+        "llm",
+        "nih",
+        "nsf",
+        "research",
+        "scientific-writing",
+        "writing-assistant"
       ],
-      "created_at": "2026-06-22T07:24:40Z",
-      "updated_at": "2026-07-11T03:35:21Z",
+      "created_at": "2026-06-20T13:23:52Z",
+      "updated_at": "2026-07-12T02:35:00Z",
       "rank": 28
     },
     {
-      "name": "nullpointexception-i/agent-sphere",
-      "url": "https://github.com/nullpointexception-i/agent-sphere",
-      "description": "This project is an AI Agent orchestration platform. It uses an LLM-driven decision engine, combined with capabilities (built-in tools, MCP protocol, CLI execution, browser operations, etc.), to achieve a basic closed loop from perception → planning → execution → feedback.本项目是一个面向 AI Agent 编排平台。它通过 LLM 驱动的决策引擎，结合能力（内置工具、MCP 协议、CLI 执行、浏览器操作等）",
-      "full_description": "This project is an AI Agent orchestration platform. It uses an LLM-driven decision engine, combined with capabilities (built-in tools, MCP protocol, CLI execution, browser operations, etc.), to achieve a basic closed loop from perception → planning → execution → feedback.本项目是一个面向 AI Agent 编排平台。它通过 LLM 驱动的决策引擎，结合能力（内置工具、MCP 协议、CLI 执行、浏览器操作等）",
-      "language": "Java",
-      "stars": 348,
+      "name": "Env-Kit/envkit-releases",
+      "url": "https://github.com/Env-Kit/envkit-releases",
+      "description": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
+      "full_description": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
+      "language": "Shell",
+      "stars": 354,
       "stars_gained": 0,
-      "forks": 11,
+      "forks": 10,
       "topics": [
-        "agent",
-        "agentic-ai",
-        "java",
-        "llm",
-        "reactjs"
+        "apache",
+        "development-environment",
+        "herd-alternative",
+        "laragon-alternative",
+        "laravel",
+        "local-development",
+        "mailpit",
+        "mariadb",
+        "mcp",
+        "mongodb",
+        "mysql",
+        "nginx",
+        "nodejs",
+        "php",
+        "postgresql",
+        "redis",
+        "web-development",
+        "windows",
+        "wordpress",
+        "xampp-alternative"
       ],
-      "created_at": "2026-06-19T11:53:36Z",
-      "updated_at": "2026-07-09T05:46:16Z",
+      "created_at": "2026-06-20T15:20:52Z",
+      "updated_at": "2026-07-11T23:09:41Z",
       "rank": 29
     },
     {
-      "name": "NotASithLord/peerd",
-      "url": "https://github.com/NotASithLord/peerd",
-      "description": "The first AI agent harness native to the browser. A browser extension that runs a full agent loop where you already work: it drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK, no backend, no telemetry.",
-      "full_description": "The first AI agent harness native to the browser. A browser extension that runs a full agent loop where you already work: it drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK, no backend, no telemetry.",
-      "language": "JavaScript",
-      "stars": 342,
+      "name": "Doriandarko/texts-to-transformer",
+      "url": "https://github.com/Doriandarko/texts-to-transformer",
+      "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+      "full_description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+      "language": "Python",
+      "stars": 352,
       "stars_gained": 0,
-      "forks": 36,
+      "forks": 32,
       "topics": [
-        "agentic",
-        "ai-agent",
-        "browser-extension",
-        "chrome-extension",
-        "firefox-extension",
-        "llm",
-        "manifest-v3",
-        "p2p",
-        "webassembly",
-        "webrtc"
+        "apple-silicon",
+        "imessage",
+        "local-first",
+        "machine-learning",
+        "mlx",
+        "transformer"
       ],
-      "created_at": "2026-06-22T05:55:13Z",
-      "updated_at": "2026-07-10T23:06:07Z",
+      "created_at": "2026-07-08T08:12:17Z",
+      "updated_at": "2026-07-11T23:16:28Z",
       "rank": 30
     }
   ]

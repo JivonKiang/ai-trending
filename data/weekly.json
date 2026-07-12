@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T03:50:54.451247+00:00",
+  "updated": "2026-07-12T04:06:06.627135+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "full_description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "language": "TypeScript",
-      "stars": 686,
+      "stars": 730,
       "stars_gained": 0,
-      "forks": 131,
+      "forks": 145,
       "topics": [
         "a-stock",
         "ai-agent",
@@ -30,7 +30,7 @@
         "us-stocks"
       ],
       "created_at": "2026-07-05T06:30:55Z",
-      "updated_at": "2026-07-11T03:09:37Z",
+      "updated_at": "2026-07-12T02:53:01Z",
       "rank": 1
     },
     {
@@ -39,9 +39,9 @@
       "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
       "full_description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
       "language": "",
-      "stars": 534,
+      "stars": 566,
       "stars_gained": 0,
-      "forks": 50,
+      "forks": 60,
       "topics": [
         "agent",
         "chart-visualization",
@@ -57,27 +57,8 @@
         "social-media"
       ],
       "created_at": "2026-07-07T13:57:13Z",
-      "updated_at": "2026-07-11T03:44:34Z",
+      "updated_at": "2026-07-12T04:05:34Z",
       "rank": 2
-    },
-    {
-      "name": "SmileLikeYe/agent-chief",
-      "url": "https://github.com/SmileLikeYe/agent-chief",
-      "description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
-      "full_description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
-      "language": "Python",
-      "stars": 450,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "harness",
-        "harness-engineering",
-        "llm",
-        "local-first"
-      ],
-      "created_at": "2026-07-04T15:28:56Z",
-      "updated_at": "2026-07-11T03:14:07Z",
-      "rank": 3
     },
     {
       "name": "Doriandarko/texts-to-transformer",
@@ -85,9 +66,9 @@
       "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
       "full_description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
       "language": "Python",
-      "stars": 317,
+      "stars": 352,
       "stars_gained": 0,
-      "forks": 28,
+      "forks": 32,
       "topics": [
         "apple-silicon",
         "imessage",
@@ -97,8 +78,8 @@
         "transformer"
       ],
       "created_at": "2026-07-08T08:12:17Z",
-      "updated_at": "2026-07-11T03:02:45Z",
-      "rank": 4
+      "updated_at": "2026-07-11T23:16:28Z",
+      "rank": 3
     },
     {
       "name": "ronak-create/FableCut",
@@ -106,9 +87,9 @@
       "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
       "full_description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
       "language": "JavaScript",
-      "stars": 313,
+      "stars": 339,
       "stars_gained": 0,
-      "forks": 15,
+      "forks": 22,
       "topics": [
         "ai-agent",
         "canvas",
@@ -124,8 +105,8 @@
         "zero-dependency"
       ],
       "created_at": "2026-07-06T16:18:57Z",
-      "updated_at": "2026-07-11T03:43:24Z",
-      "rank": 5
+      "updated_at": "2026-07-12T00:01:24Z",
+      "rank": 4
     },
     {
       "name": "eli-labz/Cognitive-Core-Skills",
@@ -133,7 +114,7 @@
       "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI.",
       "full_description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI.",
       "language": "Python",
-      "stars": 273,
+      "stars": 275,
       "stars_gained": 0,
       "forks": 77,
       "topics": [
@@ -155,8 +136,8 @@
         "world-models"
       ],
       "created_at": "2026-07-05T21:25:55Z",
-      "updated_at": "2026-07-09T18:02:40Z",
-      "rank": 6
+      "updated_at": "2026-07-11T17:51:35Z",
+      "rank": 5
     },
     {
       "name": "bkingfilm/lapian-notes",
@@ -164,9 +145,9 @@
       "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
       "full_description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
       "language": "TypeScript",
-      "stars": 255,
+      "stars": 270,
       "stars_gained": 0,
-      "forks": 33,
+      "forks": 34,
       "topics": [
         "ai",
         "film-analysis",
@@ -176,50 +157,8 @@
         "vite"
       ],
       "created_at": "2026-07-08T06:06:31Z",
-      "updated_at": "2026-07-11T01:57:54Z",
-      "rank": 7
-    },
-    {
-      "name": "sunflower-of-parchman/codex-hygiene",
-      "url": "https://github.com/sunflower-of-parchman/codex-hygiene",
-      "description": "Codex skill for auditing and tuning Codex Desktop context/tool surfaces",
-      "full_description": "Codex skill for auditing and tuning Codex Desktop context/tool surfaces",
-      "language": "Shell",
-      "stars": 229,
-      "stars_gained": 0,
-      "forks": 7,
-      "topics": [
-        "codex",
-        "codex-skill",
-        "developer-tools",
-        "mcp",
-        "token-usage"
-      ],
-      "created_at": "2026-07-07T21:51:14Z",
-      "updated_at": "2026-07-11T00:53:36Z",
-      "rank": 8
-    },
-    {
-      "name": "ninjahawk/Subtext",
-      "url": "https://github.com/ninjahawk/Subtext",
-      "description": "To know what models don't say out loud.",
-      "full_description": "To know what models don't say out loud.",
-      "language": "HTML",
-      "stars": 169,
-      "stars_gained": 0,
-      "forks": 19,
-      "topics": [
-        "interpretability",
-        "llm",
-        "mechanistic-interpretability",
-        "pytorch",
-        "qwen",
-        "transformers",
-        "visualization"
-      ],
-      "created_at": "2026-07-06T22:11:53Z",
-      "updated_at": "2026-07-11T03:44:50Z",
-      "rank": 9
+      "updated_at": "2026-07-12T01:46:28Z",
+      "rank": 6
     },
     {
       "name": "Sahir619/fable-method",
@@ -227,9 +166,9 @@
       "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
       "full_description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
       "language": "JavaScript",
-      "stars": 169,
+      "stars": 237,
       "stars_gained": 0,
-      "forks": 22,
+      "forks": 37,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -242,30 +181,50 @@
         "llm"
       ],
       "created_at": "2026-07-06T22:35:18Z",
-      "updated_at": "2026-07-11T03:46:43Z",
-      "rank": 10
+      "updated_at": "2026-07-12T03:56:57Z",
+      "rank": 7
     },
     {
-      "name": "KORAYTEACHER/fintech-advisor",
-      "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-      "description": "ai fintech financial advisor for your portfolio",
-      "full_description": "ai fintech financial advisor for your portfolio",
-      "language": "TypeScript",
-      "stars": 151,
+      "name": "sunflower-of-parchman/codex-hygiene",
+      "url": "https://github.com/sunflower-of-parchman/codex-hygiene",
+      "description": "Codex skill for auditing and tuning Codex Desktop context/tool surfaces",
+      "full_description": "Codex skill for auditing and tuning Codex Desktop context/tool surfaces",
+      "language": "Shell",
+      "stars": 231,
       "stars_gained": 0,
-      "forks": 436,
+      "forks": 7,
       "topics": [
-        "ai",
-        "ai-advisor",
-        "ai-financial",
-        "ai-fintech",
-        "fintech",
-        "fintech-advisor",
-        "fintech-financial"
+        "codex",
+        "codex-skill",
+        "developer-tools",
+        "mcp",
+        "token-usage"
       ],
-      "created_at": "2026-07-09T06:23:12Z",
-      "updated_at": "2026-07-10T18:45:06Z",
-      "rank": 11
+      "created_at": "2026-07-07T21:51:14Z",
+      "updated_at": "2026-07-11T15:51:02Z",
+      "rank": 8
+    },
+    {
+      "name": "ninjahawk/Subtext",
+      "url": "https://github.com/ninjahawk/Subtext",
+      "description": "To know what models don't say out loud.",
+      "full_description": "To know what models don't say out loud.",
+      "language": "HTML",
+      "stars": 183,
+      "stars_gained": 0,
+      "forks": 19,
+      "topics": [
+        "interpretability",
+        "llm",
+        "mechanistic-interpretability",
+        "pytorch",
+        "qwen",
+        "transformers",
+        "visualization"
+      ],
+      "created_at": "2026-07-06T22:11:53Z",
+      "updated_at": "2026-07-12T01:27:55Z",
+      "rank": 9
     },
     {
       "name": "oxbshw/watch-skill",
@@ -273,7 +232,7 @@
       "description": "Give any AI agent the ability to watch video — and to watch its own work and fix it. MCP + CLI + REST; scene-aware frames, OCR, local-first transcription, persistent index, and THE LOOP.",
       "full_description": "Give any AI agent the ability to watch video — and to watch its own work and fix it. MCP + CLI + REST; scene-aware frames, OCR, local-first transcription, persistent index, and THE LOOP.",
       "language": "Python",
-      "stars": 147,
+      "stars": 158,
       "stars_gained": 0,
       "forks": 22,
       "topics": [
@@ -291,8 +250,113 @@
         "yt-dlp"
       ],
       "created_at": "2026-07-05T23:25:30Z",
-      "updated_at": "2026-07-11T01:56:03Z",
+      "updated_at": "2026-07-12T04:01:11Z",
+      "rank": 10
+    },
+    {
+      "name": "KORAYTEACHER/fintech-advisor",
+      "url": "https://github.com/KORAYTEACHER/fintech-advisor",
+      "description": "ai fintech financial advisor for your portfolio",
+      "full_description": "ai fintech financial advisor for your portfolio",
+      "language": "TypeScript",
+      "stars": 154,
+      "stars_gained": 0,
+      "forks": 528,
+      "topics": [
+        "ai",
+        "ai-advisor",
+        "ai-financial",
+        "ai-fintech",
+        "fintech",
+        "fintech-advisor",
+        "fintech-financial"
+      ],
+      "created_at": "2026-07-09T06:23:12Z",
+      "updated_at": "2026-07-11T14:53:27Z",
+      "rank": 11
+    },
+    {
+      "name": "MoisesR7/browser-mcp",
+      "url": "https://github.com/MoisesR7/browser-mcp",
+      "description": "browser mcp agent integration with autonomous browser automation capabilities",
+      "full_description": "browser mcp agent integration with autonomous browser automation capabilities",
+      "language": "TypeScript",
+      "stars": 153,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "browser",
+        "browser-mcp",
+        "mcp"
+      ],
+      "created_at": "2026-07-09T14:55:52Z",
+      "updated_at": "2026-07-11T20:42:48Z",
       "rank": 12
+    },
+    {
+      "name": "Matchameleon/moneyclaw",
+      "url": "https://github.com/Matchameleon/moneyclaw",
+      "description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
+      "full_description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
+      "language": "JavaScript",
+      "stars": 152,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "agent",
+        "card-agent",
+        "moneyclaw",
+        "otp-agent",
+        "wallet-agent"
+      ],
+      "created_at": "2026-07-09T07:08:09Z",
+      "updated_at": "2026-07-11T10:29:23Z",
+      "rank": 13
+    },
+    {
+      "name": "Weebapp003/tradingview-mcp",
+      "url": "https://github.com/Weebapp003/tradingview-mcp",
+      "description": "tradingview mcp which connect claude code via chrome devtools protocol",
+      "full_description": "tradingview mcp which connect claude code via chrome devtools protocol",
+      "language": "JavaScript",
+      "stars": 150,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai-tradingview",
+        "claude",
+        "claude-mcp",
+        "mcp",
+        "tradingview",
+        "tradingview-mcp"
+      ],
+      "created_at": "2026-07-09T14:21:39Z",
+      "updated_at": "2026-07-11T10:26:29Z",
+      "rank": 14
+    },
+    {
+      "name": "SilentFleetKK/ai-market-pulse",
+      "url": "https://github.com/SilentFleetKK/ai-market-pulse",
+      "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
+      "full_description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
+      "language": "Python",
+      "stars": 148,
+      "stars_gained": 0,
+      "forks": 29,
+      "topics": [
+        "ai",
+        "akshare",
+        "github-pages",
+        "investment-research",
+        "llm",
+        "portfolio",
+        "quant",
+        "stock-analysis",
+        "yfinance"
+      ],
+      "created_at": "2026-07-09T07:34:37Z",
+      "updated_at": "2026-07-12T03:33:33Z",
+      "rank": 15
     },
     {
       "name": "olemeyer/rocketplaneIO",
@@ -300,7 +364,7 @@
       "description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
       "full_description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
       "language": "Go",
-      "stars": 127,
+      "stars": 131,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
@@ -322,8 +386,8 @@
         "tracing"
       ],
       "created_at": "2026-07-06T11:24:01Z",
-      "updated_at": "2026-07-11T00:39:00Z",
-      "rank": 13
+      "updated_at": "2026-07-12T01:28:31Z",
+      "rank": 16
     },
     {
       "name": "HaochengLu/contextvc",
@@ -331,9 +395,9 @@
       "description": "Git-native context control plane for AI coding agents",
       "full_description": "Git-native context control plane for AI coding agents",
       "language": "Rust",
-      "stars": 119,
+      "stars": 124,
       "stars_gained": 0,
-      "forks": 1,
+      "forks": 2,
       "topics": [
         "ai-agents",
         "cli",
@@ -343,32 +407,127 @@
         "rust"
       ],
       "created_at": "2026-07-05T14:06:39Z",
-      "updated_at": "2026-07-10T22:28:54Z",
-      "rank": 14
+      "updated_at": "2026-07-12T02:26:47Z",
+      "rank": 17
     },
     {
-      "name": "SilentFleetKK/ai-market-pulse",
-      "url": "https://github.com/SilentFleetKK/ai-market-pulse",
-      "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
-      "full_description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
-      "language": "Python",
-      "stars": 110,
+      "name": "nhevers/project-r0x",
+      "url": "https://github.com/nhevers/project-r0x",
+      "description": "Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
+      "full_description": "Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
+      "language": "TypeScript",
+      "stars": 123,
       "stars_gained": 0,
-      "forks": 19,
+      "forks": 1,
       "topics": [
-        "ai",
-        "akshare",
-        "github-pages",
-        "investment-research",
-        "llm",
-        "portfolio",
-        "quant",
-        "stock-analysis",
-        "yfinance"
+        "ai-agents",
+        "claude-code",
+        "facilitator",
+        "mcp",
+        "payments",
+        "robinhood-chain",
+        "sdk",
+        "stablecoin",
+        "typescript",
+        "usdg",
+        "web3",
+        "x402"
       ],
-      "created_at": "2026-07-09T07:34:37Z",
-      "updated_at": "2026-07-11T03:42:59Z",
-      "rank": 15
+      "created_at": "2026-07-11T10:12:16Z",
+      "updated_at": "2026-07-12T03:00:15Z",
+      "rank": 18
+    },
+    {
+      "name": "amitshekhariitbhu/transformers-explained",
+      "url": "https://github.com/amitshekhariitbhu/transformers-explained",
+      "description": "Transformer architecture explained step by step - the full architecture, every attention variant, positional embeddings, and every layer inside a Transformer.",
+      "full_description": "Transformer architecture explained step by step - the full architecture, every attention variant, positional embeddings, and every layer inside a Transformer.",
+      "language": "",
+      "stars": 118,
+      "stars_gained": 0,
+      "forks": 5,
+      "topics": [
+        "architecture",
+        "attention-is-all-you-need",
+        "attention-mechanism",
+        "large-language-models",
+        "llm",
+        "llms",
+        "transformers"
+      ],
+      "created_at": "2026-07-08T08:48:47Z",
+      "updated_at": "2026-07-12T03:27:22Z",
+      "rank": 19
+    },
+    {
+      "name": "EXXETA/exxperts",
+      "url": "https://github.com/EXXETA/exxperts",
+      "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
+      "full_description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
+      "language": "TypeScript",
+      "stars": 117,
+      "stars_gained": 0,
+      "forks": 4,
+      "topics": [
+        "agents",
+        "ai",
+        "local-first",
+        "memory",
+        "typescript"
+      ],
+      "created_at": "2026-07-07T11:10:01Z",
+      "updated_at": "2026-07-12T01:11:59Z",
+      "rank": 20
+    },
+    {
+      "name": "Playa-0v0/Cyrene-Agent",
+      "url": "https://github.com/Playa-0v0/Cyrene-Agent",
+      "description": "Live2D 桌面Agent (Electron + TS) — Cyrene from Honkai: Star Rail. Chat, emotional interaction, personalized memory.",
+      "full_description": "Live2D 桌面Agent (Electron + TS) — Cyrene from Honkai: Star Rail. Chat, emotional interaction, personalized memory.",
+      "language": "TypeScript",
+      "stars": 109,
+      "stars_gained": 0,
+      "forks": 15,
+      "topics": [
+        "agent",
+        "ai-agent",
+        "cyrene",
+        "electron",
+        "honkai-star-rail",
+        "typescript"
+      ],
+      "created_at": "2026-07-06T21:33:15Z",
+      "updated_at": "2026-07-12T04:01:37Z",
+      "rank": 21
+    },
+    {
+      "name": "ohad6k/ditto",
+      "url": "https://github.com/ohad6k/ditto",
+      "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
+      "full_description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
+      "language": "Python",
+      "stars": 107,
+      "stars_gained": 0,
+      "forks": 11,
+      "topics": [
+        "agent-memory",
+        "agent-skills",
+        "ai",
+        "ai-agents",
+        "ai-coding",
+        "claude",
+        "claude-code",
+        "codex",
+        "context-engineering",
+        "cursor",
+        "developer-tools",
+        "llm",
+        "local-first",
+        "personalization"
+      ],
+      "created_at": "2026-07-08T11:42:32Z",
+      "updated_at": "2026-07-12T02:06:22Z",
+      "rank": 22
     },
     {
       "name": "FuelMagistrateLead/photoshop-ai-smart-enhance",
@@ -388,207 +547,8 @@
         "smart-enchance"
       ],
       "created_at": "2026-07-09T19:08:33Z",
-      "updated_at": "2026-07-11T01:53:57Z",
-      "rank": 16
-    },
-    {
-      "name": "amitshekhariitbhu/transformers-explained",
-      "url": "https://github.com/amitshekhariitbhu/transformers-explained",
-      "description": "Transformer architecture explained step by step - the full architecture, every attention variant, positional embeddings, and every layer inside a Transformer.",
-      "full_description": "Transformer architecture explained step by step - the full architecture, every attention variant, positional embeddings, and every layer inside a Transformer.",
-      "language": "",
-      "stars": 102,
-      "stars_gained": 0,
-      "forks": 4,
-      "topics": [
-        "architecture",
-        "attention-is-all-you-need",
-        "attention-mechanism",
-        "large-language-models",
-        "llm",
-        "llms",
-        "transformers"
-      ],
-      "created_at": "2026-07-08T08:48:47Z",
-      "updated_at": "2026-07-10T18:51:31Z",
-      "rank": 17
-    },
-    {
-      "name": "ohad6k/ditto",
-      "url": "https://github.com/ohad6k/ditto",
-      "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
-      "full_description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
-      "language": "Python",
-      "stars": 95,
-      "stars_gained": 0,
-      "forks": 10,
-      "topics": [
-        "agent-memory",
-        "agent-skills",
-        "ai",
-        "ai-agents",
-        "ai-coding",
-        "claude",
-        "claude-code",
-        "codex",
-        "context-engineering",
-        "cursor",
-        "developer-tools",
-        "llm",
-        "local-first",
-        "personalization"
-      ],
-      "created_at": "2026-07-08T11:42:32Z",
-      "updated_at": "2026-07-10T22:35:22Z",
-      "rank": 18
-    },
-    {
-      "name": "ashutosh-rath02/atrophy",
-      "url": "https://github.com/ashutosh-rath02/atrophy",
-      "description": "Measure what your brain is losing while AI does your work - unaided-skill baselines, decay curves, reliance drills",
-      "full_description": "Measure what your brain is losing while AI does your work - unaided-skill baselines, decay curves, reliance drills",
-      "language": "TypeScript",
-      "stars": 93,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "ai",
-        "artificial-intelligence",
-        "cli",
-        "deliberate-practice",
-        "developer-tools",
-        "elo-rating",
-        "local-first",
-        "nodejs",
-        "skill-assessment",
-        "skill-decay",
-        "typescript"
-      ],
-      "created_at": "2026-07-05T14:45:19Z",
-      "updated_at": "2026-07-10T17:04:16Z",
-      "rank": 19
-    },
-    {
-      "name": "Playa-0v0/Cyrene-Agent",
-      "url": "https://github.com/Playa-0v0/Cyrene-Agent",
-      "description": "Live2D 桌面Agent (Electron + TS) — Cyrene from Honkai: Star Rail. Chat, emotional interaction, personalized memory.",
-      "full_description": "Live2D 桌面Agent (Electron + TS) — Cyrene from Honkai: Star Rail. Chat, emotional interaction, personalized memory.",
-      "language": "TypeScript",
-      "stars": 92,
-      "stars_gained": 0,
-      "forks": 13,
-      "topics": [
-        "agent",
-        "ai-agent",
-        "cyrene",
-        "electron",
-        "honkai-star-rail",
-        "typescript"
-      ],
-      "created_at": "2026-07-06T21:33:15Z",
-      "updated_at": "2026-07-11T03:49:23Z",
-      "rank": 20
-    },
-    {
-      "name": "Matchameleon/moneyclaw",
-      "url": "https://github.com/Matchameleon/moneyclaw",
-      "description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
-      "full_description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
-      "language": "JavaScript",
-      "stars": 90,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "agent",
-        "card-agent",
-        "moneyclaw",
-        "otp-agent",
-        "wallet-agent"
-      ],
-      "created_at": "2026-07-09T07:08:09Z",
-      "updated_at": "2026-07-11T03:42:36Z",
-      "rank": 21
-    },
-    {
-      "name": "MoisesR7/browser-mcp",
-      "url": "https://github.com/MoisesR7/browser-mcp",
-      "description": "browser mcp agent integration with autonomous browser automation capabilities",
-      "full_description": "browser mcp agent integration with autonomous browser automation capabilities",
-      "language": "TypeScript",
-      "stars": 89,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "browser",
-        "browser-mcp",
-        "mcp"
-      ],
-      "created_at": "2026-07-09T14:55:52Z",
-      "updated_at": "2026-07-11T03:50:32Z",
-      "rank": 22
-    },
-    {
-      "name": "PKU-YuanGroup/OpenAI4S",
-      "url": "https://github.com/PKU-YuanGroup/OpenAI4S",
-      "description": "9.9 元豆包API复刻 Claude Science",
-      "full_description": "9.9 元豆包API复刻 Claude Science",
-      "language": "Python",
-      "stars": 87,
-      "stars_gained": 0,
-      "forks": 11,
-      "topics": [
-        "agent",
-        "ai4science",
-        "claude-science",
-        "mit-license",
-        "open-source",
-        "science-research"
-      ],
-      "created_at": "2026-07-06T00:34:35Z",
-      "updated_at": "2026-07-10T13:52:34Z",
+      "updated_at": "2026-07-12T01:57:05Z",
       "rank": 23
-    },
-    {
-      "name": "Weebapp003/tradingview-mcp",
-      "url": "https://github.com/Weebapp003/tradingview-mcp",
-      "description": "tradingview mcp which connect claude code via chrome devtools protocol",
-      "full_description": "tradingview mcp which connect claude code via chrome devtools protocol",
-      "language": "JavaScript",
-      "stars": 87,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai-tradingview",
-        "claude",
-        "claude-mcp",
-        "mcp",
-        "tradingview",
-        "tradingview-mcp"
-      ],
-      "created_at": "2026-07-09T14:21:39Z",
-      "updated_at": "2026-07-11T03:46:52Z",
-      "rank": 24
-    },
-    {
-      "name": "Soutar97/instagui",
-      "url": "https://github.com/Soutar97/instagui",
-      "description": "Turn any CLI into a web GUI with one command",
-      "full_description": "Turn any CLI into a web GUI with one command",
-      "language": "TypeScript",
-      "stars": 85,
-      "stars_gained": 0,
-      "forks": 4,
-      "topics": [
-        "ai",
-        "claude",
-        "cli",
-        "developer-tools",
-        "ffmpeg",
-        "gui"
-      ],
-      "created_at": "2026-07-04T18:01:28Z",
-      "updated_at": "2026-07-11T01:52:04Z",
-      "rank": 25
     },
     {
       "name": "cozytab/fable5-mode",
@@ -596,7 +556,7 @@
       "description": "Fable 5-grade work discipline for any Claude model — a Claude Code skill + guard hooks (plan gate, model ceiling, per-task enforcement) that make Opus 4.8 or any non-frontier model plan, self-verify, and route sub-agents like Fable 5, without Fable 5.",
       "full_description": "Fable 5-grade work discipline for any Claude model — a Claude Code skill + guard hooks (plan gate, model ceiling, per-task enforcement) that make Opus 4.8 or any non-frontier model plan, self-verify, and route sub-agents like Fable 5, without Fable 5.",
       "language": "Python",
-      "stars": 84,
+      "stars": 105,
       "stars_gained": 0,
       "forks": 3,
       "topics": [
@@ -614,27 +574,76 @@
         "subagents"
       ],
       "created_at": "2026-07-06T16:52:32Z",
-      "updated_at": "2026-07-11T01:23:22Z",
+      "updated_at": "2026-07-11T22:32:17Z",
+      "rank": 24
+    },
+    {
+      "name": "ashutosh-rath02/atrophy",
+      "url": "https://github.com/ashutosh-rath02/atrophy",
+      "description": "Measure what your brain is losing while AI does your work - unaided-skill baselines, decay curves, reliance drills",
+      "full_description": "Measure what your brain is losing while AI does your work - unaided-skill baselines, decay curves, reliance drills",
+      "language": "TypeScript",
+      "stars": 98,
+      "stars_gained": 0,
+      "forks": 5,
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "cli",
+        "deliberate-practice",
+        "developer-tools",
+        "elo-rating",
+        "local-first",
+        "nodejs",
+        "skill-assessment",
+        "skill-decay",
+        "typescript"
+      ],
+      "created_at": "2026-07-05T14:45:19Z",
+      "updated_at": "2026-07-11T22:23:09Z",
+      "rank": 25
+    },
+    {
+      "name": "PKU-YuanGroup/OpenAI4S",
+      "url": "https://github.com/PKU-YuanGroup/OpenAI4S",
+      "description": "9.9 元豆包API复刻 Claude Science",
+      "full_description": "9.9 元豆包API复刻 Claude Science",
+      "language": "Python",
+      "stars": 90,
+      "stars_gained": 0,
+      "forks": 11,
+      "topics": [
+        "agent",
+        "ai4science",
+        "claude-science",
+        "mit-license",
+        "open-source",
+        "science-research"
+      ],
+      "created_at": "2026-07-06T00:34:35Z",
+      "updated_at": "2026-07-11T14:26:00Z",
       "rank": 26
     },
     {
-      "name": "EXXETA/exxperts",
-      "url": "https://github.com/EXXETA/exxperts",
-      "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
-      "full_description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
-      "language": "TypeScript",
-      "stars": 81,
+      "name": "theteatoast/local-vuln-research-pipeline",
+      "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
+      "description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
+      "full_description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
+      "language": "Python",
+      "stars": 87,
       "stars_gained": 0,
-      "forks": 2,
+      "forks": 9,
       "topics": [
         "agents",
         "ai",
-        "local-first",
-        "memory",
-        "typescript"
+        "offensive-security",
+        "pentest",
+        "qwen",
+        "redteam",
+        "vulnerability-research"
       ],
-      "created_at": "2026-07-07T11:10:01Z",
-      "updated_at": "2026-07-11T03:10:56Z",
+      "created_at": "2026-07-09T09:18:05Z",
+      "updated_at": "2026-07-11T23:21:00Z",
       "rank": 27
     },
     {
@@ -643,9 +652,9 @@
       "description": "Never use a mouse again.",
       "full_description": "Never use a mouse again.",
       "language": "C++",
-      "stars": 74,
+      "stars": 83,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 4,
       "topics": [
         "accessibility",
         "assistive-technology",
@@ -662,7 +671,7 @@
         "windows-app"
       ],
       "created_at": "2026-07-08T12:54:36Z",
-      "updated_at": "2026-07-10T21:08:32Z",
+      "updated_at": "2026-07-12T03:37:24Z",
       "rank": 28
     },
     {
@@ -671,9 +680,9 @@
       "description": "the agi compiler: records llm agent behavior, proves what repeats, and compiles it into verified, sandboxed wasm binaries that run for microdollars. nothing figured out twice, paper: https://arxiv.org/abs/2607.04542",
       "full_description": "the agi compiler: records llm agent behavior, proves what repeats, and compiles it into verified, sandboxed wasm binaries that run for microdollars. nothing figured out twice, paper: https://arxiv.org/abs/2607.04542",
       "language": "Rust",
-      "stars": 69,
+      "stars": 82,
       "stars_gained": 0,
-      "forks": 4,
+      "forks": 6,
       "topics": [
         "agent",
         "ai-infrastructure",
@@ -686,30 +695,38 @@
         "webassembly"
       ],
       "created_at": "2026-07-05T15:20:57Z",
-      "updated_at": "2026-07-10T13:35:13Z",
+      "updated_at": "2026-07-12T03:48:01Z",
       "rank": 29
     },
     {
-      "name": "walkpod1007/claude-project-ops",
-      "url": "https://github.com/walkpod1007/claude-project-ops",
-      "description": "Battle-tested model-dispatch doctrine for Claude Code — portable ops rules that let Sonnet/Haiku reliably run projects. Iterated in real deployments, not one-shot generated.",
-      "full_description": "Battle-tested model-dispatch doctrine for Claude Code — portable ops rules that let Sonnet/Haiku reliably run projects. Iterated in real deployments, not one-shot generated.",
-      "language": "",
-      "stars": 69,
+      "name": "Alisa0808/vox-director",
+      "url": "https://github.com/Alisa0808/vox-director",
+      "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+      "full_description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+      "language": "Python",
+      "stars": 74,
       "stars_gained": 0,
-      "forks": 7,
+      "forks": 9,
       "topics": [
-        "agent-orchestration",
-        "ai-agents",
-        "anthropic",
-        "claude",
+        "ai",
+        "ai-video",
         "claude-code",
+        "claude-skill",
+        "collage-video",
+        "explainer-video",
+        "ffmpeg",
+        "generative-ai",
         "llm",
-        "multi-agent",
-        "prompt-engineering"
+        "motion-graphics",
+        "python",
+        "text-to-video",
+        "tts",
+        "video",
+        "video-generation",
+        "vox"
       ],
-      "created_at": "2026-07-04T06:44:34Z",
-      "updated_at": "2026-07-10T23:27:04Z",
+      "created_at": "2026-07-10T15:32:05Z",
+      "updated_at": "2026-07-12T03:28:50Z",
       "rank": 30
     }
   ]
