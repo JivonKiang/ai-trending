@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T03:43:45.898673+00:00",
+  "updated": "2026-07-16T03:46:05.216626+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
       "full_description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
       "language": "Python",
-      "stars": 718,
+      "stars": 834,
       "stars_gained": 0,
-      "forks": 100,
+      "forks": 118,
       "topics": [
         "codex",
         "guide",
@@ -20,7 +20,7 @@
         "workbuddy"
       ],
       "created_at": "2026-07-10T04:13:51Z",
-      "updated_at": "2026-07-15T03:41:35Z",
+      "updated_at": "2026-07-16T03:42:48Z",
       "rank": 1
     },
     {
@@ -29,9 +29,9 @@
       "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
       "full_description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
       "language": "Python",
-      "stars": 618,
+      "stars": 643,
       "stars_gained": 0,
-      "forks": 95,
+      "forks": 116,
       "topics": [
         "agenticops",
         "ai",
@@ -47,73 +47,8 @@
         "sre"
       ],
       "created_at": "2026-07-10T05:57:02Z",
-      "updated_at": "2026-07-15T03:09:35Z",
+      "updated_at": "2026-07-16T03:24:41Z",
       "rank": 2
-    },
-    {
-      "name": "Doriandarko/texts-to-transformer",
-      "url": "https://github.com/Doriandarko/texts-to-transformer",
-      "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-      "full_description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-      "language": "Python",
-      "stars": 394,
-      "stars_gained": 0,
-      "forks": 37,
-      "topics": [
-        "apple-silicon",
-        "imessage",
-        "local-first",
-        "machine-learning",
-        "mlx",
-        "transformer"
-      ],
-      "created_at": "2026-07-08T08:12:17Z",
-      "updated_at": "2026-07-14T16:47:30Z",
-      "rank": 3
-    },
-    {
-      "name": "bkingfilm/lapian-notes",
-      "url": "https://github.com/bkingfilm/lapian-notes",
-      "description": "AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
-      "full_description": "AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
-      "language": "TypeScript",
-      "stars": 328,
-      "stars_gained": 0,
-      "forks": 43,
-      "topics": [
-        "ai",
-        "film-analysis",
-        "filmmaking",
-        "react",
-        "screenwriting",
-        "vite"
-      ],
-      "created_at": "2026-07-08T06:06:31Z",
-      "updated_at": "2026-07-15T02:55:52Z",
-      "rank": 4
-    },
-    {
-      "name": "QuantumByteOSS/quantumbyte",
-      "url": "https://github.com/QuantumByteOSS/quantumbyte",
-      "description": "Open-source app builder engine — intent to working app",
-      "full_description": "Open-source app builder engine — intent to working app",
-      "language": "Python",
-      "stars": 249,
-      "stars_gained": 0,
-      "forks": 40,
-      "topics": [
-        "agents",
-        "ai",
-        "app-builder",
-        "code-generation",
-        "llm",
-        "nextjs",
-        "open-source",
-        "python"
-      ],
-      "created_at": "2026-07-14T04:53:39Z",
-      "updated_at": "2026-07-15T03:42:54Z",
-      "rank": 5
     },
     {
       "name": "Intuition-Lab/personal-model",
@@ -121,9 +56,9 @@
       "description": "Build your HUMAN.md.",
       "full_description": "Build your HUMAN.md.",
       "language": "Python",
-      "stars": 241,
+      "stars": 346,
       "stars_gained": 0,
-      "forks": 21,
+      "forks": 29,
       "topics": [
         "agent-memory",
         "local-first",
@@ -135,42 +70,110 @@
         "python"
       ],
       "created_at": "2026-07-10T16:10:25Z",
-      "updated_at": "2026-07-15T03:36:50Z",
+      "updated_at": "2026-07-16T03:39:43Z",
+      "rank": 3
+    },
+    {
+      "name": "QuantumByteOSS/quantumbyte",
+      "url": "https://github.com/QuantumByteOSS/quantumbyte",
+      "description": "Open-source app builder engine — intent to working app",
+      "full_description": "Open-source app builder engine — intent to working app",
+      "language": "Python",
+      "stars": 312,
+      "stars_gained": 0,
+      "forks": 42,
+      "topics": [
+        "agents",
+        "ai",
+        "app-builder",
+        "code-generation",
+        "llm",
+        "nextjs",
+        "open-source",
+        "python"
+      ],
+      "created_at": "2026-07-14T04:53:39Z",
+      "updated_at": "2026-07-16T02:47:37Z",
+      "rank": 4
+    },
+    {
+      "name": "vshulcz/deja-vu",
+      "url": "https://github.com/vshulcz/deja-vu",
+      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
+      "full_description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
+      "language": "Go",
+      "stars": 221,
+      "stars_gained": 0,
+      "forks": 6,
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "developer-tools",
+        "go",
+        "mcp",
+        "memory",
+        "opencode",
+        "search"
+      ],
+      "created_at": "2026-07-14T07:45:44Z",
+      "updated_at": "2026-07-16T03:15:59Z",
+      "rank": 5
+    },
+    {
+      "name": "barretlee/agent-pulse",
+      "url": "https://github.com/barretlee/agent-pulse",
+      "description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
+      "full_description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
+      "language": "TypeScript",
+      "stars": 189,
+      "stars_gained": 0,
+      "forks": 18,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-industry",
+        "ai-intelligence",
+        "ai-news",
+        "artificial-intelligence",
+        "evidence",
+        "fastify",
+        "github-actions",
+        "github-pages",
+        "industry-analysis",
+        "knowledge-graph",
+        "llm",
+        "open-source-intelligence",
+        "sqlite",
+        "timeline",
+        "typescript",
+        "weekly-report"
+      ],
+      "created_at": "2026-07-11T14:38:25Z",
+      "updated_at": "2026-07-16T00:05:42Z",
       "rank": 6
     },
     {
-      "name": "ohad6k/ditto",
-      "url": "https://github.com/ohad6k/ditto",
-      "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
-      "full_description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
-      "language": "Python",
-      "stars": 180,
+      "name": "KORAYTEACHER/fintech-advisor",
+      "url": "https://github.com/KORAYTEACHER/fintech-advisor",
+      "description": "ai fintech financial advisor for your portfolio",
+      "full_description": "ai fintech financial advisor for your portfolio",
+      "language": "TypeScript",
+      "stars": 164,
       "stars_gained": 0,
-      "forks": 16,
+      "forks": 1234,
       "topics": [
-        "agent-memory",
-        "agent-skills",
         "ai",
-        "ai-agents",
-        "ai-coding",
-        "ai-memory",
-        "claude",
-        "claude-code",
-        "codex",
-        "context-engineering",
-        "cursor",
-        "developer-tools",
-        "llm",
-        "local-first",
-        "mcp",
-        "mcp-server",
-        "memory",
-        "model-context-protocol",
-        "opencode",
-        "personalization"
+        "ai-advisor",
+        "ai-financial",
+        "ai-fintech",
+        "fintech",
+        "fintech-advisor",
+        "fintech-financial"
       ],
-      "created_at": "2026-07-08T11:42:32Z",
-      "updated_at": "2026-07-15T01:47:54Z",
+      "created_at": "2026-07-09T06:23:12Z",
+      "updated_at": "2026-07-16T00:42:00Z",
       "rank": 7
     },
     {
@@ -194,164 +197,41 @@
         "yfinance"
       ],
       "created_at": "2026-07-09T07:34:37Z",
-      "updated_at": "2026-07-15T02:26:32Z",
+      "updated_at": "2026-07-15T09:29:02Z",
       "rank": 8
-    },
-    {
-      "name": "KORAYTEACHER/fintech-advisor",
-      "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-      "description": "ai fintech financial advisor for your portfolio",
-      "full_description": "ai fintech financial advisor for your portfolio",
-      "language": "TypeScript",
-      "stars": 160,
-      "stars_gained": 0,
-      "forks": 1232,
-      "topics": [
-        "ai",
-        "ai-advisor",
-        "ai-financial",
-        "ai-fintech",
-        "fintech",
-        "fintech-advisor",
-        "fintech-financial"
-      ],
-      "created_at": "2026-07-09T06:23:12Z",
-      "updated_at": "2026-07-14T09:22:48Z",
-      "rank": 9
-    },
-    {
-      "name": "amitshekhariitbhu/transformers-explained",
-      "url": "https://github.com/amitshekhariitbhu/transformers-explained",
-      "description": "Transformer architecture explained step by step - the full architecture, every attention variant, positional embeddings, and every layer inside a Transformer.",
-      "full_description": "Transformer architecture explained step by step - the full architecture, every attention variant, positional embeddings, and every layer inside a Transformer.",
-      "language": "",
-      "stars": 157,
-      "stars_gained": 0,
-      "forks": 10,
-      "topics": [
-        "architecture",
-        "attention-is-all-you-need",
-        "attention-mechanism",
-        "large-language-models",
-        "llm",
-        "llms",
-        "transformers"
-      ],
-      "created_at": "2026-07-08T08:48:47Z",
-      "updated_at": "2026-07-15T00:05:50Z",
-      "rank": 10
-    },
-    {
-      "name": "theteatoast/local-vuln-research-pipeline",
-      "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
-      "description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
-      "full_description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
-      "language": "Python",
-      "stars": 150,
-      "stars_gained": 0,
-      "forks": 20,
-      "topics": [
-        "agents",
-        "ai",
-        "offensive-security",
-        "pentest",
-        "qwen",
-        "redteam",
-        "vulnerability-research"
-      ],
-      "created_at": "2026-07-09T09:18:05Z",
-      "updated_at": "2026-07-15T01:13:56Z",
-      "rank": 11
-    },
-    {
-      "name": "barretlee/agent-pulse",
-      "url": "https://github.com/barretlee/agent-pulse",
-      "description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
-      "full_description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
-      "language": "TypeScript",
-      "stars": 149,
-      "stars_gained": 0,
-      "forks": 16,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-industry",
-        "ai-intelligence",
-        "ai-news",
-        "artificial-intelligence",
-        "evidence",
-        "fastify",
-        "github-actions",
-        "github-pages",
-        "industry-analysis",
-        "knowledge-graph",
-        "llm",
-        "open-source-intelligence",
-        "sqlite",
-        "timeline",
-        "typescript",
-        "weekly-report"
-      ],
-      "created_at": "2026-07-11T14:38:25Z",
-      "updated_at": "2026-07-15T03:08:18Z",
-      "rank": 12
-    },
-    {
-      "name": "aws-samples/sample-specship",
-      "url": "https://github.com/aws-samples/sample-specship",
-      "description": "Spec-driven autonomous engineering workflow for AI coding agents: recon → plan → build → validate → ship — with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
-      "full_description": "Spec-driven autonomous engineering workflow for AI coding agents: recon → plan → build → validate → ship — with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
-      "language": "Shell",
-      "stars": 145,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai-agents",
-        "autonomous-agents",
-        "code-generation",
-        "developer-tools",
-        "kiro",
-        "llm",
-        "spec-driven-development",
-        "tdd"
-      ],
-      "created_at": "2026-07-10T09:54:06Z",
-      "updated_at": "2026-07-15T01:27:34Z",
-      "rank": 13
     },
     {
       "name": "Extraltodeus/J-Wash",
       "url": "https://github.com/Extraltodeus/J-Wash",
-      "description": "Jacobian-Brainwash : A framework built on Anthropic's Jacobian Lens for analyzing and customizing LLM internal representations with exportable results.",
-      "full_description": "Jacobian-Brainwash : A framework built on Anthropic's Jacobian Lens for analyzing and customizing LLM internal representations with exportable results.",
+      "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
+      "full_description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
       "language": "Python",
-      "stars": 142,
+      "stars": 160,
       "stars_gained": 0,
-      "forks": 13,
+      "forks": 14,
       "topics": [
         "abliteration",
-        "activation-engineering",
         "ai",
         "anthropic",
-        "checkpoint-editing",
+        "artificial-intelligence",
         "huggingface",
         "interpretability",
         "j-wash",
         "jacobian-lens",
+        "large-language-models",
         "llm",
         "mechanistic-interpretability",
         "model-editing",
         "neural-networks",
         "pytorch",
-        "representation-engineering",
         "research",
         "steering",
         "transformers",
         "visualization"
       ],
       "created_at": "2026-07-13T20:23:26Z",
-      "updated_at": "2026-07-15T02:18:50Z",
-      "rank": 14
+      "updated_at": "2026-07-16T02:58:55Z",
+      "rank": 9
     },
     {
       "name": "Alisa0808/vox-director",
@@ -359,9 +239,9 @@
       "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
       "full_description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
       "language": "Python",
-      "stars": 139,
+      "stars": 158,
       "stars_gained": 0,
-      "forks": 17,
+      "forks": 19,
       "topics": [
         "ai",
         "ai-video",
@@ -381,8 +261,53 @@
         "vox"
       ],
       "created_at": "2026-07-10T15:32:05Z",
-      "updated_at": "2026-07-15T01:49:04Z",
-      "rank": 15
+      "updated_at": "2026-07-16T03:31:38Z",
+      "rank": 10
+    },
+    {
+      "name": "aws-samples/sample-specship",
+      "url": "https://github.com/aws-samples/sample-specship",
+      "description": "Spec-driven autonomous engineering workflow for AI coding agents: recon → plan → build → validate → ship — with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
+      "full_description": "Spec-driven autonomous engineering workflow for AI coding agents: recon → plan → build → validate → ship — with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
+      "language": "Shell",
+      "stars": 158,
+      "stars_gained": 0,
+      "forks": 1,
+      "topics": [
+        "ai-agents",
+        "autonomous-agents",
+        "code-generation",
+        "developer-tools",
+        "kiro",
+        "llm",
+        "spec-driven-development",
+        "tdd"
+      ],
+      "created_at": "2026-07-10T09:54:06Z",
+      "updated_at": "2026-07-15T22:18:06Z",
+      "rank": 11
+    },
+    {
+      "name": "theteatoast/local-vuln-research-pipeline",
+      "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
+      "description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
+      "full_description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
+      "language": "Python",
+      "stars": 157,
+      "stars_gained": 0,
+      "forks": 20,
+      "topics": [
+        "agents",
+        "ai",
+        "offensive-security",
+        "pentest",
+        "qwen",
+        "redteam",
+        "vulnerability-research"
+      ],
+      "created_at": "2026-07-09T09:18:05Z",
+      "updated_at": "2026-07-16T03:04:42Z",
+      "rank": 12
     },
     {
       "name": "MoisesR7/browser-mcp",
@@ -392,7 +317,7 @@
       "language": "TypeScript",
       "stars": 135,
       "stars_gained": 0,
-      "forks": 597,
+      "forks": 1015,
       "topics": [
         "browser",
         "browser-mcp",
@@ -400,7 +325,7 @@
       ],
       "created_at": "2026-07-09T14:55:52Z",
       "updated_at": "2026-07-14T11:19:12Z",
-      "rank": 16
+      "rank": 13
     },
     {
       "name": "wikidjon/ai-openclaw-cli",
@@ -410,7 +335,7 @@
       "language": "TypeScript",
       "stars": 135,
       "stars_gained": 0,
-      "forks": 598,
+      "forks": 1017,
       "topics": [
         "ai",
         "cli",
@@ -422,7 +347,7 @@
       ],
       "created_at": "2026-07-09T07:30:49Z",
       "updated_at": "2026-07-14T11:19:11Z",
-      "rank": 17
+      "rank": 14
     },
     {
       "name": "Matchameleon/moneyclaw",
@@ -432,7 +357,7 @@
       "language": "JavaScript",
       "stars": 134,
       "stars_gained": 0,
-      "forks": 947,
+      "forks": 1031,
       "topics": [
         "agent",
         "card-agent",
@@ -442,7 +367,28 @@
       ],
       "created_at": "2026-07-09T07:08:09Z",
       "updated_at": "2026-07-14T11:19:11Z",
-      "rank": 18
+      "rank": 15
+    },
+    {
+      "name": "pueschel88/Tradingview-MCP",
+      "url": "https://github.com/pueschel88/Tradingview-MCP",
+      "description": "Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
+      "full_description": "Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
+      "language": "TypeScript",
+      "stars": 133,
+      "stars_gained": 0,
+      "forks": 605,
+      "topics": [
+        "chrome-devtools",
+        "claude",
+        "mcp",
+        "tradingview",
+        "tradingview-agent",
+        "tradingview-mcp"
+      ],
+      "created_at": "2026-07-13T15:30:59Z",
+      "updated_at": "2026-07-16T03:35:51Z",
+      "rank": 16
     },
     {
       "name": "Weebapp003/tradingview-mcp",
@@ -452,7 +398,7 @@
       "language": "JavaScript",
       "stars": 132,
       "stars_gained": 0,
-      "forks": 947,
+      "forks": 1030,
       "topics": [
         "ai-tradingview",
         "claude",
@@ -463,28 +409,7 @@
       ],
       "created_at": "2026-07-09T14:21:39Z",
       "updated_at": "2026-07-14T14:51:23Z",
-      "rank": 19
-    },
-    {
-      "name": "pueschel88/Tradingview-MCP",
-      "url": "https://github.com/pueschel88/Tradingview-MCP",
-      "description": "Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-      "full_description": "Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-      "language": "TypeScript",
-      "stars": 132,
-      "stars_gained": 0,
-      "forks": 224,
-      "topics": [
-        "chrome-devtools",
-        "claude",
-        "mcp",
-        "tradingview",
-        "tradingview-agent",
-        "tradingview-mcp"
-      ],
-      "created_at": "2026-07-13T15:30:59Z",
-      "updated_at": "2026-07-14T16:32:29Z",
-      "rank": 20
+      "rank": 17
     },
     {
       "name": "nhevers/project-r0x",
@@ -492,7 +417,7 @@
       "description": "Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
       "full_description": "Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
       "language": "TypeScript",
-      "stars": 123,
+      "stars": 124,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
@@ -510,8 +435,32 @@
         "x402"
       ],
       "created_at": "2026-07-11T10:12:16Z",
-      "updated_at": "2026-07-12T03:00:15Z",
-      "rank": 21
+      "updated_at": "2026-07-15T06:15:10Z",
+      "rank": 18
+    },
+    {
+      "name": "pax-beehive/paxm",
+      "url": "https://github.com/pax-beehive/paxm",
+      "description": "Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
+      "full_description": "Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
+      "language": "Go",
+      "stars": 120,
+      "stars_gained": 0,
+      "forks": 1,
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "golang",
+        "local-first",
+        "mcp",
+        "opencode",
+        "sqlite"
+      ],
+      "created_at": "2026-07-09T02:40:57Z",
+      "updated_at": "2026-07-16T03:45:50Z",
+      "rank": 19
     },
     {
       "name": "loop-js/loop.js",
@@ -519,7 +468,7 @@
       "description": "A loop engineering framework — state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
       "full_description": "A loop engineering framework — state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
       "language": "TypeScript",
-      "stars": 112,
+      "stars": 115,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -538,54 +487,8 @@
         "typescript"
       ],
       "created_at": "2026-07-10T10:59:54Z",
-      "updated_at": "2026-07-15T03:40:22Z",
-      "rank": 22
-    },
-    {
-      "name": "LazoVelko/neverclick",
-      "url": "https://github.com/LazoVelko/neverclick",
-      "description": "Never use a mouse again.",
-      "full_description": "Never use a mouse again.",
-      "language": "C++",
-      "stars": 111,
-      "stars_gained": 0,
-      "forks": 8,
-      "topics": [
-        "accessibility",
-        "assistive-technology",
-        "computer-vision",
-        "cpp",
-        "desktop-app",
-        "ergonomics",
-        "keyboard",
-        "keyboard-driven",
-        "keyboard-navigation",
-        "mouseless",
-        "rsi",
-        "windows",
-        "windows-app"
-      ],
-      "created_at": "2026-07-08T12:54:36Z",
-      "updated_at": "2026-07-14T22:02:44Z",
-      "rank": 23
-    },
-    {
-      "name": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "full_description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "language": "Python",
-      "stars": 109,
-      "stars_gained": 0,
-      "forks": 14,
-      "topics": [
-        "agent",
-        "agentic-ai",
-        "ai"
-      ],
-      "created_at": "2026-07-08T12:54:20Z",
-      "updated_at": "2026-07-15T03:36:49Z",
-      "rank": 24
+      "updated_at": "2026-07-16T01:30:34Z",
+      "rank": 20
     },
     {
       "name": "FuelMagistrateLead/photoshop-ai-smart-enhance",
@@ -593,7 +496,7 @@
       "description": "AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time preview, batch processing, non-destructive smart objects.",
       "full_description": "AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time preview, batch processing, non-destructive smart objects.",
       "language": "HTML",
-      "stars": 107,
+      "stars": 106,
       "stars_gained": 0,
       "forks": 47,
       "topics": [
@@ -605,8 +508,8 @@
         "smart-enchance"
       ],
       "created_at": "2026-07-09T19:08:33Z",
-      "updated_at": "2026-07-15T01:42:24Z",
-      "rank": 25
+      "updated_at": "2026-07-16T01:52:03Z",
+      "rank": 21
     },
     {
       "name": "herry2059/project-os-for-codex",
@@ -641,7 +544,7 @@
       ],
       "created_at": "2026-07-09T20:02:35Z",
       "updated_at": "2026-07-14T21:20:40Z",
-      "rank": 26
+      "rank": 22
     },
     {
       "name": "youxiandechilun/Guido",
@@ -649,7 +552,7 @@
       "description": "景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。",
       "full_description": "景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。",
       "language": "Java",
-      "stars": 102,
+      "stars": 103,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
@@ -664,32 +567,71 @@
         "vue3"
       ],
       "created_at": "2026-07-11T06:23:14Z",
-      "updated_at": "2026-07-14T23:53:28Z",
-      "rank": 27
+      "updated_at": "2026-07-16T03:02:25Z",
+      "rank": 23
     },
     {
-      "name": "pax-beehive/paxm",
-      "url": "https://github.com/pax-beehive/paxm",
-      "description": "Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
-      "full_description": "Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
-      "language": "Go",
-      "stars": 100,
+      "name": "kazelad/algo-trading-agent",
+      "url": "https://github.com/kazelad/algo-trading-agent",
+      "description": "algo trade agent - bot, framework, API, indicator, book, course, community",
+      "full_description": "algo trade agent - bot, framework, API, indicator, book, course, community",
+      "language": "TypeScript",
+      "stars": 91,
       "stars_gained": 0,
-      "forks": 1,
+      "forks": 0,
       "topics": [
-        "agent-memory",
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "golang",
-        "local-first",
-        "mcp",
-        "opencode",
-        "sqlite"
+        "agent",
+        "algo",
+        "algo-agent",
+        "algo-trade",
+        "trade",
+        "trade-agent"
       ],
-      "created_at": "2026-07-09T02:40:57Z",
-      "updated_at": "2026-07-15T03:43:16Z",
-      "rank": 28
+      "created_at": "2026-07-14T09:28:24Z",
+      "updated_at": "2026-07-16T01:42:43Z",
+      "rank": 24
+    },
+    {
+      "name": "JesusRS1/stock-trade-finance-api",
+      "url": "https://github.com/JesusRS1/stock-trade-finance-api",
+      "description": "Stock Trade MCP server in Tiingo with stock prices, news, forex, and fundamentals programmatically via the MCP",
+      "full_description": "Stock Trade MCP server in Tiingo with stock prices, news, forex, and fundamentals programmatically via the MCP",
+      "language": "TypeScript",
+      "stars": 91,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "mcp",
+        "mcp-server",
+        "stock-mcp",
+        "stock-trade",
+        "tiingo"
+      ],
+      "created_at": "2026-07-14T09:10:20Z",
+      "updated_at": "2026-07-16T01:49:47Z",
+      "rank": 25
+    },
+    {
+      "name": "dabberman456/finance-mcp-app",
+      "url": "https://github.com/dabberman456/finance-mcp-app",
+      "description": "Finance MCP app designed to manage personal finances for goal tracking, expense management, and financial insights in a clean and user-friendly interface.",
+      "full_description": "Finance MCP app designed to manage personal finances for goal tracking, expense management, and financial insights in a clean and user-friendly interface.",
+      "language": "TypeScript",
+      "stars": 91,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "app",
+        "expense-management",
+        "finance",
+        "finance-app",
+        "goal-tracking",
+        "mcp",
+        "mcp-app"
+      ],
+      "created_at": "2026-07-14T08:43:10Z",
+      "updated_at": "2026-07-16T01:59:24Z",
+      "rank": 26
     },
     {
       "name": "lucidrains/x-jepa",
@@ -697,7 +639,7 @@
       "description": "Explorations into some of the approaches advocated by Yann LeCun, and just a more wholistic architecture (JEPA) in general",
       "full_description": "Explorations into some of the approaches advocated by Yann LeCun, and just a more wholistic architecture (JEPA) in general",
       "language": "Python",
-      "stars": 82,
+      "stars": 90,
       "stars_gained": 0,
       "forks": 7,
       "topics": [
@@ -707,42 +649,92 @@
         "world-models"
       ],
       "created_at": "2026-07-09T14:37:09Z",
-      "updated_at": "2026-07-15T02:44:26Z",
+      "updated_at": "2026-07-15T19:41:53Z",
+      "rank": 27
+    },
+    {
+      "name": "alexafinode/claude-arbitrage-bot",
+      "url": "https://github.com/alexafinode/claude-arbitrage-bot",
+      "description": "Arbitrage bot for Ethereum-compatible networks with built-in Python automation",
+      "full_description": "Arbitrage bot for Ethereum-compatible networks with built-in Python automation",
+      "language": "Solidity",
+      "stars": 81,
+      "stars_gained": 0,
+      "forks": 22,
+      "topics": [
+        "ai",
+        "arbitrage",
+        "bot",
+        "btc",
+        "claude",
+        "codex",
+        "contract",
+        "ether",
+        "ethereum",
+        "gpt",
+        "lab",
+        "smart",
+        "sol"
+      ],
+      "created_at": "2026-07-16T00:58:40Z",
+      "updated_at": "2026-07-16T03:40:24Z",
+      "rank": 28
+    },
+    {
+      "name": "yan5xu/oh-my-ai-company",
+      "url": "https://github.com/yan5xu/oh-my-ai-company",
+      "description": "A living atlas of AI companies, products, founders, investors, traffic signals, and research notes.",
+      "full_description": "A living atlas of AI companies, products, founders, investors, traffic signals, and research notes.",
+      "language": "TypeScript",
+      "stars": 71,
+      "stars_gained": 0,
+      "forks": 7,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-infra",
+        "artificial-intelligence",
+        "market-research",
+        "memex",
+        "startups"
+      ],
+      "created_at": "2026-07-09T04:26:15Z",
+      "updated_at": "2026-07-15T22:18:05Z",
       "rank": 29
     },
     {
-      "name": "ARSreg46/Ai-Image-Generator",
-      "url": "https://github.com/ARSreg46/Ai-Image-Generator",
-      "description": "AI Image Generator is a powerful desktop application for creating stunning AI-generated artwork from text prompts. It integrates with Stable Diffusion XL, Flux, DALL-E 3, and Midjourney APIs for both local GPU-accelerated and cloud-based image generation. ",
-      "full_description": "AI Image Generator is a powerful desktop application for creating stunning AI-generated artwork from text prompts. It integrates with Stable Diffusion XL, Flux, DALL-E 3, and Midjourney APIs for both local GPU-accelerated and cloud-based image generation. ",
-      "language": "",
-      "stars": 71,
+      "name": "calesthio/generative-media-skills",
+      "url": "https://github.com/calesthio/generative-media-skills",
+      "description": "Research-backed agent skills and tools for premium image, video, audio, voice, and generative media production across AI coding assistants.",
+      "full_description": "Research-backed agent skills and tools for premium image, video, audio, voice, and generative media production across AI coding assistants.",
+      "language": "Python",
+      "stars": 66,
       "stars_gained": 0,
-      "forks": 8,
+      "forks": 10,
       "topics": [
-        "ai-image-generation",
-        "art-generation",
-        "csharp",
-        "dall-e",
-        "desktop-app",
-        "diffusion-models",
-        "flux-model",
-        "generative-ai",
-        "gpu-acceleration",
-        "img2img",
-        "inpainting",
-        "lora",
-        "midjourney",
-        "neural-network",
-        "outpainting",
-        "stable-diffusion",
-        "text-to-image",
-        "textual-inversion",
-        "upscaling",
-        "wpf"
+        "agent",
+        "agentic-ai",
+        "ai",
+        "ai-audio",
+        "ai-video",
+        "claude",
+        "codex",
+        "copilot",
+        "cursor",
+        "generative-media",
+        "github-copilot",
+        "image-generation",
+        "open-source",
+        "openai",
+        "prompt-engineering",
+        "skill",
+        "text-to-speech",
+        "text-to-video",
+        "video-generation",
+        "video-production"
       ],
-      "created_at": "2026-07-14T23:38:27Z",
-      "updated_at": "2026-07-15T02:19:44Z",
+      "created_at": "2026-07-11T04:16:24Z",
+      "updated_at": "2026-07-15T18:43:59Z",
       "rank": 30
     }
   ]
