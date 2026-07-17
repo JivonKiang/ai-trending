@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T03:46:05.216626+00:00",
+  "updated": "2026-07-17T03:46:07.861550+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
       "full_description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
       "language": "Python",
-      "stars": 834,
+      "stars": 1010,
       "stars_gained": 0,
-      "forks": 118,
+      "forks": 136,
       "topics": [
         "codex",
         "guide",
@@ -20,7 +20,7 @@
         "workbuddy"
       ],
       "created_at": "2026-07-10T04:13:51Z",
-      "updated_at": "2026-07-16T03:42:48Z",
+      "updated_at": "2026-07-17T03:45:03Z",
       "rank": 1
     },
     {
@@ -29,9 +29,9 @@
       "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
       "full_description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
       "language": "Python",
-      "stars": 643,
+      "stars": 691,
       "stars_gained": 0,
-      "forks": 116,
+      "forks": 131,
       "topics": [
         "agenticops",
         "ai",
@@ -47,7 +47,7 @@
         "sre"
       ],
       "created_at": "2026-07-10T05:57:02Z",
-      "updated_at": "2026-07-16T03:24:41Z",
+      "updated_at": "2026-07-17T00:31:49Z",
       "rank": 2
     },
     {
@@ -56,9 +56,9 @@
       "description": "Build your HUMAN.md.",
       "full_description": "Build your HUMAN.md.",
       "language": "Python",
-      "stars": 346,
+      "stars": 557,
       "stars_gained": 0,
-      "forks": 29,
+      "forks": 44,
       "topics": [
         "agent-memory",
         "local-first",
@@ -70,7 +70,7 @@
         "python"
       ],
       "created_at": "2026-07-10T16:10:25Z",
-      "updated_at": "2026-07-16T03:39:43Z",
+      "updated_at": "2026-07-17T03:41:33Z",
       "rank": 3
     },
     {
@@ -79,7 +79,7 @@
       "description": "Open-source app builder engine — intent to working app",
       "full_description": "Open-source app builder engine — intent to working app",
       "language": "Python",
-      "stars": 312,
+      "stars": 317,
       "stars_gained": 0,
       "forks": 42,
       "topics": [
@@ -93,7 +93,7 @@
         "python"
       ],
       "created_at": "2026-07-14T04:53:39Z",
-      "updated_at": "2026-07-16T02:47:37Z",
+      "updated_at": "2026-07-17T02:48:35Z",
       "rank": 4
     },
     {
@@ -102,23 +102,26 @@
       "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
       "full_description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
       "language": "Go",
-      "stars": 221,
+      "stars": 306,
       "stars_gained": 0,
-      "forks": 6,
+      "forks": 12,
       "topics": [
-        "ai-agents",
+        "agent-memory",
+        "ai-memory",
+        "claude",
         "claude-code",
         "cli",
         "codex",
+        "coding-agents",
         "developer-tools",
-        "go",
+        "golang",
         "mcp",
-        "memory",
+        "mcp-server",
         "opencode",
-        "search"
+        "session-search"
       ],
       "created_at": "2026-07-14T07:45:44Z",
-      "updated_at": "2026-07-16T03:15:59Z",
+      "updated_at": "2026-07-17T03:23:40Z",
       "rank": 5
     },
     {
@@ -127,9 +130,9 @@
       "description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
       "full_description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
       "language": "TypeScript",
-      "stars": 189,
+      "stars": 198,
       "stars_gained": 0,
-      "forks": 18,
+      "forks": 20,
       "topics": [
         "ai",
         "ai-agents",
@@ -151,54 +154,31 @@
         "weekly-report"
       ],
       "created_at": "2026-07-11T14:38:25Z",
-      "updated_at": "2026-07-16T00:05:42Z",
+      "updated_at": "2026-07-17T03:32:46Z",
       "rank": 6
     },
     {
-      "name": "KORAYTEACHER/fintech-advisor",
-      "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-      "description": "ai fintech financial advisor for your portfolio",
-      "full_description": "ai fintech financial advisor for your portfolio",
-      "language": "TypeScript",
-      "stars": 164,
+      "name": "aws-samples/sample-specship",
+      "url": "https://github.com/aws-samples/sample-specship",
+      "description": "Spec-driven autonomous engineering workflow for AI coding agents: recon → plan → build → validate → ship — with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
+      "full_description": "Spec-driven autonomous engineering workflow for AI coding agents: recon → plan → build → validate → ship — with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
+      "language": "Shell",
+      "stars": 173,
       "stars_gained": 0,
-      "forks": 1234,
+      "forks": 2,
       "topics": [
-        "ai",
-        "ai-advisor",
-        "ai-financial",
-        "ai-fintech",
-        "fintech",
-        "fintech-advisor",
-        "fintech-financial"
-      ],
-      "created_at": "2026-07-09T06:23:12Z",
-      "updated_at": "2026-07-16T00:42:00Z",
-      "rank": 7
-    },
-    {
-      "name": "SilentFleetKK/ai-market-pulse",
-      "url": "https://github.com/SilentFleetKK/ai-market-pulse",
-      "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
-      "full_description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
-      "language": "Python",
-      "stars": 161,
-      "stars_gained": 0,
-      "forks": 33,
-      "topics": [
-        "ai",
-        "akshare",
-        "github-pages",
-        "investment-research",
+        "ai-agents",
+        "autonomous-agents",
+        "code-generation",
+        "developer-tools",
+        "kiro",
         "llm",
-        "portfolio",
-        "quant",
-        "stock-analysis",
-        "yfinance"
+        "spec-driven-development",
+        "tdd"
       ],
-      "created_at": "2026-07-09T07:34:37Z",
-      "updated_at": "2026-07-15T09:29:02Z",
-      "rank": 8
+      "created_at": "2026-07-10T09:54:06Z",
+      "updated_at": "2026-07-17T01:20:54Z",
+      "rank": 7
     },
     {
       "name": "Extraltodeus/J-Wash",
@@ -206,9 +186,9 @@
       "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
       "full_description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
       "language": "Python",
-      "stars": 160,
+      "stars": 170,
       "stars_gained": 0,
-      "forks": 14,
+      "forks": 15,
       "topics": [
         "abliteration",
         "ai",
@@ -230,8 +210,8 @@
         "visualization"
       ],
       "created_at": "2026-07-13T20:23:26Z",
-      "updated_at": "2026-07-16T02:58:55Z",
-      "rank": 9
+      "updated_at": "2026-07-17T01:22:01Z",
+      "rank": 8
     },
     {
       "name": "Alisa0808/vox-director",
@@ -239,9 +219,9 @@
       "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
       "full_description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
       "language": "Python",
-      "stars": 158,
+      "stars": 165,
       "stars_gained": 0,
-      "forks": 19,
+      "forks": 21,
       "topics": [
         "ai",
         "ai-video",
@@ -261,113 +241,36 @@
         "vox"
       ],
       "created_at": "2026-07-10T15:32:05Z",
-      "updated_at": "2026-07-16T03:31:38Z",
+      "updated_at": "2026-07-17T02:03:49Z",
+      "rank": 9
+    },
+    {
+      "name": "alexafinode/claude-arbitrage-bot",
+      "url": "https://github.com/alexafinode/claude-arbitrage-bot",
+      "description": "Arbitrage bot for Ethereum-compatible networks with built-in Python automation",
+      "full_description": "Arbitrage bot for Ethereum-compatible networks with built-in Python automation",
+      "language": "Solidity",
+      "stars": 164,
+      "stars_gained": 0,
+      "forks": 74,
+      "topics": [
+        "ai",
+        "arbitrage",
+        "bot",
+        "btc",
+        "claude",
+        "codex",
+        "contract",
+        "ether",
+        "ethereum",
+        "gpt",
+        "lab",
+        "smart",
+        "sol"
+      ],
+      "created_at": "2026-07-16T00:58:40Z",
+      "updated_at": "2026-07-17T03:45:10Z",
       "rank": 10
-    },
-    {
-      "name": "aws-samples/sample-specship",
-      "url": "https://github.com/aws-samples/sample-specship",
-      "description": "Spec-driven autonomous engineering workflow for AI coding agents: recon → plan → build → validate → ship — with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
-      "full_description": "Spec-driven autonomous engineering workflow for AI coding agents: recon → plan → build → validate → ship — with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
-      "language": "Shell",
-      "stars": 158,
-      "stars_gained": 0,
-      "forks": 1,
-      "topics": [
-        "ai-agents",
-        "autonomous-agents",
-        "code-generation",
-        "developer-tools",
-        "kiro",
-        "llm",
-        "spec-driven-development",
-        "tdd"
-      ],
-      "created_at": "2026-07-10T09:54:06Z",
-      "updated_at": "2026-07-15T22:18:06Z",
-      "rank": 11
-    },
-    {
-      "name": "theteatoast/local-vuln-research-pipeline",
-      "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
-      "description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
-      "full_description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
-      "language": "Python",
-      "stars": 157,
-      "stars_gained": 0,
-      "forks": 20,
-      "topics": [
-        "agents",
-        "ai",
-        "offensive-security",
-        "pentest",
-        "qwen",
-        "redteam",
-        "vulnerability-research"
-      ],
-      "created_at": "2026-07-09T09:18:05Z",
-      "updated_at": "2026-07-16T03:04:42Z",
-      "rank": 12
-    },
-    {
-      "name": "MoisesR7/browser-mcp",
-      "url": "https://github.com/MoisesR7/browser-mcp",
-      "description": "browser mcp agent integration with autonomous browser automation capabilities",
-      "full_description": "browser mcp agent integration with autonomous browser automation capabilities",
-      "language": "TypeScript",
-      "stars": 135,
-      "stars_gained": 0,
-      "forks": 1015,
-      "topics": [
-        "browser",
-        "browser-mcp",
-        "mcp"
-      ],
-      "created_at": "2026-07-09T14:55:52Z",
-      "updated_at": "2026-07-14T11:19:12Z",
-      "rank": 13
-    },
-    {
-      "name": "wikidjon/ai-openclaw-cli",
-      "url": "https://github.com/wikidjon/ai-openclaw-cli",
-      "description": "openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp",
-      "full_description": "openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp",
-      "language": "TypeScript",
-      "stars": 135,
-      "stars_gained": 0,
-      "forks": 1017,
-      "topics": [
-        "ai",
-        "cli",
-        "mcp-cli",
-        "openclaw",
-        "openclaw-mcp",
-        "openfinclaw",
-        "openfinclaw-mcp"
-      ],
-      "created_at": "2026-07-09T07:30:49Z",
-      "updated_at": "2026-07-14T11:19:11Z",
-      "rank": 14
-    },
-    {
-      "name": "Matchameleon/moneyclaw",
-      "url": "https://github.com/Matchameleon/moneyclaw",
-      "description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
-      "full_description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
-      "language": "JavaScript",
-      "stars": 134,
-      "stars_gained": 0,
-      "forks": 1031,
-      "topics": [
-        "agent",
-        "card-agent",
-        "moneyclaw",
-        "otp-agent",
-        "wallet-agent"
-      ],
-      "created_at": "2026-07-09T07:08:09Z",
-      "updated_at": "2026-07-14T11:19:11Z",
-      "rank": 15
     },
     {
       "name": "pueschel88/Tradingview-MCP",
@@ -377,7 +280,7 @@
       "language": "TypeScript",
       "stars": 133,
       "stars_gained": 0,
-      "forks": 605,
+      "forks": 953,
       "topics": [
         "chrome-devtools",
         "claude",
@@ -388,28 +291,31 @@
       ],
       "created_at": "2026-07-13T15:30:59Z",
       "updated_at": "2026-07-16T03:35:51Z",
-      "rank": 16
+      "rank": 11
     },
     {
-      "name": "Weebapp003/tradingview-mcp",
-      "url": "https://github.com/Weebapp003/tradingview-mcp",
-      "description": "tradingview mcp which connect claude code via chrome devtools protocol",
-      "full_description": "tradingview mcp which connect claude code via chrome devtools protocol",
-      "language": "JavaScript",
-      "stars": 132,
+      "name": "yuwen-cool/yuwen-publish-precheck",
+      "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+      "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
+      "full_description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
+      "language": "Python",
+      "stars": 131,
       "stars_gained": 0,
-      "forks": 1030,
+      "forks": 9,
       "topics": [
-        "ai-tradingview",
+        "agent-skills",
+        "ai",
+        "chinese",
         "claude",
-        "claude-mcp",
-        "mcp",
-        "tradingview",
-        "tradingview-mcp"
+        "content-compliance",
+        "cursor",
+        "douyin",
+        "wechat-channels",
+        "xiaohongshu"
       ],
-      "created_at": "2026-07-09T14:21:39Z",
-      "updated_at": "2026-07-14T14:51:23Z",
-      "rank": 17
+      "created_at": "2026-07-15T13:53:48Z",
+      "updated_at": "2026-07-17T03:45:32Z",
+      "rank": 12
     },
     {
       "name": "nhevers/project-r0x",
@@ -436,31 +342,7 @@
       ],
       "created_at": "2026-07-11T10:12:16Z",
       "updated_at": "2026-07-15T06:15:10Z",
-      "rank": 18
-    },
-    {
-      "name": "pax-beehive/paxm",
-      "url": "https://github.com/pax-beehive/paxm",
-      "description": "Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
-      "full_description": "Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
-      "language": "Go",
-      "stars": 120,
-      "stars_gained": 0,
-      "forks": 1,
-      "topics": [
-        "agent-memory",
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "golang",
-        "local-first",
-        "mcp",
-        "opencode",
-        "sqlite"
-      ],
-      "created_at": "2026-07-09T02:40:57Z",
-      "updated_at": "2026-07-16T03:45:50Z",
-      "rank": 19
+      "rank": 13
     },
     {
       "name": "loop-js/loop.js",
@@ -468,7 +350,7 @@
       "description": "A loop engineering framework — state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
       "full_description": "A loop engineering framework — state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
       "language": "TypeScript",
-      "stars": 115,
+      "stars": 123,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -487,64 +369,8 @@
         "typescript"
       ],
       "created_at": "2026-07-10T10:59:54Z",
-      "updated_at": "2026-07-16T01:30:34Z",
-      "rank": 20
-    },
-    {
-      "name": "FuelMagistrateLead/photoshop-ai-smart-enhance",
-      "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
-      "description": "AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time preview, batch processing, non-destructive smart objects.",
-      "full_description": "AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time preview, batch processing, non-destructive smart objects.",
-      "language": "HTML",
-      "stars": 106,
-      "stars_gained": 0,
-      "forks": 47,
-      "topics": [
-        "abobe",
-        "ai",
-        "photo-editor",
-        "photoshop",
-        "smart-ai",
-        "smart-enchance"
-      ],
-      "created_at": "2026-07-09T19:08:33Z",
-      "updated_at": "2026-07-16T01:52:03Z",
-      "rank": 21
-    },
-    {
-      "name": "herry2059/project-os-for-codex",
-      "url": "https://github.com/herry2059/project-os-for-codex",
-      "description": "Open-source control plane for Codex projects: Git-backed context, visible agent progress, scoped MCP access, resumable work, and safe handoffs.",
-      "full_description": "Open-source control plane for Codex projects: Git-backed context, visible agent progress, scoped MCP access, resumable work, and safe handoffs.",
-      "language": "TypeScript",
-      "stars": 104,
-      "stars_gained": 0,
-      "forks": 4,
-      "topics": [
-        "agent-handoff",
-        "ai-agents",
-        "ai-coding",
-        "ai-project-management",
-        "codex",
-        "codex-cli",
-        "context-engineering",
-        "developer-tools",
-        "git",
-        "knowledge-base",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "open-source",
-        "project-management",
-        "project-tracker",
-        "react",
-        "self-hosted",
-        "typescript",
-        "workflow-automation"
-      ],
-      "created_at": "2026-07-09T20:02:35Z",
-      "updated_at": "2026-07-14T21:20:40Z",
-      "rank": 22
+      "updated_at": "2026-07-17T01:14:01Z",
+      "rank": 14
     },
     {
       "name": "youxiandechilun/Guido",
@@ -552,9 +378,9 @@
       "description": "景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。",
       "full_description": "景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。",
       "language": "Java",
-      "stars": 103,
+      "stars": 105,
       "stars_gained": 0,
-      "forks": 1,
+      "forks": 2,
       "topics": [
         "ai",
         "digital-human",
@@ -567,8 +393,8 @@
         "vue3"
       ],
       "created_at": "2026-07-11T06:23:14Z",
-      "updated_at": "2026-07-16T03:02:25Z",
-      "rank": 23
+      "updated_at": "2026-07-17T03:38:27Z",
+      "rank": 15
     },
     {
       "name": "kazelad/algo-trading-agent",
@@ -589,7 +415,7 @@
       ],
       "created_at": "2026-07-14T09:28:24Z",
       "updated_at": "2026-07-16T01:42:43Z",
-      "rank": 24
+      "rank": 16
     },
     {
       "name": "JesusRS1/stock-trade-finance-api",
@@ -609,7 +435,7 @@
       ],
       "created_at": "2026-07-14T09:10:20Z",
       "updated_at": "2026-07-16T01:49:47Z",
-      "rank": 25
+      "rank": 17
     },
     {
       "name": "dabberman456/finance-mcp-app",
@@ -619,7 +445,7 @@
       "language": "TypeScript",
       "stars": 91,
       "stars_gained": 0,
-      "forks": 0,
+      "forks": 362,
       "topics": [
         "app",
         "expense-management",
@@ -631,76 +457,70 @@
       ],
       "created_at": "2026-07-14T08:43:10Z",
       "updated_at": "2026-07-16T01:59:24Z",
-      "rank": 26
+      "rank": 18
     },
     {
-      "name": "lucidrains/x-jepa",
-      "url": "https://github.com/lucidrains/x-jepa",
-      "description": "Explorations into some of the approaches advocated by Yann LeCun, and just a more wholistic architecture (JEPA) in general",
-      "full_description": "Explorations into some of the approaches advocated by Yann LeCun, and just a more wholistic architecture (JEPA) in general",
-      "language": "Python",
-      "stars": 90,
-      "stars_gained": 0,
-      "forks": 7,
-      "topics": [
-        "artificial-intelligence",
-        "deep-learning",
-        "jepa",
-        "world-models"
-      ],
-      "created_at": "2026-07-09T14:37:09Z",
-      "updated_at": "2026-07-15T19:41:53Z",
-      "rank": 27
-    },
-    {
-      "name": "alexafinode/claude-arbitrage-bot",
-      "url": "https://github.com/alexafinode/claude-arbitrage-bot",
-      "description": "Arbitrage bot for Ethereum-compatible networks with built-in Python automation",
-      "full_description": "Arbitrage bot for Ethereum-compatible networks with built-in Python automation",
-      "language": "Solidity",
-      "stars": 81,
-      "stars_gained": 0,
-      "forks": 22,
-      "topics": [
-        "ai",
-        "arbitrage",
-        "bot",
-        "btc",
-        "claude",
-        "codex",
-        "contract",
-        "ether",
-        "ethereum",
-        "gpt",
-        "lab",
-        "smart",
-        "sol"
-      ],
-      "created_at": "2026-07-16T00:58:40Z",
-      "updated_at": "2026-07-16T03:40:24Z",
-      "rank": 28
-    },
-    {
-      "name": "yan5xu/oh-my-ai-company",
-      "url": "https://github.com/yan5xu/oh-my-ai-company",
-      "description": "A living atlas of AI companies, products, founders, investors, traffic signals, and research notes.",
-      "full_description": "A living atlas of AI companies, products, founders, investors, traffic signals, and research notes.",
+      "name": "Dennis-bv/dex-trade-agent-kit",
+      "url": "https://github.com/Dennis-bv/dex-trade-agent-kit",
+      "description": "Dex trade agent kit which AI-powered trading toolkit with two standalone packages",
+      "full_description": "Dex trade agent kit which AI-powered trading toolkit with two standalone packages",
       "language": "TypeScript",
-      "stars": 71,
+      "stars": 78,
       "stars_gained": 0,
-      "forks": 7,
+      "forks": 0,
       "topics": [
-        "ai",
-        "ai-agents",
-        "ai-infra",
-        "artificial-intelligence",
-        "market-research",
-        "memex",
-        "startups"
+        "agent",
+        "dex",
+        "dex-kit",
+        "okx",
+        "okx-kit",
+        "trade",
+        "trade-kit"
       ],
-      "created_at": "2026-07-09T04:26:15Z",
-      "updated_at": "2026-07-15T22:18:05Z",
-      "rank": 29
+      "created_at": "2026-07-14T08:55:08Z",
+      "updated_at": "2026-07-17T01:33:43Z",
+      "rank": 19
+    },
+    {
+      "name": "thesysdev/appless",
+      "url": "https://github.com/thesysdev/appless",
+      "description": "What if your phone had no apps",
+      "full_description": "What if your phone had no apps",
+      "language": "TypeScript",
+      "stars": 76,
+      "stars_gained": 0,
+      "forks": 15,
+      "topics": [
+        "generative-ui",
+        "llm",
+        "react-native"
+      ],
+      "created_at": "2026-07-16T07:08:49Z",
+      "updated_at": "2026-07-17T03:44:23Z",
+      "rank": 20
+    },
+    {
+      "name": "coji/natural-japanese",
+      "url": "https://github.com/coji/natural-japanese",
+      "description": "仕事の日本語文書を読みやすくわかりやすく書く・直す Agent Skill。議事録・調査レポート・社内ガイド・リサーチメモ・スライド構成に対応し、AI臭さの除去も工程に含む。sudachipy 形態素解析による機械検出付き。",
+      "full_description": "仕事の日本語文書を読みやすくわかりやすく書く・直す Agent Skill。議事録・調査レポート・社内ガイド・リサーチメモ・スライド構成に対応し、AI臭さの除去も工程に含む。sudachipy 形態素解析による機械検出付き。",
+      "language": "Python",
+      "stars": 75,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "agent-skills",
+        "claude",
+        "claude-code",
+        "japanese",
+        "lint",
+        "nlp",
+        "sudachipy",
+        "writing"
+      ],
+      "created_at": "2026-07-12T05:54:55Z",
+      "updated_at": "2026-07-17T03:13:04Z",
+      "rank": 21
     },
     {
       "name": "calesthio/generative-media-skills",
@@ -708,9 +528,9 @@
       "description": "Research-backed agent skills and tools for premium image, video, audio, voice, and generative media production across AI coding assistants.",
       "full_description": "Research-backed agent skills and tools for premium image, video, audio, voice, and generative media production across AI coding assistants.",
       "language": "Python",
-      "stars": 66,
+      "stars": 74,
       "stars_gained": 0,
-      "forks": 10,
+      "forks": 11,
       "topics": [
         "agent",
         "agentic-ai",
@@ -734,7 +554,206 @@
         "video-production"
       ],
       "created_at": "2026-07-11T04:16:24Z",
-      "updated_at": "2026-07-15T18:43:59Z",
+      "updated_at": "2026-07-17T03:17:59Z",
+      "rank": 22
+    },
+    {
+      "name": "Dgeloe4-yb/market-pilot",
+      "url": "https://github.com/Dgeloe4-yb/market-pilot",
+      "description": "Evidence-grounded market research prototype with traceable AI workflows.",
+      "full_description": "Evidence-grounded market research prototype with traceable AI workflows.",
+      "language": "JavaScript",
+      "stars": 61,
+      "stars_gained": 0,
+      "forks": 1,
+      "topics": [
+        "ai-product-management",
+        "fastapi",
+        "llm",
+        "market-research",
+        "react"
+      ],
+      "created_at": "2026-07-14T05:39:30Z",
+      "updated_at": "2026-07-17T00:58:30Z",
+      "rank": 23
+    },
+    {
+      "name": "S40911120/recensa",
+      "url": "https://github.com/S40911120/recensa",
+      "description": "Self-hosted web viewer for Claude Code session transcripts — read, search, replay, and audit every session you have ever run",
+      "full_description": "Self-hosted web viewer for Claude Code session transcripts — read, search, replay, and audit every session you have ever run",
+      "language": "TypeScript",
+      "stars": 60,
+      "stars_gained": 0,
+      "forks": 5,
+      "topics": [
+        "agents",
+        "ai-agents",
+        "anthropic",
+        "chat-history",
+        "claude",
+        "claude-code",
+        "conversation-history",
+        "developer-tools",
+        "docker",
+        "full-text-search",
+        "jsonl",
+        "llm",
+        "observability",
+        "self-hosted",
+        "session-viewer",
+        "transcript-viewer",
+        "viewer"
+      ],
+      "created_at": "2026-07-12T11:44:40Z",
+      "updated_at": "2026-07-16T17:22:36Z",
+      "rank": 24
+    },
+    {
+      "name": "CyberSunil/LLMVault",
+      "url": "https://github.com/CyberSunil/LLMVault",
+      "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
+      "full_description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
+      "language": "Python",
+      "stars": 59,
+      "stars_gained": 0,
+      "forks": 12,
+      "topics": [
+        "agent-security",
+        "ai-security",
+        "ai-security-tool",
+        "ctf",
+        "cybersecurity",
+        "docker",
+        "education",
+        "genai",
+        "llm",
+        "llm-security",
+        "owasp",
+        "owasp-llm-top-10",
+        "penetration-testing",
+        "prompt-injection",
+        "python",
+        "rag",
+        "red-team",
+        "security-training",
+        "vulnerable-lab"
+      ],
+      "created_at": "2026-07-15T08:18:22Z",
+      "updated_at": "2026-07-17T03:19:28Z",
+      "rank": 25
+    },
+    {
+      "name": "amitshekhariitbhu/100-days-of-ai",
+      "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
+      "description": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
+      "full_description": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
+      "language": "",
+      "stars": 56,
+      "stars_gained": 0,
+      "forks": 14,
+      "topics": [
+        "100daysofai",
+        "ai",
+        "ai-agents",
+        "large-language-models",
+        "llm",
+        "llms",
+        "machine-learning"
+      ],
+      "created_at": "2026-07-10T02:23:30Z",
+      "updated_at": "2026-07-16T18:59:40Z",
+      "rank": 26
+    },
+    {
+      "name": "Bananefre/Stock-Market-app",
+      "url": "https://github.com/Bananefre/Stock-Market-app",
+      "description": "Stock Market app which track prices and automate workflows",
+      "full_description": "Stock Market app which track prices and automate workflows",
+      "language": "TypeScript",
+      "stars": 51,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "agent",
+        "market-agent",
+        "market-app",
+        "stock-market",
+        "stock-trading"
+      ],
+      "created_at": "2026-07-14T07:37:03Z",
+      "updated_at": "2026-07-16T21:19:41Z",
+      "rank": 27
+    },
+    {
+      "name": "tracebit-com/context-bombs",
+      "url": "https://github.com/tracebit-com/context-bombs",
+      "description": "Context bomb strings",
+      "full_description": "Context bomb strings",
+      "language": "",
+      "stars": 51,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-safety",
+        "ai-security",
+        "canarytokens",
+        "guardrails",
+        "killswitch",
+        "prompt-injection",
+        "threat-detection"
+      ],
+      "created_at": "2026-07-10T15:47:42Z",
+      "updated_at": "2026-07-16T23:35:04Z",
+      "rank": 28
+    },
+    {
+      "name": "illiahaidar/mcptrustchecker",
+      "url": "https://github.com/illiahaidar/mcptrustchecker",
+      "description": "MCP security scanner — offline, deterministic A–F Trust Score for Model Context Protocol servers. Detects tool poisoning, prompt injection & toxic flows.",
+      "full_description": "MCP security scanner — offline, deterministic A–F Trust Score for Model Context Protocol servers. Detects tool poisoning, prompt injection & toxic flows.",
+      "language": "TypeScript",
+      "stars": 49,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "mcp",
+        "mcp-protocol",
+        "mcp-security",
+        "mcp-servers",
+        "mcp-tools",
+        "model-context-protocol",
+        "modelcontextprotocol",
+        "prompt-injection",
+        "supply-chain-security"
+      ],
+      "created_at": "2026-07-13T16:18:48Z",
+      "updated_at": "2026-07-17T00:20:11Z",
+      "rank": 29
+    },
+    {
+      "name": "asavvin-pixel/unslop",
+      "url": "https://github.com/asavvin-pixel/unslop",
+      "description": "English text humanizer for Claude: typography, vocabulary, structure. Calibrates to your voice. Built on the UMD / Google DeepMind study and Wikipedia's Signs of AI writing",
+      "full_description": "English text humanizer for Claude: typography, vocabulary, structure. Calibrates to your voice. Built on the UMD / Google DeepMind study and Wikipedia's Signs of AI writing",
+      "language": "",
+      "stars": 46,
+      "stars_gained": 0,
+      "forks": 4,
+      "topics": [
+        "ai-humanizer",
+        "claude",
+        "claude-skills",
+        "humanizer",
+        "llm",
+        "text-humanizer"
+      ],
+      "created_at": "2026-07-14T15:04:26Z",
+      "updated_at": "2026-07-16T19:27:47Z",
       "rank": 30
     }
   ]
