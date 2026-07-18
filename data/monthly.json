@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T03:46:08.721488+00:00",
+  "updated": "2026-07-18T03:40:59.738496+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "full_description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "language": "TypeScript",
-      "stars": 4849,
+      "stars": 4903,
       "stars_gained": 0,
-      "forks": 1017,
+      "forks": 1024,
       "topics": [
         "agents",
         "ai",
@@ -21,7 +21,7 @@
         "redteam"
       ],
       "created_at": "2026-07-02T17:53:55Z",
-      "updated_at": "2026-07-17T03:27:18Z",
+      "updated_at": "2026-07-18T03:28:37Z",
       "rank": 1
     },
     {
@@ -30,9 +30,9 @@
       "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
       "full_description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
       "language": "TypeScript",
-      "stars": 2770,
+      "stars": 2866,
       "stars_gained": 0,
-      "forks": 195,
+      "forks": 209,
       "topics": [
         "agent-tools",
         "ai-agents",
@@ -54,7 +54,7 @@
         "typescript"
       ],
       "created_at": "2026-06-29T10:49:36Z",
-      "updated_at": "2026-07-17T03:32:31Z",
+      "updated_at": "2026-07-18T03:27:17Z",
       "rank": 2
     },
     {
@@ -63,9 +63,9 @@
       "description": "The open-source AI workbench for scientific research",
       "full_description": "The open-source AI workbench for scientific research",
       "language": "TypeScript",
-      "stars": 2524,
+      "stars": 2553,
       "stars_gained": 0,
-      "forks": 358,
+      "forks": 363,
       "topics": [
         "agent",
         "ai",
@@ -84,7 +84,7 @@
         "typescript"
       ],
       "created_at": "2026-07-03T15:06:45Z",
-      "updated_at": "2026-07-17T03:30:57Z",
+      "updated_at": "2026-07-18T03:33:47Z",
       "rank": 3
     },
     {
@@ -93,9 +93,9 @@
       "description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
       "full_description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
       "language": "Python",
-      "stars": 2223,
+      "stars": 2246,
       "stars_gained": 0,
-      "forks": 488,
+      "forks": 498,
       "topics": [
         "a-stock",
         "ai-agent",
@@ -118,8 +118,35 @@
         "tickflow"
       ],
       "created_at": "2026-06-18T06:18:29Z",
-      "updated_at": "2026-07-17T03:31:30Z",
+      "updated_at": "2026-07-18T00:40:25Z",
       "rank": 4
+    },
+    {
+      "name": "HUANGCHIHHUNGLeo/claude-real-video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "full_description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "language": "Python",
+      "stars": 1716,
+      "stars_gained": 0,
+      "forks": 139,
+      "topics": [
+        "claude",
+        "claude-code",
+        "cli",
+        "ffmpeg",
+        "keyframe-extraction",
+        "llm",
+        "multimodal",
+        "python",
+        "scene-detection",
+        "transcription",
+        "video-analysis",
+        "whisper"
+      ],
+      "created_at": "2026-06-30T10:55:02Z",
+      "updated_at": "2026-07-18T03:29:52Z",
+      "rank": 5
     },
     {
       "name": "Sahir619/fable-method",
@@ -127,9 +154,9 @@
       "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
       "full_description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
       "language": "Python",
-      "stars": 1304,
+      "stars": 1661,
       "stars_gained": 0,
-      "forks": 184,
+      "forks": 231,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -142,8 +169,8 @@
         "llm"
       ],
       "created_at": "2026-07-06T22:35:18Z",
-      "updated_at": "2026-07-17T03:42:57Z",
-      "rank": 5
+      "updated_at": "2026-07-18T03:35:44Z",
+      "rank": 6
     },
     {
       "name": "sums001/Windows-Copilot-API",
@@ -151,9 +178,9 @@
       "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
       "full_description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
       "language": "Python",
-      "stars": 1133,
+      "stars": 1135,
       "stars_gained": 0,
-      "forks": 374,
+      "forks": 373,
       "topics": [
         "ai",
         "ai-agents",
@@ -164,8 +191,8 @@
         "openai"
       ],
       "created_at": "2026-06-19T13:24:44Z",
-      "updated_at": "2026-07-17T03:37:19Z",
-      "rank": 6
+      "updated_at": "2026-07-18T03:30:46Z",
+      "rank": 7
     },
     {
       "name": "AlephAITech/WorkBuddyGuide",
@@ -173,9 +200,9 @@
       "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
       "full_description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
       "language": "Python",
-      "stars": 1010,
+      "stars": 1052,
       "stars_gained": 0,
-      "forks": 136,
+      "forks": 142,
       "topics": [
         "codex",
         "guide",
@@ -183,8 +210,31 @@
         "workbuddy"
       ],
       "created_at": "2026-07-10T04:13:51Z",
-      "updated_at": "2026-07-17T03:45:03Z",
-      "rank": 7
+      "updated_at": "2026-07-18T03:31:50Z",
+      "rank": 8
+    },
+    {
+      "name": "deer-flow/llm-space",
+      "url": "https://github.com/deer-flow/llm-space",
+      "description": "A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for managed agents.",
+      "full_description": "A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for managed agents.",
+      "language": "TypeScript",
+      "stars": 1000,
+      "stars_gained": 0,
+      "forks": 105,
+      "topics": [
+        "agent",
+        "deer-flow",
+        "develop",
+        "electrobun",
+        "harness",
+        "llm",
+        "llm-tools",
+        "managed-agents"
+      ],
+      "created_at": "2026-06-28T03:39:34Z",
+      "updated_at": "2026-07-18T03:37:59Z",
+      "rank": 9
     },
     {
       "name": "jmerelnyc/Talos",
@@ -192,7 +242,7 @@
       "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "full_description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "language": "Python",
-      "stars": 992,
+      "stars": 990,
       "stars_gained": 0,
       "forks": 17,
       "topics": [
@@ -206,8 +256,8 @@
         "worker"
       ],
       "created_at": "2026-07-02T14:43:11Z",
-      "updated_at": "2026-07-16T23:26:03Z",
-      "rank": 8
+      "updated_at": "2026-07-17T06:25:36Z",
+      "rank": 10
     },
     {
       "name": "modiqo/skillspec",
@@ -215,9 +265,9 @@
       "description": "SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof.",
       "full_description": "SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof.",
       "language": "Rust",
-      "stars": 974,
+      "stars": 979,
       "stars_gained": 0,
-      "forks": 59,
+      "forks": 60,
       "topics": [
         "ai",
         "ai-agents",
@@ -225,31 +275,8 @@
         "ai-tool"
       ],
       "created_at": "2026-06-19T23:42:55Z",
-      "updated_at": "2026-07-16T20:17:44Z",
-      "rank": 9
-    },
-    {
-      "name": "deer-flow/llm-space",
-      "url": "https://github.com/deer-flow/llm-space",
-      "description": "A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first.",
-      "full_description": "A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first.",
-      "language": "TypeScript",
-      "stars": 901,
-      "stars_gained": 0,
-      "forks": 97,
-      "topics": [
-        "agent",
-        "deer-flow",
-        "develop",
-        "electrobun",
-        "harness",
-        "llm",
-        "llm-tools",
-        "managed-agents"
-      ],
-      "created_at": "2026-06-28T03:39:34Z",
-      "updated_at": "2026-07-17T03:36:40Z",
-      "rank": 10
+      "updated_at": "2026-07-17T21:02:11Z",
+      "rank": 11
     },
     {
       "name": "simonlin1212/Vibe-Research",
@@ -257,9 +284,9 @@
       "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "full_description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "language": "TypeScript",
-      "stars": 867,
+      "stars": 882,
       "stars_gained": 0,
-      "forks": 193,
+      "forks": 196,
       "topics": [
         "a-stock",
         "ai-agent",
@@ -277,8 +304,8 @@
         "us-stocks"
       ],
       "created_at": "2026-07-05T06:30:55Z",
-      "updated_at": "2026-07-16T22:03:04Z",
-      "rank": 11
+      "updated_at": "2026-07-18T02:51:44Z",
+      "rank": 12
     },
     {
       "name": "uzairansaruzi/hermex",
@@ -286,9 +313,9 @@
       "description": "Native iPhone app for your Hermes agent",
       "full_description": "Native iPhone app for your Hermes agent",
       "language": "Swift",
-      "stars": 828,
+      "stars": 853,
       "stars_gained": 0,
-      "forks": 91,
+      "forks": 92,
       "topics": [
         "hermes",
         "hermes-agent",
@@ -300,8 +327,8 @@
         "swiftui"
       ],
       "created_at": "2026-07-02T12:47:31Z",
-      "updated_at": "2026-07-17T03:15:37Z",
-      "rank": 12
+      "updated_at": "2026-07-18T00:46:41Z",
+      "rank": 13
     },
     {
       "name": "ai4s-research/open-science",
@@ -309,9 +336,9 @@
       "description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
       "full_description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
       "language": "TypeScript",
-      "stars": 794,
+      "stars": 816,
       "stars_gained": 0,
-      "forks": 92,
+      "forks": 96,
       "topics": [
         "ai-agent",
         "ai-for-science",
@@ -335,8 +362,8 @@
         "windows"
       ],
       "created_at": "2026-07-03T09:22:31Z",
-      "updated_at": "2026-07-17T02:32:00Z",
-      "rank": 13
+      "updated_at": "2026-07-18T02:26:20Z",
+      "rank": 14
     },
     {
       "name": "SmileLikeYe/agent-chief",
@@ -344,7 +371,7 @@
       "description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
       "full_description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
       "language": "Python",
-      "stars": 780,
+      "stars": 812,
       "stars_gained": 0,
       "forks": 3,
       "topics": [
@@ -354,8 +381,8 @@
         "local-first"
       ],
       "created_at": "2026-07-04T15:28:56Z",
-      "updated_at": "2026-07-16T02:48:32Z",
-      "rank": 14
+      "updated_at": "2026-07-17T20:29:22Z",
+      "rank": 15
     },
     {
       "name": "benchflow-ai/awesome-evals",
@@ -363,7 +390,7 @@
       "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
       "full_description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
       "language": "",
-      "stars": 731,
+      "stars": 733,
       "stars_gained": 0,
       "forks": 63,
       "topics": [
@@ -378,8 +405,8 @@
         "rl-environments"
       ],
       "created_at": "2026-06-24T08:10:33Z",
-      "updated_at": "2026-07-17T02:42:28Z",
-      "rank": 15
+      "updated_at": "2026-07-18T00:05:54Z",
+      "rank": 16
     },
     {
       "name": "raiyanyahya/recall",
@@ -411,8 +438,35 @@
         "textrank"
       ],
       "created_at": "2026-06-19T20:36:41Z",
-      "updated_at": "2026-07-16T18:24:37Z",
-      "rank": 16
+      "updated_at": "2026-07-17T21:15:05Z",
+      "rank": 17
+    },
+    {
+      "name": "William-Lu-stack/Flawless",
+      "url": "https://github.com/William-Lu-stack/Flawless",
+      "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "full_description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "language": "Python",
+      "stars": 709,
+      "stars_gained": 0,
+      "forks": 145,
+      "topics": [
+        "agenticops",
+        "ai",
+        "aiops",
+        "aisre",
+        "cloud",
+        "cloud-native",
+        "devops",
+        "kubernetes",
+        "llm",
+        "mcp",
+        "observability",
+        "sre"
+      ],
+      "created_at": "2026-07-10T05:57:02Z",
+      "updated_at": "2026-07-18T02:57:47Z",
+      "rank": 18
     },
     {
       "name": "op7418/guizang-material-illustration",
@@ -420,7 +474,7 @@
       "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
       "full_description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
       "language": "",
-      "stars": 698,
+      "stars": 706,
       "stars_gained": 0,
       "forks": 69,
       "topics": [
@@ -438,35 +492,8 @@
         "social-media"
       ],
       "created_at": "2026-07-07T13:57:13Z",
-      "updated_at": "2026-07-17T02:35:39Z",
-      "rank": 17
-    },
-    {
-      "name": "William-Lu-stack/Flawless",
-      "url": "https://github.com/William-Lu-stack/Flawless",
-      "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "full_description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "language": "Python",
-      "stars": 691,
-      "stars_gained": 0,
-      "forks": 131,
-      "topics": [
-        "agenticops",
-        "ai",
-        "aiops",
-        "aisre",
-        "cloud",
-        "cloud-native",
-        "devops",
-        "kubernetes",
-        "llm",
-        "mcp",
-        "observability",
-        "sre"
-      ],
-      "created_at": "2026-07-10T05:57:02Z",
-      "updated_at": "2026-07-17T00:31:49Z",
-      "rank": 18
+      "updated_at": "2026-07-18T02:26:22Z",
+      "rank": 19
     },
     {
       "name": "Intuition-Lab/personal-model",
@@ -474,9 +501,9 @@
       "description": "Build your HUMAN.md.",
       "full_description": "Build your HUMAN.md.",
       "language": "Python",
-      "stars": 557,
+      "stars": 678,
       "stars_gained": 0,
-      "forks": 44,
+      "forks": 53,
       "topics": [
         "agent-memory",
         "local-first",
@@ -488,8 +515,8 @@
         "python"
       ],
       "created_at": "2026-07-10T16:10:25Z",
-      "updated_at": "2026-07-17T03:41:33Z",
-      "rank": 19
+      "updated_at": "2026-07-18T03:37:14Z",
+      "rank": 20
     },
     {
       "name": "AIScientists-Dev/academic-humanizer",
@@ -497,9 +524,9 @@
       "description": "Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind.",
       "full_description": "Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind.",
       "language": "",
-      "stars": 525,
+      "stars": 542,
       "stars_gained": 0,
-      "forks": 60,
+      "forks": 64,
       "topics": [
         "academic-writing",
         "grant-writing",
@@ -511,8 +538,25 @@
         "writing-assistant"
       ],
       "created_at": "2026-06-20T13:23:52Z",
-      "updated_at": "2026-07-17T03:12:05Z",
-      "rank": 20
+      "updated_at": "2026-07-18T00:33:16Z",
+      "rank": 21
+    },
+    {
+      "name": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "full_description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "language": "Rust",
+      "stars": 534,
+      "stars_gained": 0,
+      "forks": 38,
+      "topics": [
+        "agent",
+        "browser-use"
+      ],
+      "created_at": "2026-06-22T07:24:40Z",
+      "updated_at": "2026-07-17T17:19:25Z",
+      "rank": 22
     },
     {
       "name": "axislab-top/Foundry",
@@ -541,24 +585,7 @@
       ],
       "created_at": "2026-06-21T05:59:33Z",
       "updated_at": "2026-07-16T15:47:40Z",
-      "rank": 21
-    },
-    {
-      "name": "Tencent/BrowserSkill",
-      "url": "https://github.com/Tencent/BrowserSkill",
-      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "full_description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "language": "Rust",
-      "stars": 521,
-      "stars_gained": 0,
-      "forks": 36,
-      "topics": [
-        "agent",
-        "browser-use"
-      ],
-      "created_at": "2026-06-22T07:24:40Z",
-      "updated_at": "2026-07-17T02:59:38Z",
-      "rank": 22
+      "rank": 23
     },
     {
       "name": "tianma-if/edgeever",
@@ -566,9 +593,9 @@
       "description": "Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』",
       "full_description": "Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』",
       "language": "TypeScript",
-      "stars": 477,
+      "stars": 492,
       "stars_gained": 0,
-      "forks": 148,
+      "forks": 163,
       "topics": [
         "cloudflare",
         "cloudflare-d1",
@@ -581,6 +608,7 @@
         "mcp",
         "note-taking",
         "notes",
+        "obsidian",
         "personal-knowledge-base",
         "pwa",
         "pwa-app",
@@ -590,8 +618,28 @@
         "workers"
       ],
       "created_at": "2026-06-26T06:59:58Z",
-      "updated_at": "2026-07-17T02:59:17Z",
-      "rank": 23
+      "updated_at": "2026-07-18T00:44:22Z",
+      "rank": 24
+    },
+    {
+      "name": "juggler-ai/juggler",
+      "url": "https://github.com/juggler-ai/juggler",
+      "description": "The Juggler Code Agent",
+      "full_description": "The Juggler Code Agent",
+      "language": "JavaScript",
+      "stars": 476,
+      "stars_gained": 0,
+      "forks": 25,
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agents",
+        "ai-agents",
+        "coding-assistant"
+      ],
+      "created_at": "2026-06-19T08:33:59Z",
+      "updated_at": "2026-07-18T03:05:57Z",
+      "rank": 25
     },
     {
       "name": "ronak-create/FableCut",
@@ -599,9 +647,9 @@
       "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
       "full_description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
       "language": "JavaScript",
-      "stars": 463,
+      "stars": 471,
       "stars_gained": 0,
-      "forks": 45,
+      "forks": 47,
       "topics": [
         "ai-agent",
         "canvas",
@@ -617,8 +665,8 @@
         "zero-dependency"
       ],
       "created_at": "2026-07-06T16:18:57Z",
-      "updated_at": "2026-07-17T02:52:01Z",
-      "rank": 24
+      "updated_at": "2026-07-18T01:46:34Z",
+      "rank": 26
     },
     {
       "name": "Brain0-ai/brain0",
@@ -626,7 +674,7 @@
       "description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
       "full_description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
       "language": "Rust",
-      "stars": 450,
+      "stars": 452,
       "stars_gained": 0,
       "forks": 15,
       "topics": [
@@ -652,8 +700,8 @@
         "typescript"
       ],
       "created_at": "2026-07-02T12:02:08Z",
-      "updated_at": "2026-07-17T03:11:04Z",
-      "rank": 25
+      "updated_at": "2026-07-18T01:37:39Z",
+      "rank": 27
     },
     {
       "name": "linxidnju/OpenTag",
@@ -661,7 +709,7 @@
       "description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
       "full_description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
       "language": "JavaScript",
-      "stars": 431,
+      "stars": 448,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -681,8 +729,8 @@
         "team-collaboration"
       ],
       "created_at": "2026-06-27T08:10:47Z",
-      "updated_at": "2026-07-17T03:23:35Z",
-      "rank": 26
+      "updated_at": "2026-07-18T02:37:03Z",
+      "rank": 28
     },
     {
       "name": "Env-Kit/envkit-releases",
@@ -690,7 +738,7 @@
       "description": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
       "full_description": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
       "language": "Shell",
-      "stars": 428,
+      "stars": 429,
       "stars_gained": 0,
       "forks": 11,
       "topics": [
@@ -716,8 +764,8 @@
         "xampp-alternative"
       ],
       "created_at": "2026-06-20T15:20:52Z",
-      "updated_at": "2026-07-16T13:40:25Z",
-      "rank": 27
+      "updated_at": "2026-07-17T10:06:56Z",
+      "rank": 29
     },
     {
       "name": "lidge-jun/opencodex",
@@ -725,9 +773,9 @@
       "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
       "full_description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
       "language": "TypeScript",
-      "stars": 398,
+      "stars": 409,
       "stars_gained": 0,
-      "forks": 38,
+      "forks": 41,
       "topics": [
         "ai-gateway",
         "ai-tools",
@@ -751,56 +799,7 @@
         "typescript"
       ],
       "created_at": "2026-06-18T23:03:18Z",
-      "updated_at": "2026-07-17T03:39:36Z",
-      "rank": 28
-    },
-    {
-      "name": "Doriandarko/texts-to-transformer",
-      "url": "https://github.com/Doriandarko/texts-to-transformer",
-      "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-      "full_description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-      "language": "Python",
-      "stars": 398,
-      "stars_gained": 0,
-      "forks": 38,
-      "topics": [
-        "apple-silicon",
-        "imessage",
-        "local-first",
-        "machine-learning",
-        "mlx",
-        "transformer"
-      ],
-      "created_at": "2026-07-08T08:12:17Z",
-      "updated_at": "2026-07-17T01:02:06Z",
-      "rank": 29
-    },
-    {
-      "name": "SuperJJ007/CSSwitch",
-      "url": "https://github.com/SuperJJ007/CSSwitch",
-      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-      "full_description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-      "language": "Rust",
-      "stars": 369,
-      "stars_gained": 0,
-      "forks": 38,
-      "topics": [
-        "anthropic",
-        "claude",
-        "claude-science",
-        "dashscope",
-        "deepseek",
-        "llm",
-        "macos",
-        "mcp",
-        "menubar",
-        "openai-compatible",
-        "proxy",
-        "qwen",
-        "tauri"
-      ],
-      "created_at": "2026-07-02T16:46:56Z",
-      "updated_at": "2026-07-17T03:24:16Z",
+      "updated_at": "2026-07-18T03:18:54Z",
       "rank": 30
     }
   ]
