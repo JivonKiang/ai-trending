@@ -1,18 +1,42 @@
 {
-  "updated": "2026-07-20T04:12:22.140754+00:00",
+  "updated": "2026-07-21T03:54:31.138335+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
   "projects": [
+    {
+      "name": "MIgHTy-alIeN/Trading-Bot",
+      "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
+      "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "full_description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "language": "Solidity",
+      "stars": 467,
+      "stars_gained": 0,
+      "forks": 285,
+      "topics": [
+        "ai",
+        "aitradingbot",
+        "bot",
+        "btc",
+        "claude",
+        "eth",
+        "etherlab",
+        "mev",
+        "mevbots"
+      ],
+      "created_at": "2026-07-17T09:45:22Z",
+      "updated_at": "2026-07-21T03:54:23Z",
+      "rank": 1
+    },
     {
       "name": "vshulcz/deja-vu",
       "url": "https://github.com/vshulcz/deja-vu",
       "description": "Your agents already solved this. deja finds it — retroactive search and MCP recall over the session logs your coding agents already wrote. Cross-agent, SSH-portable, one zero-dep binary, fully local.",
       "full_description": "Your agents already solved this. deja finds it — retroactive search and MCP recall over the session logs your coding agents already wrote. Cross-agent, SSH-portable, one zero-dep binary, fully local.",
       "language": "Go",
-      "stars": 388,
+      "stars": 424,
       "stars_gained": 0,
-      "forks": 20,
+      "forks": 21,
       "topics": [
         "agent-memory",
         "ai-memory",
@@ -29,31 +53,7 @@
         "session-search"
       ],
       "created_at": "2026-07-14T07:45:44Z",
-      "updated_at": "2026-07-20T03:56:43Z",
-      "rank": 1
-    },
-    {
-      "name": "MIgHTy-alIeN/Trading-Bot",
-      "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
-      "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-      "full_description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-      "language": "Solidity",
-      "stars": 351,
-      "stars_gained": 0,
-      "forks": 193,
-      "topics": [
-        "ai",
-        "aitradingbot",
-        "bot",
-        "btc",
-        "claude",
-        "eth",
-        "etherlab",
-        "mev",
-        "mevbots"
-      ],
-      "created_at": "2026-07-17T09:45:22Z",
-      "updated_at": "2026-07-20T04:11:53Z",
+      "updated_at": "2026-07-21T03:38:23Z",
       "rank": 2
     },
     {
@@ -62,9 +62,9 @@
       "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
       "full_description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
       "language": "JavaScript",
-      "stars": 345,
+      "stars": 398,
       "stars_gained": 0,
-      "forks": 42,
+      "forks": 51,
       "topics": [
         "ai",
         "canvas",
@@ -76,31 +76,8 @@
         "visual-thinking"
       ],
       "created_at": "2026-07-14T14:45:23Z",
-      "updated_at": "2026-07-20T03:54:38Z",
+      "updated_at": "2026-07-21T03:37:16Z",
       "rank": 3
-    },
-    {
-      "name": "QuantumByteOSS/quantumbyte",
-      "url": "https://github.com/QuantumByteOSS/quantumbyte",
-      "description": "Open-source app builder engine — intent to working app",
-      "full_description": "Open-source app builder engine — intent to working app",
-      "language": "Python",
-      "stars": 331,
-      "stars_gained": 0,
-      "forks": 46,
-      "topics": [
-        "agents",
-        "ai",
-        "app-builder",
-        "code-generation",
-        "llm",
-        "nextjs",
-        "open-source",
-        "python"
-      ],
-      "created_at": "2026-07-14T04:53:39Z",
-      "updated_at": "2026-07-19T21:14:23Z",
-      "rank": 4
     },
     {
       "name": "yuwen-cool/yuwen-publish-precheck",
@@ -108,9 +85,9 @@
       "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
       "full_description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
       "language": "Python",
-      "stars": 328,
+      "stars": 358,
       "stars_gained": 0,
-      "forks": 31,
+      "forks": 34,
       "topics": [
         "agent-skills",
         "ai",
@@ -123,7 +100,30 @@
         "xiaohongshu"
       ],
       "created_at": "2026-07-15T13:53:48Z",
-      "updated_at": "2026-07-20T03:33:28Z",
+      "updated_at": "2026-07-21T03:25:58Z",
+      "rank": 4
+    },
+    {
+      "name": "QuantumByteOSS/quantumbyte",
+      "url": "https://github.com/QuantumByteOSS/quantumbyte",
+      "description": "Open-source app builder engine — intent to working app",
+      "full_description": "Open-source app builder engine — intent to working app",
+      "language": "Python",
+      "stars": 334,
+      "stars_gained": 0,
+      "forks": 47,
+      "topics": [
+        "agents",
+        "ai",
+        "app-builder",
+        "code-generation",
+        "llm",
+        "nextjs",
+        "open-source",
+        "python"
+      ],
+      "created_at": "2026-07-14T04:53:39Z",
+      "updated_at": "2026-07-20T11:41:59Z",
       "rank": 5
     },
     {
@@ -132,7 +132,7 @@
       "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
       "full_description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
       "language": "Shell",
-      "stars": 309,
+      "stars": 314,
       "stars_gained": 0,
       "forks": 17,
       "topics": [
@@ -154,7 +154,7 @@
         "vibe-coding"
       ],
       "created_at": "2026-07-16T11:37:15Z",
-      "updated_at": "2026-07-19T18:15:28Z",
+      "updated_at": "2026-07-21T03:54:12Z",
       "rank": 6
     },
     {
@@ -163,16 +163,16 @@
       "description": "What if your phone had no apps",
       "full_description": "What if your phone had no apps",
       "language": "TypeScript",
-      "stars": 272,
+      "stars": 301,
       "stars_gained": 0,
-      "forks": 44,
+      "forks": 43,
       "topics": [
         "generative-ui",
         "llm",
         "react-native"
       ],
       "created_at": "2026-07-16T07:08:49Z",
-      "updated_at": "2026-07-20T02:26:52Z",
+      "updated_at": "2026-07-21T01:52:58Z",
       "rank": 7
     },
     {
@@ -181,9 +181,9 @@
       "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
       "full_description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
       "language": "Python",
-      "stars": 202,
+      "stars": 215,
       "stars_gained": 0,
-      "forks": 51,
+      "forks": 53,
       "topics": [
         "agent-security",
         "ai-security",
@@ -207,41 +207,8 @@
         "vulnerable-lab"
       ],
       "created_at": "2026-07-15T08:18:22Z",
-      "updated_at": "2026-07-20T03:21:22Z",
+      "updated_at": "2026-07-21T02:46:33Z",
       "rank": 8
-    },
-    {
-      "name": "Extraltodeus/J-Wash",
-      "url": "https://github.com/Extraltodeus/J-Wash",
-      "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
-      "full_description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
-      "language": "Python",
-      "stars": 182,
-      "stars_gained": 0,
-      "forks": 17,
-      "topics": [
-        "abliteration",
-        "ai",
-        "anthropic",
-        "artificial-intelligence",
-        "huggingface",
-        "interpretability",
-        "j-wash",
-        "jacobian-lens",
-        "large-language-models",
-        "llm",
-        "mechanistic-interpretability",
-        "model-editing",
-        "neural-networks",
-        "pytorch",
-        "research",
-        "steering",
-        "transformers",
-        "visualization"
-      ],
-      "created_at": "2026-07-13T20:23:26Z",
-      "updated_at": "2026-07-19T18:30:55Z",
-      "rank": 9
     },
     {
       "name": "KlaatAI/klaatcode",
@@ -249,9 +216,9 @@
       "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
       "full_description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
       "language": "TypeScript",
-      "stars": 148,
+      "stars": 174,
       "stars_gained": 0,
-      "forks": 23,
+      "forks": 46,
       "topics": [
         "agentic-ai",
         "ai",
@@ -275,29 +242,88 @@
         "terminal"
       ],
       "created_at": "2026-07-17T11:38:10Z",
-      "updated_at": "2026-07-20T02:17:49Z",
+      "updated_at": "2026-07-21T00:29:10Z",
+      "rank": 9
+    },
+    {
+      "name": "rollingSirius/equity-research-skill",
+      "url": "https://github.com/rollingSirius/equity-research-skill",
+      "description": "可能是最深度的 AI 投研报告 Skill：九章个股深研 + 九章财报深度分析，脚本化 DCF/EPV 与可复算估值",
+      "full_description": "可能是最深度的 AI 投研报告 Skill：九章个股深研 + 九章财报深度分析，脚本化 DCF/EPV 与可复算估值",
+      "language": "Python",
+      "stars": 145,
+      "stars_gained": 0,
+      "forks": 27,
+      "topics": [
+        "agent-skills",
+        "ai",
+        "dcf",
+        "equity-research",
+        "investing",
+        "stock-analysis",
+        "valuation"
+      ],
+      "created_at": "2026-07-14T02:49:07Z",
+      "updated_at": "2026-07-21T03:52:21Z",
       "rank": 10
     },
     {
-      "name": "pueschel88/Tradingview-MCP",
-      "url": "https://github.com/pueschel88/Tradingview-MCP",
-      "description": "Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-      "full_description": "Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-      "language": "TypeScript",
-      "stars": 133,
+      "name": "Saivineeth147/lora-speedrun",
+      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "description": "Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt for fine-tuning.",
+      "full_description": "Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt for fine-tuning.",
+      "language": "Python",
+      "stars": 122,
       "stars_gained": 0,
-      "forks": 1234,
+      "forks": 6,
       "topics": [
-        "chrome-devtools",
-        "claude",
-        "mcp",
-        "tradingview",
-        "tradingview-agent",
-        "tradingview-mcp"
+        "benchmark",
+        "fine-tuning",
+        "leaderboard",
+        "llm",
+        "lora",
+        "peft",
+        "qlora",
+        "speedrun"
       ],
-      "created_at": "2026-07-13T15:30:59Z",
-      "updated_at": "2026-07-16T03:35:51Z",
+      "created_at": "2026-07-18T17:53:03Z",
+      "updated_at": "2026-07-21T03:47:15Z",
       "rank": 11
+    },
+    {
+      "name": "0xsline/OpenChatCut",
+      "url": "https://github.com/0xsline/OpenChatCut",
+      "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
+      "full_description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
+      "language": "TypeScript",
+      "stars": 120,
+      "stars_gained": 0,
+      "forks": 8,
+      "topics": [
+        "agent-skills",
+        "agentic-ai",
+        "ai-agent",
+        "ai-video-editor",
+        "claude-code",
+        "codex",
+        "electron",
+        "ffmpeg",
+        "generative-ai",
+        "glsl",
+        "local-first",
+        "mcp",
+        "model-context-protocol",
+        "react",
+        "remotion",
+        "timeline-editor",
+        "typescript",
+        "video-editing",
+        "video-editor",
+        "webgl"
+      ],
+      "created_at": "2026-07-15T02:49:42Z",
+      "updated_at": "2026-07-21T03:53:57Z",
+      "rank": 12
     },
     {
       "name": "lofty14/restaurant-digitalization-blueprint",
@@ -305,9 +331,9 @@
       "description": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
       "full_description": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
       "language": "",
-      "stars": 105,
+      "stars": 116,
       "stars_gained": 0,
-      "forks": 35,
+      "forks": 40,
       "topics": [
         "ai",
         "ai-agents",
@@ -325,27 +351,7 @@
         "supply-chain"
       ],
       "created_at": "2026-07-16T05:53:33Z",
-      "updated_at": "2026-07-20T02:34:26Z",
-      "rank": 12
-    },
-    {
-      "name": "Dgeloe4-yb/market-pilot",
-      "url": "https://github.com/Dgeloe4-yb/market-pilot",
-      "description": "Evidence-grounded market research prototype with traceable AI workflows.",
-      "full_description": "Evidence-grounded market research prototype with traceable AI workflows.",
-      "language": "JavaScript",
-      "stars": 101,
-      "stars_gained": 0,
-      "forks": 1,
-      "topics": [
-        "ai-product-management",
-        "fastapi",
-        "llm",
-        "market-research",
-        "react"
-      ],
-      "created_at": "2026-07-14T05:39:30Z",
-      "updated_at": "2026-07-18T22:01:31Z",
+      "updated_at": "2026-07-21T03:29:50Z",
       "rank": 13
     },
     {
@@ -354,9 +360,9 @@
       "description": "发一张图给你的 Codex，它自己给自己换肤 | Send one image to your Codex and it reskins itself. Agent-native skin engine for the Codex desktop app.",
       "full_description": "发一张图给你的 Codex，它自己给自己换肤 | Send one image to your Codex and it reskins itself. Agent-native skin engine for the Codex desktop app.",
       "language": "JavaScript",
-      "stars": 99,
+      "stars": 101,
       "stars_gained": 0,
-      "forks": 16,
+      "forks": 18,
       "topics": [
         "agent",
         "cdp",
@@ -367,8 +373,33 @@
         "theme"
       ],
       "created_at": "2026-07-16T08:51:23Z",
-      "updated_at": "2026-07-20T02:46:18Z",
+      "updated_at": "2026-07-20T15:39:45Z",
       "rank": 14
+    },
+    {
+      "name": "zeraix/zeraix",
+      "url": "https://github.com/zeraix/zeraix",
+      "description": "Open-source local AI workspace — advancing on-device inference.",
+      "full_description": "Open-source local AI workspace — advancing on-device inference.",
+      "language": "TypeScript",
+      "stars": 96,
+      "stars_gained": 0,
+      "forks": 4,
+      "topics": [
+        "ai-runtime",
+        "apple-silicon",
+        "desktop",
+        "llm",
+        "llm-inference",
+        "local-ai",
+        "metal",
+        "moe",
+        "offline-ai",
+        "on-device-ai"
+      ],
+      "created_at": "2026-07-14T03:12:28Z",
+      "updated_at": "2026-07-21T03:53:04Z",
+      "rank": 15
     },
     {
       "name": "kazelad/algo-trading-agent",
@@ -378,7 +409,7 @@
       "language": "TypeScript",
       "stars": 91,
       "stars_gained": 0,
-      "forks": 342,
+      "forks": 728,
       "topics": [
         "agent",
         "algo",
@@ -389,7 +420,7 @@
       ],
       "created_at": "2026-07-14T09:28:24Z",
       "updated_at": "2026-07-16T01:42:43Z",
-      "rank": 15
+      "rank": 16
     },
     {
       "name": "JesusRS1/stock-trade-finance-api",
@@ -399,7 +430,7 @@
       "language": "TypeScript",
       "stars": 91,
       "stars_gained": 0,
-      "forks": 310,
+      "forks": 660,
       "topics": [
         "mcp",
         "mcp-server",
@@ -409,7 +440,7 @@
       ],
       "created_at": "2026-07-14T09:10:20Z",
       "updated_at": "2026-07-16T01:49:47Z",
-      "rank": 16
+      "rank": 17
     },
     {
       "name": "dabberman456/finance-mcp-app",
@@ -419,7 +450,7 @@
       "language": "TypeScript",
       "stars": 91,
       "stars_gained": 0,
-      "forks": 1013,
+      "forks": 1398,
       "topics": [
         "app",
         "expense-management",
@@ -431,28 +462,6 @@
       ],
       "created_at": "2026-07-14T08:43:10Z",
       "updated_at": "2026-07-16T01:59:24Z",
-      "rank": 17
-    },
-    {
-      "name": "Dennis-bv/dex-trade-agent-kit",
-      "url": "https://github.com/Dennis-bv/dex-trade-agent-kit",
-      "description": "Dex trade agent kit which AI-powered trading toolkit with two standalone packages",
-      "full_description": "Dex trade agent kit which AI-powered trading toolkit with two standalone packages",
-      "language": "TypeScript",
-      "stars": 78,
-      "stars_gained": 0,
-      "forks": 341,
-      "topics": [
-        "agent",
-        "dex",
-        "dex-kit",
-        "okx",
-        "okx-kit",
-        "trade",
-        "trade-kit"
-      ],
-      "created_at": "2026-07-14T08:55:08Z",
-      "updated_at": "2026-07-17T01:33:43Z",
       "rank": 18
     },
     {
@@ -461,7 +470,7 @@
       "description": "一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格",
       "full_description": "一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格",
       "language": "TypeScript",
-      "stars": 75,
+      "stars": 80,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
@@ -478,34 +487,8 @@
         "sd2"
       ],
       "created_at": "2026-07-16T06:28:46Z",
-      "updated_at": "2026-07-20T02:58:01Z",
+      "updated_at": "2026-07-21T03:52:59Z",
       "rank": 19
-    },
-    {
-      "name": "illiahaidar/mcptrustchecker",
-      "url": "https://github.com/illiahaidar/mcptrustchecker",
-      "description": "MCP security scanner — offline, deterministic A–F Trust Score for Model Context Protocol servers. Detects tool poisoning, prompt injection & toxic flows.",
-      "full_description": "MCP security scanner — offline, deterministic A–F Trust Score for Model Context Protocol servers. Detects tool poisoning, prompt injection & toxic flows.",
-      "language": "TypeScript",
-      "stars": 73,
-      "stars_gained": 0,
-      "forks": 1,
-      "topics": [
-        "ai",
-        "artificial-intelligence",
-        "mcp",
-        "mcp-protocol",
-        "mcp-security",
-        "mcp-servers",
-        "mcp-tools",
-        "model-context-protocol",
-        "modelcontextprotocol",
-        "prompt-injection",
-        "supply-chain-security"
-      ],
-      "created_at": "2026-07-13T16:18:48Z",
-      "updated_at": "2026-07-20T02:27:31Z",
-      "rank": 20
     },
     {
       "name": "stephenleo/OpenMicro",
@@ -513,9 +496,9 @@
       "description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
       "full_description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
       "language": "TypeScript",
-      "stars": 73,
+      "stars": 79,
       "stars_gained": 0,
-      "forks": 7,
+      "forks": 8,
       "topics": [
         "agenticai",
         "ai",
@@ -526,31 +509,30 @@
         "vibe-coding"
       ],
       "created_at": "2026-07-16T03:23:26Z",
-      "updated_at": "2026-07-20T02:56:35Z",
-      "rank": 21
+      "updated_at": "2026-07-21T01:11:06Z",
+      "rank": 20
     },
     {
-      "name": "addxai/ReflectWorld",
-      "url": "https://github.com/addxai/ReflectWorld",
-      "description": "ReflectWorld-MM: An Entity-Oriented Multimodal Memory System for Open-Ended Video Stream",
-      "full_description": "ReflectWorld-MM: An Entity-Oriented Multimodal Memory System for Open-Ended Video Stream",
+      "name": "Dennis-bv/dex-trade-agent-kit",
+      "url": "https://github.com/Dennis-bv/dex-trade-agent-kit",
+      "description": "Dex trade agent kit which AI-powered trading toolkit with two standalone packages",
+      "full_description": "Dex trade agent kit which AI-powered trading toolkit with two standalone packages",
       "language": "TypeScript",
-      "stars": 67,
+      "stars": 78,
       "stars_gained": 0,
-      "forks": 4,
+      "forks": 725,
       "topics": [
-        "ai-agents",
-        "computer-vision",
-        "lifelong-learning",
-        "long-term-memory",
-        "multimodal-ai",
-        "openclaw",
-        "video-understanding",
-        "visual-memory"
+        "agent",
+        "dex",
+        "dex-kit",
+        "okx",
+        "okx-kit",
+        "trade",
+        "trade-kit"
       ],
-      "created_at": "2026-07-13T06:13:25Z",
-      "updated_at": "2026-07-20T02:42:57Z",
-      "rank": 22
+      "created_at": "2026-07-14T08:55:08Z",
+      "updated_at": "2026-07-17T01:33:43Z",
+      "rank": 21
     },
     {
       "name": "PabloTheThinker/hermespace",
@@ -558,9 +540,9 @@
       "description": "Pocket workbench for Hermes Agent — limited FOA desk, dual decode, skills+MEMORY fabric, neural FOA. Not J-space. Not a second runtime.",
       "full_description": "Pocket workbench for Hermes Agent — limited FOA desk, dual decode, skills+MEMORY fabric, neural FOA. Not J-space. Not a second runtime.",
       "language": "Python",
-      "stars": 64,
+      "stars": 78,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 4,
       "topics": [
         "agentskills",
         "ai-agents",
@@ -572,8 +554,122 @@
         "workbench"
       ],
       "created_at": "2026-07-18T13:23:46Z",
-      "updated_at": "2026-07-20T01:20:05Z",
+      "updated_at": "2026-07-21T02:36:48Z",
+      "rank": 22
+    },
+    {
+      "name": "worldwonderer/novel-to-game",
+      "url": "https://github.com/worldwonderer/novel-to-game",
+      "description": "把任何小说变成可玩的游戏 · Turn any novel into a playable game — a 7-skill adaptation pipeline for Claude Code, Codex & Kimi Code(k3)",
+      "full_description": "把任何小说变成可玩的游戏 · Turn any novel into a playable game — a 7-skill adaptation pipeline for Claude Code, Codex & Kimi Code(k3)",
+      "language": "Python",
+      "stars": 77,
+      "stars_gained": 0,
+      "forks": 14,
+      "topics": [
+        "agent-skills",
+        "ai-game-development",
+        "claude-code",
+        "game-design",
+        "generative-ai",
+        "interactive-fiction",
+        "kimi-code",
+        "narrative-design",
+        "novel-to-game",
+        "open-source",
+        "openai-codex",
+        "story-to-game",
+        "text-to-game",
+        "web-game"
+      ],
+      "created_at": "2026-07-18T16:29:56Z",
+      "updated_at": "2026-07-21T03:13:37Z",
       "rank": 23
+    },
+    {
+      "name": "Kritt-ai/open-kritt",
+      "url": "https://github.com/Kritt-ai/open-kritt",
+      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "full_description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "language": "JavaScript",
+      "stars": 69,
+      "stars_gained": 0,
+      "forks": 17,
+      "topics": [
+        "agent",
+        "agents",
+        "ai",
+        "bug-bounty",
+        "bugbounty",
+        "bugbounty-tools",
+        "security",
+        "security-research"
+      ],
+      "created_at": "2026-07-20T20:26:24Z",
+      "updated_at": "2026-07-21T03:49:13Z",
+      "rank": 24
+    },
+    {
+      "name": "NullLabTests/software-periodic-table",
+      "url": "https://github.com/NullLabTests/software-periodic-table",
+      "description": "A finite ontology of 115 recurring software elements and a composition framework for LLM-based coding agents",
+      "full_description": "A finite ontology of 115 recurring software elements and a composition framework for LLM-based coding agents",
+      "language": "TypeScript",
+      "stars": 69,
+      "stars_gained": 0,
+      "forks": 4,
+      "topics": [
+        "ai-agents",
+        "llm",
+        "typescript"
+      ],
+      "created_at": "2026-07-19T14:28:56Z",
+      "updated_at": "2026-07-21T01:50:40Z",
+      "rank": 25
+    },
+    {
+      "name": "Dgeloe4-yb/market-pilot",
+      "url": "https://github.com/Dgeloe4-yb/market-pilot",
+      "description": "Evidence-grounded market research prototype with traceable AI workflows.",
+      "full_description": "Evidence-grounded market research prototype with traceable AI workflows.",
+      "language": "JavaScript",
+      "stars": 64,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai-product-management",
+        "fastapi",
+        "llm",
+        "market-research",
+        "react"
+      ],
+      "created_at": "2026-07-14T05:39:30Z",
+      "updated_at": "2026-07-20T19:38:52Z",
+      "rank": 26
+    },
+    {
+      "name": "MemTensor/memmy-agent",
+      "url": "https://github.com/MemTensor/memmy-agent",
+      "description": "One Agent. One memory. Shared by every AI. 🍙",
+      "full_description": "One Agent. One memory. Shared by every AI. 🍙",
+      "language": "TypeScript",
+      "stars": 61,
+      "stars_gained": 0,
+      "forks": 13,
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai",
+        "ai-agents",
+        "ai-assistants",
+        "llm",
+        "long-term-memory",
+        "memory",
+        "personal-ai"
+      ],
+      "created_at": "2026-07-16T07:57:45Z",
+      "updated_at": "2026-07-21T03:31:46Z",
+      "rank": 27
     },
     {
       "name": "Codesteward/codesteward",
@@ -607,8 +703,8 @@
         "typescript"
       ],
       "created_at": "2026-07-14T20:15:56Z",
-      "updated_at": "2026-07-18T08:56:34Z",
-      "rank": 24
+      "updated_at": "2026-07-20T17:53:14Z",
+      "rank": 28
     },
     {
       "name": "opencoredev/sandbox-sdk",
@@ -632,131 +728,27 @@
       ],
       "created_at": "2026-07-16T03:57:28Z",
       "updated_at": "2026-07-20T00:59:37Z",
-      "rank": 25
-    },
-    {
-      "name": "MemTensor/memmy-agent",
-      "url": "https://github.com/MemTensor/memmy-agent",
-      "description": "One Agent. One memory. Shared by every AI. 🍙",
-      "full_description": "One Agent. One memory. Shared by every AI. 🍙",
-      "language": "TypeScript",
-      "stars": 52,
-      "stars_gained": 0,
-      "forks": 8,
-      "topics": [
-        "agent",
-        "agentic-ai",
-        "ai",
-        "ai-agents",
-        "ai-assistants",
-        "llm",
-        "long-term-memory",
-        "memory",
-        "personal-ai"
-      ],
-      "created_at": "2026-07-16T07:57:45Z",
-      "updated_at": "2026-07-20T04:05:18Z",
-      "rank": 26
-    },
-    {
-      "name": "giannisanni/pulsar",
-      "url": "https://github.com/giannisanni/pulsar",
-      "description": "SSD-streaming inference engine for giant MoE models (Rust + CUDA). GLM 5.2 743B at 2 tok/s and Hy3 295B at 7 tok/s on two consumer 16GB GPUs. Zero-config multi-GPU: measures PCIe bandwidth, places attention and hot experts where they fit.",
-      "full_description": "SSD-streaming inference engine for giant MoE models (Rust + CUDA). GLM 5.2 743B at 2 tok/s and Hy3 295B at 7 tok/s on two consumer 16GB GPUs. Zero-config multi-GPU: measures PCIe bandwidth, places attention and hot experts where they fit.",
-      "language": "Rust",
-      "stars": 52,
-      "stars_gained": 0,
-      "forks": 6,
-      "topics": [
-        "cuda",
-        "gguf",
-        "glm",
-        "inference-engine",
-        "llm",
-        "local-llm",
-        "mixture-of-experts",
-        "moe",
-        "multi-gpu",
-        "quantization",
-        "rust",
-        "ssd-streaming"
-      ],
-      "created_at": "2026-07-13T04:08:14Z",
-      "updated_at": "2026-07-20T03:43:06Z",
-      "rank": 27
-    },
-    {
-      "name": "zeraix/zeraix",
-      "url": "https://github.com/zeraix/zeraix",
-      "description": "Open-source local AI workspace — advancing on-device inference.",
-      "full_description": "Open-source local AI workspace — advancing on-device inference.",
-      "language": "TypeScript",
-      "stars": 52,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "ai-runtime",
-        "apple-silicon",
-        "desktop",
-        "llm",
-        "llm-inference",
-        "local-ai",
-        "metal",
-        "moe",
-        "offline-ai",
-        "on-device-ai"
-      ],
-      "created_at": "2026-07-14T03:12:28Z",
-      "updated_at": "2026-07-20T03:33:40Z",
-      "rank": 28
-    },
-    {
-      "name": "Bananefre/Stock-Market-app",
-      "url": "https://github.com/Bananefre/Stock-Market-app",
-      "description": "Stock Market app which track prices and automate workflows",
-      "full_description": "Stock Market app which track prices and automate workflows",
-      "language": "TypeScript",
-      "stars": 51,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "agent",
-        "market-agent",
-        "market-app",
-        "stock-market",
-        "stock-trading"
-      ],
-      "created_at": "2026-07-14T07:37:03Z",
-      "updated_at": "2026-07-16T21:19:41Z",
       "rank": 29
     },
     {
-      "name": "worldwonderer/novel-to-game",
-      "url": "https://github.com/worldwonderer/novel-to-game",
-      "description": "把任何小说变成可玩的游戏 · Turn any novel into a playable game — a 7-skill adaptation pipeline for Claude Code, Codex & Kimi Code(k3)",
-      "full_description": "把任何小说变成可玩的游戏 · Turn any novel into a playable game — a 7-skill adaptation pipeline for Claude Code, Codex & Kimi Code(k3)",
+      "name": "Fratres-X-AI/JamBoy",
+      "url": "https://github.com/Fratres-X-AI/JamBoy",
+      "description": "GPS-denied drone navigation layer: optical flow + offline map geo-match + EKF → MAVLink (sim-validated).",
+      "full_description": "GPS-denied drone navigation layer: optical flow + offline map geo-match + EKF → MAVLink (sim-validated).",
       "language": "Python",
-      "stars": 48,
+      "stars": 55,
       "stars_gained": 0,
-      "forks": 6,
+      "forks": 15,
       "topics": [
-        "agent-skills",
-        "ai-game-development",
-        "claude-code",
-        "game-design",
-        "generative-ai",
-        "interactive-fiction",
-        "kimi-code",
-        "narrative-design",
-        "novel-to-game",
-        "open-source",
-        "openai-codex",
-        "story-to-game",
-        "text-to-game",
-        "web-game"
+        "computer-vision",
+        "drone",
+        "ekf",
+        "gps-denied",
+        "mavlink",
+        "navigation"
       ],
-      "created_at": "2026-07-18T16:29:56Z",
-      "updated_at": "2026-07-20T03:28:14Z",
+      "created_at": "2026-07-18T18:00:31Z",
+      "updated_at": "2026-07-21T03:52:28Z",
       "rank": 30
     }
   ]
