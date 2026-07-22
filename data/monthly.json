@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T03:54:31.899995+00:00",
+  "updated": "2026-07-22T03:56:11.414441+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "full_description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "language": "TypeScript",
-      "stars": 5046,
+      "stars": 5077,
       "stars_gained": 0,
-      "forks": 1038,
+      "forks": 1045,
       "topics": [
         "agents",
         "ai",
@@ -21,7 +21,7 @@
         "redteam"
       ],
       "created_at": "2026-07-02T17:53:55Z",
-      "updated_at": "2026-07-21T03:20:17Z",
+      "updated_at": "2026-07-22T03:54:26Z",
       "rank": 1
     },
     {
@@ -30,9 +30,9 @@
       "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
       "full_description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
       "language": "TypeScript",
-      "stars": 3029,
+      "stars": 3062,
       "stars_gained": 0,
-      "forks": 229,
+      "forks": 236,
       "topics": [
         "agent-tools",
         "ai-agents",
@@ -54,7 +54,7 @@
         "typescript"
       ],
       "created_at": "2026-06-29T10:49:36Z",
-      "updated_at": "2026-07-21T03:38:27Z",
+      "updated_at": "2026-07-22T03:20:41Z",
       "rank": 2
     },
     {
@@ -63,9 +63,9 @@
       "description": "The open-source AI workbench for scientific research",
       "full_description": "The open-source AI workbench for scientific research",
       "language": "TypeScript",
-      "stars": 2637,
+      "stars": 2668,
       "stars_gained": 0,
-      "forks": 368,
+      "forks": 374,
       "topics": [
         "agent",
         "ai",
@@ -84,7 +84,7 @@
         "typescript"
       ],
       "created_at": "2026-07-03T15:06:45Z",
-      "updated_at": "2026-07-21T03:43:35Z",
+      "updated_at": "2026-07-22T03:48:09Z",
       "rank": 3
     },
     {
@@ -93,9 +93,9 @@
       "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
       "full_description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
       "language": "Python",
-      "stars": 1783,
+      "stars": 1813,
       "stars_gained": 0,
-      "forks": 147,
+      "forks": 148,
       "topics": [
         "claude",
         "claude-code",
@@ -111,7 +111,7 @@
         "whisper"
       ],
       "created_at": "2026-06-30T10:55:02Z",
-      "updated_at": "2026-07-21T03:52:24Z",
+      "updated_at": "2026-07-22T03:54:24Z",
       "rank": 4
     },
     {
@@ -120,9 +120,9 @@
       "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
       "full_description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
       "language": "Python",
-      "stars": 1756,
+      "stars": 1776,
       "stars_gained": 0,
-      "forks": 248,
+      "forks": 252,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -135,7 +135,7 @@
         "llm"
       ],
       "created_at": "2026-07-06T22:35:18Z",
-      "updated_at": "2026-07-21T02:45:36Z",
+      "updated_at": "2026-07-22T03:43:19Z",
       "rank": 5
     },
     {
@@ -144,9 +144,9 @@
       "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
       "full_description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
       "language": "Python",
-      "stars": 1150,
+      "stars": 1195,
       "stars_gained": 0,
-      "forks": 163,
+      "forks": 168,
       "topics": [
         "codex",
         "guide",
@@ -154,7 +154,7 @@
         "workbuddy"
       ],
       "created_at": "2026-07-10T04:13:51Z",
-      "updated_at": "2026-07-21T03:49:15Z",
+      "updated_at": "2026-07-22T03:52:36Z",
       "rank": 6
     },
     {
@@ -163,9 +163,9 @@
       "description": "A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for managed agents.",
       "full_description": "A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for managed agents.",
       "language": "TypeScript",
-      "stars": 1127,
+      "stars": 1161,
       "stars_gained": 0,
-      "forks": 121,
+      "forks": 125,
       "topics": [
         "agent",
         "deer-flow",
@@ -177,8 +177,50 @@
         "managed-agents"
       ],
       "created_at": "2026-06-28T03:39:34Z",
-      "updated_at": "2026-07-21T03:49:47Z",
+      "updated_at": "2026-07-22T03:43:56Z",
       "rank": 7
+    },
+    {
+      "name": "Intuition-Lab/personal-model",
+      "url": "https://github.com/Intuition-Lab/personal-model",
+      "description": "Build your HUMAN.md.",
+      "full_description": "Build your HUMAN.md.",
+      "language": "Python",
+      "stars": 1030,
+      "stars_gained": 0,
+      "forks": 89,
+      "topics": [
+        "agent-memory",
+        "local-first",
+        "macos",
+        "mcp",
+        "personal-ai",
+        "personal-model",
+        "privacy",
+        "python"
+      ],
+      "created_at": "2026-07-10T16:10:25Z",
+      "updated_at": "2026-07-22T03:54:18Z",
+      "rank": 8
+    },
+    {
+      "name": "SmileLikeYe/agent-chief",
+      "url": "https://github.com/SmileLikeYe/agent-chief",
+      "description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
+      "full_description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
+      "language": "Python",
+      "stars": 1003,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "harness",
+        "harness-engineering",
+        "llm",
+        "local-first"
+      ],
+      "created_at": "2026-07-04T15:28:56Z",
+      "updated_at": "2026-07-22T00:35:22Z",
+      "rank": 9
     },
     {
       "name": "jmerelnyc/Talos",
@@ -186,7 +228,7 @@
       "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "full_description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "language": "Python",
-      "stars": 990,
+      "stars": 988,
       "stars_gained": 0,
       "forks": 17,
       "topics": [
@@ -200,49 +242,7 @@
         "worker"
       ],
       "created_at": "2026-07-02T14:43:11Z",
-      "updated_at": "2026-07-20T07:26:13Z",
-      "rank": 8
-    },
-    {
-      "name": "SmileLikeYe/agent-chief",
-      "url": "https://github.com/SmileLikeYe/agent-chief",
-      "description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
-      "full_description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
-      "language": "Python",
-      "stars": 979,
-      "stars_gained": 0,
-      "forks": 3,
-      "topics": [
-        "harness",
-        "harness-engineering",
-        "llm",
-        "local-first"
-      ],
-      "created_at": "2026-07-04T15:28:56Z",
-      "updated_at": "2026-07-21T03:44:05Z",
-      "rank": 9
-    },
-    {
-      "name": "Intuition-Lab/personal-model",
-      "url": "https://github.com/Intuition-Lab/personal-model",
-      "description": "Build your HUMAN.md.",
-      "full_description": "Build your HUMAN.md.",
-      "language": "Python",
-      "stars": 949,
-      "stars_gained": 0,
-      "forks": 77,
-      "topics": [
-        "agent-memory",
-        "local-first",
-        "macos",
-        "mcp",
-        "personal-ai",
-        "personal-model",
-        "privacy",
-        "python"
-      ],
-      "created_at": "2026-07-10T16:10:25Z",
-      "updated_at": "2026-07-21T03:44:53Z",
+      "updated_at": "2026-07-21T08:40:30Z",
       "rank": 10
     },
     {
@@ -251,9 +251,9 @@
       "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "full_description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "language": "TypeScript",
-      "stars": 925,
+      "stars": 944,
       "stars_gained": 0,
-      "forks": 207,
+      "forks": 211,
       "topics": [
         "a-stock",
         "ai-agent",
@@ -271,7 +271,7 @@
         "us-stocks"
       ],
       "created_at": "2026-07-05T06:30:55Z",
-      "updated_at": "2026-07-21T03:36:43Z",
+      "updated_at": "2026-07-22T01:14:35Z",
       "rank": 11
     },
     {
@@ -280,9 +280,9 @@
       "description": "Native iPhone app for your Hermes agent",
       "full_description": "Native iPhone app for your Hermes agent",
       "language": "Swift",
-      "stars": 874,
+      "stars": 892,
       "stars_gained": 0,
-      "forks": 94,
+      "forks": 95,
       "topics": [
         "hermes",
         "hermes-agent",
@@ -294,7 +294,7 @@
         "swiftui"
       ],
       "created_at": "2026-07-02T12:47:31Z",
-      "updated_at": "2026-07-21T03:16:26Z",
+      "updated_at": "2026-07-22T01:55:11Z",
       "rank": 12
     },
     {
@@ -303,9 +303,9 @@
       "description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
       "full_description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
       "language": "TypeScript",
-      "stars": 855,
+      "stars": 870,
       "stars_gained": 0,
-      "forks": 97,
+      "forks": 100,
       "topics": [
         "ai-agent",
         "ai-for-science",
@@ -329,7 +329,7 @@
         "windows"
       ],
       "created_at": "2026-07-03T09:22:31Z",
-      "updated_at": "2026-07-21T03:12:15Z",
+      "updated_at": "2026-07-22T03:48:36Z",
       "rank": 13
     },
     {
@@ -338,9 +338,9 @@
       "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
       "full_description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
       "language": "Python",
-      "stars": 822,
+      "stars": 847,
       "stars_gained": 0,
-      "forks": 197,
+      "forks": 213,
       "topics": [
         "agenticops",
         "ai",
@@ -356,7 +356,7 @@
         "sre"
       ],
       "created_at": "2026-07-10T05:57:02Z",
-      "updated_at": "2026-07-21T03:49:50Z",
+      "updated_at": "2026-07-22T03:15:12Z",
       "rank": 14
     },
     {
@@ -365,7 +365,7 @@
       "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
       "full_description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
       "language": "",
-      "stars": 740,
+      "stars": 744,
       "stars_gained": 0,
       "forks": 65,
       "topics": [
@@ -380,7 +380,7 @@
         "rl-environments"
       ],
       "created_at": "2026-06-24T08:10:33Z",
-      "updated_at": "2026-07-20T11:16:25Z",
+      "updated_at": "2026-07-21T18:58:43Z",
       "rank": 15
     },
     {
@@ -389,9 +389,9 @@
       "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
       "full_description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
       "language": "",
-      "stars": 732,
+      "stars": 740,
       "stars_gained": 0,
-      "forks": 75,
+      "forks": 79,
       "topics": [
         "agent",
         "chart-visualization",
@@ -407,8 +407,32 @@
         "social-media"
       ],
       "created_at": "2026-07-07T13:57:13Z",
-      "updated_at": "2026-07-21T03:52:24Z",
+      "updated_at": "2026-07-22T00:25:43Z",
       "rank": 16
+    },
+    {
+      "name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+      "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
+      "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "full_description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "language": "Solidity",
+      "stars": 739,
+      "stars_gained": 0,
+      "forks": 497,
+      "topics": [
+        "ai",
+        "aitradingbot",
+        "bot",
+        "btc",
+        "claude",
+        "eth",
+        "etherlab",
+        "mev",
+        "mevbots"
+      ],
+      "created_at": "2026-07-17T09:45:22Z",
+      "updated_at": "2026-07-22T03:55:33Z",
+      "rank": 17
     },
     {
       "name": "tianma-if/edgeever",
@@ -416,9 +440,9 @@
       "description": "Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』",
       "full_description": "Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』",
       "language": "TypeScript",
-      "stars": 569,
+      "stars": 592,
       "stars_gained": 0,
-      "forks": 229,
+      "forks": 227,
       "topics": [
         "cloudflare",
         "cloudflare-d1",
@@ -441,8 +465,8 @@
         "workers"
       ],
       "created_at": "2026-06-26T06:59:58Z",
-      "updated_at": "2026-07-21T03:51:54Z",
-      "rank": 17
+      "updated_at": "2026-07-22T03:50:07Z",
+      "rank": 18
     },
     {
       "name": "Tencent/BrowserSkill",
@@ -450,7 +474,7 @@
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "full_description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "Rust",
-      "stars": 565,
+      "stars": 589,
       "stars_gained": 0,
       "forks": 43,
       "topics": [
@@ -458,8 +482,8 @@
         "browser-use"
       ],
       "created_at": "2026-06-22T07:24:40Z",
-      "updated_at": "2026-07-21T03:40:57Z",
-      "rank": 18
+      "updated_at": "2026-07-22T03:37:28Z",
+      "rank": 19
     },
     {
       "name": "linxidnju/OpenTag",
@@ -467,7 +491,7 @@
       "description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
       "full_description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
       "language": "JavaScript",
-      "stars": 530,
+      "stars": 559,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -487,36 +511,7 @@
         "team-collaboration"
       ],
       "created_at": "2026-06-27T08:10:47Z",
-      "updated_at": "2026-07-21T03:30:34Z",
-      "rank": 19
-    },
-    {
-      "name": "axislab-top/Foundry",
-      "url": "https://github.com/axislab-top/Foundry",
-      "description": "Transform any idea into a running AI-powered company",
-      "full_description": "Transform any idea into a running AI-powered company",
-      "language": "TypeScript",
-      "stars": 488,
-      "stars_gained": 0,
-      "forks": 7,
-      "topics": [
-        "agent-platform",
-        "ai",
-        "ai-agents",
-        "ai-company",
-        "autonomous-agents",
-        "collaboration",
-        "digital-company",
-        "llm",
-        "multi-agent",
-        "nestjs",
-        "open-source",
-        "react",
-        "typescript",
-        "workflow"
-      ],
-      "created_at": "2026-06-21T05:59:33Z",
-      "updated_at": "2026-07-20T19:38:52Z",
+      "updated_at": "2026-07-22T02:07:10Z",
       "rank": 20
     },
     {
@@ -525,7 +520,7 @@
       "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
       "full_description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
       "language": "JavaScript",
-      "stars": 486,
+      "stars": 490,
       "stars_gained": 0,
       "forks": 50,
       "topics": [
@@ -543,31 +538,30 @@
         "zero-dependency"
       ],
       "created_at": "2026-07-06T16:18:57Z",
-      "updated_at": "2026-07-20T23:56:10Z",
+      "updated_at": "2026-07-21T20:26:35Z",
       "rank": 21
     },
     {
-      "name": "MIgHTy-alIeN/Trading-Bot",
-      "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
-      "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-      "full_description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-      "language": "Solidity",
+      "name": "penecho/penecho",
+      "url": "https://github.com/penecho/penecho",
+      "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+      "full_description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+      "language": "JavaScript",
       "stars": 467,
       "stars_gained": 0,
-      "forks": 285,
+      "forks": 55,
       "topics": [
         "ai",
-        "aitradingbot",
-        "bot",
-        "btc",
+        "canvas",
         "claude",
-        "eth",
-        "etherlab",
-        "mev",
-        "mevbots"
+        "codex",
+        "education",
+        "handwriting",
+        "nodejs",
+        "visual-thinking"
       ],
-      "created_at": "2026-07-17T09:45:22Z",
-      "updated_at": "2026-07-21T03:54:23Z",
+      "created_at": "2026-07-14T14:45:23Z",
+      "updated_at": "2026-07-22T03:54:58Z",
       "rank": 22
     },
     {
@@ -608,10 +602,10 @@
     {
       "name": "vshulcz/deja-vu",
       "url": "https://github.com/vshulcz/deja-vu",
-      "description": "Your agents already solved this. deja finds it — retroactive search and MCP recall over the session logs your coding agents already wrote. Cross-agent, SSH-portable, one zero-dep binary, fully local.",
-      "full_description": "Your agents already solved this. deja finds it — retroactive search and MCP recall over the session logs your coding agents already wrote. Cross-agent, SSH-portable, one zero-dep binary, fully local.",
+      "description": "Your agents already solved this. deja finds it — retroactive memory for twelve coding agents: search and MCP recall over the sessions they already wrote, déjà vu moments when you ask again, an audit log of every byte served. One zero-dep binary, fully local.",
+      "full_description": "Your agents already solved this. deja finds it — retroactive memory for twelve coding agents: search and MCP recall over the sessions they already wrote, déjà vu moments when you ask again, an audit log of every byte served. One zero-dep binary, fully local.",
       "language": "Go",
-      "stars": 424,
+      "stars": 435,
       "stars_gained": 0,
       "forks": 21,
       "topics": [
@@ -630,7 +624,7 @@
         "session-search"
       ],
       "created_at": "2026-07-14T07:45:44Z",
-      "updated_at": "2026-07-21T03:38:23Z",
+      "updated_at": "2026-07-22T03:18:52Z",
       "rank": 24
     },
     {
@@ -639,7 +633,7 @@
       "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
       "full_description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
       "language": "Python",
-      "stars": 422,
+      "stars": 424,
       "stars_gained": 0,
       "forks": 40,
       "topics": [
@@ -651,31 +645,8 @@
         "transformer"
       ],
       "created_at": "2026-07-08T08:12:17Z",
-      "updated_at": "2026-07-20T22:25:51Z",
+      "updated_at": "2026-07-22T00:11:05Z",
       "rank": 25
-    },
-    {
-      "name": "erickong/penecho",
-      "url": "https://github.com/erickong/penecho",
-      "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
-      "full_description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
-      "language": "JavaScript",
-      "stars": 398,
-      "stars_gained": 0,
-      "forks": 51,
-      "topics": [
-        "ai",
-        "canvas",
-        "claude",
-        "codex",
-        "education",
-        "handwriting",
-        "nodejs",
-        "visual-thinking"
-      ],
-      "created_at": "2026-07-14T14:45:23Z",
-      "updated_at": "2026-07-21T03:37:16Z",
-      "rank": 26
     },
     {
       "name": "bkingfilm/lapian-notes",
@@ -683,9 +654,9 @@
       "description": "AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
       "full_description": "AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地",
       "language": "TypeScript",
-      "stars": 391,
+      "stars": 403,
       "stars_gained": 0,
-      "forks": 51,
+      "forks": 52,
       "topics": [
         "ai",
         "film-analysis",
@@ -695,8 +666,8 @@
         "vite"
       ],
       "created_at": "2026-07-08T06:06:31Z",
-      "updated_at": "2026-07-21T02:29:55Z",
-      "rank": 27
+      "updated_at": "2026-07-22T00:21:29Z",
+      "rank": 26
     },
     {
       "name": "SuperJJ007/CSSwitch",
@@ -704,7 +675,7 @@
       "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
       "full_description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
       "language": "Rust",
-      "stars": 384,
+      "stars": 391,
       "stars_gained": 0,
       "forks": 40,
       "topics": [
@@ -723,60 +694,103 @@
         "tauri"
       ],
       "created_at": "2026-07-02T16:46:56Z",
-      "updated_at": "2026-07-21T03:39:33Z",
+      "updated_at": "2026-07-21T14:10:20Z",
+      "rank": 27
+    },
+    {
+      "name": "Orkas-AI/Orkas-VideoStudio",
+      "url": "https://github.com/Orkas-AI/Orkas-VideoStudio",
+      "description": "Turn your coding agent into a video studio: describe a video in plain language, and your agent writes the timeline and produces the file.",
+      "full_description": "Turn your coding agent into a video studio: describe a video in plain language, and your agent writes the timeline and produces the file.",
+      "language": "TypeScript",
+      "stars": 388,
+      "stars_gained": 0,
+      "forks": 16,
+      "topics": [
+        "ai-agents",
+        "ai-video",
+        "cli",
+        "coding-agents",
+        "ffmpeg",
+        "generative-ai",
+        "hyperframes",
+        "local-first",
+        "mcp-server",
+        "motion-graphics",
+        "open-source",
+        "subtitles",
+        "text-to-video",
+        "tts",
+        "typescript",
+        "video-automation",
+        "video-composition",
+        "video-editing",
+        "video-generation",
+        "whisper-cpp"
+      ],
+      "created_at": "2026-06-30T14:34:58Z",
+      "updated_at": "2026-07-21T21:47:10Z",
       "rank": 28
     },
     {
-      "name": "NotASithLord/peerd",
-      "url": "https://github.com/NotASithLord/peerd",
-      "description": "The first AI agent harness native to the browser. A browser extension that runs a full agent loop where you already work: it drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK, no backend, no telemetry.",
-      "full_description": "The first AI agent harness native to the browser. A browser extension that runs a full agent loop where you already work: it drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK, no backend, no telemetry.",
-      "language": "JavaScript",
-      "stars": 367,
+      "name": "Tura-AI/tura",
+      "url": "https://github.com/Tura-AI/tura",
+      "description": "Across 348 long-horizon benchmark sessions, Tura used up to 83.1% fewer turns on the rewrite benchmark and improved the DeepSWE pass rate by up to 16.7 percentage points compared with Codex CLI.",
+      "full_description": "Across 348 long-horizon benchmark sessions, Tura used up to 83.1% fewer turns on the rewrite benchmark and improved the DeepSWE pass rate by up to 16.7 percentage points compared with Codex CLI.",
+      "language": "Rust",
+      "stars": 388,
       "stars_gained": 0,
-      "forks": 36,
+      "forks": 16,
       "topics": [
-        "agentic",
-        "ai-agent",
-        "browser-extension",
-        "chrome-extension",
-        "firefox-extension",
+        "agent",
+        "agentic-ai",
+        "coding-agent",
+        "context-engineering",
+        "developer-tools",
+        "developer-tools-ai-agent",
+        "harness-engineering",
         "llm",
-        "manifest-v3",
-        "p2p",
-        "webassembly",
-        "webrtc"
+        "terminal-based",
+        "token-optimization",
+        "token-usage"
       ],
-      "created_at": "2026-06-22T05:55:13Z",
-      "updated_at": "2026-07-20T08:15:55Z",
+      "created_at": "2026-07-06T13:58:44Z",
+      "updated_at": "2026-07-22T03:16:42Z",
       "rank": 29
     },
     {
-      "name": "LazoVelko/neverclick",
-      "url": "https://github.com/LazoVelko/neverclick",
-      "description": "Keyboard-driven mouse control using local computer vision.",
-      "full_description": "Keyboard-driven mouse control using local computer vision.",
-      "language": "",
-      "stars": 364,
+      "name": "arcships/light-ocr",
+      "url": "https://github.com/arcships/light-ocr",
+      "description": "Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr",
+      "full_description": "Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr",
+      "language": "C++",
+      "stars": 371,
       "stars_gained": 0,
-      "forks": 15,
+      "forks": 33,
       "topics": [
-        "accessibility",
-        "assistive-technology",
+        "apple-silicon",
         "computer-vision",
-        "cpp",
-        "desktop-app",
-        "ergonomics",
-        "keyboard",
-        "keyboard-driven",
-        "keyboard-navigation",
-        "mouseless",
-        "rsi",
-        "windows",
-        "windows-app"
+        "coreml",
+        "cpp17",
+        "d3d12",
+        "image-processing",
+        "machine-learning",
+        "napi",
+        "native-addon",
+        "nodejs",
+        "nvidia",
+        "ocr",
+        "ocr-recognition",
+        "offline-ocr",
+        "paddleocr",
+        "ppocr",
+        "text-recognition",
+        "typescript",
+        "vulkan",
+        "webgpu"
       ],
-      "created_at": "2026-07-08T12:54:36Z",
-      "updated_at": "2026-07-21T03:47:42Z",
+      "created_at": "2026-07-14T01:32:23Z",
+      "updated_at": "2026-07-22T03:41:31Z",
       "rank": 30
     }
   ]
