@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T03:56:10.572581+00:00",
+  "updated": "2026-07-23T03:52:51.169368+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
       "full_description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
       "language": "Solidity",
-      "stars": 739,
+      "stars": 920,
       "stars_gained": 0,
-      "forks": 497,
+      "forks": 650,
       "topics": [
         "ai",
         "aitradingbot",
@@ -25,31 +25,30 @@
         "mevbots"
       ],
       "created_at": "2026-07-17T09:45:22Z",
-      "updated_at": "2026-07-22T03:55:33Z",
+      "updated_at": "2026-07-23T03:52:33Z",
       "rank": 1
     },
     {
-      "name": "yuwen-cool/yuwen-publish-precheck",
-      "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-      "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
-      "full_description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
-      "language": "Python",
-      "stars": 368,
+      "name": "Kritt-ai/open-kritt",
+      "url": "https://github.com/Kritt-ai/open-kritt",
+      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "full_description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "language": "JavaScript",
+      "stars": 324,
       "stars_gained": 0,
-      "forks": 35,
+      "forks": 71,
       "topics": [
-        "agent-skills",
+        "agent",
+        "agents",
         "ai",
-        "chinese",
-        "claude",
-        "content-compliance",
-        "cursor",
-        "douyin",
-        "wechat-channels",
-        "xiaohongshu"
+        "bug-bounty",
+        "bugbounty",
+        "bugbounty-tools",
+        "security",
+        "security-research"
       ],
-      "created_at": "2026-07-15T13:53:48Z",
-      "updated_at": "2026-07-22T02:35:38Z",
+      "created_at": "2026-07-20T20:26:24Z",
+      "updated_at": "2026-07-23T03:43:22Z",
       "rank": 2
     },
     {
@@ -58,7 +57,7 @@
       "description": "What if your phone had no apps",
       "full_description": "What if your phone had no apps",
       "language": "TypeScript",
-      "stars": 316,
+      "stars": 322,
       "stars_gained": 0,
       "forks": 45,
       "topics": [
@@ -67,7 +66,7 @@
         "react-native"
       ],
       "created_at": "2026-07-16T07:08:49Z",
-      "updated_at": "2026-07-22T00:10:25Z",
+      "updated_at": "2026-07-22T17:54:46Z",
       "rank": 3
     },
     {
@@ -98,66 +97,8 @@
         "vibe-coding"
       ],
       "created_at": "2026-07-16T11:37:15Z",
-      "updated_at": "2026-07-21T09:43:50Z",
+      "updated_at": "2026-07-22T20:18:34Z",
       "rank": 4
-    },
-    {
-      "name": "0xsline/OpenChatCut",
-      "url": "https://github.com/0xsline/OpenChatCut",
-      "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
-      "full_description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
-      "language": "TypeScript",
-      "stars": 301,
-      "stars_gained": 0,
-      "forks": 22,
-      "topics": [
-        "agent-skills",
-        "agentic-ai",
-        "ai-agent",
-        "ai-video-editor",
-        "claude-code",
-        "codex",
-        "electron",
-        "ffmpeg",
-        "generative-ai",
-        "glsl",
-        "local-first",
-        "mcp",
-        "model-context-protocol",
-        "react",
-        "remotion",
-        "timeline-editor",
-        "typescript",
-        "video-editing",
-        "video-editor",
-        "webgl"
-      ],
-      "created_at": "2026-07-15T02:49:42Z",
-      "updated_at": "2026-07-22T03:51:21Z",
-      "rank": 5
-    },
-    {
-      "name": "Kritt-ai/open-kritt",
-      "url": "https://github.com/Kritt-ai/open-kritt",
-      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "full_description": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "language": "JavaScript",
-      "stars": 260,
-      "stars_gained": 0,
-      "forks": 51,
-      "topics": [
-        "agent",
-        "agents",
-        "ai",
-        "bug-bounty",
-        "bugbounty",
-        "bugbounty-tools",
-        "security",
-        "security-research"
-      ],
-      "created_at": "2026-07-20T20:26:24Z",
-      "updated_at": "2026-07-22T03:17:16Z",
-      "rank": 6
     },
     {
       "name": "livetennisapi/livetennisapi-mcp",
@@ -165,9 +106,9 @@
       "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
       "full_description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
       "language": "JavaScript",
-      "stars": 249,
+      "stars": 271,
       "stars_gained": 0,
-      "forks": 11,
+      "forks": 125,
       "topics": [
         "ai",
         "claude",
@@ -183,43 +124,8 @@
         "typescript"
       ],
       "created_at": "2026-07-18T23:17:55Z",
-      "updated_at": "2026-07-22T02:03:54Z",
-      "rank": 7
-    },
-    {
-      "name": "CyberSunil/LLMVault",
-      "url": "https://github.com/CyberSunil/LLMVault",
-      "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
-      "full_description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
-      "language": "Python",
-      "stars": 221,
-      "stars_gained": 0,
-      "forks": 57,
-      "topics": [
-        "agent-security",
-        "ai-security",
-        "ai-security-tool",
-        "artificial-intelligence",
-        "ctf",
-        "docker",
-        "genai",
-        "large-language-models",
-        "llm",
-        "llm-security",
-        "llm-security-testing",
-        "owasp",
-        "owasp-llm-top-10",
-        "penetration-testing",
-        "prompt-injection",
-        "prompt-injection-llm-security",
-        "python",
-        "rag",
-        "red-team",
-        "vulnerable-lab"
-      ],
-      "created_at": "2026-07-15T08:18:22Z",
-      "updated_at": "2026-07-22T03:53:05Z",
-      "rank": 8
+      "updated_at": "2026-07-22T16:12:36Z",
+      "rank": 5
     },
     {
       "name": "KlaatAI/klaatcode",
@@ -227,9 +133,9 @@
       "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
       "full_description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
       "language": "TypeScript",
-      "stars": 212,
+      "stars": 251,
       "stars_gained": 0,
-      "forks": 70,
+      "forks": 87,
       "topics": [
         "agentic-ai",
         "ai",
@@ -253,8 +159,8 @@
         "terminal"
       ],
       "created_at": "2026-07-17T11:38:10Z",
-      "updated_at": "2026-07-22T03:07:46Z",
-      "rank": 9
+      "updated_at": "2026-07-23T03:05:21Z",
+      "rank": 6
     },
     {
       "name": "bytedoger/awesome-OpenPrice",
@@ -262,7 +168,7 @@
       "description": "open price ,一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格",
       "full_description": "open price ,一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格",
       "language": "TypeScript",
-      "stars": 160,
+      "stars": 175,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
@@ -279,8 +185,42 @@
         "sd2"
       ],
       "created_at": "2026-07-16T06:28:46Z",
-      "updated_at": "2026-07-22T02:23:58Z",
-      "rank": 10
+      "updated_at": "2026-07-23T03:51:56Z",
+      "rank": 7
+    },
+    {
+      "name": "risa-labs-inc/BossConsole",
+      "url": "https://github.com/risa-labs-inc/BossConsole",
+      "description": "Open-source, multi-platform harness for AI agents — a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
+      "full_description": "Open-source, multi-platform harness for AI agents — a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
+      "language": "Kotlin",
+      "stars": 155,
+      "stars_gained": 0,
+      "forks": 2,
+      "topics": [
+        "agent-harness",
+        "ai-agents",
+        "browser",
+        "claude-code",
+        "codex",
+        "compose-multiplatform",
+        "desktop-app",
+        "gemini",
+        "hot-reload",
+        "jvm",
+        "kotlin-multiplatform",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "multithreading",
+        "open-source",
+        "opencode",
+        "rbac",
+        "terminal"
+      ],
+      "created_at": "2026-07-21T01:01:05Z",
+      "updated_at": "2026-07-23T03:47:56Z",
+      "rank": 8
     },
     {
       "name": "Saivineeth147/lora-speedrun",
@@ -288,9 +228,9 @@
       "description": "Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt for fine-tuning.",
       "full_description": "Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt for fine-tuning.",
       "language": "Python",
-      "stars": 134,
+      "stars": 137,
       "stars_gained": 0,
-      "forks": 7,
+      "forks": 8,
       "topics": [
         "benchmark",
         "fine-tuning",
@@ -302,7 +242,53 @@
         "speedrun"
       ],
       "created_at": "2026-07-18T17:53:03Z",
-      "updated_at": "2026-07-22T03:15:55Z",
+      "updated_at": "2026-07-23T00:35:17Z",
+      "rank": 9
+    },
+    {
+      "name": "hahhforest/pi-textbook",
+      "url": "https://github.com/hahhforest/pi-textbook",
+      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "full_description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "language": "TypeScript",
+      "stars": 134,
+      "stars_gained": 0,
+      "forks": 10,
+      "topics": [
+        "agent-engineering",
+        "ai-agent",
+        "chinese",
+        "llm",
+        "textbook",
+        "typescript"
+      ],
+      "created_at": "2026-07-21T04:17:35Z",
+      "updated_at": "2026-07-23T03:35:47Z",
+      "rank": 10
+    },
+    {
+      "name": "Prism-Shadow/penguin-harness",
+      "url": "https://github.com/Prism-Shadow/penguin-harness",
+      "description": "Open, Efficient, Self-Improving Harness: Autonomously Build and Optimize AI Products for Just a Few Dollars",
+      "full_description": "Open, Efficient, Self-Improving Harness: Autonomously Build and Optimize AI Products for Just a Few Dollars",
+      "language": "TypeScript",
+      "stars": 130,
+      "stars_gained": 0,
+      "forks": 12,
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai",
+        "ai-product",
+        "claude-code",
+        "harness",
+        "llm",
+        "productivity",
+        "skills",
+        "workflow"
+      ],
+      "created_at": "2026-07-19T03:15:21Z",
+      "updated_at": "2026-07-23T03:34:56Z",
       "rank": 11
     },
     {
@@ -335,12 +321,33 @@
       "rank": 12
     },
     {
+      "name": "Fratres-X-AI/JamBoy",
+      "url": "https://github.com/Fratres-X-AI/JamBoy",
+      "description": "GPS-denied drone navigation layer: optical flow + offline map geo-match + EKF → MAVLink (sim-validated).",
+      "full_description": "GPS-denied drone navigation layer: optical flow + offline map geo-match + EKF → MAVLink (sim-validated).",
+      "language": "Python",
+      "stars": 114,
+      "stars_gained": 0,
+      "forks": 31,
+      "topics": [
+        "computer-vision",
+        "drone",
+        "ekf",
+        "gps-denied",
+        "mavlink",
+        "navigation"
+      ],
+      "created_at": "2026-07-18T18:00:31Z",
+      "updated_at": "2026-07-23T02:18:02Z",
+      "rank": 13
+    },
+    {
       "name": "sequilade/tokentab",
       "url": "https://github.com/sequilade/tokentab",
       "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
       "full_description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
       "language": "Python",
-      "stars": 107,
+      "stars": 111,
       "stars_gained": 0,
       "forks": 16,
       "topics": [
@@ -356,8 +363,8 @@
         "token-usage"
       ],
       "created_at": "2026-07-17T11:40:07Z",
-      "updated_at": "2026-07-22T03:25:51Z",
-      "rank": 13
+      "updated_at": "2026-07-22T04:37:10Z",
+      "rank": 14
     },
     {
       "name": "Finderchangchang/codex-autoskin",
@@ -365,9 +372,9 @@
       "description": "发一张图给你的 Codex，它自己给自己换肤 | Send one image to your Codex and it reskins itself. Agent-native skin engine for the Codex desktop app.",
       "full_description": "发一张图给你的 Codex，它自己给自己换肤 | Send one image to your Codex and it reskins itself. Agent-native skin engine for the Codex desktop app.",
       "language": "JavaScript",
-      "stars": 106,
+      "stars": 108,
       "stars_gained": 0,
-      "forks": 19,
+      "forks": 21,
       "topics": [
         "agent",
         "cdp",
@@ -378,71 +385,8 @@
         "theme"
       ],
       "created_at": "2026-07-16T08:51:23Z",
-      "updated_at": "2026-07-21T13:22:59Z",
-      "rank": 14
-    },
-    {
-      "name": "Prism-Shadow/penguin-harness",
-      "url": "https://github.com/Prism-Shadow/penguin-harness",
-      "description": "Efficient Self-Improving Harness for 1000+ Models",
-      "full_description": "Efficient Self-Improving Harness for 1000+ Models",
-      "language": "TypeScript",
-      "stars": 105,
-      "stars_gained": 0,
-      "forks": 11,
-      "topics": [
-        "agent",
-        "agentic-ai",
-        "ai",
-        "claude-code",
-        "llm",
-        "skills"
-      ],
-      "created_at": "2026-07-19T03:15:21Z",
-      "updated_at": "2026-07-22T03:43:39Z",
+      "updated_at": "2026-07-23T02:47:34Z",
       "rank": 15
-    },
-    {
-      "name": "hahhforest/pi-textbook",
-      "url": "https://github.com/hahhforest/pi-textbook",
-      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "full_description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "language": "TypeScript",
-      "stars": 96,
-      "stars_gained": 0,
-      "forks": 6,
-      "topics": [
-        "agent-engineering",
-        "ai-agent",
-        "chinese",
-        "llm",
-        "textbook",
-        "typescript"
-      ],
-      "created_at": "2026-07-21T04:17:35Z",
-      "updated_at": "2026-07-22T03:49:10Z",
-      "rank": 16
-    },
-    {
-      "name": "Fratres-X-AI/JamBoy",
-      "url": "https://github.com/Fratres-X-AI/JamBoy",
-      "description": "GPS-denied drone navigation layer: optical flow + offline map geo-match + EKF → MAVLink (sim-validated).",
-      "full_description": "GPS-denied drone navigation layer: optical flow + offline map geo-match + EKF → MAVLink (sim-validated).",
-      "language": "Python",
-      "stars": 87,
-      "stars_gained": 0,
-      "forks": 23,
-      "topics": [
-        "computer-vision",
-        "drone",
-        "ekf",
-        "gps-denied",
-        "mavlink",
-        "navigation"
-      ],
-      "created_at": "2026-07-18T18:00:31Z",
-      "updated_at": "2026-07-22T03:00:48Z",
-      "rank": 17
     },
     {
       "name": "stephenleo/OpenMicro",
@@ -450,7 +394,7 @@
       "description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
       "full_description": "🎮 Codex Micro functionality using any Gaming Controller on any Coding Harness!",
       "language": "TypeScript",
-      "stars": 86,
+      "stars": 91,
       "stars_gained": 0,
       "forks": 8,
       "topics": [
@@ -463,49 +407,8 @@
         "vibe-coding"
       ],
       "created_at": "2026-07-16T03:23:26Z",
-      "updated_at": "2026-07-21T13:26:53Z",
-      "rank": 18
-    },
-    {
-      "name": "PabloTheThinker/hermespace",
-      "url": "https://github.com/PabloTheThinker/hermespace",
-      "description": "Pocket workbench for Hermes Agent — limited FOA desk, dual decode, skills+MEMORY fabric, neural FOA. Not J-space. Not a second runtime.",
-      "full_description": "Pocket workbench for Hermes Agent — limited FOA desk, dual decode, skills+MEMORY fabric, neural FOA. Not J-space. Not a second runtime.",
-      "language": "Python",
-      "stars": 80,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "agentskills",
-        "ai-agents",
-        "cognitive-architecture",
-        "hermes-agent",
-        "llm",
-        "open-source",
-        "python",
-        "workbench"
-      ],
-      "created_at": "2026-07-18T13:23:46Z",
-      "updated_at": "2026-07-22T01:48:29Z",
-      "rank": 19
-    },
-    {
-      "name": "NullLabTests/software-periodic-table",
-      "url": "https://github.com/NullLabTests/software-periodic-table",
-      "description": "A finite ontology of 115 recurring software elements and a composition framework for LLM-based coding agents",
-      "full_description": "A finite ontology of 115 recurring software elements and a composition framework for LLM-based coding agents",
-      "language": "TypeScript",
-      "stars": 73,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "ai-agents",
-        "llm",
-        "typescript"
-      ],
-      "created_at": "2026-07-19T14:28:56Z",
-      "updated_at": "2026-07-22T01:52:20Z",
-      "rank": 20
+      "updated_at": "2026-07-23T00:07:07Z",
+      "rank": 16
     },
     {
       "name": "Tencent-Hunyuan/Hyra-results",
@@ -513,9 +416,9 @@
       "description": "Research artifacts from Hyra (/ˈhaɪ.rɑː/)",
       "full_description": "Research artifacts from Hyra (/ˈhaɪ.rɑː/)",
       "language": "Python",
-      "stars": 65,
+      "stars": 88,
       "stars_gained": 0,
-      "forks": 5,
+      "forks": 6,
       "topics": [
         "agent",
         "ai-for-science",
@@ -526,8 +429,8 @@
         "recursive-self-improvement"
       ],
       "created_at": "2026-07-17T02:27:25Z",
-      "updated_at": "2026-07-22T03:55:32Z",
-      "rank": 21
+      "updated_at": "2026-07-23T03:18:36Z",
+      "rank": 17
     },
     {
       "name": "drumih/turbo-fieldfare",
@@ -535,7 +438,7 @@
       "description": "Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook",
       "full_description": "Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook",
       "language": "Swift",
-      "stars": 65,
+      "stars": 75,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -554,8 +457,26 @@
         "swift"
       ],
       "created_at": "2026-07-17T15:57:54Z",
-      "updated_at": "2026-07-21T21:24:28Z",
-      "rank": 22
+      "updated_at": "2026-07-23T02:12:17Z",
+      "rank": 18
+    },
+    {
+      "name": "NullLabTests/software-periodic-table",
+      "url": "https://github.com/NullLabTests/software-periodic-table",
+      "description": "A finite ontology of 115 recurring software elements and a composition framework for LLM-based coding agents",
+      "full_description": "A finite ontology of 115 recurring software elements and a composition framework for LLM-based coding agents",
+      "language": "TypeScript",
+      "stars": 75,
+      "stars_gained": 0,
+      "forks": 5,
+      "topics": [
+        "ai-agents",
+        "llm",
+        "typescript"
+      ],
+      "created_at": "2026-07-19T14:28:56Z",
+      "updated_at": "2026-07-22T22:10:50Z",
+      "rank": 19
     },
     {
       "name": "MemTensor/memmy-agent",
@@ -563,23 +484,34 @@
       "description": "One Agent. One memory. Shared by every AI. 🍙",
       "full_description": "One Agent. One memory. Shared by every AI. 🍙",
       "language": "TypeScript",
-      "stars": 64,
+      "stars": 69,
       "stars_gained": 0,
-      "forks": 18,
+      "forks": 21,
       "topics": [
         "agent",
         "agentic-ai",
         "ai",
         "ai-agents",
-        "ai-assistants",
+        "chatgpt",
+        "claude-code",
+        "cli",
+        "codex",
+        "cursor",
+        "desktop-app",
+        "desktop-pet",
+        "hermes-agent",
         "llm",
         "long-term-memory",
+        "mcp",
         "memory",
-        "personal-ai"
+        "openai-api",
+        "openclaw",
+        "personal-ai",
+        "tui"
       ],
       "created_at": "2026-07-16T07:57:45Z",
-      "updated_at": "2026-07-21T17:46:46Z",
-      "rank": 23
+      "updated_at": "2026-07-23T03:41:58Z",
+      "rank": 20
     },
     {
       "name": "drpwchen/textbook-to-note",
@@ -587,9 +519,9 @@
       "description": "Turn your own PDF textbooks into an AI-searchable knowledge base and structured, fully-cited notes — figures included. Local-first, token-frugal.",
       "full_description": "Turn your own PDF textbooks into an AI-searchable knowledge base and structured, fully-cited notes — figures included. Local-first, token-frugal.",
       "language": "Python",
-      "stars": 62,
+      "stars": 68,
       "stars_gained": 0,
-      "forks": 18,
+      "forks": 19,
       "topics": [
         "claude-code",
         "note-taking",
@@ -599,7 +531,107 @@
         "rag"
       ],
       "created_at": "2026-07-19T03:33:46Z",
-      "updated_at": "2026-07-22T02:06:31Z",
+      "updated_at": "2026-07-23T03:40:17Z",
+      "rank": 21
+    },
+    {
+      "name": "ailinone/collective-intelligence",
+      "url": "https://github.com/ailinone/collective-intelligence",
+      "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
+      "full_description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
+      "language": "TypeScript",
+      "stars": 61,
+      "stars_gained": 0,
+      "forks": 2,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "artificial-intelligence",
+        "collective",
+        "collective-intelligence",
+        "consensus",
+        "docker",
+        "gateway",
+        "genai",
+        "llm",
+        "multi-agent",
+        "open-source",
+        "openai-compatible",
+        "openapi",
+        "orchestration",
+        "orchestrator",
+        "orchestrator-engine",
+        "python",
+        "self-hosted",
+        "typescript"
+      ],
+      "created_at": "2026-07-20T00:17:45Z",
+      "updated_at": "2026-07-23T03:36:12Z",
+      "rank": 22
+    },
+    {
+      "name": "itshamzabendelladj/AIGuardSIEM",
+      "url": "https://github.com/itshamzabendelladj/AIGuardSIEM",
+      "description": "A production-grade SIEM/XDR platform for 1M+ EPS ingestion with sub-15ms detection latency. Built with C++, Go, and Python. Features DPDK capture, ONNX ML inference, Sigma rules, eBPF monitoring, and SOAR.",
+      "full_description": "A production-grade SIEM/XDR platform for 1M+ EPS ingestion with sub-15ms detection latency. Built with C++, Go, and Python. Features DPDK capture, ONNX ML inference, Sigma rules, eBPF monitoring, and SOAR.",
+      "language": "C++",
+      "stars": 60,
+      "stars_gained": 0,
+      "forks": 5,
+      "topics": [
+        "anomaly-detection",
+        "cybersecurity",
+        "dpdk",
+        "endpoint-security",
+        "incident-response",
+        "intrusion-detection",
+        "kafka",
+        "kubernetes",
+        "machine-learning",
+        "malware-detection",
+        "mitre-attack",
+        "network-security",
+        "onnx",
+        "security",
+        "siem",
+        "sigma-rules",
+        "soar",
+        "soc",
+        "xdr"
+      ],
+      "created_at": "2026-07-21T13:28:34Z",
+      "updated_at": "2026-07-23T02:42:25Z",
+      "rank": 23
+    },
+    {
+      "name": "smixs/mentor",
+      "url": "https://github.com/smixs/mentor",
+      "description": "mentor — a session-insights skill for AI coding agents. This skill reads your local Claude Code and OpenAI Codex history and writes an /insights-style HTML report on how you work: what you build, where you lose time, and concrete fixes. An agent skill for Claude Code, Codex, and any skills-capable agent.",
+      "full_description": "mentor — a session-insights skill for AI coding agents. This skill reads your local Claude Code and OpenAI Codex history and writes an /insights-style HTML report on how you work: what you build, where you lose time, and concrete fixes. An agent skill for Claude Code, Codex, and any skills-capable agent.",
+      "language": "Python",
+      "stars": 59,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-skill",
+        "codex",
+        "coding-agent",
+        "developer-productivity",
+        "developer-tools",
+        "insights",
+        "llm",
+        "openai-codex",
+        "productivity",
+        "retrospective",
+        "self-improvement",
+        "session-analysis"
+      ],
+      "created_at": "2026-07-19T05:21:15Z",
+      "updated_at": "2026-07-22T20:48:20Z",
       "rank": 24
     },
     {
@@ -627,70 +659,14 @@
       "rank": 25
     },
     {
-      "name": "smixs/mentor",
-      "url": "https://github.com/smixs/mentor",
-      "description": "mentor — a session-insights skill for AI coding agents. This skill reads your local Claude Code and OpenAI Codex history and writes an /insights-style HTML report on how you work: what you build, where you lose time, and concrete fixes. An agent skill for Claude Code, Codex, and any skills-capable agent.",
-      "full_description": "mentor — a session-insights skill for AI coding agents. This skill reads your local Claude Code and OpenAI Codex history and writes an /insights-style HTML report on how you work: what you build, where you lose time, and concrete fixes. An agent skill for Claude Code, Codex, and any skills-capable agent.",
-      "language": "Python",
-      "stars": 56,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-skill",
-        "codex",
-        "coding-agent",
-        "developer-productivity",
-        "developer-tools",
-        "insights",
-        "llm",
-        "openai-codex",
-        "productivity",
-        "retrospective",
-        "self-improvement",
-        "session-analysis"
-      ],
-      "created_at": "2026-07-19T05:21:15Z",
-      "updated_at": "2026-07-21T14:09:14Z",
-      "rank": 26
-    },
-    {
-      "name": "superdesigndev/tools-registry",
-      "url": "https://github.com/superdesigndev/tools-registry",
-      "description": "Shared Skill & Secret vault for your team and agents, without leaking keys. Join community here: https://discord.gg/6mQYYfFMAn",
-      "full_description": "Shared Skill & Secret vault for your team and agents, without leaking keys. Join community here: https://discord.gg/6mQYYfFMAn",
-      "language": "Python",
-      "stars": 54,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "agents",
-        "api-keys",
-        "cli",
-        "credentials",
-        "developer-tools",
-        "mcp",
-        "proxy",
-        "python",
-        "registry",
-        "secrets"
-      ],
-      "created_at": "2026-07-15T13:38:07Z",
-      "updated_at": "2026-07-21T14:03:28Z",
-      "rank": 27
-    },
-    {
       "name": "Sudharsanselvaraj/Token-Print",
       "url": "https://github.com/Sudharsanselvaraj/Token-Print",
       "description": "Interactive 3D visualization platform for exploring transformer architectures, tensors, and real-time LLM inference.",
       "full_description": "Interactive 3D visualization platform for exploring transformer architectures, tensors, and real-time LLM inference.",
       "language": "TypeScript",
-      "stars": 53,
+      "stars": 55,
       "stars_gained": 0,
-      "forks": 5,
+      "forks": 6,
       "topics": [
         "3d",
         "gguf-model-support",
@@ -705,8 +681,8 @@
         "webgl"
       ],
       "created_at": "2026-07-17T13:17:04Z",
-      "updated_at": "2026-07-22T01:49:48Z",
-      "rank": 28
+      "updated_at": "2026-07-22T21:15:22Z",
+      "rank": 26
     },
     {
       "name": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
@@ -735,7 +711,7 @@
       ],
       "created_at": "2026-07-20T12:55:19Z",
       "updated_at": "2026-07-22T00:15:40Z",
-      "rank": 29
+      "rank": 27
     },
     {
       "name": "bbarit/bbarit-agent-oss",
@@ -770,6 +746,57 @@
       ],
       "created_at": "2026-07-16T04:00:27Z",
       "updated_at": "2026-07-21T20:46:28Z",
+      "rank": 28
+    },
+    {
+      "name": "QuesmaOrg/awesome-ai-tokenomics",
+      "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics",
+      "description": "A map of what AI tokens actually cost, and where they're wasted vs. well spent. Tools, research, practices, and copy-paste setups for token-efficient agentic coding.",
+      "full_description": "A map of what AI tokens actually cost, and where they're wasted vs. well spent. Tools, research, practices, and copy-paste setups for token-efficient agentic coding.",
+      "language": "Python",
+      "stars": 40,
+      "stars_gained": 0,
+      "forks": 2,
+      "topics": [
+        "agentic-coding",
+        "ai",
+        "awesome",
+        "awesome-list",
+        "claude-code",
+        "codex",
+        "cost-optimization",
+        "llm",
+        "token-economics",
+        "tokenomics"
+      ],
+      "created_at": "2026-07-17T21:38:33Z",
+      "updated_at": "2026-07-22T18:57:46Z",
+      "rank": 29
+    },
+    {
+      "name": "Keksuccino/Better-Codex-App-Custom-Provider-Support",
+      "url": "https://github.com/Keksuccino/Better-Codex-App-Custom-Provider-Support",
+      "description": "Adds support for selecting a custom model provider to use for a thread/chat, without logging out of your ChatGPT account.",
+      "full_description": "Adds support for selecting a custom model provider to use for a thread/chat, without logging out of your ChatGPT account.",
+      "language": "Python",
+      "stars": 36,
+      "stars_gained": 0,
+      "forks": 7,
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "chatgpt",
+        "chatgpt-app",
+        "codex",
+        "codex-app",
+        "openrouter",
+        "patch",
+        "patcher",
+        "patcher-script",
+        "python"
+      ],
+      "created_at": "2026-07-18T19:37:58Z",
+      "updated_at": "2026-07-23T02:36:14Z",
       "rank": 30
     }
   ]
