@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T03:52:23.393189+00:00",
+  "updated": "2026-07-25T03:47:14.731310+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "full_description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "language": "TypeScript",
-      "stars": 5132,
+      "stars": 5166,
       "stars_gained": 0,
-      "forks": 1061,
+      "forks": 1067,
       "topics": [
         "agents",
         "ai",
@@ -21,7 +21,7 @@
         "redteam"
       ],
       "created_at": "2026-07-02T17:53:55Z",
-      "updated_at": "2026-07-24T03:16:20Z",
+      "updated_at": "2026-07-25T03:43:43Z",
       "rank": 1
     },
     {
@@ -30,9 +30,9 @@
       "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
       "full_description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
       "language": "TypeScript",
-      "stars": 3142,
+      "stars": 3231,
       "stars_gained": 0,
-      "forks": 245,
+      "forks": 248,
       "topics": [
         "agent-tools",
         "ai-agents",
@@ -54,7 +54,7 @@
         "typescript"
       ],
       "created_at": "2026-06-29T10:49:36Z",
-      "updated_at": "2026-07-24T03:46:53Z",
+      "updated_at": "2026-07-25T03:35:29Z",
       "rank": 2
     },
     {
@@ -63,9 +63,9 @@
       "description": "The open-source AI workbench for scientific research",
       "full_description": "The open-source AI workbench for scientific research",
       "language": "TypeScript",
-      "stars": 2710,
+      "stars": 2728,
       "stars_gained": 0,
-      "forks": 374,
+      "forks": 378,
       "topics": [
         "agent",
         "ai",
@@ -84,7 +84,7 @@
         "typescript"
       ],
       "created_at": "2026-07-03T15:06:45Z",
-      "updated_at": "2026-07-24T03:48:00Z",
+      "updated_at": "2026-07-25T02:02:06Z",
       "rank": 3
     },
     {
@@ -93,9 +93,9 @@
       "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
       "full_description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
       "language": "Python",
-      "stars": 1847,
+      "stars": 1898,
       "stars_gained": 0,
-      "forks": 272,
+      "forks": 282,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -108,7 +108,7 @@
         "llm"
       ],
       "created_at": "2026-07-06T22:35:18Z",
-      "updated_at": "2026-07-24T03:16:02Z",
+      "updated_at": "2026-07-25T03:23:59Z",
       "rank": 4
     },
     {
@@ -117,9 +117,9 @@
       "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
       "full_description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
       "language": "Python",
-      "stars": 1841,
+      "stars": 1851,
       "stars_gained": 0,
-      "forks": 150,
+      "forks": 151,
       "topics": [
         "claude",
         "claude-code",
@@ -135,7 +135,7 @@
         "whisper"
       ],
       "created_at": "2026-06-30T10:55:02Z",
-      "updated_at": "2026-07-24T03:41:41Z",
+      "updated_at": "2026-07-24T20:23:45Z",
       "rank": 5
     },
     {
@@ -144,9 +144,9 @@
       "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
       "full_description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
       "language": "JavaScript",
-      "stars": 1332,
+      "stars": 1496,
       "stars_gained": 0,
-      "forks": 129,
+      "forks": 156,
       "topics": [
         "ai",
         "canvas",
@@ -158,50 +158,8 @@
         "visual-thinking"
       ],
       "created_at": "2026-07-14T14:45:23Z",
-      "updated_at": "2026-07-24T03:01:09Z",
+      "updated_at": "2026-07-25T03:38:01Z",
       "rank": 6
-    },
-    {
-      "name": "AlephAITech/WorkBuddyGuide",
-      "url": "https://github.com/AlephAITech/WorkBuddyGuide",
-      "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-      "full_description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-      "language": "Python",
-      "stars": 1247,
-      "stars_gained": 0,
-      "forks": 176,
-      "topics": [
-        "codex",
-        "guide",
-        "llm",
-        "workbuddy"
-      ],
-      "created_at": "2026-07-10T04:13:51Z",
-      "updated_at": "2026-07-24T03:25:13Z",
-      "rank": 7
-    },
-    {
-      "name": "deer-flow/llm-space",
-      "url": "https://github.com/deer-flow/llm-space",
-      "description": "A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for managed agents.",
-      "full_description": "A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for managed agents.",
-      "language": "TypeScript",
-      "stars": 1214,
-      "stars_gained": 0,
-      "forks": 130,
-      "topics": [
-        "agent",
-        "deer-flow",
-        "develop",
-        "electrobun",
-        "harness",
-        "llm",
-        "llm-tools",
-        "managed-agents"
-      ],
-      "created_at": "2026-06-28T03:39:34Z",
-      "updated_at": "2026-07-24T03:22:37Z",
-      "rank": 8
     },
     {
       "name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
@@ -209,9 +167,9 @@
       "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
       "full_description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
       "language": "Solidity",
-      "stars": 1195,
+      "stars": 1441,
       "stars_gained": 0,
-      "forks": 854,
+      "forks": 1021,
       "topics": [
         "ai",
         "aitradingbot",
@@ -224,7 +182,49 @@
         "mevbots"
       ],
       "created_at": "2026-07-17T09:45:22Z",
-      "updated_at": "2026-07-24T03:51:49Z",
+      "updated_at": "2026-07-25T02:40:28Z",
+      "rank": 7
+    },
+    {
+      "name": "AlephAITech/WorkBuddyGuide",
+      "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+      "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+      "full_description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+      "language": "Python",
+      "stars": 1264,
+      "stars_gained": 0,
+      "forks": 181,
+      "topics": [
+        "codex",
+        "guide",
+        "llm",
+        "workbuddy"
+      ],
+      "created_at": "2026-07-10T04:13:51Z",
+      "updated_at": "2026-07-25T03:39:23Z",
+      "rank": 8
+    },
+    {
+      "name": "deer-flow/llm-space",
+      "url": "https://github.com/deer-flow/llm-space",
+      "description": "A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for managed agents.",
+      "full_description": "A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for managed agents.",
+      "language": "TypeScript",
+      "stars": 1236,
+      "stars_gained": 0,
+      "forks": 133,
+      "topics": [
+        "agent",
+        "deer-flow",
+        "develop",
+        "electrobun",
+        "harness",
+        "llm",
+        "llm-tools",
+        "managed-agents"
+      ],
+      "created_at": "2026-06-28T03:39:34Z",
+      "updated_at": "2026-07-25T00:16:51Z",
       "rank": 9
     },
     {
@@ -233,9 +233,9 @@
       "description": "Build your HUMAN.md.",
       "full_description": "Build your HUMAN.md.",
       "language": "Python",
-      "stars": 1175,
+      "stars": 1186,
       "stars_gained": 0,
-      "forks": 94,
+      "forks": 95,
       "topics": [
         "agent-memory",
         "local-first",
@@ -247,7 +247,7 @@
         "python"
       ],
       "created_at": "2026-07-10T16:10:25Z",
-      "updated_at": "2026-07-24T00:01:35Z",
+      "updated_at": "2026-07-24T22:02:02Z",
       "rank": 10
     },
     {
@@ -256,7 +256,7 @@
       "description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
       "full_description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
       "language": "Python",
-      "stars": 1013,
+      "stars": 1014,
       "stars_gained": 0,
       "forks": 3,
       "topics": [
@@ -266,7 +266,7 @@
         "local-first"
       ],
       "created_at": "2026-07-04T15:28:56Z",
-      "updated_at": "2026-07-23T15:24:14Z",
+      "updated_at": "2026-07-24T09:24:55Z",
       "rank": 11
     },
     {
@@ -275,9 +275,9 @@
       "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "full_description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "language": "TypeScript",
-      "stars": 985,
+      "stars": 992,
       "stars_gained": 0,
-      "forks": 219,
+      "forks": 224,
       "topics": [
         "a-stock",
         "ai-agent",
@@ -295,7 +295,7 @@
         "us-stocks"
       ],
       "created_at": "2026-07-05T06:30:55Z",
-      "updated_at": "2026-07-24T02:16:09Z",
+      "updated_at": "2026-07-24T21:39:15Z",
       "rank": 12
     },
     {
@@ -304,9 +304,9 @@
       "description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
       "full_description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
       "language": "TypeScript",
-      "stars": 931,
+      "stars": 950,
       "stars_gained": 0,
-      "forks": 104,
+      "forks": 106,
       "topics": [
         "ai-agent",
         "ai-for-science",
@@ -330,7 +330,7 @@
         "windows"
       ],
       "created_at": "2026-07-03T09:22:31Z",
-      "updated_at": "2026-07-24T02:54:17Z",
+      "updated_at": "2026-07-25T03:45:44Z",
       "rank": 13
     },
     {
@@ -339,9 +339,9 @@
       "description": "Native iPhone app for your Hermes agent",
       "full_description": "Native iPhone app for your Hermes agent",
       "language": "Swift",
-      "stars": 908,
+      "stars": 915,
       "stars_gained": 0,
-      "forks": 100,
+      "forks": 102,
       "topics": [
         "hermes",
         "hermes-agent",
@@ -353,7 +353,7 @@
         "swiftui"
       ],
       "created_at": "2026-07-02T12:47:31Z",
-      "updated_at": "2026-07-24T01:30:57Z",
+      "updated_at": "2026-07-24T22:56:29Z",
       "rank": 14
     },
     {
@@ -362,7 +362,7 @@
       "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "full_description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "language": "Python",
-      "stars": 893,
+      "stars": 892,
       "stars_gained": 0,
       "forks": 17,
       "topics": [
@@ -376,7 +376,7 @@
         "worker"
       ],
       "created_at": "2026-07-02T14:43:11Z",
-      "updated_at": "2026-07-23T07:54:06Z",
+      "updated_at": "2026-07-24T22:10:27Z",
       "rank": 15
     },
     {
@@ -412,7 +412,7 @@
       "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
       "full_description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
       "language": "",
-      "stars": 761,
+      "stars": 778,
       "stars_gained": 0,
       "forks": 83,
       "topics": [
@@ -430,31 +430,28 @@
         "social-media"
       ],
       "created_at": "2026-07-07T13:57:13Z",
-      "updated_at": "2026-07-24T02:43:02Z",
+      "updated_at": "2026-07-25T03:38:12Z",
       "rank": 17
     },
     {
-      "name": "benchflow-ai/awesome-evals",
-      "url": "https://github.com/benchflow-ai/awesome-evals",
-      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-      "full_description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-      "language": "",
-      "stars": 753,
+      "name": "icebird1998/drawio-scientific-illustrator",
+      "url": "https://github.com/icebird1998/drawio-scientific-illustrator",
+      "description": "Live MCP control of the visible draw.io canvas for step-by-step scientific illustration in Codex.",
+      "full_description": "Live MCP control of the visible draw.io canvas for step-by-step scientific illustration in Codex.",
+      "language": "JavaScript",
+      "stars": 627,
       "stars_gained": 0,
-      "forks": 67,
+      "forks": 41,
       "topics": [
-        "agent-evaluation",
-        "ai-agents",
-        "awesome",
-        "awesome-list",
-        "benchmarks",
-        "evals",
-        "llm",
-        "llm-evaluation",
-        "rl-environments"
+        "codex",
+        "diagrams",
+        "drawio",
+        "mcp",
+        "scientific-figures",
+        "scientific-illustration"
       ],
-      "created_at": "2026-06-24T08:10:33Z",
-      "updated_at": "2026-07-24T01:06:34Z",
+      "created_at": "2026-07-12T12:02:27Z",
+      "updated_at": "2026-07-25T03:46:57Z",
       "rank": 18
     },
     {
@@ -463,9 +460,9 @@
       "description": "Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』",
       "full_description": "Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』",
       "language": "TypeScript",
-      "stars": 610,
+      "stars": 623,
       "stars_gained": 0,
-      "forks": 240,
+      "forks": 241,
       "topics": [
         "cloudflare",
         "cloudflare-d1",
@@ -488,7 +485,7 @@
         "workers"
       ],
       "created_at": "2026-06-26T06:59:58Z",
-      "updated_at": "2026-07-24T03:46:03Z",
+      "updated_at": "2026-07-25T03:12:35Z",
       "rank": 19
     },
     {
@@ -521,12 +518,47 @@
       "rank": 20
     },
     {
+      "name": "aipoch/open-science",
+      "url": "https://github.com/aipoch/open-science",
+      "description": "An open-source, model-agnostic AI workbench for scientific discovery.",
+      "full_description": "An open-source, model-agnostic AI workbench for scientific discovery.",
+      "language": "TypeScript",
+      "stars": 569,
+      "stars_gained": 0,
+      "forks": 80,
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "ai-for-science",
+        "ai4s",
+        "ai4science",
+        "biology",
+        "macos",
+        "mcp",
+        "medical",
+        "medical-ai",
+        "medical-research",
+        "medical-research-agent",
+        "model-agnostic",
+        "open-science",
+        "reproducible-research",
+        "research-tools",
+        "scientific-research",
+        "typescript",
+        "windows"
+      ],
+      "created_at": "2026-07-03T02:50:10Z",
+      "updated_at": "2026-07-25T02:27:17Z",
+      "rank": 21
+    },
+    {
       "name": "Orkas-AI/Orkas-VideoStudio",
       "url": "https://github.com/Orkas-AI/Orkas-VideoStudio",
       "description": "Turn your coding agent into a video studio: describe a video in plain language, and your agent writes the timeline and produces the file.",
       "full_description": "Turn your coding agent into a video studio: describe a video in plain language, and your agent writes the timeline and produces the file.",
       "language": "TypeScript",
-      "stars": 529,
+      "stars": 530,
       "stars_gained": 0,
       "forks": 20,
       "topics": [
@@ -552,28 +584,7 @@
         "whisper-cpp"
       ],
       "created_at": "2026-06-30T14:34:58Z",
-      "updated_at": "2026-07-23T22:07:50Z",
-      "rank": 21
-    },
-    {
-      "name": "icebird1998/drawio-scientific-illustrator",
-      "url": "https://github.com/icebird1998/drawio-scientific-illustrator",
-      "description": "Live MCP control of the visible draw.io canvas for step-by-step scientific illustration in Codex.",
-      "full_description": "Live MCP control of the visible draw.io canvas for step-by-step scientific illustration in Codex.",
-      "language": "JavaScript",
-      "stars": 521,
-      "stars_gained": 0,
-      "forks": 34,
-      "topics": [
-        "codex",
-        "diagrams",
-        "drawio",
-        "mcp",
-        "scientific-figures",
-        "scientific-illustration"
-      ],
-      "created_at": "2026-07-12T12:02:27Z",
-      "updated_at": "2026-07-24T03:40:05Z",
+      "updated_at": "2026-07-24T09:02:40Z",
       "rank": 22
     },
     {
@@ -582,7 +593,7 @@
       "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
       "full_description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
       "language": "JavaScript",
-      "stars": 513,
+      "stars": 517,
       "stars_gained": 0,
       "forks": 51,
       "topics": [
@@ -600,18 +611,79 @@
         "zero-dependency"
       ],
       "created_at": "2026-07-06T16:18:57Z",
-      "updated_at": "2026-07-24T02:21:05Z",
+      "updated_at": "2026-07-24T21:38:48Z",
       "rank": 23
+    },
+    {
+      "name": "bytedoger/awesome-OpenPrice",
+      "url": "https://github.com/bytedoger/awesome-OpenPrice",
+      "description": "open price ,一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格",
+      "full_description": "open price ,一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格",
+      "language": "TypeScript",
+      "stars": 492,
+      "stars_gained": 0,
+      "forks": 19,
+      "topics": [
+        "ai",
+        "ai-subscription",
+        "chatgpt",
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "grok",
+        "ldxp",
+        "price-comparison",
+        "sd2"
+      ],
+      "created_at": "2026-07-16T06:28:46Z",
+      "updated_at": "2026-07-25T03:36:27Z",
+      "rank": 24
+    },
+    {
+      "name": "nexu-io/codex-slides",
+      "url": "https://github.com/nexu-io/codex-slides",
+      "description": "🎨 Open-source AI slide studio inside Codex: image-native decks, every slide a full visual canvas. ⚡ 10+ high-quality slides in ~4–5 minutes — Fast mode renders every page in parallel. 🔍 Watch the whole chain live: research → outline → style → render → edit → present → export PDF/PPTX. 🖥️ Browser-first · zero API keys · durable projects.",
+      "full_description": "🎨 Open-source AI slide studio inside Codex: image-native decks, every slide a full visual canvas. ⚡ 10+ high-quality slides in ~4–5 minutes — Fast mode renders every page in parallel. 🔍 Watch the whole chain live: research → outline → style → render → edit → present → export PDF/PPTX. 🖥️ Browser-first · zero API keys · durable projects.",
+      "language": "TypeScript",
+      "stars": 479,
+      "stars_gained": 0,
+      "forks": 36,
+      "topics": [
+        "agent-skills",
+        "ai-ppt",
+        "ai-presentation",
+        "ai-slides",
+        "codex",
+        "codex-plugin",
+        "coding-agents",
+        "deep-research",
+        "design-system",
+        "gamma-alternative",
+        "generative-ai",
+        "image-generation",
+        "mcp",
+        "nextjs",
+        "open-design",
+        "powerpoint",
+        "pptx",
+        "presentation-generator",
+        "slides",
+        "typescript"
+      ],
+      "created_at": "2026-07-10T10:14:34Z",
+      "updated_at": "2026-07-25T03:10:48Z",
+      "rank": 25
     },
     {
       "name": "vshulcz/deja-vu",
       "url": "https://github.com/vshulcz/deja-vu",
-      "description": "Your agents already solved this. deja finds it — memory operations for fifteen coding agents: retroactive search and MCP recall (84.9% R@1 on LongMemEval-S, no LLM), trust scopes, curated notes with tags and lifecycle states, measured impact. One zero-dep binary, fully local.",
-      "full_description": "Your agents already solved this. deja finds it — memory operations for fifteen coding agents: retroactive search and MCP recall (84.9% R@1 on LongMemEval-S, no LLM), trust scopes, curated notes with tags and lifecycle states, measured impact. One zero-dep binary, fully local.",
+      "description": "Your agents already solved this. deja finds it — memory operations for sixteen coding agents: retroactive search and MCP recall (84.9% hit@1 on LongMemEval-S, no LLM), search by when it happened, a local memory viewer, trust scopes, curated notes with tags. One zero-dep binary, fully local.",
+      "full_description": "Your agents already solved this. deja finds it — memory operations for sixteen coding agents: retroactive search and MCP recall (84.9% hit@1 on LongMemEval-S, no LLM), search by when it happened, a local memory viewer, trust scopes, curated notes with tags. One zero-dep binary, fully local.",
       "language": "Go",
-      "stars": 465,
+      "stars": 471,
       "stars_gained": 0,
-      "forks": 24,
+      "forks": 25,
       "topics": [
         "agent-memory",
         "ai-memory",
@@ -628,43 +700,8 @@
         "session-search"
       ],
       "created_at": "2026-07-14T07:45:44Z",
-      "updated_at": "2026-07-24T03:51:11Z",
-      "rank": 24
-    },
-    {
-      "name": "aipoch/open-science",
-      "url": "https://github.com/aipoch/open-science",
-      "description": "An open-source, model-agnostic AI workbench for scientific discovery.",
-      "full_description": "An open-source, model-agnostic AI workbench for scientific discovery.",
-      "language": "TypeScript",
-      "stars": 452,
-      "stars_gained": 0,
-      "forks": 79,
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agent",
-        "ai-for-science",
-        "ai4s",
-        "ai4science",
-        "biology",
-        "macos",
-        "mcp",
-        "medical",
-        "medical-ai",
-        "medical-research",
-        "medical-research-agent",
-        "model-agnostic",
-        "open-science",
-        "reproducible-research",
-        "research-tools",
-        "scientific-research",
-        "typescript",
-        "windows"
-      ],
-      "created_at": "2026-07-03T02:50:10Z",
-      "updated_at": "2026-07-24T03:19:19Z",
-      "rank": 25
+      "updated_at": "2026-07-25T03:30:06Z",
+      "rank": 26
     },
     {
       "name": "0xsline/OpenChatCut",
@@ -672,9 +709,9 @@
       "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
       "full_description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
       "language": "TypeScript",
-      "stars": 445,
+      "stars": 470,
       "stars_gained": 0,
-      "forks": 44,
+      "forks": 45,
       "topics": [
         "agent-skills",
         "agentic-ai",
@@ -698,29 +735,33 @@
         "webgl"
       ],
       "created_at": "2026-07-15T02:49:42Z",
-      "updated_at": "2026-07-24T03:09:09Z",
-      "rank": 26
+      "updated_at": "2026-07-24T20:14:13Z",
+      "rank": 27
     },
     {
-      "name": "Doriandarko/texts-to-transformer",
-      "url": "https://github.com/Doriandarko/texts-to-transformer",
-      "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-      "full_description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+      "name": "Optim-Agent/optim-agent",
+      "url": "https://github.com/Optim-Agent/optim-agent",
+      "description": "LLM agents as your hyperparameter optimizer.",
+      "full_description": "LLM agents as your hyperparameter optimizer.",
       "language": "Python",
-      "stars": 426,
+      "stars": 444,
       "stars_gained": 0,
-      "forks": 40,
+      "forks": 24,
       "topics": [
-        "apple-silicon",
-        "imessage",
-        "local-first",
+        "agent-skills",
+        "ai-agents",
+        "automl",
+        "claude-code",
+        "codex-cli",
+        "developer-tools",
+        "hyperparameter-optimization",
         "machine-learning",
-        "mlx",
-        "transformer"
+        "optimization",
+        "skill"
       ],
-      "created_at": "2026-07-08T08:12:17Z",
-      "updated_at": "2026-07-22T14:07:41Z",
-      "rank": 27
+      "created_at": "2026-07-07T17:05:54Z",
+      "updated_at": "2026-07-25T02:35:38Z",
+      "rank": 28
     },
     {
       "name": "Tura-AI/tura",
@@ -728,7 +769,7 @@
       "description": "Across 348 long-horizon benchmark sessions, Tura used up to 83.1% fewer turns on the rewrite benchmark and improved the DeepSWE pass rate by up to 16.7 percentage points compared with Codex CLI.",
       "full_description": "Across 348 long-horizon benchmark sessions, Tura used up to 83.1% fewer turns on the rewrite benchmark and improved the DeepSWE pass rate by up to 16.7 percentage points compared with Codex CLI.",
       "language": "Rust",
-      "stars": 419,
+      "stars": 436,
       "stars_gained": 0,
       "forks": 18,
       "topics": [
@@ -745,53 +786,28 @@
         "token-usage"
       ],
       "created_at": "2026-07-06T13:58:44Z",
-      "updated_at": "2026-07-24T03:50:36Z",
-      "rank": 28
-    },
-    {
-      "name": "Optim-Agent/optim-agent",
-      "url": "https://github.com/Optim-Agent/optim-agent",
-      "description": "LLM agents as your hyperparameter optimizer.",
-      "full_description": "LLM agents as your hyperparameter optimizer.",
-      "language": "Python",
-      "stars": 414,
-      "stars_gained": 0,
-      "forks": 22,
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "automl",
-        "claude-code",
-        "codex-cli",
-        "developer-tools",
-        "hyperparameter-optimization",
-        "machine-learning",
-        "optimization",
-        "skill"
-      ],
-      "created_at": "2026-07-07T17:05:54Z",
-      "updated_at": "2026-07-24T03:45:20Z",
+      "updated_at": "2026-07-25T01:48:41Z",
       "rank": 29
     },
     {
-      "name": "bkingfilm/lapian-notes",
-      "url": "https://github.com/bkingfilm/lapian-notes",
-      "description": "AI 辅助的电影拉片工具：AI 拆出剧情泳道时间轴、结构树、情绪曲线，边播边写拉片笔记，免费开源全本地 | AI-assisted film breakdown notebook: story-lane timeline, structure tree, emotion curve. Free, open source, fully local.",
-      "full_description": "AI 辅助的电影拉片工具：AI 拆出剧情泳道时间轴、结构树、情绪曲线，边播边写拉片笔记，免费开源全本地 | AI-assisted film breakdown notebook: story-lane timeline, structure tree, emotion curve. Free, open source, fully local.",
-      "language": "TypeScript",
-      "stars": 414,
+      "name": "Doriandarko/texts-to-transformer",
+      "url": "https://github.com/Doriandarko/texts-to-transformer",
+      "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+      "full_description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+      "language": "Python",
+      "stars": 431,
       "stars_gained": 0,
-      "forks": 53,
+      "forks": 41,
       "topics": [
-        "ai",
-        "film-analysis",
-        "filmmaking",
-        "react",
-        "screenwriting",
-        "vite"
+        "apple-silicon",
+        "imessage",
+        "local-first",
+        "machine-learning",
+        "mlx",
+        "transformer"
       ],
-      "created_at": "2026-07-08T06:06:31Z",
-      "updated_at": "2026-07-24T02:14:45Z",
+      "created_at": "2026-07-08T08:12:17Z",
+      "updated_at": "2026-07-25T03:44:17Z",
       "rank": 30
     }
   ]
