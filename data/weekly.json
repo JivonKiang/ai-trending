@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T03:47:13.761511+00:00",
+  "updated": "2026-07-26T04:05:08.352330+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Orchestrate AI agents to find real vulnerabilities in code.",
       "full_description": "Orchestrate AI agents to find real vulnerabilities in code.",
       "language": "JavaScript",
-      "stars": 374,
+      "stars": 392,
       "stars_gained": 0,
-      "forks": 78,
+      "forks": 79,
       "topics": [
         "agent",
         "agents",
@@ -24,7 +24,7 @@
         "security-research"
       ],
       "created_at": "2026-07-20T20:26:24Z",
-      "updated_at": "2026-07-24T23:40:24Z",
+      "updated_at": "2026-07-26T03:47:56Z",
       "rank": 1
     },
     {
@@ -33,9 +33,9 @@
       "description": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
       "full_description": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
       "language": "Python",
-      "stars": 219,
+      "stars": 237,
       "stars_gained": 0,
-      "forks": 76,
+      "forks": 108,
       "topics": [
         "agent",
         "ai-agent",
@@ -59,34 +59,28 @@
         "whatsapp-api"
       ],
       "created_at": "2026-07-20T10:47:56Z",
-      "updated_at": "2026-07-25T03:32:28Z",
+      "updated_at": "2026-07-26T03:55:15Z",
       "rank": 2
     },
     {
-      "name": "livetennisapi/livetennisapi-mcp",
-      "url": "https://github.com/livetennisapi/livetennisapi-mcp",
-      "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
-      "full_description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
-      "language": "JavaScript",
-      "stars": 205,
+      "name": "hahhforest/pi-textbook",
+      "url": "https://github.com/hahhforest/pi-textbook",
+      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "full_description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "language": "TypeScript",
+      "stars": 221,
       "stars_gained": 0,
-      "forks": 84,
+      "forks": 14,
       "topics": [
-        "ai",
-        "claude",
-        "live-scores",
+        "agent-engineering",
+        "ai-agent",
+        "chinese",
         "llm",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "sports-api",
-        "sports-data",
-        "tennis",
-        "tennis-api",
+        "textbook",
         "typescript"
       ],
-      "created_at": "2026-07-18T23:17:55Z",
-      "updated_at": "2026-07-24T14:32:29Z",
+      "created_at": "2026-07-21T04:17:35Z",
+      "updated_at": "2026-07-26T03:50:46Z",
       "rank": 3
     },
     {
@@ -95,9 +89,9 @@
       "description": "Open-source, multi-platform harness for AI agents — a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
       "full_description": "Open-source, multi-platform harness for AI agents — a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
       "language": "Kotlin",
-      "stars": 175,
+      "stars": 191,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 5,
       "topics": [
         "agent-harness",
         "ai-agents",
@@ -120,29 +114,8 @@
         "terminal"
       ],
       "created_at": "2026-07-21T01:01:05Z",
-      "updated_at": "2026-07-24T21:09:52Z",
+      "updated_at": "2026-07-26T03:37:51Z",
       "rank": 4
-    },
-    {
-      "name": "hahhforest/pi-textbook",
-      "url": "https://github.com/hahhforest/pi-textbook",
-      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "full_description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "language": "TypeScript",
-      "stars": 169,
-      "stars_gained": 0,
-      "forks": 11,
-      "topics": [
-        "agent-engineering",
-        "ai-agent",
-        "chinese",
-        "llm",
-        "textbook",
-        "typescript"
-      ],
-      "created_at": "2026-07-21T04:17:35Z",
-      "updated_at": "2026-07-25T02:38:46Z",
-      "rank": 5
     },
     {
       "name": "Prism-Shadow/penguin-harness",
@@ -150,9 +123,9 @@
       "description": "🐧 Your Automated Agent Builder Lives on Your Desktop: The Best Self-Improving Harness",
       "full_description": "🐧 Your Automated Agent Builder Lives on Your Desktop: The Best Self-Improving Harness",
       "language": "TypeScript",
-      "stars": 152,
+      "stars": 170,
       "stars_gained": 0,
-      "forks": 15,
+      "forks": 17,
       "topics": [
         "agent",
         "agentic-ai",
@@ -168,52 +141,8 @@
         "workflow"
       ],
       "created_at": "2026-07-19T03:15:21Z",
-      "updated_at": "2026-07-24T22:27:22Z",
-      "rank": 6
-    },
-    {
-      "name": "Saivineeth147/lora-speedrun",
-      "url": "https://github.com/Saivineeth147/lora-speedrun",
-      "description": "Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt for fine-tuning.",
-      "full_description": "Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt for fine-tuning.",
-      "language": "Python",
-      "stars": 141,
-      "stars_gained": 0,
-      "forks": 9,
-      "topics": [
-        "benchmark",
-        "fine-tuning",
-        "leaderboard",
-        "llm",
-        "lora",
-        "peft",
-        "qlora",
-        "speedrun"
-      ],
-      "created_at": "2026-07-18T17:53:03Z",
-      "updated_at": "2026-07-24T18:15:21Z",
-      "rank": 7
-    },
-    {
-      "name": "Fratres-X-AI/JamBoy",
-      "url": "https://github.com/Fratres-X-AI/JamBoy",
-      "description": "GPS-denied drone navigation layer: optical flow + offline map geo-match + EKF → MAVLink (sim-validated).",
-      "full_description": "GPS-denied drone navigation layer: optical flow + offline map geo-match + EKF → MAVLink (sim-validated).",
-      "language": "Python",
-      "stars": 126,
-      "stars_gained": 0,
-      "forks": 34,
-      "topics": [
-        "computer-vision",
-        "drone",
-        "ekf",
-        "gps-denied",
-        "mavlink",
-        "navigation"
-      ],
-      "created_at": "2026-07-18T18:00:31Z",
-      "updated_at": "2026-07-24T19:10:53Z",
-      "rank": 8
+      "updated_at": "2026-07-26T02:39:02Z",
+      "rank": 5
     },
     {
       "name": "ailinone/collective-intelligence",
@@ -221,9 +150,9 @@
       "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
       "full_description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
       "language": "TypeScript",
-      "stars": 115,
+      "stars": 120,
       "stars_gained": 0,
-      "forks": 5,
+      "forks": 7,
       "topics": [
         "ai",
         "ai-agents",
@@ -247,8 +176,8 @@
         "typescript"
       ],
       "created_at": "2026-07-20T00:17:45Z",
-      "updated_at": "2026-07-25T02:44:44Z",
-      "rank": 9
+      "updated_at": "2026-07-26T03:37:10Z",
+      "rank": 6
     },
     {
       "name": "pazo01/awesome-cyber-ai-arsenal",
@@ -256,7 +185,7 @@
       "description": "A curated collection of offensive, defensive and AI/LLM security tools.",
       "full_description": "A curated collection of offensive, defensive and AI/LLM security tools.",
       "language": "",
-      "stars": 101,
+      "stars": 109,
       "stars_gained": 0,
       "forks": 22,
       "topics": [
@@ -276,8 +205,8 @@
         "security"
       ],
       "created_at": "2026-07-19T14:25:45Z",
-      "updated_at": "2026-07-25T01:17:32Z",
-      "rank": 10
+      "updated_at": "2026-07-26T00:33:50Z",
+      "rank": 7
     },
     {
       "name": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
@@ -285,7 +214,7 @@
       "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
       "full_description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
       "language": "Python",
-      "stars": 91,
+      "stars": 106,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
@@ -305,8 +234,58 @@
         "surrogate-gradient"
       ],
       "created_at": "2026-07-20T12:55:19Z",
-      "updated_at": "2026-07-25T01:39:42Z",
-      "rank": 11
+      "updated_at": "2026-07-26T01:46:43Z",
+      "rank": 8
+    },
+    {
+      "name": "cporter202/coreclaw-api-directory",
+      "url": "https://github.com/cporter202/coreclaw-api-directory",
+      "description": "An unofficial, categorized directory of 118 CoreClaw Worker APIs for web scraping, automation, lead generation, e-commerce, social data, and more.",
+      "full_description": "An unofficial, categorized directory of 118 CoreClaw Worker APIs for web scraping, automation, lead generation, e-commerce, social data, and more.",
+      "language": "Python",
+      "stars": 88,
+      "stars_gained": 0,
+      "forks": 26,
+      "topics": [
+        "api-directory",
+        "api-list",
+        "automation",
+        "awesome-list",
+        "coreclaw",
+        "data-extraction",
+        "developer-tools",
+        "ecommerce",
+        "lead-generation",
+        "mcp",
+        "public-data",
+        "rest-api",
+        "scraping-api",
+        "social-media",
+        "web-automation",
+        "web-scraping"
+      ],
+      "created_at": "2026-07-22T03:35:56Z",
+      "updated_at": "2026-07-26T03:43:23Z",
+      "rank": 9
+    },
+    {
+      "name": "0xtresser/Transcript-of-Liang-Wenfengs-DeepSeek-Founder-4-Hour-Investor-Meeting",
+      "url": "https://github.com/0xtresser/Transcript-of-Liang-Wenfengs-DeepSeek-Founder-4-Hour-Investor-Meeting",
+      "description": "梁文锋四小时投资人会议实录，因原文在微信上无法查看，特传一份github",
+      "full_description": "梁文锋四小时投资人会议实录，因原文在微信上无法查看，特传一份github",
+      "language": "",
+      "stars": 83,
+      "stars_gained": 0,
+      "forks": 36,
+      "topics": [
+        "agi",
+        "deepseek",
+        "liang-wenfeng",
+        "llm"
+      ],
+      "created_at": "2026-07-23T06:53:46Z",
+      "updated_at": "2026-07-26T03:22:39Z",
+      "rank": 10
     },
     {
       "name": "drpwchen/textbook-to-note",
@@ -314,9 +293,9 @@
       "description": "Turn your own PDF textbooks into an AI-searchable knowledge base and structured, fully-cited notes — figures included. Local-first, token-frugal.",
       "full_description": "Turn your own PDF textbooks into an AI-searchable knowledge base and structured, fully-cited notes — figures included. Local-first, token-frugal.",
       "language": "Python",
-      "stars": 79,
+      "stars": 81,
       "stars_gained": 0,
-      "forks": 20,
+      "forks": 22,
       "topics": [
         "claude-code",
         "note-taking",
@@ -326,7 +305,38 @@
         "rag"
       ],
       "created_at": "2026-07-19T03:33:46Z",
-      "updated_at": "2026-07-25T01:51:13Z",
+      "updated_at": "2026-07-26T01:46:14Z",
+      "rank": 11
+    },
+    {
+      "name": "ddyy/minshop",
+      "url": "https://github.com/ddyy/minshop",
+      "description": "Full-stack ecommerce on Cloudflare Workers, D1, and R2 - with admin, Stripe, OpenNode, Lightning payments, and agent-ready APIs.",
+      "full_description": "Full-stack ecommerce on Cloudflare Workers, D1, and R2 - with admin, Stripe, OpenNode, Lightning payments, and agent-ready APIs.",
+      "language": "TypeScript",
+      "stars": 81,
+      "stars_gained": 0,
+      "forks": 16,
+      "topics": [
+        "ai-agents",
+        "astro",
+        "cloudflare-d1",
+        "cloudflare-r2",
+        "cloudflare-workers",
+        "ecommerce",
+        "edge-computing",
+        "lightning-network",
+        "mcp",
+        "open-source",
+        "opennode",
+        "serverless",
+        "shopping-cart",
+        "storefront",
+        "stripe",
+        "typescript"
+      ],
+      "created_at": "2026-07-20T23:58:28Z",
+      "updated_at": "2026-07-26T03:19:02Z",
       "rank": 12
     },
     {
@@ -335,7 +345,7 @@
       "description": "A finite ontology of 115 recurring software elements and a composition framework for LLM-based coding agents",
       "full_description": "A finite ontology of 115 recurring software elements and a composition framework for LLM-based coding agents",
       "language": "TypeScript",
-      "stars": 77,
+      "stars": 78,
       "stars_gained": 0,
       "forks": 6,
       "topics": [
@@ -344,7 +354,7 @@
         "typescript"
       ],
       "created_at": "2026-07-19T14:28:56Z",
-      "updated_at": "2026-07-24T04:44:23Z",
+      "updated_at": "2026-07-25T17:56:02Z",
       "rank": 13
     },
     {
@@ -353,7 +363,7 @@
       "description": "A production-grade SIEM/XDR platform for 1M+ EPS ingestion with sub-15ms detection latency. Built with C++, Go, and Python. Features DPDK capture, ONNX ML inference, Sigma rules, eBPF monitoring, and SOAR.",
       "full_description": "A production-grade SIEM/XDR platform for 1M+ EPS ingestion with sub-15ms detection latency. Built with C++, Go, and Python. Features DPDK capture, ONNX ML inference, Sigma rules, eBPF monitoring, and SOAR.",
       "language": "C++",
-      "stars": 70,
+      "stars": 73,
       "stars_gained": 0,
       "forks": 7,
       "topics": [
@@ -378,38 +388,36 @@
         "xdr"
       ],
       "created_at": "2026-07-21T13:28:34Z",
-      "updated_at": "2026-07-24T13:14:28Z",
+      "updated_at": "2026-07-26T01:10:25Z",
       "rank": 14
     },
     {
-      "name": "ddyy/minshop",
-      "url": "https://github.com/ddyy/minshop",
-      "description": "Full-stack ecommerce on Cloudflare Workers, D1, and R2 - with admin, Stripe, OpenNode, Lightning payments, and agent-ready APIs.",
-      "full_description": "Full-stack ecommerce on Cloudflare Workers, D1, and R2 - with admin, Stripe, OpenNode, Lightning payments, and agent-ready APIs.",
-      "language": "TypeScript",
-      "stars": 62,
+      "name": "cocofhu/approving",
+      "url": "https://github.com/cocofhu/approving",
+      "description": "Compose coding agents into workflows you can trust",
+      "full_description": "Compose coding agents into workflows you can trust",
+      "language": "Go",
+      "stars": 71,
       "stars_gained": 0,
-      "forks": 16,
+      "forks": 3,
       "topics": [
-        "ai-agents",
-        "astro",
-        "cloudflare-d1",
-        "cloudflare-r2",
-        "cloudflare-workers",
-        "ecommerce",
-        "edge-computing",
-        "lightning-network",
-        "mcp",
-        "open-source",
-        "opennode",
-        "serverless",
-        "shopping-cart",
-        "storefront",
-        "stripe",
-        "typescript"
+        "agent",
+        "ai",
+        "browser-automation",
+        "harness",
+        "harness-ai",
+        "harness-ci",
+        "harness-design",
+        "harness-engineering",
+        "harness-execution-layer",
+        "harness-framework",
+        "llm",
+        "mutli-agent",
+        "workflow",
+        "workflow-automation"
       ],
-      "created_at": "2026-07-20T23:58:28Z",
-      "updated_at": "2026-07-25T02:48:19Z",
+      "created_at": "2026-07-24T15:27:02Z",
+      "updated_at": "2026-07-26T03:22:14Z",
       "rank": 15
     },
     {
@@ -418,9 +426,9 @@
       "description": "Ten cooperating AI agents that turn long podcasts into short-form videos, automatically. Free and open source, runs on free AI providers.",
       "full_description": "Ten cooperating AI agents that turn long podcasts into short-form videos, automatically. Free and open source, runs on free AI providers.",
       "language": "Python",
-      "stars": 62,
+      "stars": 68,
       "stars_gained": 0,
-      "forks": 27,
+      "forks": 29,
       "topics": [
         "ai-agents",
         "content-automation",
@@ -434,7 +442,7 @@
         "youtube-shorts"
       ],
       "created_at": "2026-07-22T10:54:47Z",
-      "updated_at": "2026-07-25T02:02:48Z",
+      "updated_at": "2026-07-26T02:31:48Z",
       "rank": 16
     },
     {
@@ -443,7 +451,7 @@
       "description": "mentor — a session-insights skill for AI coding agents. This skill reads your local Claude Code and OpenAI Codex history and writes an /insights-style HTML report on how you work: what you build, where you lose time, and concrete fixes. An agent skill for Claude Code, Codex, and any skills-capable agent.",
       "full_description": "mentor — a session-insights skill for AI coding agents. This skill reads your local Claude Code and OpenAI Codex history and writes an /insights-style HTML report on how you work: what you build, where you lose time, and concrete fixes. An agent skill for Claude Code, Codex, and any skills-capable agent.",
       "language": "Python",
-      "stars": 62,
+      "stars": 64,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -465,132 +473,35 @@
         "session-analysis"
       ],
       "created_at": "2026-07-19T05:21:15Z",
-      "updated_at": "2026-07-24T15:00:32Z",
+      "updated_at": "2026-07-25T04:40:24Z",
       "rank": 17
     },
     {
-      "name": "0xtresser/Transcript-of-Liang-Wenfengs-DeepSeek-Founder-4-Hour-Investor-Meeting",
-      "url": "https://github.com/0xtresser/Transcript-of-Liang-Wenfengs-DeepSeek-Founder-4-Hour-Investor-Meeting",
-      "description": "梁文锋四小时投资人会议实录，因原文在微信上无法查看，特传一份github",
-      "full_description": "梁文锋四小时投资人会议实录，因原文在微信上无法查看，特传一份github",
-      "language": "",
-      "stars": 58,
-      "stars_gained": 0,
-      "forks": 28,
-      "topics": [
-        "agi",
-        "deepseek",
-        "liang-wenfeng",
-        "llm"
-      ],
-      "created_at": "2026-07-23T06:53:46Z",
-      "updated_at": "2026-07-25T03:10:01Z",
-      "rank": 18
-    },
-    {
-      "name": "cporter202/coreclaw-api-directory",
-      "url": "https://github.com/cporter202/coreclaw-api-directory",
-      "description": "An unofficial, categorized directory of 118 CoreClaw Worker APIs for web scraping, automation, lead generation, e-commerce, social data, and more.",
-      "full_description": "An unofficial, categorized directory of 118 CoreClaw Worker APIs for web scraping, automation, lead generation, e-commerce, social data, and more.",
-      "language": "Python",
+      "name": "surya-koritala/sigbound",
+      "url": "https://github.com/surya-koritala/sigbound",
+      "description": "Run AI coding agents in parallel on one git repo and safely auto-merge their work — only changes that build and pass tests land. On top of plain git; bring your own model.",
+      "full_description": "Run AI coding agents in parallel on one git repo and safely auto-merge their work — only changes that build and pass tests land. On top of plain git; bring your own model.",
+      "language": "Go",
       "stars": 50,
-      "stars_gained": 0,
-      "forks": 15,
-      "topics": [
-        "api-directory",
-        "api-list",
-        "automation",
-        "awesome-list",
-        "coreclaw",
-        "data-extraction",
-        "developer-tools",
-        "ecommerce",
-        "lead-generation",
-        "mcp",
-        "public-data",
-        "rest-api",
-        "scraping-api",
-        "social-media",
-        "web-automation",
-        "web-scraping"
-      ],
-      "created_at": "2026-07-22T03:35:56Z",
-      "updated_at": "2026-07-25T03:14:03Z",
-      "rank": 19
-    },
-    {
-      "name": "Keksuccino/Better-Codex-App-Custom-Provider-Support",
-      "url": "https://github.com/Keksuccino/Better-Codex-App-Custom-Provider-Support",
-      "description": "Adds support for selecting a custom model provider to use for a thread/chat, without logging out of your ChatGPT account.",
-      "full_description": "Adds support for selecting a custom model provider to use for a thread/chat, without logging out of your ChatGPT account.",
-      "language": "Python",
-      "stars": 40,
-      "stars_gained": 0,
-      "forks": 7,
-      "topics": [
-        "agent",
-        "agentic-ai",
-        "chatgpt",
-        "chatgpt-app",
-        "codex",
-        "codex-app",
-        "openrouter",
-        "patch",
-        "patcher",
-        "patcher-script",
-        "python"
-      ],
-      "created_at": "2026-07-18T19:37:58Z",
-      "updated_at": "2026-07-24T22:52:23Z",
-      "rank": 20
-    },
-    {
-      "name": "erayendes/app-store-connect-mcp",
-      "url": "https://github.com/erayendes/app-store-connect-mcp",
-      "description": "Heimdall — MCP server for the Apple App Store Connect API & App Store Server API (StoreKit 2). 982 tools generated from Apple's official OpenAPI spec. Client-agnostic: Claude, Codex, Cursor, and any MCP client.",
-      "full_description": "Heimdall — MCP server for the Apple App Store Connect API & App Store Server API (StoreKit 2). 982 tools generated from Apple's official OpenAPI spec. Client-agnostic: Claude, Codex, Cursor, and any MCP client.",
-      "language": "TypeScript",
-      "stars": 40,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
-        "app-store-connect",
-        "app-store-server-api",
-        "apple",
-        "appstoreconnect",
-        "claude",
-        "codex",
-        "heimdall",
-        "ios",
-        "mcp",
-        "model-context-protocol",
-        "storekit",
-        "testflight"
-      ],
-      "created_at": "2026-07-19T14:37:40Z",
-      "updated_at": "2026-07-24T14:52:47Z",
-      "rank": 21
-    },
-    {
-      "name": "xinwithyu/moonlit-myriad",
-      "url": "https://github.com/xinwithyu/moonlit-myriad",
-      "description": "专为 AI 玩家设计的单文件卡牌肉鸽 🌙",
-      "full_description": "专为 AI 玩家设计的单文件卡牌肉鸽 🌙",
-      "language": "Python",
-      "stars": 40,
-      "stars_gained": 0,
-      "forks": 10,
-      "topics": [
         "ai",
-        "balatro",
-        "card-game",
+        "ai-agents",
+        "cli",
+        "coding-agents",
+        "developer-tools",
+        "git",
+        "git-worktree",
+        "golang",
         "llm",
-        "python",
-        "roguelike"
+        "merge",
+        "optimistic-concurrency",
+        "parallel"
       ],
-      "created_at": "2026-07-21T10:19:35Z",
-      "updated_at": "2026-07-24T11:28:29Z",
-      "rank": 22
+      "created_at": "2026-07-21T02:55:48Z",
+      "updated_at": "2026-07-26T03:58:49Z",
+      "rank": 18
     },
     {
       "name": "prayangshuuu/hummingbird",
@@ -598,9 +509,9 @@
       "description": "hummingbird is a lightweight, zero dependency runtime for massive open source Mixture of Experts (MoE) language models. It unifies SSD, RAM, and VRAM into a single intelligent memory hierarchy, enabling inference of models like GPT-OSS 120B, GLM, DeepSeek, Qwen, and more on consumer hardware",
       "full_description": "hummingbird is a lightweight, zero dependency runtime for massive open source Mixture of Experts (MoE) language models. It unifies SSD, RAM, and VRAM into a single intelligent memory hierarchy, enabling inference of models like GPT-OSS 120B, GLM, DeepSeek, Qwen, and more on consumer hardware",
       "language": "C",
-      "stars": 39,
+      "stars": 42,
       "stars_gained": 0,
-      "forks": 9,
+      "forks": 10,
       "topics": [
         "ai-inference",
         "artificial-intelligence",
@@ -623,8 +534,77 @@
         "transformers"
       ],
       "created_at": "2026-07-21T14:30:08Z",
-      "updated_at": "2026-07-25T02:09:51Z",
-      "rank": 23
+      "updated_at": "2026-07-25T21:29:24Z",
+      "rank": 19
+    },
+    {
+      "name": "erayendes/app-store-connect-mcp",
+      "url": "https://github.com/erayendes/app-store-connect-mcp",
+      "description": "Heimdall — MCP server for the Apple App Store Connect API & App Store Server API (StoreKit 2). 982 tools generated from Apple's official OpenAPI spec. Client-agnostic: Claude, Codex, Cursor, and any MCP client.",
+      "full_description": "Heimdall — MCP server for the Apple App Store Connect API & App Store Server API (StoreKit 2). 982 tools generated from Apple's official OpenAPI spec. Client-agnostic: Claude, Codex, Cursor, and any MCP client.",
+      "language": "TypeScript",
+      "stars": 41,
+      "stars_gained": 0,
+      "forks": 1,
+      "topics": [
+        "app-store-connect",
+        "app-store-server-api",
+        "apple",
+        "appstoreconnect",
+        "claude",
+        "codex",
+        "heimdall",
+        "ios",
+        "mcp",
+        "model-context-protocol",
+        "storekit",
+        "testflight"
+      ],
+      "created_at": "2026-07-19T14:37:40Z",
+      "updated_at": "2026-07-25T13:21:39Z",
+      "rank": 20
+    },
+    {
+      "name": "xinwithyu/moonlit-myriad",
+      "url": "https://github.com/xinwithyu/moonlit-myriad",
+      "description": "专为 AI 玩家设计的单文件卡牌肉鸽 🌙",
+      "full_description": "专为 AI 玩家设计的单文件卡牌肉鸽 🌙",
+      "language": "Python",
+      "stars": 40,
+      "stars_gained": 0,
+      "forks": 10,
+      "topics": [
+        "ai",
+        "balatro",
+        "card-game",
+        "llm",
+        "python",
+        "roguelike"
+      ],
+      "created_at": "2026-07-21T10:19:35Z",
+      "updated_at": "2026-07-24T11:28:29Z",
+      "rank": 21
+    },
+    {
+      "name": "icebird1998/scientific-illustrator",
+      "url": "https://github.com/icebird1998/scientific-illustrator",
+      "description": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
+      "full_description": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
+      "language": "JavaScript",
+      "stars": 38,
+      "stars_gained": 0,
+      "forks": 6,
+      "topics": [
+        "codex",
+        "drawio",
+        "editable-figures",
+        "mcp",
+        "powerpoint",
+        "scientific-illustration"
+      ],
+      "created_at": "2026-07-24T04:27:30Z",
+      "updated_at": "2026-07-26T03:55:25Z",
+      "rank": 22
     },
     {
       "name": "rizzdev/awesome-mcp-open",
@@ -644,32 +624,7 @@
       ],
       "created_at": "2026-07-22T18:48:07Z",
       "updated_at": "2026-07-24T17:04:33Z",
-      "rank": 24
-    },
-    {
-      "name": "bitwize-ai/Logue",
-      "url": "https://github.com/bitwize-ai/Logue",
-      "description": "Privacy-first AI meeting notes & writing assistant for Mac — on-device transcription, smart minutes, action items & 60+ writing modes, running entirely on Apple Silicon",
-      "full_description": "Privacy-first AI meeting notes & writing assistant for Mac — on-device transcription, smart minutes, action items & 60+ writing modes, running entirely on Apple Silicon",
-      "language": "Swift",
-      "stars": 36,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "apple-silicon",
-        "llm",
-        "macos",
-        "meeting-notes",
-        "mlx",
-        "on-device-ai",
-        "privacy",
-        "swift",
-        "swiftui",
-        "transcription"
-      ],
-      "created_at": "2026-07-18T16:01:00Z",
-      "updated_at": "2026-07-24T22:04:48Z",
-      "rank": 25
+      "rank": 23
     },
     {
       "name": "ianustec/neura-office",
@@ -677,7 +632,7 @@
       "description": "NEURA Office: native Word, PowerPoint and Excel for Open WebUI. LibreOffice-compatible OOXML. MS365 assistant planned.",
       "full_description": "NEURA Office: native Word, PowerPoint and Excel for Open WebUI. LibreOffice-compatible OOXML. MS365 assistant planned.",
       "language": "",
-      "stars": 35,
+      "stars": 36,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
@@ -692,30 +647,8 @@
         "xlsx"
       ],
       "created_at": "2026-07-19T06:26:21Z",
-      "updated_at": "2026-07-23T20:10:35Z",
-      "rank": 26
-    },
-    {
-      "name": "gura105/operational-ontology",
-      "url": "https://github.com/gura105/operational-ontology",
-      "description": "A minimal, readable reference implementation of the Operational Ontology pattern. Palantir Foundry is one implementation; this is the concept, minimized.",
-      "full_description": "A minimal, readable reference implementation of the Operational Ontology pattern. Palantir Foundry is one implementation; this is the concept, minimized.",
-      "language": "TypeScript",
-      "stars": 34,
-      "stars_gained": 0,
-      "forks": 3,
-      "topics": [
-        "ai-agents",
-        "domain-modeling",
-        "mcp",
-        "ontology",
-        "operational-ontology",
-        "palantir-foundry",
-        "typescript"
-      ],
-      "created_at": "2026-07-18T18:14:47Z",
-      "updated_at": "2026-07-24T07:59:34Z",
-      "rank": 27
+      "updated_at": "2026-07-25T16:54:41Z",
+      "rank": 24
     },
     {
       "name": "fcavalcantirj/claude-code-eyes",
@@ -723,7 +656,7 @@
       "description": "Give Claude Code eyes 👁️ — a camera skill so it can SEE real hardware, displays and wiring: verify a rendered panel, check wiring before power-on, and catch bugs that live on the glass, not the logs.",
       "full_description": "Give Claude Code eyes 👁️ — a camera skill so it can SEE real hardware, displays and wiring: verify a rendered panel, check wiring before power-on, and catch bugs that live on the glass, not the logs.",
       "language": "Shell",
-      "stars": 33,
+      "stars": 35,
       "stars_gained": 0,
       "forks": 7,
       "topics": [
@@ -741,8 +674,8 @@
         "raspberry-pi"
       ],
       "created_at": "2026-07-21T03:26:05Z",
-      "updated_at": "2026-07-24T21:37:57Z",
-      "rank": 28
+      "updated_at": "2026-07-26T00:56:59Z",
+      "rank": 25
     },
     {
       "name": "levi-qiao/octopus-skill",
@@ -777,34 +710,92 @@
       ],
       "created_at": "2026-07-19T02:26:19Z",
       "updated_at": "2026-07-25T00:53:21Z",
-      "rank": 29
+      "rank": 26
     },
     {
-      "name": "copybrainapp/copybrainapp",
-      "url": "https://github.com/copybrainapp/copybrainapp",
-      "description": "Your second brain for everything you copy.",
-      "full_description": "Your second brain for everything you copy.",
-      "language": "TypeScript",
-      "stars": 33,
+      "name": "sunyifeng11111/sun-felt-wechat-illustrator",
+      "url": "https://github.com/sunyifeng11111/sun-felt-wechat-illustrator",
+      "description": "为中文公众号文章生成真实 3D 毛毡质感的封面、正文配图与精确插入指南的 Codex Skill。",
+      "full_description": "为中文公众号文章生成真实 3D 毛毡质感的封面、正文配图与精确插入指南的 Codex Skill。",
+      "language": "",
+      "stars": 32,
       "stars_gained": 0,
       "forks": 4,
       "topics": [
-        "ai",
-        "clipboard-history",
-        "clipboard-manager",
-        "cross-platform",
-        "desktop-app",
-        "linux",
-        "macos",
-        "open-source",
-        "productivity",
-        "react",
-        "rust",
-        "tauri",
-        "windows"
+        "agent-skill",
+        "chinese-content",
+        "codex",
+        "content-creation",
+        "generative-ai",
+        "illustration",
+        "image-generation",
+        "wechat",
+        "wechat-articles"
       ],
-      "created_at": "2026-07-18T18:56:25Z",
-      "updated_at": "2026-07-23T07:51:11Z",
+      "created_at": "2026-07-24T06:02:43Z",
+      "updated_at": "2026-07-26T01:44:56Z",
+      "rank": 27
+    },
+    {
+      "name": "ToolMonsters/handoff-skill",
+      "url": "https://github.com/ToolMonsters/handoff-skill",
+      "description": "Claude skill: turn your current conversation into a complete handoff document so any LLM can pick up exactly where you left off",
+      "full_description": "Claude skill: turn your current conversation into a complete handoff document so any LLM can pick up exactly where you left off",
+      "language": "",
+      "stars": 31,
+      "stars_gained": 0,
+      "forks": 15,
+      "topics": [
+        "ai",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "llm"
+      ],
+      "created_at": "2026-07-22T08:59:15Z",
+      "updated_at": "2026-07-25T14:40:07Z",
+      "rank": 28
+    },
+    {
+      "name": "VersusControl/devops-vn-blog",
+      "url": "https://github.com/VersusControl/devops-vn-blog",
+      "description": "DevOps VN is a website that shares knowledge about DevOps and Cloud Computing.",
+      "full_description": "DevOps VN is a website that shares knowledge about DevOps and Cloud Computing.",
+      "language": "HCL",
+      "stars": 31,
+      "stars_gained": 0,
+      "forks": 14,
+      "topics": [
+        "ai",
+        "aws",
+        "cloud",
+        "devops",
+        "kubernetes",
+        "sre"
+      ],
+      "created_at": "2026-07-19T12:48:32Z",
+      "updated_at": "2026-07-25T16:51:19Z",
+      "rank": 29
+    },
+    {
+      "name": "FedericoTs/quantprobe",
+      "url": "https://github.com/FedericoTs/quantprobe",
+      "description": "Run GLM-4.5-Air (110B) on a 16GB-RAM consumer machine - identify the best memory allocation to overcome standard hardware limitations in Local LLM applications. Placement beats budget. Falsification-Tested laws, probes and recipes for LLMs on commodity hardware",
+      "full_description": "Run GLM-4.5-Air (110B) on a 16GB-RAM consumer machine - identify the best memory allocation to overcome standard hardware limitations in Local LLM applications. Placement beats budget. Falsification-Tested laws, probes and recipes for LLMs on commodity hardware",
+      "language": "Python",
+      "stars": 29,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "gguf",
+        "inference",
+        "llama-cpp",
+        "llm",
+        "moe",
+        "quantization"
+      ],
+      "created_at": "2026-07-21T21:09:22Z",
+      "updated_at": "2026-07-26T04:01:26Z",
       "rank": 30
     }
   ]
