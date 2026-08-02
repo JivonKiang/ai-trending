@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T03:59:21.733734+00:00",
+  "updated": "2026-08-02T04:03:01.424769+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "full_description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "language": "JavaScript",
-      "stars": 621,
+      "stars": 1383,
       "stars_gained": 0,
-      "forks": 44,
+      "forks": 90,
       "topics": [
         "agent",
         "agentic-ai",
@@ -21,7 +21,7 @@
         "voice-chat"
       ],
       "created_at": "2026-07-27T05:04:26Z",
-      "updated_at": "2026-08-01T03:54:39Z",
+      "updated_at": "2026-08-02T04:02:12Z",
       "rank": 1
     },
     {
@@ -30,7 +30,7 @@
       "description": "runs anywhere. uses anything",
       "full_description": "runs anywhere. uses anything",
       "language": "TypeScript",
-      "stars": 563,
+      "stars": 566,
       "stars_gained": 0,
       "forks": 80,
       "topics": [
@@ -55,7 +55,7 @@
         "openrouter"
       ],
       "created_at": "2026-07-26T21:58:28Z",
-      "updated_at": "2026-07-31T08:07:43Z",
+      "updated_at": "2026-08-01T23:43:23Z",
       "rank": 2
     },
     {
@@ -64,9 +64,9 @@
       "description": "Your agent reads the rules. This checks whether it followed them.",
       "full_description": "Your agent reads the rules. This checks whether it followed them.",
       "language": "JavaScript",
-      "stars": 402,
+      "stars": 408,
       "stars_gained": 0,
-      "forks": 43,
+      "forks": 83,
       "topics": [
         "ai-agents",
         "claude-code",
@@ -82,7 +82,7 @@
         "yagni"
       ],
       "created_at": "2026-07-31T17:54:30Z",
-      "updated_at": "2026-08-01T03:19:40Z",
+      "updated_at": "2026-08-01T23:44:36Z",
       "rank": 3
     },
     {
@@ -91,7 +91,7 @@
       "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
       "full_description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
       "language": "TypeScript",
-      "stars": 368,
+      "stars": 375,
       "stars_gained": 0,
       "forks": 29,
       "topics": [
@@ -108,7 +108,7 @@
         "workflow"
       ],
       "created_at": "2026-07-26T04:20:50Z",
-      "updated_at": "2026-08-01T02:11:40Z",
+      "updated_at": "2026-08-01T23:48:24Z",
       "rank": 4
     },
     {
@@ -117,9 +117,9 @@
       "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
       "full_description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
       "language": "Swift",
-      "stars": 185,
+      "stars": 232,
       "stars_gained": 0,
-      "forks": 9,
+      "forks": 14,
       "topics": [
         "ai",
         "compositor",
@@ -138,7 +138,7 @@
         "x11"
       ],
       "created_at": "2026-07-28T04:31:38Z",
-      "updated_at": "2026-08-01T01:48:07Z",
+      "updated_at": "2026-08-02T03:31:47Z",
       "rank": 5
     },
     {
@@ -147,9 +147,9 @@
       "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
       "full_description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
       "language": "Python",
-      "stars": 151,
+      "stars": 168,
       "stars_gained": 0,
-      "forks": 34,
+      "forks": 37,
       "topics": [
         "aeo",
         "ai-search",
@@ -163,7 +163,7 @@
         "seo-tools"
       ],
       "created_at": "2026-07-29T07:51:43Z",
-      "updated_at": "2026-08-01T03:04:01Z",
+      "updated_at": "2026-08-02T02:24:25Z",
       "rank": 6
     },
     {
@@ -172,9 +172,9 @@
       "description": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.",
       "full_description": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.",
       "language": "TypeScript",
-      "stars": 111,
+      "stars": 122,
       "stars_gained": 0,
-      "forks": 22,
+      "forks": 24,
       "topics": [
         "chatgpt",
         "chatgpt-pro",
@@ -188,27 +188,85 @@
         "typescript"
       ],
       "created_at": "2026-07-26T13:04:44Z",
-      "updated_at": "2026-08-01T03:19:27Z",
+      "updated_at": "2026-08-02T03:56:28Z",
       "rank": 7
     },
     {
-      "name": "Ayin1412/ForzaHorizon6-VisionAI",
-      "url": "https://github.com/Ayin1412/ForzaHorizon6-VisionAI",
-      "description": "Camera-only closed-loop driving agent for Forza Horizon 6, with geometry as the control interface.",
-      "full_description": "Camera-only closed-loop driving agent for Forza Horizon 6, with geometry as the control interface.",
-      "language": "Python",
-      "stars": 88,
+      "name": "hardrave/NIGHTRUN",
+      "url": "https://github.com/hardrave/NIGHTRUN",
+      "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
+      "full_description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
+      "language": "Rust",
+      "stars": 107,
       "stars_gained": 0,
-      "forks": 13,
+      "forks": 14,
       "topics": [
-        "autonomous-driving",
-        "computer-vision",
-        "forza-horizon-6",
-        "imitation-learning"
+        "ai",
+        "genai",
+        "llama-cpp",
+        "llm",
+        "ollama",
+        "runtime",
+        "vlm"
       ],
-      "created_at": "2026-07-25T16:48:15Z",
-      "updated_at": "2026-07-31T17:42:57Z",
+      "created_at": "2026-07-27T19:37:52Z",
+      "updated_at": "2026-08-02T02:47:11Z",
       "rank": 8
+    },
+    {
+      "name": "Aaryanverma/graybox",
+      "url": "https://github.com/Aaryanverma/graybox",
+      "description": "A local-first, long-term memory for anything you'd otherwise forget.",
+      "full_description": "A local-first, long-term memory for anything you'd otherwise forget.",
+      "language": "Python",
+      "stars": 103,
+      "stars_gained": 0,
+      "forks": 6,
+      "topics": [
+        "ai",
+        "brain",
+        "graybox",
+        "lightweight",
+        "local-first",
+        "memory",
+        "open-source"
+      ],
+      "created_at": "2026-07-26T10:39:53Z",
+      "updated_at": "2026-08-02T03:02:28Z",
+      "rank": 9
+    },
+    {
+      "name": "simonlin1212/vibe-astock",
+      "url": "https://github.com/simonlin1212/vibe-astock",
+      "description": "A 股短线复盘看板：涨停池·连板梯队·龙虎榜·板块资金一屏看完，赚钱效应/晋级率/梯队断层/情绪周期等派生指标纯计算直出（不经过 AI），AI 只把数据串成能读的盘面研判。全本地运行，可用 Claude/Codex 订阅免 API key。| A-share short-term daily-review dashboard: derived sentiment metrics computed locally, AI only writes the narrative. No API key needed.",
+      "full_description": "A 股短线复盘看板：涨停池·连板梯队·龙虎榜·板块资金一屏看完，赚钱效应/晋级率/梯队断层/情绪周期等派生指标纯计算直出（不经过 AI），AI 只把数据串成能读的盘面研判。全本地运行，可用 Claude/Codex 订阅免 API key。| A-share short-term daily-review dashboard: derived sentiment metrics computed locally, AI only writes the narrative. No API key needed.",
+      "language": "Python",
+      "stars": 87,
+      "stars_gained": 0,
+      "forks": 27,
+      "topics": [
+        "a-share",
+        "ai-agent",
+        "akshare",
+        "china-stock-market",
+        "dashboard",
+        "fastapi",
+        "fintech",
+        "llm",
+        "market-sentiment",
+        "multi-agent",
+        "python",
+        "react",
+        "self-hosted",
+        "stock-market",
+        "technical-analysis",
+        "trading",
+        "trading-dashboard",
+        "typescript"
+      ],
+      "created_at": "2026-07-29T23:40:47Z",
+      "updated_at": "2026-08-02T03:23:10Z",
+      "rank": 10
     },
     {
       "name": "yaoleifly/ai-stock-pool",
@@ -230,51 +288,34 @@
       ],
       "created_at": "2026-07-26T02:42:29Z",
       "updated_at": "2026-08-01T00:54:15Z",
-      "rank": 9
-    },
-    {
-      "name": "Aaryanverma/graybox",
-      "url": "https://github.com/Aaryanverma/graybox",
-      "description": "A local-first, long-term memory for anything you'd otherwise forget.",
-      "full_description": "A local-first, long-term memory for anything you'd otherwise forget.",
-      "language": "Python",
-      "stars": 85,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "ai",
-        "brain",
-        "graybox",
-        "lightweight",
-        "local-first",
-        "memory",
-        "open-source"
-      ],
-      "created_at": "2026-07-26T10:39:53Z",
-      "updated_at": "2026-07-31T23:54:51Z",
-      "rank": 10
-    },
-    {
-      "name": "hardrave/NIGHTRUN",
-      "url": "https://github.com/hardrave/NIGHTRUN",
-      "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
-      "full_description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
-      "language": "Rust",
-      "stars": 84,
-      "stars_gained": 0,
-      "forks": 11,
-      "topics": [
-        "ai",
-        "genai",
-        "llama-cpp",
-        "llm",
-        "ollama",
-        "runtime",
-        "vlm"
-      ],
-      "created_at": "2026-07-27T19:37:52Z",
-      "updated_at": "2026-08-01T02:27:57Z",
       "rank": 11
+    },
+    {
+      "name": "HezaoHezao/poirot",
+      "url": "https://github.com/HezaoHezao/poirot",
+      "description": "Poirot is a deep research agent kernel built for those who care about how agents are architected. ",
+      "full_description": "Poirot is a deep research agent kernel built for those who care about how agents are architected. ",
+      "language": "Python",
+      "stars": 82,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "agent",
+        "agent-memory",
+        "agent-skill",
+        "agent-skills",
+        "agentic-ai",
+        "agents",
+        "ai-agent",
+        "ai-agents",
+        "ai-coding",
+        "memory",
+        "memory-system",
+        "multi-agent"
+      ],
+      "created_at": "2026-07-28T17:36:07Z",
+      "updated_at": "2026-08-02T02:03:12Z",
+      "rank": 12
     },
     {
       "name": "OneInterface/stormy-cookbook",
@@ -309,7 +350,7 @@
       ],
       "created_at": "2026-07-27T00:57:50Z",
       "updated_at": "2026-07-30T16:44:54Z",
-      "rank": 12
+      "rank": 13
     },
     {
       "name": "hkc5/cursor-bridge",
@@ -334,39 +375,6 @@
       ],
       "created_at": "2026-07-26T21:10:47Z",
       "updated_at": "2026-07-31T02:22:30Z",
-      "rank": 13
-    },
-    {
-      "name": "simonlin1212/vibe-astock",
-      "url": "https://github.com/simonlin1212/vibe-astock",
-      "description": "A 股短线复盘看板：涨停池·连板梯队·龙虎榜·板块资金一屏看完，赚钱效应/晋级率/梯队断层/情绪周期等派生指标纯计算直出（不经过 AI），AI 只把数据串成能读的盘面研判。全本地运行，可用 Claude/Codex 订阅免 API key。| A-share short-term daily-review dashboard: derived sentiment metrics computed locally, AI only writes the narrative. No API key needed.",
-      "full_description": "A 股短线复盘看板：涨停池·连板梯队·龙虎榜·板块资金一屏看完，赚钱效应/晋级率/梯队断层/情绪周期等派生指标纯计算直出（不经过 AI），AI 只把数据串成能读的盘面研判。全本地运行，可用 Claude/Codex 订阅免 API key。| A-share short-term daily-review dashboard: derived sentiment metrics computed locally, AI only writes the narrative. No API key needed.",
-      "language": "Python",
-      "stars": 66,
-      "stars_gained": 0,
-      "forks": 20,
-      "topics": [
-        "a-share",
-        "ai-agent",
-        "akshare",
-        "china-stock-market",
-        "dashboard",
-        "fastapi",
-        "fintech",
-        "llm",
-        "market-sentiment",
-        "multi-agent",
-        "python",
-        "react",
-        "self-hosted",
-        "stock-market",
-        "technical-analysis",
-        "trading",
-        "trading-dashboard",
-        "typescript"
-      ],
-      "created_at": "2026-07-29T23:40:47Z",
-      "updated_at": "2026-08-01T03:42:47Z",
       "rank": 14
     },
     {
@@ -375,9 +383,9 @@
       "description": "Turn scattered notes, docs and transcripts into a queryable Markdown wiki — an LLM knowledge-base compiler with MCP access, no embeddings, self-hosted.",
       "full_description": "Turn scattered notes, docs and transcripts into a queryable Markdown wiki — an LLM knowledge-base compiler with MCP access, no embeddings, self-hosted.",
       "language": "Python",
-      "stars": 61,
+      "stars": 69,
       "stars_gained": 0,
-      "forks": 8,
+      "forks": 9,
       "topics": [
         "ai-agents",
         "claude-code",
@@ -400,53 +408,32 @@
         "wiki"
       ],
       "created_at": "2026-07-29T13:01:22Z",
-      "updated_at": "2026-08-01T03:52:34Z",
+      "updated_at": "2026-08-01T23:36:55Z",
       "rank": 15
     },
     {
-      "name": "HezaoHezao/poirot",
-      "url": "https://github.com/HezaoHezao/poirot",
-      "description": "Poirot is a deep research agent kernel built for those who care about how agents are architected. ",
-      "full_description": "Poirot is a deep research agent kernel built for those who care about how agents are architected. ",
-      "language": "Python",
-      "stars": 59,
+      "name": "EthanZer0/FaceLogin",
+      "url": "https://github.com/EthanZer0/FaceLogin",
+      "description": "基于 Windows Credential Provider 框架的摄像头人脸识别登录系统。让不支持Windows Hello的的电脑也能够体验“人脸登录”无需额外操作，看一眼即可解锁你的电脑 — 支持本地账户与微软在线账户，内置眨眼与静默反欺诈双重活体检测。",
+      "full_description": "基于 Windows Credential Provider 框架的摄像头人脸识别登录系统。让不支持Windows Hello的的电脑也能够体验“人脸登录”无需额外操作，看一眼即可解锁你的电脑 — 支持本地账户与微软在线账户，内置眨眼与静默反欺诈双重活体检测。",
+      "language": "C++",
+      "stars": 62,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 0,
       "topics": [
-        "agent",
-        "agent-memory",
-        "agent-skill",
-        "agent-skills",
-        "agentic-ai",
-        "agents",
-        "ai-agent",
-        "ai-agents",
-        "ai-coding",
-        "memory",
-        "memory-system",
-        "multi-agent"
+        "computer-vision",
+        "cplusplus",
+        "credential-provider",
+        "face-recognition",
+        "facelogin",
+        "icredentialprovidercredential",
+        "windows",
+        "windows-login",
+        "windowshello"
       ],
-      "created_at": "2026-07-28T17:36:07Z",
-      "updated_at": "2026-08-01T03:15:59Z",
+      "created_at": "2026-07-31T02:10:19Z",
+      "updated_at": "2026-08-02T02:58:38Z",
       "rank": 16
-    },
-    {
-      "name": "Shpigford/nurb",
-      "url": "https://github.com/Shpigford/nurb",
-      "description": "Agentic CAD for 3D printing",
-      "full_description": "Agentic CAD for 3D printing",
-      "language": "Python",
-      "stars": 57,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "3d-printing",
-        "ai",
-        "cad"
-      ],
-      "created_at": "2026-07-25T19:12:10Z",
-      "updated_at": "2026-08-01T02:12:38Z",
-      "rank": 17
     },
     {
       "name": "danielroe/empathy",
@@ -454,17 +441,67 @@
       "description": "A skill that helps AI agents talk to humans.",
       "full_description": "A skill that helps AI agents talk to humans.",
       "language": "Shell",
-      "stars": 50,
+      "stars": 57,
       "stars_gained": 0,
-      "forks": 0,
+      "forks": 1,
       "topics": [
         "agent",
         "kindness",
         "skill"
       ],
       "created_at": "2026-07-30T14:49:26Z",
-      "updated_at": "2026-08-01T00:49:31Z",
+      "updated_at": "2026-08-01T18:21:02Z",
+      "rank": 17
+    },
+    {
+      "name": "juxhinr/bindwidth",
+      "url": "https://github.com/juxhinr/bindwidth",
+      "description": "Evidence-aware on-prem LLM inference sizing and TCO calculator",
+      "full_description": "Evidence-aware on-prem LLM inference sizing and TCO calculator",
+      "language": "JavaScript",
+      "stars": 56,
+      "stars_gained": 0,
+      "forks": 1,
+      "topics": [
+        "ai",
+        "calculator",
+        "inference",
+        "javascript",
+        "llm",
+        "on-prem",
+        "sizing",
+        "tco"
+      ],
+      "created_at": "2026-08-01T12:50:09Z",
+      "updated_at": "2026-08-02T01:43:05Z",
       "rank": 18
+    },
+    {
+      "name": "ilindaniel/impeccable-lite",
+      "url": "https://github.com/ilindaniel/impeccable-lite",
+      "description": "Stop agents from designing sloppy UI. Inspired by Impeccable, but without the plugin machinery. Just one SKILL.md file.",
+      "full_description": "Stop agents from designing sloppy UI. Inspired by Impeccable, but without the plugin machinery. Just one SKILL.md file.",
+      "language": "",
+      "stars": 51,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "codex",
+        "cursor-rules",
+        "developer-tools",
+        "kiss",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "created_at": "2026-08-01T13:21:45Z",
+      "updated_at": "2026-08-02T03:43:58Z",
+      "rank": 19
     },
     {
       "name": "Vladimir-Human/ru-marketplace-mcp",
@@ -472,7 +509,7 @@
       "description": "Девять российских маркетплейсов и китайский Taobao как MCP-серверы: Wildberries, Ozon, Яндекс Маркет, Детский мир, Авито, Мегамаркет, Lamoda, DNS, Ситилинк. Плюс сравнение цен по всем сразу. Только чтение, ключи не нужны.",
       "full_description": "Девять российских маркетплейсов и китайский Taobao как MCP-серверы: Wildberries, Ozon, Яндекс Маркет, Детский мир, Авито, Мегамаркет, Lamoda, DNS, Ситилинк. Плюс сравнение цен по всем сразу. Только чтение, ключи не нужны.",
       "language": "Python",
-      "stars": 47,
+      "stars": 50,
       "stars_gained": 0,
       "forks": 6,
       "topics": [
@@ -498,31 +535,7 @@
         "yandex-market"
       ],
       "created_at": "2026-07-26T17:56:16Z",
-      "updated_at": "2026-07-31T21:31:18Z",
-      "rank": 19
-    },
-    {
-      "name": "EthanZer0/FaceLogin",
-      "url": "https://github.com/EthanZer0/FaceLogin",
-      "description": "基于 Windows Credential Provider 框架的摄像头人脸识别登录系统。无需额外操作，看一眼即可解锁你的电脑 — 支持本地账户与微软在线账户，内置眨眼与静默反欺诈双重活体检测。",
-      "full_description": "基于 Windows Credential Provider 框架的摄像头人脸识别登录系统。无需额外操作，看一眼即可解锁你的电脑 — 支持本地账户与微软在线账户，内置眨眼与静默反欺诈双重活体检测。",
-      "language": "C++",
-      "stars": 35,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "computer-vision",
-        "cplusplus",
-        "credential-provider",
-        "face-recognition",
-        "facelogin",
-        "icredentialprovidercredential",
-        "windows",
-        "windows-login",
-        "windowshello"
-      ],
-      "created_at": "2026-07-31T02:10:19Z",
-      "updated_at": "2026-08-01T03:48:45Z",
+      "updated_at": "2026-08-01T19:54:59Z",
       "rank": 20
     },
     {
@@ -531,7 +544,7 @@
       "description": "AI-powered Labour Law Violation Detection System using Weak Supervision, BiLSTM, Graph Neural Networks (GNN), and Explainable AI to identify labour law violations.",
       "full_description": "AI-powered Labour Law Violation Detection System using Weak Supervision, BiLSTM, Graph Neural Networks (GNN), and Explainable AI to identify labour law violations.",
       "language": "Python",
-      "stars": 35,
+      "stars": 37,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -547,8 +560,35 @@
         "pytorch"
       ],
       "created_at": "2026-07-31T03:48:42Z",
-      "updated_at": "2026-08-01T02:56:31Z",
+      "updated_at": "2026-08-01T12:38:33Z",
       "rank": 21
+    },
+    {
+      "name": "richardChenzhihui/OfficeBuddy",
+      "url": "https://github.com/richardChenzhihui/OfficeBuddy",
+      "description": "An agent that edits your Word and Excel files — then looks at them, through real Microsoft Office, to check its own work",
+      "full_description": "An agent that edits your Word and Excel files — then looks at them, through real Microsoft Office, to check its own work",
+      "language": "Python",
+      "stars": 35,
+      "stars_gained": 0,
+      "forks": 4,
+      "topics": [
+        "ai-agent",
+        "applescript",
+        "document-automation",
+        "docx",
+        "excel",
+        "llm",
+        "macos",
+        "multimodal",
+        "office-automation",
+        "python",
+        "word",
+        "xlsx"
+      ],
+      "created_at": "2026-07-29T17:04:07Z",
+      "updated_at": "2026-08-02T02:42:04Z",
+      "rank": 22
     },
     {
       "name": "yuwen-cool/ywcrew",
@@ -570,7 +610,7 @@
       ],
       "created_at": "2026-07-28T08:12:27Z",
       "updated_at": "2026-07-31T13:40:05Z",
-      "rank": 22
+      "rank": 23
     },
     {
       "name": "HaD0Yun/CozyClay",
@@ -578,7 +618,7 @@
       "description": "Direct Blender with an AI agent from your terminal.",
       "full_description": "Direct Blender with an AI agent from your terminal.",
       "language": "TypeScript",
-      "stars": 32,
+      "stars": 34,
       "stars_gained": 0,
       "forks": 3,
       "topics": [
@@ -591,8 +631,35 @@
         "typescript"
       ],
       "created_at": "2026-07-28T19:57:47Z",
-      "updated_at": "2026-07-31T13:41:40Z",
-      "rank": 23
+      "updated_at": "2026-08-01T22:02:51Z",
+      "rank": 24
+    },
+    {
+      "name": "ArisuLoveASMR/ArisuLoveASMR",
+      "url": "https://github.com/ArisuLoveASMR/ArisuLoveASMR",
+      "description": "Ноутбук для Гугл коллаба, в котором вы сможете к абсолютно любому медиа добавить субтитры и автоматически их первести на любой язык",
+      "full_description": "Ноутбук для Гугл коллаба, в котором вы сможете к абсолютно любому медиа добавить субтитры и автоматически их первести на любой язык",
+      "language": "Jupyter Notebook",
+      "stars": 31,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "anime",
+        "asmr",
+        "asmr-one",
+        "audio-processing",
+        "auto-translation",
+        "chinese-translation",
+        "deep-learning",
+        "japanese-translation",
+        "machine-translation",
+        "transformers",
+        "translation",
+        "video-processing"
+      ],
+      "created_at": "2026-07-31T22:45:44Z",
+      "updated_at": "2026-08-02T04:02:15Z",
+      "rank": 25
     },
     {
       "name": "lucidrains/robo_ttt",
@@ -611,80 +678,77 @@
       ],
       "created_at": "2026-07-27T21:43:26Z",
       "updated_at": "2026-07-31T14:42:08Z",
-      "rank": 24
-    },
-    {
-      "name": "parthmax2/ghostrun",
-      "url": "https://github.com/parthmax2/ghostrun",
-      "description": "pytest for LLM apps: record API calls once, replay them forever, and test meaning without flaky live runs.",
-      "full_description": "pytest for LLM apps: record API calls once, replay them forever, and test meaning without flaky live runs.",
-      "language": "Python",
-      "stars": 25,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "ai-evals",
-        "gena",
-        "ghostrun",
-        "llm",
-        "llm-evaluation",
-        "llm-testing",
-        "parthmax",
-        "pytest",
-        "python"
-      ],
-      "created_at": "2026-07-27T18:08:33Z",
-      "updated_at": "2026-07-31T05:36:48Z",
-      "rank": 25
-    },
-    {
-      "name": "richardChenzhihui/OfficeBuddy",
-      "url": "https://github.com/richardChenzhihui/OfficeBuddy",
-      "description": "An agent that edits your Word and Excel files — then looks at them, through real Microsoft Office, to check its own work",
-      "full_description": "An agent that edits your Word and Excel files — then looks at them, through real Microsoft Office, to check its own work",
-      "language": "Python",
-      "stars": 25,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "ai-agent",
-        "applescript",
-        "document-automation",
-        "docx",
-        "excel",
-        "llm",
-        "macos",
-        "multimodal",
-        "office-automation",
-        "python",
-        "word",
-        "xlsx"
-      ],
-      "created_at": "2026-07-29T17:04:07Z",
-      "updated_at": "2026-08-01T02:45:40Z",
       "rank": 26
     },
     {
-      "name": "YutongChenVictor/NPU-E2E",
-      "url": "https://github.com/YutongChenVictor/NPU-E2E",
-      "description": "End-to-End NPU: RTL systolic array → AXI4 SoC → TVM compiler → FPGA inference",
-      "full_description": "End-to-End NPU: RTL systolic array → AXI4 SoC → TVM compiler → FPGA inference",
-      "language": "Verilog",
-      "stars": 24,
+      "name": "CoordClaw/CoordClaw",
+      "url": "https://github.com/CoordClaw/CoordClaw",
+      "description": "CoordClaw: a multi-agent system that runs AI like a one-person company. Built on management & organizational theory — teams defined in natural language, collaboration driven by a message loop (not hard-coded DAGs). Auditable work logs, human god's-eye oversight.",
+      "full_description": "CoordClaw: a multi-agent system that runs AI like a one-person company. Built on management & organizational theory — teams defined in natural language, collaboration driven by a message loop (not hard-coded DAGs). Auditable work logs, human god's-eye oversight.",
+      "language": "TypeScript",
+      "stars": 29,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "agent-orchestration",
+        "ai-agents",
+        "ai-digital-society",
+        "ai-management",
+        "ai-team",
+        "autonomous-agents",
+        "collaboration",
+        "llm",
+        "management-science",
+        "multi-agent",
+        "openclaw",
+        "organization",
+        "prompt-engineering"
+      ],
+      "created_at": "2026-07-29T12:35:40Z",
+      "updated_at": "2026-08-02T02:04:24Z",
+      "rank": 27
+    },
+    {
+      "name": "AnXMuy/AgenticASR",
+      "url": "https://github.com/AnXMuy/AgenticASR",
+      "description": "Official Repo for \"AgenticASR: Refining Speech Recognition in Real-World Scenarios via an Agentic Approach\"",
+      "full_description": "Official Repo for \"AgenticASR: Refining Speech Recognition in Real-World Scenarios via an Agentic Approach\"",
+      "language": "Python",
+      "stars": 28,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
-        "axidma",
-        "deep-learning",
-        "fpga",
-        "npu",
-        "systolic-array",
-        "tvm",
-        "verilog"
+        "agentic-ai",
+        "asr",
+        "llm",
+        "llm-agents"
       ],
-      "created_at": "2026-07-29T08:05:13Z",
-      "updated_at": "2026-07-31T12:38:06Z",
-      "rank": 27
+      "created_at": "2026-07-30T12:53:08Z",
+      "updated_at": "2026-08-02T03:06:49Z",
+      "rank": 28
+    },
+    {
+      "name": "AhsanAyaz/ossclip",
+      "url": "https://github.com/AhsanAyaz/ossclip",
+      "description": "Local-first CLI video producer: cuts silence and fillers, word-timed captions, face-aware framing, and LLM-planned code-rendered graphics",
+      "full_description": "Local-first CLI video producer: cuts silence and fillers, word-timed captions, face-aware framing, and LLM-planned code-rendered graphics",
+      "language": "TypeScript",
+      "stars": 27,
+      "stars_gained": 0,
+      "forks": 2,
+      "topics": [
+        "captions",
+        "cli",
+        "llm",
+        "remotion",
+        "shorts",
+        "video",
+        "video-editing",
+        "whisper"
+      ],
+      "created_at": "2026-07-26T19:06:29Z",
+      "updated_at": "2026-08-01T21:15:17Z",
+      "rank": 29
     },
     {
       "name": "cookyman74/llmwiki-harness",
@@ -692,7 +756,7 @@
       "description": "",
       "full_description": "",
       "language": "Python",
-      "stars": 24,
+      "stars": 26,
       "stars_gained": 0,
       "forks": 6,
       "topics": [
@@ -710,60 +774,7 @@
         "wiki"
       ],
       "created_at": "2026-07-26T01:03:43Z",
-      "updated_at": "2026-08-01T03:10:08Z",
-      "rank": 28
-    },
-    {
-      "name": "langhost/langhost",
-      "url": "https://github.com/langhost/langhost",
-      "description": "Open-source, self-hosted LangGraph Agent Server. Production Postgres + Redis. Same SDK. Same Studio. Zero code changes.",
-      "full_description": "Open-source, self-hosted LangGraph Agent Server. Production Postgres + Redis. Same SDK. Same Studio. Zero code changes.",
-      "language": "Python",
-      "stars": 23,
-      "stars_gained": 0,
-      "forks": 1,
-      "topics": [
-        "agent-protocol",
-        "agent-server",
-        "ai-agents",
-        "langchain",
-        "langgraph",
-        "langgraph-api",
-        "langgraph-runtime",
-        "langgraph-runtime-inmem",
-        "langgraph-runtime-postgres",
-        "langsmith",
-        "langsmith-deployments",
-        "llm",
-        "open-source",
-        "postgres",
-        "python",
-        "redis",
-        "self-hosted"
-      ],
-      "created_at": "2026-07-25T16:59:47Z",
-      "updated_at": "2026-07-31T13:01:31Z",
-      "rank": 29
-    },
-    {
-      "name": "melocream/awesome-llm-study",
-      "url": "https://github.com/melocream/awesome-llm-study",
-      "description": "LLM/ML 스터디·지식공유 큐레이션 — 검증된 강의·논문·자료 링크 (by @melocream · marblo.app)",
-      "full_description": "LLM/ML 스터디·지식공유 큐레이션 — 검증된 강의·논문·자료 링크 (by @melocream · marblo.app)",
-      "language": "",
-      "stars": 22,
-      "stars_gained": 0,
-      "forks": 1,
-      "topics": [
-        "awesome-list",
-        "korean",
-        "llm",
-        "mcp",
-        "rag",
-        "study-resources"
-      ],
-      "created_at": "2026-07-26T03:46:32Z",
-      "updated_at": "2026-07-31T12:10:47Z",
+      "updated_at": "2026-08-02T01:21:54Z",
       "rank": 30
     }
   ]
