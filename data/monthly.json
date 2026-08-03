@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T04:03:02.367339+00:00",
+  "updated": "2026-08-03T04:05:20.602504+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook",
       "full_description": "Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook",
       "language": "Swift",
-      "stars": 3748,
+      "stars": 4235,
       "stars_gained": 0,
-      "forks": 182,
+      "forks": 207,
       "topics": [
         "apple-silicon",
         "gemma",
@@ -29,38 +29,8 @@
         "swift"
       ],
       "created_at": "2026-07-17T15:57:54Z",
-      "updated_at": "2026-08-02T04:01:53Z",
+      "updated_at": "2026-08-03T04:05:16Z",
       "rank": 1
-    },
-    {
-      "name": "synthetic-sciences/openscience",
-      "url": "https://github.com/synthetic-sciences/openscience",
-      "description": "The open-source AI workbench for scientific research",
-      "full_description": "The open-source AI workbench for scientific research",
-      "language": "TypeScript",
-      "stars": 3024,
-      "stars_gained": 0,
-      "forks": 416,
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agent",
-        "bun",
-        "cli",
-        "co-scientist",
-        "llm",
-        "ml",
-        "ml-engineering",
-        "open-source",
-        "research",
-        "research-tools",
-        "science",
-        "scientific-computing",
-        "typescript"
-      ],
-      "created_at": "2026-07-03T15:06:45Z",
-      "updated_at": "2026-08-01T23:55:32Z",
-      "rank": 2
     },
     {
       "name": "Sahir619/fable-method",
@@ -68,9 +38,9 @@
       "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
       "full_description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
       "language": "Python",
-      "stars": 2065,
+      "stars": 2094,
       "stars_gained": 0,
-      "forks": 305,
+      "forks": 307,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -83,18 +53,18 @@
         "llm"
       ],
       "created_at": "2026-07-06T22:35:18Z",
-      "updated_at": "2026-08-02T03:01:55Z",
-      "rank": 3
+      "updated_at": "2026-08-03T00:26:42Z",
+      "rank": 2
     },
     {
-      "name": "MIgHTy-alIeN/Ethereum-Trading-Bot",
-      "url": "https://github.com/MIgHTy-alIeN/Ethereum-Trading-Bot",
+      "name": "MIgHTy-alIeN/MEV-Ethereum-Trading-Bot",
+      "url": "https://github.com/MIgHTy-alIeN/MEV-Ethereum-Trading-Bot",
       "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
       "full_description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
       "language": "Solidity",
-      "stars": 1844,
+      "stars": 1931,
       "stars_gained": 0,
-      "forks": 1309,
+      "forks": 1371,
       "topics": [
         "ai",
         "aitradingbot",
@@ -107,7 +77,26 @@
         "mevbots"
       ],
       "created_at": "2026-07-17T09:45:22Z",
-      "updated_at": "2026-08-02T04:02:57Z",
+      "updated_at": "2026-08-03T04:05:17Z",
+      "rank": 3
+    },
+    {
+      "name": "AlephAITech/WorkBuddyGuide",
+      "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+      "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+      "full_description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+      "language": "Python",
+      "stars": 1862,
+      "stars_gained": 0,
+      "forks": 260,
+      "topics": [
+        "codex",
+        "guide",
+        "llm",
+        "workbuddy"
+      ],
+      "created_at": "2026-07-10T04:13:51Z",
+      "updated_at": "2026-08-03T03:50:57Z",
       "rank": 4
     },
     {
@@ -116,7 +105,7 @@
       "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
       "full_description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
       "language": "JavaScript",
-      "stars": 1844,
+      "stars": 1855,
       "stars_gained": 0,
       "forks": 213,
       "topics": [
@@ -130,26 +119,27 @@
         "visual-thinking"
       ],
       "created_at": "2026-07-14T14:45:23Z",
-      "updated_at": "2026-08-02T02:56:36Z",
+      "updated_at": "2026-08-03T00:59:41Z",
       "rank": 5
     },
     {
-      "name": "AlephAITech/WorkBuddyGuide",
-      "url": "https://github.com/AlephAITech/WorkBuddyGuide",
-      "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-      "full_description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-      "language": "Python",
-      "stars": 1823,
+      "name": "QwenAudio/qwen-audio-agent",
+      "url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "full_description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "language": "JavaScript",
+      "stars": 1751,
       "stars_gained": 0,
-      "forks": 254,
+      "forks": 110,
       "topics": [
-        "codex",
-        "guide",
-        "llm",
-        "workbuddy"
+        "agent",
+        "agentic-ai",
+        "voice-agent",
+        "voice-ai",
+        "voice-chat"
       ],
-      "created_at": "2026-07-10T04:13:51Z",
-      "updated_at": "2026-08-02T03:49:43Z",
+      "created_at": "2026-07-27T05:04:26Z",
+      "updated_at": "2026-08-03T04:05:15Z",
       "rank": 6
     },
     {
@@ -158,9 +148,9 @@
       "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "full_description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "language": "TypeScript",
-      "stars": 1448,
+      "stars": 1742,
       "stars_gained": 0,
-      "forks": 310,
+      "forks": 343,
       "topics": [
         "a-stock",
         "ai-agent",
@@ -178,28 +168,8 @@
         "us-stocks"
       ],
       "created_at": "2026-07-05T06:30:55Z",
-      "updated_at": "2026-08-02T04:01:35Z",
+      "updated_at": "2026-08-03T03:47:32Z",
       "rank": 7
-    },
-    {
-      "name": "QwenAudio/qwen-audio-agent",
-      "url": "https://github.com/QwenAudio/qwen-audio-agent",
-      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "full_description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "language": "JavaScript",
-      "stars": 1383,
-      "stars_gained": 0,
-      "forks": 90,
-      "topics": [
-        "agent",
-        "agentic-ai",
-        "voice-agent",
-        "voice-ai",
-        "voice-chat"
-      ],
-      "created_at": "2026-07-27T05:04:26Z",
-      "updated_at": "2026-08-02T04:02:12Z",
-      "rank": 8
     },
     {
       "name": "makecindy/cindy",
@@ -207,9 +177,9 @@
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "full_description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
-      "stars": 1374,
+      "stars": 1499,
       "stars_gained": 0,
-      "forks": 174,
+      "forks": 182,
       "topics": [
         "agent",
         "ai-agent",
@@ -226,43 +196,8 @@
         "windows"
       ],
       "created_at": "2026-07-22T17:49:34Z",
-      "updated_at": "2026-08-02T03:54:26Z",
-      "rank": 9
-    },
-    {
-      "name": "aipoch/open-science",
-      "url": "https://github.com/aipoch/open-science",
-      "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
-      "full_description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
-      "language": "TypeScript",
-      "stars": 1357,
-      "stars_gained": 0,
-      "forks": 87,
-      "topics": [
-        "ai-agent",
-        "ai-for-science",
-        "bioinformatics",
-        "biology",
-        "data-analysis",
-        "desktop-app",
-        "electron",
-        "llm",
-        "local-first",
-        "macos",
-        "mcp",
-        "medical-research",
-        "model-agnostic",
-        "open-science",
-        "python",
-        "reproducible-research",
-        "research-tools",
-        "scientific-research",
-        "typescript",
-        "windows"
-      ],
-      "created_at": "2026-07-03T02:50:10Z",
-      "updated_at": "2026-08-02T03:33:41Z",
-      "rank": 10
+      "updated_at": "2026-08-03T04:04:59Z",
+      "rank": 8
     },
     {
       "name": "Intuition-Lab/personal-model",
@@ -270,7 +205,7 @@
       "description": "Build your HUMAN.md.",
       "full_description": "Build your HUMAN.md.",
       "language": "Python",
-      "stars": 1295,
+      "stars": 1310,
       "stars_gained": 0,
       "forks": 100,
       "topics": [
@@ -284,8 +219,8 @@
         "python"
       ],
       "created_at": "2026-07-10T16:10:25Z",
-      "updated_at": "2026-08-02T03:10:06Z",
-      "rank": 11
+      "updated_at": "2026-08-02T21:58:48Z",
+      "rank": 9
     },
     {
       "name": "icebird1998/drawio-scientific-illustrator",
@@ -293,7 +228,7 @@
       "description": "Live MCP control of the visible draw.io canvas for step-by-step scientific illustration in Codex.",
       "full_description": "Live MCP control of the visible draw.io canvas for step-by-step scientific illustration in Codex.",
       "language": "JavaScript",
-      "stars": 1233,
+      "stars": 1245,
       "stars_gained": 0,
       "forks": 87,
       "topics": [
@@ -305,43 +240,8 @@
         "scientific-illustration"
       ],
       "created_at": "2026-07-12T12:02:27Z",
-      "updated_at": "2026-08-02T03:35:06Z",
-      "rank": 12
-    },
-    {
-      "name": "ai4s-research/open-science",
-      "url": "https://github.com/ai4s-research/open-science",
-      "description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
-      "full_description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
-      "language": "TypeScript",
-      "stars": 1060,
-      "stars_gained": 0,
-      "forks": 117,
-      "topics": [
-        "ai-agent",
-        "ai-for-science",
-        "ai-scientist",
-        "ai4s",
-        "claude-science",
-        "claude-science-alternative",
-        "claude-science-desktop-alternative",
-        "desktop-app",
-        "linux",
-        "local-first",
-        "macos",
-        "mcp",
-        "open-science",
-        "open-science-desktop",
-        "reproducible-research",
-        "research-tools",
-        "research-workbench",
-        "scientific-research",
-        "tauri",
-        "windows"
-      ],
-      "created_at": "2026-07-03T09:22:31Z",
-      "updated_at": "2026-08-02T00:07:02Z",
-      "rank": 13
+      "updated_at": "2026-08-03T03:19:49Z",
+      "rank": 10
     },
     {
       "name": "SmileLikeYe/agent-chief",
@@ -360,7 +260,7 @@
       ],
       "created_at": "2026-07-04T15:28:56Z",
       "updated_at": "2026-07-29T11:48:25Z",
-      "rank": 14
+      "rank": 11
     },
     {
       "name": "Alisa0808/vox-director",
@@ -368,9 +268,9 @@
       "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
       "full_description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
       "language": "Python",
-      "stars": 923,
+      "stars": 978,
       "stars_gained": 0,
-      "forks": 135,
+      "forks": 141,
       "topics": [
         "ai",
         "ai-video",
@@ -390,8 +290,31 @@
         "vox"
       ],
       "created_at": "2026-07-10T15:32:05Z",
-      "updated_at": "2026-08-02T03:59:01Z",
-      "rank": 15
+      "updated_at": "2026-08-03T04:01:07Z",
+      "rank": 12
+    },
+    {
+      "name": "Kritt-ai/open-kritt",
+      "url": "https://github.com/Kritt-ai/open-kritt",
+      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "full_description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "language": "JavaScript",
+      "stars": 945,
+      "stars_gained": 0,
+      "forks": 183,
+      "topics": [
+        "agent",
+        "agents",
+        "ai",
+        "bug-bounty",
+        "bugbounty",
+        "bugbounty-tools",
+        "security",
+        "security-research"
+      ],
+      "created_at": "2026-07-20T20:26:24Z",
+      "updated_at": "2026-08-03T03:59:29Z",
+      "rank": 13
     },
     {
       "name": "op7418/guizang-material-illustration",
@@ -399,9 +322,9 @@
       "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
       "full_description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
       "language": "",
-      "stars": 901,
+      "stars": 910,
       "stars_gained": 0,
-      "forks": 95,
+      "forks": 97,
       "topics": [
         "agent",
         "chart-visualization",
@@ -417,8 +340,8 @@
         "social-media"
       ],
       "created_at": "2026-07-07T13:57:13Z",
-      "updated_at": "2026-08-02T02:26:03Z",
-      "rank": 16
+      "updated_at": "2026-08-03T03:22:31Z",
+      "rank": 14
     },
     {
       "name": "William-Lu-stack/Flawless",
@@ -445,7 +368,34 @@
       ],
       "created_at": "2026-07-10T05:57:02Z",
       "updated_at": "2026-07-31T20:39:27Z",
-      "rank": 17
+      "rank": 15
+    },
+    {
+      "name": "ShenSeanChen/waku-agent",
+      "url": "https://github.com/ShenSeanChen/waku-agent",
+      "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval",
+      "full_description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval",
+      "language": "Python",
+      "stars": 787,
+      "stars_gained": 0,
+      "forks": 153,
+      "topics": [
+        "agent-framework",
+        "ai-agent",
+        "ai-assistant",
+        "claude",
+        "evals",
+        "llm",
+        "llmops",
+        "local-first",
+        "openai",
+        "personal-assistant",
+        "python",
+        "sqlite"
+      ],
+      "created_at": "2026-07-10T12:20:50Z",
+      "updated_at": "2026-08-03T03:07:54Z",
+      "rank": 16
     },
     {
       "name": "0xsline/OpenChatCut",
@@ -453,9 +403,9 @@
       "description": "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering.",
       "full_description": "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering.",
       "language": "TypeScript",
-      "stars": 746,
+      "stars": 766,
       "stars_gained": 0,
-      "forks": 91,
+      "forks": 94,
       "topics": [
         "agent-skills",
         "agentic-ai",
@@ -479,8 +429,8 @@
         "video-editor"
       ],
       "created_at": "2026-07-15T02:49:42Z",
-      "updated_at": "2026-08-02T03:35:28Z",
-      "rank": 18
+      "updated_at": "2026-08-03T03:23:22Z",
+      "rank": 17
     },
     {
       "name": "nexu-io/codex-slides",
@@ -488,9 +438,9 @@
       "description": "🎨 Open-source AI slide studio inside Codex: image-native decks, every slide a full visual canvas. ⚡ 10+ high-quality slides in ~4–5 minutes — Fast mode renders every page in parallel. 🔍 Watch the whole chain live: research → outline → style → render → edit → present → export PDF/PPTX. 🖥️ Browser-first · zero API keys · durable projects.",
       "full_description": "🎨 Open-source AI slide studio inside Codex: image-native decks, every slide a full visual canvas. ⚡ 10+ high-quality slides in ~4–5 minutes — Fast mode renders every page in parallel. 🔍 Watch the whole chain live: research → outline → style → render → edit → present → export PDF/PPTX. 🖥️ Browser-first · zero API keys · durable projects.",
       "language": "TypeScript",
-      "stars": 739,
+      "stars": 744,
       "stars_gained": 0,
-      "forks": 60,
+      "forks": 61,
       "topics": [
         "agent-skills",
         "ai-ppt",
@@ -514,56 +464,8 @@
         "typescript"
       ],
       "created_at": "2026-07-10T10:14:34Z",
-      "updated_at": "2026-08-01T23:49:46Z",
-      "rank": 19
-    },
-    {
-      "name": "ShenSeanChen/waku-agent",
-      "url": "https://github.com/ShenSeanChen/waku-agent",
-      "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval",
-      "full_description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval",
-      "language": "Python",
-      "stars": 738,
-      "stars_gained": 0,
-      "forks": 139,
-      "topics": [
-        "agent-framework",
-        "ai-agent",
-        "ai-assistant",
-        "claude",
-        "evals",
-        "llm",
-        "llmops",
-        "local-first",
-        "openai",
-        "personal-assistant",
-        "python",
-        "sqlite"
-      ],
-      "created_at": "2026-07-10T12:20:50Z",
-      "updated_at": "2026-08-02T03:47:19Z",
-      "rank": 20
-    },
-    {
-      "name": "hahhforest/pi-textbook",
-      "url": "https://github.com/hahhforest/pi-textbook",
-      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "full_description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "language": "TypeScript",
-      "stars": 706,
-      "stars_gained": 0,
-      "forks": 46,
-      "topics": [
-        "agent-engineering",
-        "ai-agent",
-        "chinese",
-        "llm",
-        "textbook",
-        "typescript"
-      ],
-      "created_at": "2026-07-21T04:17:35Z",
-      "updated_at": "2026-08-02T02:53:16Z",
-      "rank": 21
+      "updated_at": "2026-08-03T02:44:13Z",
+      "rank": 18
     },
     {
       "name": "Optim-Agent/optim-agent",
@@ -571,9 +473,9 @@
       "description": "LLM agents as your hyperparameter optimizer.",
       "full_description": "LLM agents as your hyperparameter optimizer.",
       "language": "Python",
-      "stars": 693,
+      "stars": 725,
       "stars_gained": 0,
-      "forks": 32,
+      "forks": 35,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -587,40 +489,39 @@
         "skill"
       ],
       "created_at": "2026-07-07T17:05:54Z",
-      "updated_at": "2026-08-02T03:56:28Z",
-      "rank": 22
+      "updated_at": "2026-08-03T03:57:40Z",
+      "rank": 19
     },
     {
-      "name": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "full_description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "language": "Python",
-      "stars": 616,
+      "name": "hahhforest/pi-textbook",
+      "url": "https://github.com/hahhforest/pi-textbook",
+      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "full_description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "language": "TypeScript",
+      "stars": 714,
       "stars_gained": 0,
-      "forks": 86,
+      "forks": 46,
       "topics": [
-        "agent",
-        "agentic-ai",
-        "ai",
+        "agent-engineering",
         "ai-agent",
-        "ai-agents",
-        "local-first",
-        "long-term-memory"
+        "chinese",
+        "llm",
+        "textbook",
+        "typescript"
       ],
-      "created_at": "2026-07-08T12:54:20Z",
-      "updated_at": "2026-08-02T03:48:18Z",
-      "rank": 23
+      "created_at": "2026-07-21T04:17:35Z",
+      "updated_at": "2026-08-03T02:45:53Z",
+      "rank": 20
     },
     {
       "name": "bytedoger/awesome-OpenPrice",
       "url": "https://github.com/bytedoger/awesome-OpenPrice",
-      "description": "open price ,一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格，方便比价",
-      "full_description": "open price ,一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格，方便比价",
+      "description": "开源的 AI 订阅价格聚合与比价平台，收录 ChatGPT、Claude、Gemini、Grok、Cursor 等产品的官方订阅价格和卡网渠道报价，帮助用户快速查询并比较不同购买渠道。",
+      "full_description": "开源的 AI 订阅价格聚合与比价平台，收录 ChatGPT、Claude、Gemini、Grok、Cursor 等产品的官方订阅价格和卡网渠道报价，帮助用户快速查询并比较不同购买渠道。",
       "language": "TypeScript",
-      "stars": 592,
+      "stars": 646,
       "stars_gained": 0,
-      "forks": 26,
+      "forks": 27,
       "topics": [
         "ai",
         "ai-subscription",
@@ -635,8 +536,30 @@
         "sd2"
       ],
       "created_at": "2026-07-16T06:28:46Z",
-      "updated_at": "2026-08-01T16:19:50Z",
-      "rank": 24
+      "updated_at": "2026-08-03T03:37:33Z",
+      "rank": 21
+    },
+    {
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "full_description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "stars": 637,
+      "stars_gained": 0,
+      "forks": 90,
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "local-first",
+        "long-term-memory"
+      ],
+      "created_at": "2026-07-08T12:54:20Z",
+      "updated_at": "2026-08-03T02:44:40Z",
+      "rank": 22
     },
     {
       "name": "ronak-create/FableCut",
@@ -644,7 +567,7 @@
       "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
       "full_description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
       "language": "JavaScript",
-      "stars": 568,
+      "stars": 569,
       "stars_gained": 0,
       "forks": 56,
       "topics": [
@@ -662,8 +585,8 @@
         "zero-dependency"
       ],
       "created_at": "2026-07-06T16:18:57Z",
-      "updated_at": "2026-08-02T03:56:41Z",
-      "rank": 25
+      "updated_at": "2026-08-02T08:41:10Z",
+      "rank": 23
     },
     {
       "name": "0xwilliamortiz/openclaude-improved",
@@ -671,9 +594,9 @@
       "description": "runs anywhere. uses anything",
       "full_description": "runs anywhere. uses anything",
       "language": "TypeScript",
-      "stars": 566,
+      "stars": 567,
       "stars_gained": 0,
-      "forks": 80,
+      "forks": 81,
       "topics": [
         "agentic-ai",
         "ai",
@@ -696,8 +619,8 @@
         "openrouter"
       ],
       "created_at": "2026-07-26T21:58:28Z",
-      "updated_at": "2026-08-01T23:43:23Z",
-      "rank": 26
+      "updated_at": "2026-08-02T18:12:38Z",
+      "rank": 24
     },
     {
       "name": "mikehasa/agentacct",
@@ -730,8 +653,8 @@
         "token-usage"
       ],
       "created_at": "2026-07-24T16:28:06Z",
-      "updated_at": "2026-08-02T02:11:00Z",
-      "rank": 27
+      "updated_at": "2026-08-02T17:24:50Z",
+      "rank": 25
     },
     {
       "name": "bkingfilm/lapian-notes",
@@ -739,7 +662,7 @@
       "description": "AI 辅助的电影拉片工具：AI 拆出剧情泳道时间轴、结构树、情绪曲线，边播边写拉片笔记，免费开源全本地 | AI-assisted film breakdown notebook: story-lane timeline, structure tree, emotion curve. Free, open source, fully local.",
       "full_description": "AI 辅助的电影拉片工具：AI 拆出剧情泳道时间轴、结构树、情绪曲线，边播边写拉片笔记，免费开源全本地 | AI-assisted film breakdown notebook: story-lane timeline, structure tree, emotion curve. Free, open source, fully local.",
       "language": "TypeScript",
-      "stars": 532,
+      "stars": 536,
       "stars_gained": 0,
       "forks": 64,
       "topics": [
@@ -751,36 +674,8 @@
         "vite"
       ],
       "created_at": "2026-07-08T06:06:31Z",
-      "updated_at": "2026-08-02T02:48:26Z",
-      "rank": 28
-    },
-    {
-      "name": "vshulcz/deja-vu",
-      "url": "https://github.com/vshulcz/deja-vu",
-      "description": "Your agents already solved this. deja finds it — it indexes the sessions your coding agents already wrote to disk, months of history from before you installed it, and recalls them automatically at session start across seventeen harnesses. 84.9% hit@1 on LongMemEval-S, no LLM, no embeddings. One zero-dep binary, fully local.",
-      "full_description": "Your agents already solved this. deja finds it — it indexes the sessions your coding agents already wrote to disk, months of history from before you installed it, and recalls them automatically at session start across seventeen harnesses. 84.9% hit@1 on LongMemEval-S, no LLM, no embeddings. One zero-dep binary, fully local.",
-      "language": "Go",
-      "stars": 506,
-      "stars_gained": 0,
-      "forks": 35,
-      "topics": [
-        "agent-memory",
-        "ai-memory",
-        "claude",
-        "claude-code",
-        "cli",
-        "codex",
-        "coding-agents",
-        "developer-tools",
-        "golang",
-        "mcp",
-        "mcp-server",
-        "opencode",
-        "session-search"
-      ],
-      "created_at": "2026-07-14T07:45:44Z",
-      "updated_at": "2026-08-02T02:12:18Z",
-      "rank": 29
+      "updated_at": "2026-08-03T04:02:43Z",
+      "rank": 26
     },
     {
       "name": "MemTensor/memmy-agent",
@@ -788,9 +683,9 @@
       "description": "🍙 A personal AI agent & local memory hub for all AI agents like Claude Code, Codex, OpenClaw and Hermes Agent. Gives every AI one shared, fully controlled memory  and persistent context — all AI remember the same you.",
       "full_description": "🍙 A personal AI agent & local memory hub for all AI agents like Claude Code, Codex, OpenClaw and Hermes Agent. Gives every AI one shared, fully controlled memory  and persistent context — all AI remember the same you.",
       "language": "TypeScript",
-      "stars": 500,
+      "stars": 526,
       "stars_gained": 0,
-      "forks": 49,
+      "forks": 53,
       "topics": [
         "agent",
         "agentic-ai",
@@ -814,7 +709,96 @@
         "tui"
       ],
       "created_at": "2026-07-16T07:57:45Z",
-      "updated_at": "2026-08-02T03:41:45Z",
+      "updated_at": "2026-08-03T00:25:15Z",
+      "rank": 27
+    },
+    {
+      "name": "vshulcz/deja-vu",
+      "url": "https://github.com/vshulcz/deja-vu",
+      "description": "Your agents already solved this. deja finds it — it indexes the sessions your coding agents already wrote to disk, months of history from before you installed it, and recalls them automatically at session start across seventeen harnesses. 84.9% hit@1 on LongMemEval-S, no LLM, no embeddings. One zero-dep binary, fully local.",
+      "full_description": "Your agents already solved this. deja finds it — it indexes the sessions your coding agents already wrote to disk, months of history from before you installed it, and recalls them automatically at session start across seventeen harnesses. 84.9% hit@1 on LongMemEval-S, no LLM, no embeddings. One zero-dep binary, fully local.",
+      "language": "Go",
+      "stars": 506,
+      "stars_gained": 0,
+      "forks": 36,
+      "topics": [
+        "agent-memory",
+        "ai-memory",
+        "claude",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agents",
+        "developer-tools",
+        "golang",
+        "mcp",
+        "mcp-server",
+        "opencode",
+        "session-search"
+      ],
+      "created_at": "2026-07-14T07:45:44Z",
+      "updated_at": "2026-08-02T02:12:18Z",
+      "rank": 28
+    },
+    {
+      "name": "Tura-AI/tura",
+      "url": "https://github.com/Tura-AI/tura",
+      "description": "Across 348 long-horizon benchmark sessions, Tura used up to 83.1% fewer turns on the rewrite benchmark and improved the DeepSWE pass rate by up to 16.7 percentage points compared with Codex CLI.",
+      "full_description": "Across 348 long-horizon benchmark sessions, Tura used up to 83.1% fewer turns on the rewrite benchmark and improved the DeepSWE pass rate by up to 16.7 percentage points compared with Codex CLI.",
+      "language": "Rust",
+      "stars": 499,
+      "stars_gained": 0,
+      "forks": 26,
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "coding-agent",
+        "context-engineering",
+        "developer-tools",
+        "developer-tools-ai-agent",
+        "harness-engineering",
+        "llm",
+        "terminal-based",
+        "token-optimization",
+        "token-usage"
+      ],
+      "created_at": "2026-07-06T13:58:44Z",
+      "updated_at": "2026-08-02T19:02:08Z",
+      "rank": 29
+    },
+    {
+      "name": "arcships/light-ocr",
+      "url": "https://github.com/arcships/light-ocr",
+      "description": "Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr",
+      "full_description": "Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr",
+      "language": "C++",
+      "stars": 458,
+      "stars_gained": 0,
+      "forks": 40,
+      "topics": [
+        "apple-silicon",
+        "computer-vision",
+        "coreml",
+        "cpp17",
+        "d3d12",
+        "image-processing",
+        "machine-learning",
+        "napi",
+        "native-addon",
+        "nodejs",
+        "nvidia",
+        "ocr",
+        "ocr-recognition",
+        "offline-ocr",
+        "paddleocr",
+        "ppocr",
+        "text-recognition",
+        "typescript",
+        "vulkan",
+        "webgpu"
+      ],
+      "created_at": "2026-07-14T01:32:23Z",
+      "updated_at": "2026-08-01T14:08:05Z",
       "rank": 30
     }
   ]
