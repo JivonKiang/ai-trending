@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T03:48:17.743672+00:00",
+  "updated": "2026-08-07T03:26:14.337634+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "full_description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
-      "stars": 2608,
+      "stars": 2884,
       "stars_gained": 0,
-      "forks": 431,
+      "forks": 479,
       "topics": [
         "avx2",
         "c99",
@@ -36,7 +36,7 @@
         "zero-dependencies"
       ],
       "created_at": "2026-08-01T09:29:38Z",
-      "updated_at": "2026-08-06T03:43:44Z",
+      "updated_at": "2026-08-07T03:26:07Z",
       "rank": 1
     },
     {
@@ -45,9 +45,9 @@
       "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
       "full_description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
       "language": "TypeScript",
-      "stars": 1830,
+      "stars": 2064,
       "stars_gained": 0,
-      "forks": 292,
+      "forks": 343,
       "topics": [
         "ai",
         "docx",
@@ -58,7 +58,7 @@
         "xlsx"
       ],
       "created_at": "2026-07-31T09:40:58Z",
-      "updated_at": "2026-08-06T03:46:23Z",
+      "updated_at": "2026-08-07T03:23:33Z",
       "rank": 2
     },
     {
@@ -67,7 +67,7 @@
       "description": "Your agent reads the rules. This checks whether it followed them.",
       "full_description": "Your agent reads the rules. This checks whether it followed them.",
       "language": "JavaScript",
-      "stars": 432,
+      "stars": 436,
       "stars_gained": 0,
       "forks": 85,
       "topics": [
@@ -85,62 +85,8 @@
         "yagni"
       ],
       "created_at": "2026-07-31T17:54:30Z",
-      "updated_at": "2026-08-06T01:06:05Z",
+      "updated_at": "2026-08-06T22:42:49Z",
       "rank": 3
-    },
-    {
-      "name": "patchy631/time-to-first-token",
-      "url": "https://github.com/patchy631/time-to-first-token",
-      "description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
-      "full_description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
-      "language": "HTML",
-      "stars": 331,
-      "stars_gained": 0,
-      "forks": 29,
-      "topics": [
-        "learning-resources",
-        "llm",
-        "llm-inference",
-        "mlops",
-        "roadmap",
-        "sglang",
-        "vllm"
-      ],
-      "created_at": "2026-08-02T13:02:26Z",
-      "updated_at": "2026-08-05T23:59:16Z",
-      "rank": 4
-    },
-    {
-      "name": "Anionex/agent-vision-toolkit",
-      "url": "https://github.com/Anionex/agent-vision-toolkit",
-      "description": "给纯文本 LLM agent 装上眼睛：图片问答、OCR、截图分析、视觉定位等一套视觉工具箱 + skill，并可无缝接入 Codex、Claude Code、OpenCode、Pi ｜ Give text-only LLM agents vision: image Q&A, OCR, screenshot understanding, visual grounding, image-to-SVG - a vision toolkit & skill, with drop-in integration for Codex, Claude Code, OpenCode, Pi",
-      "full_description": "给纯文本 LLM agent 装上眼睛：图片问答、OCR、截图分析、视觉定位等一套视觉工具箱 + skill，并可无缝接入 Codex、Claude Code、OpenCode、Pi ｜ Give text-only LLM agents vision: image Q&A, OCR, screenshot understanding, visual grounding, image-to-SVG - a vision toolkit & skill, with drop-in integration for Codex, Claude Code, OpenCode, Pi",
-      "language": "Python",
-      "stars": 306,
-      "stars_gained": 0,
-      "forks": 14,
-      "topics": [
-        "agent",
-        "agent-skills",
-        "claude-code",
-        "cli",
-        "codex",
-        "computer-use",
-        "deepseek",
-        "deepseek-v4",
-        "glm",
-        "harness-engineering",
-        "kimi",
-        "llm",
-        "multimodal",
-        "ocr",
-        "opencode",
-        "vision",
-        "vision-language-model"
-      ],
-      "created_at": "2026-08-01T10:00:13Z",
-      "updated_at": "2026-08-06T02:59:21Z",
-      "rank": 5
     },
     {
       "name": "AMAP-ML/LongHorizon-Harness",
@@ -148,9 +94,9 @@
       "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
       "full_description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
       "language": "Python",
-      "stars": 289,
+      "stars": 348,
       "stars_gained": 0,
-      "forks": 32,
+      "forks": 39,
       "topics": [
         "agent",
         "claude",
@@ -170,31 +116,60 @@
         "loop-engineering"
       ],
       "created_at": "2026-08-04T04:30:58Z",
-      "updated_at": "2026-08-06T03:06:50Z",
-      "rank": 6
+      "updated_at": "2026-08-07T03:13:43Z",
+      "rank": 4
     },
     {
-      "name": "cristicretu/diri",
-      "url": "https://github.com/cristicretu/diri",
-      "description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
-      "full_description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
-      "language": "Rust",
-      "stars": 206,
+      "name": "patchy631/time-to-first-token",
+      "url": "https://github.com/patchy631/time-to-first-token",
+      "description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
+      "full_description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
+      "language": "HTML",
+      "stars": 336,
       "stars_gained": 0,
-      "forks": 10,
+      "forks": 29,
       "topics": [
-        "claude-code",
-        "coding-agents",
-        "gpui",
-        "macos",
-        "mcp",
-        "rust",
-        "swift",
-        "terminal"
+        "learning-resources",
+        "llm",
+        "llm-inference",
+        "mlops",
+        "roadmap",
+        "sglang",
+        "vllm"
       ],
-      "created_at": "2026-08-04T10:08:23Z",
-      "updated_at": "2026-08-06T03:42:18Z",
-      "rank": 7
+      "created_at": "2026-08-02T13:02:26Z",
+      "updated_at": "2026-08-07T00:56:32Z",
+      "rank": 5
+    },
+    {
+      "name": "Anionex/agent-vision-toolkit",
+      "url": "https://github.com/Anionex/agent-vision-toolkit",
+      "description": "为纯文本模型设计的视觉工具箱和技能——多图理解、图片问答、长图识别、前端 UI 还原、GUI 自动化，并可选无缝接入 Codex、Claude Code、Pi、Oh My Pi、OpenCode ｜ A vision toolkit and skill designed for text-only models — image Q&A, long-screenshot OCR, frontend UI restoration, and GUI automation, with optional seamless integration for Codex, Claude Code, Pi, Oh My Pi, and OpenCode",
+      "full_description": "为纯文本模型设计的视觉工具箱和技能——多图理解、图片问答、长图识别、前端 UI 还原、GUI 自动化，并可选无缝接入 Codex、Claude Code、Pi、Oh My Pi、OpenCode ｜ A vision toolkit and skill designed for text-only models — image Q&A, long-screenshot OCR, frontend UI restoration, and GUI automation, with optional seamless integration for Codex, Claude Code, Pi, Oh My Pi, and OpenCode",
+      "language": "Python",
+      "stars": 334,
+      "stars_gained": 0,
+      "forks": 14,
+      "topics": [
+        "agent",
+        "agent-skills",
+        "claude-code",
+        "cli",
+        "codex",
+        "computer-use",
+        "deepseek",
+        "glm",
+        "harness-engineering",
+        "kimi",
+        "llm",
+        "multimodal",
+        "opencode",
+        "vision",
+        "vision-language-model"
+      ],
+      "created_at": "2026-08-01T10:00:13Z",
+      "updated_at": "2026-08-07T02:42:40Z",
+      "rank": 6
     },
     {
       "name": "alikon-art/DeterminFlow",
@@ -202,9 +177,9 @@
       "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
       "full_description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
       "language": "Python",
-      "stars": 202,
+      "stars": 217,
       "stars_gained": 0,
-      "forks": 26,
+      "forks": 31,
       "topics": [
         "agent-orchestration",
         "ai-agents",
@@ -218,7 +193,30 @@
         "workflow-runtime"
       ],
       "created_at": "2026-08-02T07:40:51Z",
-      "updated_at": "2026-08-05T16:28:40Z",
+      "updated_at": "2026-08-07T03:17:41Z",
+      "rank": 7
+    },
+    {
+      "name": "cristicretu/diri",
+      "url": "https://github.com/cristicretu/diri",
+      "description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
+      "full_description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
+      "language": "Rust",
+      "stars": 215,
+      "stars_gained": 0,
+      "forks": 12,
+      "topics": [
+        "claude-code",
+        "coding-agents",
+        "gpui",
+        "macos",
+        "mcp",
+        "rust",
+        "swift",
+        "terminal"
+      ],
+      "created_at": "2026-08-04T10:08:23Z",
+      "updated_at": "2026-08-07T00:18:28Z",
       "rank": 8
     },
     {
@@ -227,7 +225,7 @@
       "description": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA.",
       "full_description": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA.",
       "language": "Shell",
-      "stars": 170,
+      "stars": 181,
       "stars_gained": 0,
       "forks": 27,
       "topics": [
@@ -240,8 +238,83 @@
         "image-to-video"
       ],
       "created_at": "2026-08-03T01:04:46Z",
-      "updated_at": "2026-08-06T03:13:17Z",
+      "updated_at": "2026-08-07T03:06:23Z",
       "rank": 9
+    },
+    {
+      "name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
+      "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
+      "description": "MiniMax-H3超级缓存加速插件",
+      "full_description": "MiniMax-H3超级缓存加速插件",
+      "language": "Python",
+      "stars": 160,
+      "stars_gained": 0,
+      "forks": 13,
+      "topics": [
+        "ai",
+        "lgplv3",
+        "minimax",
+        "minimax-h3",
+        "pytroch",
+        "video",
+        "video-generation",
+        "video-generator"
+      ],
+      "created_at": "2026-08-03T19:56:28Z",
+      "updated_at": "2026-08-07T02:58:42Z",
+      "rank": 10
+    },
+    {
+      "name": "mrpulor-gh/nuphus-mcp",
+      "url": "https://github.com/mrpulor-gh/nuphus-mcp",
+      "description": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
+      "full_description": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
+      "language": "Rust",
+      "stars": 152,
+      "stars_gained": 0,
+      "forks": 17,
+      "topics": [
+        "ai-agent",
+        "browser-automation",
+        "chrome-automation",
+        "claude",
+        "computer-use",
+        "computer-vision",
+        "desktop-automation",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "ocr",
+        "rust"
+      ],
+      "created_at": "2026-08-01T08:02:34Z",
+      "updated_at": "2026-08-07T03:11:58Z",
+      "rank": 11
+    },
+    {
+      "name": "oliverb-io1902e8/agent-skills-collection",
+      "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
+      "description": "Curated collection of modular agent skills for LLM-based agents",
+      "full_description": "Curated collection of modular agent skills for LLM-based agents",
+      "language": "Python",
+      "stars": 152,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "agent-skills",
+        "agentic-workflow",
+        "ai-agents",
+        "automation",
+        "chatgpt",
+        "claude",
+        "developer-tools",
+        "llm",
+        "open-source",
+        "python"
+      ],
+      "created_at": "2026-08-06T14:07:02Z",
+      "updated_at": "2026-08-06T19:07:12Z",
+      "rank": 12
     },
     {
       "name": "juxhinr/bindwidth",
@@ -264,57 +337,27 @@
       ],
       "created_at": "2026-08-01T12:50:09Z",
       "updated_at": "2026-08-05T18:26:38Z",
-      "rank": 10
+      "rank": 13
     },
     {
-      "name": "mrpulor-gh/nuphus-mcp",
-      "url": "https://github.com/mrpulor-gh/nuphus-mcp",
-      "description": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
-      "full_description": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
-      "language": "Rust",
-      "stars": 126,
-      "stars_gained": 0,
-      "forks": 13,
-      "topics": [
-        "ai-agent",
-        "browser-automation",
-        "chrome-automation",
-        "claude",
-        "computer-use",
-        "computer-vision",
-        "desktop-automation",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "ocr",
-        "rust"
-      ],
-      "created_at": "2026-08-01T08:02:34Z",
-      "updated_at": "2026-08-06T03:37:53Z",
-      "rank": 11
-    },
-    {
-      "name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-      "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-      "description": "MiniMax-H3超级缓存加速插件",
-      "full_description": "MiniMax-H3超级缓存加速插件",
+      "name": "waiterve/wai-play",
+      "url": "https://github.com/waiterve/wai-play",
+      "description": "WAI Play - AI web game testing and quality evaluation platform",
+      "full_description": "WAI Play - AI web game testing and quality evaluation platform",
       "language": "Python",
-      "stars": 124,
+      "stars": 116,
       "stars_gained": 0,
-      "forks": 9,
+      "forks": 4,
       "topics": [
         "ai",
-        "lgplv3",
-        "minimax",
-        "minimax-h3",
-        "pytroch",
-        "video",
-        "video-generation",
-        "video-generator"
+        "ai-agents",
+        "game",
+        "game-testing",
+        "python"
       ],
-      "created_at": "2026-08-03T19:56:28Z",
-      "updated_at": "2026-08-06T03:23:30Z",
-      "rank": 12
+      "created_at": "2026-08-04T07:20:22Z",
+      "updated_at": "2026-08-07T02:57:27Z",
+      "rank": 14
     },
     {
       "name": "AFan4724/clone-chat",
@@ -338,7 +381,7 @@
       ],
       "created_at": "2026-08-01T21:19:13Z",
       "updated_at": "2026-08-05T06:12:36Z",
-      "rank": 13
+      "rank": 15
     },
     {
       "name": "Hermes-brasil/hermes-brasil",
@@ -346,7 +389,7 @@
       "description": "Comunidade brasileira de Hermes Agent (Nous Research) — skills, guias e integrações em português.",
       "full_description": "Comunidade brasileira de Hermes Agent (Nous Research) — skills, guias e integrações em português.",
       "language": "",
-      "stars": 105,
+      "stars": 107,
       "stars_gained": 0,
       "forks": 5,
       "topics": [
@@ -364,8 +407,34 @@
         "skills"
       ],
       "created_at": "2026-08-03T18:03:18Z",
-      "updated_at": "2026-08-05T22:44:00Z",
-      "rank": 14
+      "updated_at": "2026-08-07T00:55:31Z",
+      "rank": 16
+    },
+    {
+      "name": "888newstep/ai-agent-platform",
+      "url": "https://github.com/888newstep/ai-agent-platform",
+      "description": "企业级 AI Agent 平台 | Spring Boot 3 + LangChain4j | ReAct 推理 + 多路召回 RAG + 语义缓存 + 多智能体协作",
+      "full_description": "企业级 AI Agent 平台 | Spring Boot 3 + LangChain4j | ReAct 推理 + 多路召回 RAG + 语义缓存 + 多智能体协作",
+      "language": "Java",
+      "stars": 99,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai-agent",
+        "docker",
+        "java",
+        "langchain4j",
+        "llm",
+        "milvus",
+        "rag",
+        "react-agent",
+        "retrieval-augmented-generation",
+        "semantic-cache",
+        "spring-boot"
+      ],
+      "created_at": "2026-07-31T15:43:16Z",
+      "updated_at": "2026-08-07T03:13:28Z",
+      "rank": 17
     },
     {
       "name": "EthanZer0/FaceLogin",
@@ -373,7 +442,7 @@
       "description": "基于 Windows Credential Provider 框架的摄像头人脸识别登录系统。让不支持Windows Hello的的电脑也能够体验“人脸登录”无需额外操作，看一眼即可解锁你的电脑 — 支持本地账户与微软在线账户，内置眨眼与静默反欺诈双重活体检测。",
       "full_description": "基于 Windows Credential Provider 框架的摄像头人脸识别登录系统。让不支持Windows Hello的的电脑也能够体验“人脸登录”无需额外操作，看一眼即可解锁你的电脑 — 支持本地账户与微软在线账户，内置眨眼与静默反欺诈双重活体检测。",
       "language": "C++",
-      "stars": 89,
+      "stars": 93,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
@@ -388,8 +457,30 @@
         "windowshello"
       ],
       "created_at": "2026-07-31T02:10:19Z",
-      "updated_at": "2026-08-06T00:35:27Z",
-      "rank": 15
+      "updated_at": "2026-08-07T03:00:46Z",
+      "rank": 18
+    },
+    {
+      "name": "xbsheng/atguigu-note",
+      "url": "https://github.com/xbsheng/atguigu-note",
+      "description": "尚硅谷 AI 课程笔记",
+      "full_description": "尚硅谷 AI 课程笔记",
+      "language": "Jupyter Notebook",
+      "stars": 84,
+      "stars_gained": 0,
+      "forks": 39,
+      "topics": [
+        "agent",
+        "agents",
+        "ai",
+        "atguigu",
+        "langchain",
+        "langgraph",
+        "python"
+      ],
+      "created_at": "2026-07-31T22:44:26Z",
+      "updated_at": "2026-08-07T03:17:55Z",
+      "rank": 19
     },
     {
       "name": "foodpm/timecut",
@@ -414,50 +505,8 @@
         "surveillance"
       ],
       "created_at": "2026-08-01T05:54:08Z",
-      "updated_at": "2026-08-06T02:15:28Z",
-      "rank": 16
-    },
-    {
-      "name": "waiterve/wai-play",
-      "url": "https://github.com/waiterve/wai-play",
-      "description": "WAI Play - AI web game testing and quality evaluation platform",
-      "full_description": "WAI Play - AI web game testing and quality evaluation platform",
-      "language": "Python",
-      "stars": 77,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "game",
-        "game-testing",
-        "python"
-      ],
-      "created_at": "2026-08-04T07:20:22Z",
-      "updated_at": "2026-08-06T01:22:44Z",
-      "rank": 17
-    },
-    {
-      "name": "xbsheng/atguigu-note",
-      "url": "https://github.com/xbsheng/atguigu-note",
-      "description": "尚硅谷 AI 课程笔记",
-      "full_description": "尚硅谷 AI 课程笔记",
-      "language": "Jupyter Notebook",
-      "stars": 73,
-      "stars_gained": 0,
-      "forks": 36,
-      "topics": [
-        "agent",
-        "agents",
-        "ai",
-        "atguigu",
-        "langchain",
-        "langgraph",
-        "python"
-      ],
-      "created_at": "2026-07-31T22:44:26Z",
-      "updated_at": "2026-08-06T02:45:02Z",
-      "rank": 18
+      "updated_at": "2026-08-07T01:20:56Z",
+      "rank": 20
     },
     {
       "name": "calesthio/Resonant",
@@ -465,7 +514,7 @@
       "description": "Free, local AI music studio for Windows—generate songs, play instruments, arrange, mix, export WAV, and connect Codex or Claude through MCP.",
       "full_description": "Free, local AI music studio for Windows—generate songs, play instruments, arrange, mix, export WAV, and connect Codex or Claude through MCP.",
       "language": "TypeScript",
-      "stars": 65,
+      "stars": 79,
       "stars_gained": 0,
       "forks": 10,
       "topics": [
@@ -482,77 +531,93 @@
         "windows"
       ],
       "created_at": "2026-08-02T10:56:45Z",
-      "updated_at": "2026-08-06T02:33:09Z",
-      "rank": 19
-    },
-    {
-      "name": "888newstep/ai-agent-platform",
-      "url": "https://github.com/888newstep/ai-agent-platform",
-      "description": "企业级 AI Agent 平台 | Spring Boot 3 + LangChain4j | ReAct 推理 + 多路召回 RAG + 语义缓存 + 多智能体协作",
-      "full_description": "企业级 AI Agent 平台 | Spring Boot 3 + LangChain4j | ReAct 推理 + 多路召回 RAG + 语义缓存 + 多智能体协作",
-      "language": "Java",
-      "stars": 64,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai-agent",
-        "docker",
-        "java",
-        "langchain4j",
-        "llm",
-        "milvus",
-        "rag",
-        "react-agent",
-        "retrieval-augmented-generation",
-        "semantic-cache",
-        "spring-boot"
-      ],
-      "created_at": "2026-07-31T15:43:16Z",
-      "updated_at": "2026-08-06T03:32:51Z",
-      "rank": 20
-    },
-    {
-      "name": "danielroe/empathy",
-      "url": "https://github.com/danielroe/empathy",
-      "description": "A skill that helps AI agents talk to humans.",
-      "full_description": "A skill that helps AI agents talk to humans.",
-      "language": "Shell",
-      "stars": 62,
-      "stars_gained": 0,
-      "forks": 1,
-      "topics": [
-        "agent",
-        "kindness",
-        "skill"
-      ],
-      "created_at": "2026-07-30T14:49:26Z",
-      "updated_at": "2026-08-05T06:16:23Z",
+      "updated_at": "2026-08-07T03:00:46Z",
       "rank": 21
     },
     {
-      "name": "h4444433333/net-deep-research",
-      "url": "https://github.com/h4444433333/net-deep-research",
-      "description": "Deep research skill for AI agents: live web research, source reputation checks, safer URL fetches, and structured evidence feedback.",
-      "full_description": "Deep research skill for AI agents: live web research, source reputation checks, safer URL fetches, and structured evidence feedback.",
-      "language": "Python",
-      "stars": 62,
+      "name": "openwarehq/websiteprompts",
+      "url": "https://github.com/openwarehq/websiteprompts",
+      "description": "make beautiful 3d websites in one skill, plus 50+ website prompts for you to use. ",
+      "full_description": "make beautiful 3d websites in one skill, plus 50+ website prompts for you to use. ",
+      "language": "JavaScript",
+      "stars": 64,
       "stars_gained": 0,
-      "forks": 2,
+      "forks": 6,
       "topics": [
-        "ai-agents",
-        "citations",
-        "deep-research",
-        "information-retrieval",
+        "agent-skills",
+        "ai",
+        "ai-tools",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "cursor",
+        "frontend",
+        "generative-ai",
+        "landing-page",
         "llm",
         "prompt-engineering",
-        "rag",
-        "research-tool",
-        "source-verification",
-        "web-research"
+        "prompts",
+        "react",
+        "tailwindcss",
+        "typescript",
+        "ui-design",
+        "v0",
+        "vibe-coding",
+        "web-design"
       ],
-      "created_at": "2026-07-30T09:26:20Z",
-      "updated_at": "2026-08-06T03:40:00Z",
+      "created_at": "2026-08-02T04:49:19Z",
+      "updated_at": "2026-08-06T21:36:45Z",
       "rank": 22
+    },
+    {
+      "name": "eticmedya/vibecodingex",
+      "url": "https://github.com/eticmedya/vibecodingex",
+      "description": "AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fikri + satış pitch'i üret. Nuxt 4, SQLite, %100 yerel.",
+      "full_description": "AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fikri + satış pitch'i üret. Nuxt 4, SQLite, %100 yerel.",
+      "language": "Vue",
+      "stars": 64,
+      "stars_gained": 0,
+      "forks": 16,
+      "topics": [
+        "ai",
+        "gemini-api",
+        "google-places-api",
+        "nuxt",
+        "sales-tool",
+        "sqlite",
+        "tailwindcss",
+        "turkiye",
+        "typescript",
+        "vue"
+      ],
+      "created_at": "2026-08-05T16:04:32Z",
+      "updated_at": "2026-08-07T03:07:29Z",
+      "rank": 23
+    },
+    {
+      "name": "BeatAPI/awesome-minimax-h3-prompts",
+      "url": "https://github.com/BeatAPI/awesome-minimax-h3-prompts",
+      "description": "🎬 Curated MiniMax H3 video generation prompts — cinematic, ads, anime, UGC, product videos, and more. Includes playable examples and creator attribution.",
+      "full_description": "🎬 Curated MiniMax H3 video generation prompts — cinematic, ads, anime, UGC, product videos, and more. Includes playable examples and creator attribution.",
+      "language": "JavaScript",
+      "stars": 63,
+      "stars_gained": 0,
+      "forks": 1,
+      "topics": [
+        "ai-video",
+        "awesome-list",
+        "generative-ai",
+        "image-to-video",
+        "minimax-h3",
+        "multimodal-ai",
+        "prompt-gallery",
+        "text-to-video",
+        "video-prompts",
+        "webm"
+      ],
+      "created_at": "2026-07-31T11:45:07Z",
+      "updated_at": "2026-08-07T01:39:34Z",
+      "rank": 24
     },
     {
       "name": "talivia-group/agent",
@@ -573,7 +638,7 @@
       ],
       "created_at": "2026-08-02T09:32:39Z",
       "updated_at": "2026-08-05T18:11:35Z",
-      "rank": 23
+      "rank": 25
     },
     {
       "name": "ilindaniel/impeccable-lite",
@@ -600,58 +665,6 @@
       ],
       "created_at": "2026-08-01T13:21:45Z",
       "updated_at": "2026-08-04T12:01:27Z",
-      "rank": 24
-    },
-    {
-      "name": "BossFreeze15/aida64-pro-spark",
-      "url": "https://github.com/BossFreeze15/aida64-pro-spark",
-      "description": "Aida64 Pro Spark",
-      "full_description": "Aida64 Pro Spark",
-      "language": "",
-      "stars": 60,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai",
-        "aida64-extreme",
-        "open-source-ai",
-        "tool"
-      ],
-      "created_at": "2026-07-30T01:24:36Z",
-      "updated_at": "2026-08-05T15:52:13Z",
-      "rank": 25
-    },
-    {
-      "name": "openwarehq/websiteprompts",
-      "url": "https://github.com/openwarehq/websiteprompts",
-      "description": "30 free copy-paste prompts that turn Claude Code, Cursor or v0 into a cinematic website — exact colours, easing and z-index, plus a background video that is already hosted.",
-      "full_description": "30 free copy-paste prompts that turn Claude Code, Cursor or v0 into a cinematic website — exact colours, easing and z-index, plus a background video that is already hosted.",
-      "language": "JavaScript",
-      "stars": 57,
-      "stars_gained": 0,
-      "forks": 6,
-      "topics": [
-        "ai",
-        "ai-tools",
-        "claude",
-        "claude-code",
-        "cursor",
-        "frontend",
-        "generative-ai",
-        "landing-page",
-        "llm",
-        "prompt-engineering",
-        "prompts",
-        "react",
-        "tailwindcss",
-        "typescript",
-        "ui-design",
-        "v0",
-        "vibe-coding",
-        "web-design"
-      ],
-      "created_at": "2026-08-02T04:49:19Z",
-      "updated_at": "2026-08-06T03:47:12Z",
       "rank": 26
     },
     {
@@ -660,7 +673,7 @@
       "description": "BarunLM-35M: a parameter-efficient 35M base language model trained on 5.7B tokens",
       "full_description": "BarunLM-35M: a parameter-efficient 35M base language model trained on 5.7B tokens",
       "language": "Python",
-      "stars": 54,
+      "stars": 55,
       "stars_gained": 0,
       "forks": 3,
       "topics": [
@@ -671,7 +684,7 @@
         "text-generation"
       ],
       "created_at": "2026-07-31T12:52:36Z",
-      "updated_at": "2026-08-06T02:15:14Z",
+      "updated_at": "2026-08-06T14:38:05Z",
       "rank": 27
     },
     {
@@ -707,7 +720,7 @@
       "description": "AI-powered Labour Law Violation Detection System using Weak Supervision, BiLSTM, Graph Neural Networks (GNN), and Explainable AI to identify labour law violations.",
       "full_description": "AI-powered Labour Law Violation Detection System using Weak Supervision, BiLSTM, Graph Neural Networks (GNN), and Explainable AI to identify labour law violations.",
       "language": "Python",
-      "stars": 50,
+      "stars": 51,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -723,32 +736,25 @@
         "pytorch"
       ],
       "created_at": "2026-07-31T03:48:42Z",
-      "updated_at": "2026-08-03T04:54:47Z",
+      "updated_at": "2026-08-06T12:44:00Z",
       "rank": 29
     },
     {
-      "name": "BeatAPI/awesome-minimax-h3-prompts",
-      "url": "https://github.com/BeatAPI/awesome-minimax-h3-prompts",
-      "description": "🎬 Curated MiniMax H3 video generation prompts — cinematic, ads, anime, UGC, product videos, and more. Includes playable examples and creator attribution.",
-      "full_description": "🎬 Curated MiniMax H3 video generation prompts — cinematic, ads, anime, UGC, product videos, and more. Includes playable examples and creator attribution.",
-      "language": "JavaScript",
-      "stars": 48,
+      "name": "TensorHub-ORG/Coomi-Android",
+      "url": "https://github.com/TensorHub-ORG/Coomi-Android",
+      "description": "Coomi —— 接管你的手机！ / Coomi - Take over your phone!",
+      "full_description": "Coomi —— 接管你的手机！ / Coomi - Take over your phone!",
+      "language": "Java",
+      "stars": 50,
       "stars_gained": 0,
-      "forks": 1,
+      "forks": 7,
       "topics": [
-        "ai-video",
-        "awesome-list",
-        "generative-ai",
-        "image-to-video",
-        "minimax-h3",
-        "multimodal-ai",
-        "prompt-gallery",
-        "text-to-video",
-        "video-prompts",
-        "webm"
+        "agent",
+        "android",
+        "termux"
       ],
-      "created_at": "2026-07-31T11:45:07Z",
-      "updated_at": "2026-08-06T02:30:43Z",
+      "created_at": "2026-08-01T04:30:03Z",
+      "updated_at": "2026-08-07T02:18:13Z",
       "rank": 30
     }
   ]

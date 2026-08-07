@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T03:48:18.493311+00:00",
+  "updated": "2026-08-07T03:26:15.180338+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook",
       "full_description": "Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook",
       "language": "Swift",
-      "stars": 5134,
+      "stars": 5238,
       "stars_gained": 0,
-      "forks": 267,
+      "forks": 282,
       "topics": [
         "apple-silicon",
         "gemma",
@@ -29,7 +29,7 @@
         "swift"
       ],
       "created_at": "2026-07-17T15:57:54Z",
-      "updated_at": "2026-08-06T03:40:21Z",
+      "updated_at": "2026-08-07T02:16:36Z",
       "rank": 1
     },
     {
@@ -38,9 +38,9 @@
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "full_description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
-      "stars": 2608,
+      "stars": 2884,
       "stars_gained": 0,
-      "forks": 431,
+      "forks": 479,
       "topics": [
         "avx2",
         "c99",
@@ -64,7 +64,7 @@
         "zero-dependencies"
       ],
       "created_at": "2026-08-01T09:29:38Z",
-      "updated_at": "2026-08-06T03:43:44Z",
+      "updated_at": "2026-08-07T03:26:07Z",
       "rank": 2
     },
     {
@@ -73,9 +73,9 @@
       "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
       "full_description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
       "language": "Solidity",
-      "stars": 2288,
+      "stars": 2373,
       "stars_gained": 0,
-      "forks": 1651,
+      "forks": 1714,
       "topics": [
         "ai",
         "aitradingbot",
@@ -88,8 +88,30 @@
         "mevbots"
       ],
       "created_at": "2026-07-17T09:45:22Z",
-      "updated_at": "2026-08-06T03:47:58Z",
+      "updated_at": "2026-08-07T03:25:29Z",
       "rank": 3
+    },
+    {
+      "name": "genspark-ai/genoffice",
+      "url": "https://github.com/genspark-ai/genoffice",
+      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+      "full_description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+      "language": "TypeScript",
+      "stars": 2064,
+      "stars_gained": 0,
+      "forks": 343,
+      "topics": [
+        "ai",
+        "docx",
+        "electron",
+        "office-suite",
+        "pdf",
+        "pptx",
+        "xlsx"
+      ],
+      "created_at": "2026-07-31T09:40:58Z",
+      "updated_at": "2026-08-07T03:23:33Z",
+      "rank": 4
     },
     {
       "name": "AlephAITech/WorkBuddyGuide",
@@ -97,9 +119,9 @@
       "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
       "full_description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
       "language": "Python",
-      "stars": 1998,
+      "stars": 2029,
       "stars_gained": 0,
-      "forks": 275,
+      "forks": 278,
       "topics": [
         "codex",
         "guide",
@@ -107,8 +129,29 @@
         "workbuddy"
       ],
       "created_at": "2026-07-10T04:13:51Z",
-      "updated_at": "2026-08-06T03:43:42Z",
-      "rank": 4
+      "updated_at": "2026-08-07T03:09:25Z",
+      "rank": 5
+    },
+    {
+      "name": "Jakubantalik/thinking-orbs",
+      "url": "https://github.com/Jakubantalik/thinking-orbs",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
+      "full_description": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
+      "language": "TypeScript",
+      "stars": 1981,
+      "stars_gained": 0,
+      "forks": 151,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "chat",
+        "loader",
+        "ui",
+        "ux"
+      ],
+      "created_at": "2026-07-21T07:01:53Z",
+      "updated_at": "2026-08-07T03:13:05Z",
+      "rank": 6
     },
     {
       "name": "QwenAudio/qwen-audio-agent",
@@ -116,9 +159,9 @@
       "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "full_description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "language": "JavaScript",
-      "stars": 1935,
+      "stars": 1965,
       "stars_gained": 0,
-      "forks": 139,
+      "forks": 142,
       "topics": [
         "agent",
         "agentic-ai",
@@ -127,8 +170,32 @@
         "voice-chat"
       ],
       "created_at": "2026-07-27T05:04:26Z",
-      "updated_at": "2026-08-06T03:47:15Z",
-      "rank": 5
+      "updated_at": "2026-08-07T03:15:58Z",
+      "rank": 7
+    },
+    {
+      "name": "kirodotdev/KiroCrew",
+      "url": "https://github.com/kirodotdev/KiroCrew",
+      "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
+      "full_description": "A persistent workspace for development work that self-improves and continues beyond one session.",
+      "language": "Python",
+      "stars": 1935,
+      "stars_gained": 0,
+      "forks": 151,
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agents",
+        "ai-agent",
+        "ai-agents",
+        "automation",
+        "devtools",
+        "kiro",
+        "llm"
+      ],
+      "created_at": "2026-07-16T21:21:54Z",
+      "updated_at": "2026-08-07T03:22:35Z",
+      "rank": 8
     },
     {
       "name": "penecho/penecho",
@@ -136,9 +203,9 @@
       "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
       "full_description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
       "language": "JavaScript",
-      "stars": 1917,
+      "stars": 1934,
       "stars_gained": 0,
-      "forks": 220,
+      "forks": 225,
       "topics": [
         "ai",
         "canvas",
@@ -150,51 +217,8 @@
         "visual-thinking"
       ],
       "created_at": "2026-07-14T14:45:23Z",
-      "updated_at": "2026-08-06T02:40:41Z",
-      "rank": 6
-    },
-    {
-      "name": "genspark-ai/genoffice",
-      "url": "https://github.com/genspark-ai/genoffice",
-      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-      "full_description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-      "language": "TypeScript",
-      "stars": 1830,
-      "stars_gained": 0,
-      "forks": 292,
-      "topics": [
-        "ai",
-        "docx",
-        "electron",
-        "office-suite",
-        "pdf",
-        "pptx",
-        "xlsx"
-      ],
-      "created_at": "2026-07-31T09:40:58Z",
-      "updated_at": "2026-08-06T03:46:23Z",
-      "rank": 7
-    },
-    {
-      "name": "Jakubantalik/thinking-orbs",
-      "url": "https://github.com/Jakubantalik/thinking-orbs",
-      "description": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
-      "full_description": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
-      "language": "TypeScript",
-      "stars": 1802,
-      "stars_gained": 0,
-      "forks": 135,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "chat",
-        "loader",
-        "ui",
-        "ux"
-      ],
-      "created_at": "2026-07-21T07:01:53Z",
-      "updated_at": "2026-08-06T03:42:47Z",
-      "rank": 8
+      "updated_at": "2026-08-07T02:19:39Z",
+      "rank": 9
     },
     {
       "name": "makecindy/cindy",
@@ -202,9 +226,9 @@
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "full_description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
-      "stars": 1793,
+      "stars": 1820,
       "stars_gained": 0,
-      "forks": 220,
+      "forks": 232,
       "topics": [
         "agent",
         "ai-agent",
@@ -221,8 +245,8 @@
         "windows"
       ],
       "created_at": "2026-07-22T17:49:34Z",
-      "updated_at": "2026-08-06T03:42:56Z",
-      "rank": 9
+      "updated_at": "2026-08-07T03:23:28Z",
+      "rank": 10
     },
     {
       "name": "Kritt-ai/open-kritt",
@@ -230,9 +254,9 @@
       "description": "Orchestrate AI agents to find real vulnerabilities in code.",
       "full_description": "Orchestrate AI agents to find real vulnerabilities in code.",
       "language": "JavaScript",
-      "stars": 1409,
+      "stars": 1538,
       "stars_gained": 0,
-      "forks": 243,
+      "forks": 273,
       "topics": [
         "agent",
         "agents",
@@ -244,8 +268,8 @@
         "security-research"
       ],
       "created_at": "2026-07-20T20:26:24Z",
-      "updated_at": "2026-08-06T03:16:09Z",
-      "rank": 10
+      "updated_at": "2026-08-07T03:17:11Z",
+      "rank": 11
     },
     {
       "name": "Intuition-Lab/personal-model",
@@ -253,7 +277,7 @@
       "description": "Build your HUMAN.md.",
       "full_description": "Build your HUMAN.md.",
       "language": "Python",
-      "stars": 1338,
+      "stars": 1337,
       "stars_gained": 0,
       "forks": 99,
       "topics": [
@@ -267,8 +291,8 @@
         "python"
       ],
       "created_at": "2026-07-10T16:10:25Z",
-      "updated_at": "2026-08-05T15:30:24Z",
-      "rank": 11
+      "updated_at": "2026-08-06T15:39:30Z",
+      "rank": 12
     },
     {
       "name": "icebird1998/drawio-scientific-illustrator",
@@ -276,7 +300,7 @@
       "description": "Live MCP control of the visible draw.io canvas for step-by-step scientific illustration in Codex.",
       "full_description": "Live MCP control of the visible draw.io canvas for step-by-step scientific illustration in Codex.",
       "language": "JavaScript",
-      "stars": 1271,
+      "stars": 1284,
       "stars_gained": 0,
       "forks": 90,
       "topics": [
@@ -288,31 +312,7 @@
         "scientific-illustration"
       ],
       "created_at": "2026-07-12T12:02:27Z",
-      "updated_at": "2026-08-06T01:34:00Z",
-      "rank": 12
-    },
-    {
-      "name": "kirodotdev/KiroCrew",
-      "url": "https://github.com/kirodotdev/KiroCrew",
-      "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "full_description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "language": "Python",
-      "stars": 1251,
-      "stars_gained": 0,
-      "forks": 97,
-      "topics": [
-        "agent",
-        "agentic-ai",
-        "agents",
-        "ai-agent",
-        "ai-agents",
-        "automation",
-        "devtools",
-        "kiro",
-        "llm"
-      ],
-      "created_at": "2026-07-16T21:21:54Z",
-      "updated_at": "2026-08-06T03:47:46Z",
+      "updated_at": "2026-08-07T03:03:02Z",
       "rank": 13
     },
     {
@@ -321,9 +321,9 @@
       "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
       "full_description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
       "language": "Python",
-      "stars": 1101,
+      "stars": 1137,
       "stars_gained": 0,
-      "forks": 161,
+      "forks": 164,
       "topics": [
         "ai",
         "ai-video",
@@ -343,35 +343,8 @@
         "vox"
       ],
       "created_at": "2026-07-10T15:32:05Z",
-      "updated_at": "2026-08-06T03:26:30Z",
+      "updated_at": "2026-08-07T03:22:02Z",
       "rank": 14
-    },
-    {
-      "name": "op7418/guizang-material-illustration",
-      "url": "https://github.com/op7418/guizang-material-illustration",
-      "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
-      "full_description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
-      "language": "",
-      "stars": 948,
-      "stars_gained": 0,
-      "forks": 101,
-      "topics": [
-        "agent",
-        "chart-visualization",
-        "chinese",
-        "claude-code",
-        "codex",
-        "data-visualization",
-        "explainer",
-        "illustration",
-        "image-generation",
-        "material-illustration",
-        "skill",
-        "social-media"
-      ],
-      "created_at": "2026-07-07T13:57:13Z",
-      "updated_at": "2026-08-06T03:43:44Z",
-      "rank": 15
     },
     {
       "name": "ShenSeanChen/waku-agent",
@@ -379,9 +352,9 @@
       "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval",
       "full_description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval",
       "language": "Python",
-      "stars": 903,
+      "stars": 933,
       "stars_gained": 0,
-      "forks": 181,
+      "forks": 192,
       "topics": [
         "agent-framework",
         "ai-agent",
@@ -397,8 +370,58 @@
         "sqlite"
       ],
       "created_at": "2026-07-10T12:20:50Z",
-      "updated_at": "2026-08-06T02:03:56Z",
+      "updated_at": "2026-08-07T02:53:57Z",
+      "rank": 15
+    },
+    {
+      "name": "Prism-Shadow/penguin-harness",
+      "url": "https://github.com/Prism-Shadow/penguin-harness",
+      "description": "🐧 Automated Agent Builder. Use DeepSeek or GPT to Create Self-Evolving Agents in One Click",
+      "full_description": "🐧 Automated Agent Builder. Use DeepSeek or GPT to Create Self-Evolving Agents in One Click",
+      "language": "TypeScript",
+      "stars": 926,
+      "stars_gained": 0,
+      "forks": 81,
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai",
+        "ai-product",
+        "build-tool",
+        "claude-code",
+        "deepseek",
+        "desktop",
+        "harness",
+        "llm",
+        "productivity",
+        "skills",
+        "workflow"
+      ],
+      "created_at": "2026-07-19T03:15:21Z",
+      "updated_at": "2026-08-07T03:17:35Z",
       "rank": 16
+    },
+    {
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "full_description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "stars": 868,
+      "stars_gained": 0,
+      "forks": 111,
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "local-first",
+        "long-term-memory"
+      ],
+      "created_at": "2026-07-08T12:54:20Z",
+      "updated_at": "2026-08-07T03:19:52Z",
+      "rank": 17
     },
     {
       "name": "William-Lu-stack/Flawless",
@@ -425,7 +448,7 @@
       ],
       "created_at": "2026-07-10T05:57:02Z",
       "updated_at": "2026-08-05T14:55:02Z",
-      "rank": 17
+      "rank": 18
     },
     {
       "name": "0xsline/OpenChatCut",
@@ -433,9 +456,9 @@
       "description": "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering.",
       "full_description": "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering.",
       "language": "TypeScript",
-      "stars": 829,
+      "stars": 853,
       "stars_gained": 0,
-      "forks": 109,
+      "forks": 115,
       "topics": [
         "agent-skills",
         "agentic-ai",
@@ -459,32 +482,7 @@
         "video-editor"
       ],
       "created_at": "2026-07-15T02:49:42Z",
-      "updated_at": "2026-08-06T03:14:45Z",
-      "rank": 18
-    },
-    {
-      "name": "Optim-Agent/optim-agent",
-      "url": "https://github.com/Optim-Agent/optim-agent",
-      "description": "LLM agents as your hyperparameter optimizer.",
-      "full_description": "LLM agents as your hyperparameter optimizer.",
-      "language": "Python",
-      "stars": 826,
-      "stars_gained": 0,
-      "forks": 40,
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "automl",
-        "claude-code",
-        "codex-cli",
-        "developer-tools",
-        "hyperparameter-optimization",
-        "machine-learning",
-        "optimization",
-        "skill"
-      ],
-      "created_at": "2026-07-07T17:05:54Z",
-      "updated_at": "2026-08-06T03:11:59Z",
+      "updated_at": "2026-08-07T03:17:22Z",
       "rank": 19
     },
     {
@@ -493,7 +491,7 @@
       "description": "🎨 Open-source AI slide studio inside Codex: image-native decks, every slide a full visual canvas. ⚡ 10+ high-quality slides in ~4–5 minutes — Fast mode renders every page in parallel. 🔍 Watch the whole chain live: research → outline → style → render → edit → present → export PDF/PPTX. 🖥️ Browser-first · zero API keys · durable projects.",
       "full_description": "🎨 Open-source AI slide studio inside Codex: image-native decks, every slide a full visual canvas. ⚡ 10+ high-quality slides in ~4–5 minutes — Fast mode renders every page in parallel. 🔍 Watch the whole chain live: research → outline → style → render → edit → present → export PDF/PPTX. 🖥️ Browser-first · zero API keys · durable projects.",
       "language": "TypeScript",
-      "stars": 761,
+      "stars": 768,
       "stars_gained": 0,
       "forks": 64,
       "topics": [
@@ -519,7 +517,7 @@
         "typescript"
       ],
       "created_at": "2026-07-10T10:14:34Z",
-      "updated_at": "2026-08-06T02:14:33Z",
+      "updated_at": "2026-08-07T02:50:06Z",
       "rank": 20
     },
     {
@@ -528,9 +526,9 @@
       "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
       "full_description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
       "language": "TypeScript",
-      "stars": 735,
+      "stars": 741,
       "stars_gained": 0,
-      "forks": 50,
+      "forks": 52,
       "topics": [
         "agent-engineering",
         "ai-agent",
@@ -540,7 +538,7 @@
         "typescript"
       ],
       "created_at": "2026-07-21T04:17:35Z",
-      "updated_at": "2026-08-06T02:10:38Z",
+      "updated_at": "2026-08-06T15:59:56Z",
       "rank": 21
     },
     {
@@ -549,9 +547,9 @@
       "description": "开源的 AI 订阅价格聚合与比价平台，收录 ChatGPT、Claude、Gemini、Grok、Cursor 等产品的官方订阅价格和卡网渠道报价，帮助用户快速查询并比较不同购买渠道。",
       "full_description": "开源的 AI 订阅价格聚合与比价平台，收录 ChatGPT、Claude、Gemini、Grok、Cursor 等产品的官方订阅价格和卡网渠道报价，帮助用户快速查询并比较不同购买渠道。",
       "language": "TypeScript",
-      "stars": 711,
+      "stars": 734,
       "stars_gained": 0,
-      "forks": 35,
+      "forks": 40,
       "topics": [
         "ai",
         "ai-subscription",
@@ -566,58 +564,33 @@
         "sd2"
       ],
       "created_at": "2026-07-16T06:28:46Z",
-      "updated_at": "2026-08-06T03:35:43Z",
+      "updated_at": "2026-08-07T02:05:50Z",
       "rank": 22
     },
     {
-      "name": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "full_description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "language": "Python",
-      "stars": 709,
-      "stars_gained": 0,
-      "forks": 98,
-      "topics": [
-        "agent",
-        "agentic-ai",
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "local-first",
-        "long-term-memory"
-      ],
-      "created_at": "2026-07-08T12:54:20Z",
-      "updated_at": "2026-08-06T03:45:54Z",
-      "rank": 23
-    },
-    {
-      "name": "Prism-Shadow/penguin-harness",
-      "url": "https://github.com/Prism-Shadow/penguin-harness",
-      "description": "🐧 Automated Agent Builder. Use DeepSeek or GPT to Create Self-Evolving Agents in One Click",
-      "full_description": "🐧 Automated Agent Builder. Use DeepSeek or GPT to Create Self-Evolving Agents in One Click",
+      "name": "miuuyy/codex-chatgpt-web",
+      "url": "https://github.com/miuuyy/codex-chatgpt-web",
+      "description": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.",
+      "full_description": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.",
       "language": "TypeScript",
-      "stars": 615,
+      "stars": 611,
       "stars_gained": 0,
-      "forks": 66,
+      "forks": 67,
       "topics": [
-        "agent",
-        "agentic-ai",
-        "ai",
-        "ai-product",
-        "build-tool",
-        "claude-code",
-        "deepseek",
-        "desktop",
-        "harness",
-        "llm",
-        "productivity",
-        "skills",
-        "workflow"
+        "chatgpt",
+        "chatgpt-pro",
+        "codex",
+        "free-ai",
+        "macos",
+        "mcp",
+        "openai",
+        "playwright",
+        "responses-api",
+        "typescript"
       ],
-      "created_at": "2026-07-19T03:15:21Z",
-      "updated_at": "2026-08-06T03:39:02Z",
-      "rank": 24
+      "created_at": "2026-07-26T13:04:44Z",
+      "updated_at": "2026-08-07T03:23:52Z",
+      "rank": 23
     },
     {
       "name": "MemTensor/memmy-agent",
@@ -625,9 +598,9 @@
       "description": "🍙 A personal AI agent & local memory hub for all AI agents like Claude Code, Codex, OpenClaw and Hermes Agent. Gives every AI one shared, fully controlled memory  and persistent context — all AI remember the same you.",
       "full_description": "🍙 A personal AI agent & local memory hub for all AI agents like Claude Code, Codex, OpenClaw and Hermes Agent. Gives every AI one shared, fully controlled memory  and persistent context — all AI remember the same you.",
       "language": "TypeScript",
-      "stars": 582,
+      "stars": 596,
       "stars_gained": 0,
-      "forks": 60,
+      "forks": 61,
       "topics": [
         "agent",
         "agentic-ai",
@@ -651,8 +624,8 @@
         "tui"
       ],
       "created_at": "2026-07-16T07:57:45Z",
-      "updated_at": "2026-08-06T01:38:02Z",
-      "rank": 25
+      "updated_at": "2026-08-07T02:34:46Z",
+      "rank": 24
     },
     {
       "name": "vshulcz/deja-vu",
@@ -660,7 +633,7 @@
       "description": "Your agents already solved this. deja finds it — it indexes the sessions your coding agents already wrote to disk, months of history from before you installed it, and recalls them automatically at session start across seventeen harnesses. 84.9% hit@1 on LongMemEval-S, no LLM, no embeddings. One zero-dep binary, fully local.",
       "full_description": "Your agents already solved this. deja finds it — it indexes the sessions your coding agents already wrote to disk, months of history from before you installed it, and recalls them automatically at session start across seventeen harnesses. 84.9% hit@1 on LongMemEval-S, no LLM, no embeddings. One zero-dep binary, fully local.",
       "language": "Go",
-      "stars": 579,
+      "stars": 591,
       "stars_gained": 0,
       "forks": 40,
       "topics": [
@@ -679,8 +652,53 @@
         "session-search"
       ],
       "created_at": "2026-07-14T07:45:44Z",
-      "updated_at": "2026-08-06T02:04:04Z",
+      "updated_at": "2026-08-06T21:23:29Z",
+      "rank": 25
+    },
+    {
+      "name": "Paritok-official/paritok-4b-v1",
+      "url": "https://github.com/Paritok-official/paritok-4b-v1",
+      "description": "Non-destructive compression gateway that cuts AI coding-agent token bills 25% on a single turn, climbing past 60% across long multi-turn sessions and past 85% in context-saturated deployments. Powered by the first open-source code-native 4B compression model. Drop-in for Claude Code, Cursor, Codex, OpenHands. No agent code changes.",
+      "full_description": "Non-destructive compression gateway that cuts AI coding-agent token bills 25% on a single turn, climbing past 60% across long multi-turn sessions and past 85% in context-saturated deployments. Powered by the first open-source code-native 4B compression model. Drop-in for Claude Code, Cursor, Codex, OpenHands. No agent code changes.",
+      "language": "Python",
+      "stars": 584,
+      "stars_gained": 0,
+      "forks": 30,
+      "topics": [
+        "agentic-coding",
+        "ai",
+        "ai-agents",
+        "ai-coding",
+        "ai-infrastructure",
+        "developer-tools",
+        "llm-gateway",
+        "llms",
+        "token-optimization"
+      ],
+      "created_at": "2026-07-15T10:23:15Z",
+      "updated_at": "2026-08-07T03:10:37Z",
       "rank": 26
+    },
+    {
+      "name": "bkingfilm/lapian-notes",
+      "url": "https://github.com/bkingfilm/lapian-notes",
+      "description": "AI 辅助的电影拉片工具：AI 拆出剧情泳道时间轴、结构树、情绪曲线，边播边写拉片笔记，免费开源全本地 | AI-assisted film breakdown notebook: story-lane timeline, structure tree, emotion curve. Free, open source, fully local.",
+      "full_description": "AI 辅助的电影拉片工具：AI 拆出剧情泳道时间轴、结构树、情绪曲线，边播边写拉片笔记，免费开源全本地 | AI-assisted film breakdown notebook: story-lane timeline, structure tree, emotion curve. Free, open source, fully local.",
+      "language": "TypeScript",
+      "stars": 576,
+      "stars_gained": 0,
+      "forks": 65,
+      "topics": [
+        "ai",
+        "film-analysis",
+        "filmmaking",
+        "react",
+        "screenwriting",
+        "vite"
+      ],
+      "created_at": "2026-07-08T06:06:31Z",
+      "updated_at": "2026-08-07T01:51:17Z",
+      "rank": 27
     },
     {
       "name": "0xwilliamortiz/openclaude-improved",
@@ -690,7 +708,7 @@
       "language": "TypeScript",
       "stars": 569,
       "stars_gained": 0,
-      "forks": 81,
+      "forks": 82,
       "topics": [
         "agentic-ai",
         "ai",
@@ -714,27 +732,6 @@
       ],
       "created_at": "2026-07-26T21:58:28Z",
       "updated_at": "2026-08-04T03:42:39Z",
-      "rank": 27
-    },
-    {
-      "name": "bkingfilm/lapian-notes",
-      "url": "https://github.com/bkingfilm/lapian-notes",
-      "description": "AI 辅助的电影拉片工具：AI 拆出剧情泳道时间轴、结构树、情绪曲线，边播边写拉片笔记，免费开源全本地 | AI-assisted film breakdown notebook: story-lane timeline, structure tree, emotion curve. Free, open source, fully local.",
-      "full_description": "AI 辅助的电影拉片工具：AI 拆出剧情泳道时间轴、结构树、情绪曲线，边播边写拉片笔记，免费开源全本地 | AI-assisted film breakdown notebook: story-lane timeline, structure tree, emotion curve. Free, open source, fully local.",
-      "language": "TypeScript",
-      "stars": 553,
-      "stars_gained": 0,
-      "forks": 65,
-      "topics": [
-        "ai",
-        "film-analysis",
-        "filmmaking",
-        "react",
-        "screenwriting",
-        "vite"
-      ],
-      "created_at": "2026-07-08T06:06:31Z",
-      "updated_at": "2026-08-05T21:41:38Z",
       "rank": 28
     },
     {
@@ -772,28 +769,38 @@
       "rank": 29
     },
     {
-      "name": "miuuyy/codex-chatgpt-web",
-      "url": "https://github.com/miuuyy/codex-chatgpt-web",
-      "description": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.",
-      "full_description": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.",
-      "language": "TypeScript",
-      "stars": 498,
+      "name": "TryCaspian/caspian-sdk",
+      "url": "https://github.com/TryCaspian/caspian-sdk",
+      "description": "Agent communication SDK. The open-source agent communication layer for AI agents — email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
+      "full_description": "Agent communication SDK. The open-source agent communication layer for AI agents — email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
+      "language": "Python",
+      "stars": 512,
       "stars_gained": 0,
-      "forks": 54,
+      "forks": 135,
       "topics": [
-        "chatgpt",
-        "chatgpt-pro",
-        "codex",
-        "free-ai",
-        "macos",
+        "agent-communication",
+        "agent-messaging",
+        "ai-agent",
+        "ai-agents",
+        "communication",
+        "crewai",
+        "discord",
+        "email",
+        "imessage",
+        "langchain",
+        "llm",
         "mcp",
-        "openai",
-        "playwright",
-        "responses-api",
-        "typescript"
+        "messaging",
+        "python",
+        "sdk",
+        "slack",
+        "sms",
+        "telegram",
+        "typescript",
+        "whatsapp"
       ],
-      "created_at": "2026-07-26T13:04:44Z",
-      "updated_at": "2026-08-06T03:45:51Z",
+      "created_at": "2026-07-20T10:47:56Z",
+      "updated_at": "2026-08-07T03:13:21Z",
       "rank": 30
     }
   ]
