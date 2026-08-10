@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T02:34:36.679107+00:00",
+  "updated": "2026-08-10T02:40:20.714141+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook",
       "full_description": "Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook",
       "language": "Swift",
-      "stars": 5454,
+      "stars": 5529,
       "stars_gained": 0,
-      "forks": 301,
+      "forks": 312,
       "topics": [
         "apple-silicon",
         "gemma",
@@ -29,7 +29,7 @@
         "swift"
       ],
       "created_at": "2026-07-17T15:57:54Z",
-      "updated_at": "2026-08-09T02:26:32Z",
+      "updated_at": "2026-08-10T02:39:55Z",
       "rank": 1
     },
     {
@@ -38,9 +38,9 @@
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "full_description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
-      "stars": 3821,
+      "stars": 4249,
       "stars_gained": 0,
-      "forks": 589,
+      "forks": 663,
       "topics": [
         "avx2",
         "c99",
@@ -64,7 +64,7 @@
         "zero-dependencies"
       ],
       "created_at": "2026-08-01T09:29:38Z",
-      "updated_at": "2026-08-09T02:33:57Z",
+      "updated_at": "2026-08-10T02:38:37Z",
       "rank": 2
     },
     {
@@ -73,9 +73,9 @@
       "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
       "full_description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
       "language": "Solidity",
-      "stars": 2595,
+      "stars": 2674,
       "stars_gained": 0,
-      "forks": 1826,
+      "forks": 1896,
       "topics": [
         "ai",
         "aitradingbot",
@@ -88,7 +88,7 @@
         "mevbots"
       ],
       "created_at": "2026-07-17T09:45:22Z",
-      "updated_at": "2026-08-09T02:34:00Z",
+      "updated_at": "2026-08-10T02:39:43Z",
       "rank": 3
     },
     {
@@ -97,9 +97,9 @@
       "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
       "full_description": "A persistent workspace for development work that self-improves and continues beyond one session.",
       "language": "Python",
-      "stars": 2401,
+      "stars": 2467,
       "stars_gained": 0,
-      "forks": 200,
+      "forks": 214,
       "topics": [
         "agent",
         "agentic-ai",
@@ -112,7 +112,7 @@
         "llm"
       ],
       "created_at": "2026-07-16T21:21:54Z",
-      "updated_at": "2026-08-09T02:33:59Z",
+      "updated_at": "2026-08-10T02:35:42Z",
       "rank": 4
     },
     {
@@ -121,9 +121,9 @@
       "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
       "full_description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
       "language": "TypeScript",
-      "stars": 2265,
+      "stars": 2373,
       "stars_gained": 0,
-      "forks": 389,
+      "forks": 422,
       "topics": [
         "ai",
         "docx",
@@ -134,7 +134,7 @@
         "xlsx"
       ],
       "created_at": "2026-07-31T09:40:58Z",
-      "updated_at": "2026-08-09T02:27:34Z",
+      "updated_at": "2026-08-10T02:39:34Z",
       "rank": 5
     },
     {
@@ -143,9 +143,9 @@
       "description": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
       "full_description": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
       "language": "TypeScript",
-      "stars": 2122,
+      "stars": 2199,
       "stars_gained": 0,
-      "forks": 163,
+      "forks": 170,
       "topics": [
         "ai",
         "ai-agents",
@@ -155,27 +155,8 @@
         "ux"
       ],
       "created_at": "2026-07-21T07:01:53Z",
-      "updated_at": "2026-08-09T02:17:53Z",
+      "updated_at": "2026-08-10T02:10:02Z",
       "rank": 6
-    },
-    {
-      "name": "AlephAITech/WorkBuddyGuide",
-      "url": "https://github.com/AlephAITech/WorkBuddyGuide",
-      "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-      "full_description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-      "language": "TypeScript",
-      "stars": 2070,
-      "stars_gained": 0,
-      "forks": 283,
-      "topics": [
-        "codex",
-        "guide",
-        "llm",
-        "workbuddy"
-      ],
-      "created_at": "2026-07-10T04:13:51Z",
-      "updated_at": "2026-08-09T01:47:11Z",
-      "rank": 7
     },
     {
       "name": "QwenAudio/qwen-audio-agent",
@@ -183,19 +164,27 @@
       "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "full_description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "language": "JavaScript",
-      "stars": 1991,
+      "stars": 2034,
       "stars_gained": 0,
-      "forks": 142,
+      "forks": 150,
       "topics": [
+        "acp",
         "agent",
         "agentic-ai",
+        "ai-coding",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "opencode",
+        "speech-recognition",
+        "text-to-speech",
         "voice-agent",
         "voice-ai",
         "voice-chat"
       ],
       "created_at": "2026-07-27T05:04:26Z",
-      "updated_at": "2026-08-08T23:05:46Z",
-      "rank": 8
+      "updated_at": "2026-08-10T02:26:56Z",
+      "rank": 7
     },
     {
       "name": "penecho/penecho",
@@ -203,9 +192,9 @@
       "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
       "full_description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
       "language": "JavaScript",
-      "stars": 1968,
+      "stars": 1987,
       "stars_gained": 0,
-      "forks": 233,
+      "forks": 238,
       "topics": [
         "ai",
         "canvas",
@@ -217,8 +206,8 @@
         "visual-thinking"
       ],
       "created_at": "2026-07-14T14:45:23Z",
-      "updated_at": "2026-08-09T02:10:32Z",
-      "rank": 9
+      "updated_at": "2026-08-10T02:20:30Z",
+      "rank": 8
     },
     {
       "name": "makecindy/cindy",
@@ -226,9 +215,9 @@
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "full_description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
-      "stars": 1912,
+      "stars": 1946,
       "stars_gained": 0,
-      "forks": 244,
+      "forks": 249,
       "topics": [
         "agent",
         "ai-agent",
@@ -245,54 +234,38 @@
         "windows"
       ],
       "created_at": "2026-07-22T17:49:34Z",
-      "updated_at": "2026-08-09T02:34:34Z",
-      "rank": 10
+      "updated_at": "2026-08-10T02:15:53Z",
+      "rank": 9
     },
     {
       "name": "Kritt-ai/open-kritt",
       "url": "https://github.com/Kritt-ai/open-kritt",
-      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "full_description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "description": "Open-source, self-hosted AI vulnerability research tool that orchestrates agents to find and validate security issues in code.",
+      "full_description": "Open-source, self-hosted AI vulnerability research tool that orchestrates agents to find and validate security issues in code.",
       "language": "JavaScript",
-      "stars": 1600,
+      "stars": 1632,
       "stars_gained": 0,
-      "forks": 284,
+      "forks": 285,
       "topics": [
-        "agent",
-        "agents",
         "ai",
+        "ai-agents",
+        "ai-security",
         "bug-bounty",
-        "bugbounty",
         "bugbounty-tools",
-        "security",
-        "security-research"
+        "code-security",
+        "hackenproof",
+        "hackerone",
+        "immunefi",
+        "security-automation",
+        "security-research",
+        "security-tools",
+        "self-hosted",
+        "source-code-analysis",
+        "vulnerability-scanner"
       ],
       "created_at": "2026-07-20T20:26:24Z",
-      "updated_at": "2026-08-09T02:00:28Z",
-      "rank": 11
-    },
-    {
-      "name": "Intuition-Lab/personal-model",
-      "url": "https://github.com/Intuition-Lab/personal-model",
-      "description": "Build your HUMAN.md.",
-      "full_description": "Build your HUMAN.md.",
-      "language": "Python",
-      "stars": 1358,
-      "stars_gained": 0,
-      "forks": 99,
-      "topics": [
-        "agent-memory",
-        "local-first",
-        "macos",
-        "mcp",
-        "personal-ai",
-        "personal-model",
-        "privacy",
-        "python"
-      ],
-      "created_at": "2026-07-10T16:10:25Z",
-      "updated_at": "2026-08-08T13:14:26Z",
-      "rank": 12
+      "updated_at": "2026-08-10T02:31:27Z",
+      "rank": 10
     },
     {
       "name": "icebird1998/drawio-scientific-illustrator",
@@ -300,9 +273,9 @@
       "description": "Live MCP control of the visible draw.io canvas for step-by-step scientific illustration in Codex.",
       "full_description": "Live MCP control of the visible draw.io canvas for step-by-step scientific illustration in Codex.",
       "language": "JavaScript",
-      "stars": 1291,
+      "stars": 1301,
       "stars_gained": 0,
-      "forks": 92,
+      "forks": 93,
       "topics": [
         "codex",
         "diagrams",
@@ -312,39 +285,8 @@
         "scientific-illustration"
       ],
       "created_at": "2026-07-12T12:02:27Z",
-      "updated_at": "2026-08-08T03:56:42Z",
-      "rank": 13
-    },
-    {
-      "name": "Alisa0808/vox-director",
-      "url": "https://github.com/Alisa0808/vox-director",
-      "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-      "full_description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-      "language": "Python",
-      "stars": 1190,
-      "stars_gained": 0,
-      "forks": 173,
-      "topics": [
-        "ai",
-        "ai-video",
-        "claude-code",
-        "claude-skill",
-        "collage-video",
-        "explainer-video",
-        "ffmpeg",
-        "generative-ai",
-        "llm",
-        "motion-graphics",
-        "python",
-        "text-to-video",
-        "tts",
-        "video",
-        "video-generation",
-        "vox"
-      ],
-      "created_at": "2026-07-10T15:32:05Z",
-      "updated_at": "2026-08-09T02:07:15Z",
-      "rank": 14
+      "updated_at": "2026-08-10T01:38:46Z",
+      "rank": 11
     },
     {
       "name": "Prism-Shadow/penguin-harness",
@@ -352,9 +294,9 @@
       "description": "🐧 Automated Agent Builder. Create Self-Evolving Agents in One Click (DeepSeek/Kimi/GPT/Claude/Gemini)",
       "full_description": "🐧 Automated Agent Builder. Create Self-Evolving Agents in One Click (DeepSeek/Kimi/GPT/Claude/Gemini)",
       "language": "TypeScript",
-      "stars": 1035,
+      "stars": 1090,
       "stars_gained": 0,
-      "forks": 97,
+      "forks": 103,
       "topics": [
         "agent",
         "agentic-ai",
@@ -371,59 +313,8 @@
         "workflow"
       ],
       "created_at": "2026-07-19T03:15:21Z",
-      "updated_at": "2026-08-09T02:34:18Z",
-      "rank": 15
-    },
-    {
-      "name": "ShenSeanChen/waku-agent",
-      "url": "https://github.com/ShenSeanChen/waku-agent",
-      "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval",
-      "full_description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval",
-      "language": "Python",
-      "stars": 980,
-      "stars_gained": 0,
-      "forks": 199,
-      "topics": [
-        "agent-framework",
-        "ai-agent",
-        "ai-assistant",
-        "claude",
-        "evals",
-        "llm",
-        "llmops",
-        "local-first",
-        "openai",
-        "personal-assistant",
-        "python",
-        "sqlite"
-      ],
-      "created_at": "2026-07-10T12:20:50Z",
-      "updated_at": "2026-08-09T02:20:13Z",
-      "rank": 16
-    },
-    {
-      "name": "Paritok-official/paritok-4b-v1",
-      "url": "https://github.com/Paritok-official/paritok-4b-v1",
-      "description": "Non-destructive compression gateway for AI coding agents. Cuts token bills 25% on turn 1 to past 85% in long or saturated sessions, and fits ~3× more turns in the same context window. Powered by our open-source code-native 4B model. Drop-in for Claude Code, Cursor, Codex, OpenHands, and any BASE_URL agent.",
-      "full_description": "Non-destructive compression gateway for AI coding agents. Cuts token bills 25% on turn 1 to past 85% in long or saturated sessions, and fits ~3× more turns in the same context window. Powered by our open-source code-native 4B model. Drop-in for Claude Code, Cursor, Codex, OpenHands, and any BASE_URL agent.",
-      "language": "Python",
-      "stars": 906,
-      "stars_gained": 0,
-      "forks": 113,
-      "topics": [
-        "agentic-coding",
-        "ai",
-        "ai-agents",
-        "ai-coding",
-        "ai-infrastructure",
-        "developer-tools",
-        "llm-gateway",
-        "llms",
-        "token-optimization"
-      ],
-      "created_at": "2026-07-15T10:23:15Z",
-      "updated_at": "2026-08-09T01:01:56Z",
-      "rank": 17
+      "updated_at": "2026-08-10T02:39:40Z",
+      "rank": 12
     },
     {
       "name": "0xsline/OpenChatCut",
@@ -431,7 +322,7 @@
       "description": "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering.",
       "full_description": "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering.",
       "language": "TypeScript",
-      "stars": 899,
+      "stars": 916,
       "stars_gained": 0,
       "forks": 122,
       "topics": [
@@ -457,70 +348,32 @@
         "video-editor"
       ],
       "created_at": "2026-07-15T02:49:42Z",
-      "updated_at": "2026-08-09T02:22:04Z",
-      "rank": 18
+      "updated_at": "2026-08-10T02:03:25Z",
+      "rank": 13
     },
     {
-      "name": "William-Lu-stack/Flawless",
-      "url": "https://github.com/William-Lu-stack/Flawless",
-      "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "full_description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "name": "Paritok-official/paritok-4b-v1",
+      "url": "https://github.com/Paritok-official/paritok-4b-v1",
+      "description": "Non-destructive compression gateway for AI coding agents. Cuts token bills 25% on turn 1 to past 85% in long or saturated sessions, and fits ~3× more turns in the same context window. Powered by our open-source code-native 4B model. Drop-in for Claude Code, Cursor, Codex, OpenHands, and any BASE_URL agent.",
+      "full_description": "Non-destructive compression gateway for AI coding agents. Cuts token bills 25% on turn 1 to past 85% in long or saturated sessions, and fits ~3× more turns in the same context window. Powered by our open-source code-native 4B model. Drop-in for Claude Code, Cursor, Codex, OpenHands, and any BASE_URL agent.",
       "language": "Python",
-      "stars": 852,
+      "stars": 916,
       "stars_gained": 0,
-      "forks": 212,
+      "forks": 114,
       "topics": [
-        "agenticops",
+        "agentic-coding",
         "ai",
-        "aiops",
-        "aisre",
-        "cloud",
-        "cloud-native",
-        "devops",
-        "kubernetes",
-        "llm",
-        "mcp",
-        "observability",
-        "sre"
+        "ai-agents",
+        "ai-coding",
+        "ai-infrastructure",
+        "developer-tools",
+        "llm-gateway",
+        "llms",
+        "token-optimization"
       ],
-      "created_at": "2026-07-10T05:57:02Z",
-      "updated_at": "2026-08-08T13:14:26Z",
-      "rank": 19
-    },
-    {
-      "name": "nexu-io/codex-slides",
-      "url": "https://github.com/nexu-io/codex-slides",
-      "description": "🎨 Open-source AI slide studio inside Codex: image-native decks, every slide a full visual canvas. ⚡ 10+ high-quality slides in ~4–5 minutes — Fast mode renders every page in parallel. 🔍 Watch the whole chain live: research → outline → style → render → edit → present → export PDF/PPTX. 🖥️ Browser-first · zero API keys · durable projects.",
-      "full_description": "🎨 Open-source AI slide studio inside Codex: image-native decks, every slide a full visual canvas. ⚡ 10+ high-quality slides in ~4–5 minutes — Fast mode renders every page in parallel. 🔍 Watch the whole chain live: research → outline → style → render → edit → present → export PDF/PPTX. 🖥️ Browser-first · zero API keys · durable projects.",
-      "language": "TypeScript",
-      "stars": 779,
-      "stars_gained": 0,
-      "forks": 65,
-      "topics": [
-        "agent-skills",
-        "ai-ppt",
-        "ai-presentation",
-        "ai-slides",
-        "codex",
-        "codex-plugin",
-        "coding-agents",
-        "deep-research",
-        "design-system",
-        "gamma-alternative",
-        "generative-ai",
-        "image-generation",
-        "mcp",
-        "nextjs",
-        "open-design",
-        "powerpoint",
-        "pptx",
-        "presentation-generator",
-        "slides",
-        "typescript"
-      ],
-      "created_at": "2026-07-10T10:14:34Z",
-      "updated_at": "2026-08-08T05:39:00Z",
-      "rank": 20
+      "created_at": "2026-07-15T10:23:15Z",
+      "updated_at": "2026-08-10T02:37:11Z",
+      "rank": 14
     },
     {
       "name": "miuuyy/codex-chatgpt-web",
@@ -528,9 +381,9 @@
       "description": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.",
       "full_description": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.",
       "language": "TypeScript",
-      "stars": 774,
+      "stars": 798,
       "stars_gained": 0,
-      "forks": 88,
+      "forks": 91,
       "topics": [
         "chatgpt",
         "chatgpt-pro",
@@ -544,8 +397,8 @@
         "typescript"
       ],
       "created_at": "2026-07-26T13:04:44Z",
-      "updated_at": "2026-08-09T01:48:37Z",
-      "rank": 21
+      "updated_at": "2026-08-10T02:13:45Z",
+      "rank": 15
     },
     {
       "name": "bytedoger/awesome-OpenPrice",
@@ -553,7 +406,7 @@
       "description": "开源的 AI 订阅价格聚合与比价平台，收录 ChatGPT、Claude、Gemini、Grok、Cursor 等产品的官方订阅价格和卡网渠道报价，帮助用户快速查询并比较不同购买渠道。",
       "full_description": "开源的 AI 订阅价格聚合与比价平台，收录 ChatGPT、Claude、Gemini、Grok、Cursor 等产品的官方订阅价格和卡网渠道报价，帮助用户快速查询并比较不同购买渠道。",
       "language": "TypeScript",
-      "stars": 753,
+      "stars": 760,
       "stars_gained": 0,
       "forks": 43,
       "topics": [
@@ -570,8 +423,8 @@
         "sd2"
       ],
       "created_at": "2026-07-16T06:28:46Z",
-      "updated_at": "2026-08-09T00:34:16Z",
-      "rank": 22
+      "updated_at": "2026-08-10T02:25:37Z",
+      "rank": 16
     },
     {
       "name": "hahhforest/pi-textbook",
@@ -579,9 +432,9 @@
       "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
       "full_description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
       "language": "TypeScript",
-      "stars": 750,
+      "stars": 757,
       "stars_gained": 0,
-      "forks": 53,
+      "forks": 54,
       "topics": [
         "agent-engineering",
         "ai-agent",
@@ -591,8 +444,76 @@
         "typescript"
       ],
       "created_at": "2026-07-21T04:17:35Z",
-      "updated_at": "2026-08-09T02:33:04Z",
-      "rank": 23
+      "updated_at": "2026-08-10T02:34:37Z",
+      "rank": 17
+    },
+    {
+      "name": "MaxFreedomPollard/Compartment",
+      "url": "https://github.com/MaxFreedomPollard/Compartment",
+      "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creation, storage and retrieval.",
+      "full_description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creation, storage and retrieval.",
+      "language": "Python",
+      "stars": 688,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "ai-memory",
+        "claude",
+        "claude-code",
+        "claude-desktop",
+        "encryption",
+        "hermes",
+        "hermes-agent",
+        "local-first",
+        "long-term-memory",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "offline",
+        "openclaw",
+        "privacy",
+        "rag",
+        "semantic-search",
+        "vector-database"
+      ],
+      "created_at": "2026-07-20T13:43:56Z",
+      "updated_at": "2026-08-10T02:35:21Z",
+      "rank": 18
+    },
+    {
+      "name": "Pan-Chera/Multi-Agent-CAD",
+      "url": "https://github.com/Pan-Chera/Multi-Agent-CAD",
+      "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
+      "full_description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
+      "language": "Python",
+      "stars": 629,
+      "stars_gained": 0,
+      "forks": 55,
+      "topics": [
+        "3d-modeling",
+        "3d-printing",
+        "agent-pipeline",
+        "aider",
+        "build123d",
+        "cad",
+        "generative-design",
+        "langgraph",
+        "llm",
+        "llm-agent",
+        "mechanical-engineering",
+        "multi-agent",
+        "opencascade",
+        "qwen",
+        "step",
+        "step-file",
+        "text-to-3d",
+        "text-to-cad"
+      ],
+      "created_at": "2026-07-30T17:19:26Z",
+      "updated_at": "2026-08-10T02:31:03Z",
+      "rank": 19
     },
     {
       "name": "MemTensor/memmy-agent",
@@ -600,9 +521,9 @@
       "description": "🍙 A personal AI agent & local memory hub for all AI agents like Claude Code, Codex, OpenClaw and Hermes Agent. Gives every AI one shared, fully controlled memory  and persistent context — all AI remember the same you.",
       "full_description": "🍙 A personal AI agent & local memory hub for all AI agents like Claude Code, Codex, OpenClaw and Hermes Agent. Gives every AI one shared, fully controlled memory  and persistent context — all AI remember the same you.",
       "language": "TypeScript",
-      "stars": 619,
+      "stars": 622,
       "stars_gained": 0,
-      "forks": 65,
+      "forks": 66,
       "topics": [
         "agent",
         "agentic-ai",
@@ -626,8 +547,8 @@
         "tui"
       ],
       "created_at": "2026-07-16T07:57:45Z",
-      "updated_at": "2026-08-08T21:41:01Z",
-      "rank": 24
+      "updated_at": "2026-08-09T21:43:41Z",
+      "rank": 20
     },
     {
       "name": "vshulcz/deja-vu",
@@ -635,7 +556,7 @@
       "description": "Your agents already solved this. deja finds it — it indexes the sessions your coding agents already wrote to disk, months of history from before you installed it, and recalls them automatically at session start across seventeen harnesses. 84.9% hit@1 on LongMemEval-S, no LLM, no embeddings. One zero-dep binary, fully local.",
       "full_description": "Your agents already solved this. deja finds it — it indexes the sessions your coding agents already wrote to disk, months of history from before you installed it, and recalls them automatically at session start across seventeen harnesses. 84.9% hit@1 on LongMemEval-S, no LLM, no embeddings. One zero-dep binary, fully local.",
       "language": "Go",
-      "stars": 609,
+      "stars": 616,
       "stars_gained": 0,
       "forks": 39,
       "topics": [
@@ -654,8 +575,77 @@
         "session-search"
       ],
       "created_at": "2026-07-14T07:45:44Z",
-      "updated_at": "2026-08-08T23:53:26Z",
-      "rank": 25
+      "updated_at": "2026-08-09T23:11:15Z",
+      "rank": 21
+    },
+    {
+      "name": "TryCaspian/caspian-sdk",
+      "url": "https://github.com/TryCaspian/caspian-sdk",
+      "description": "Agent communication SDK. The open-source agent communication layer for AI agents — email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
+      "full_description": "Agent communication SDK. The open-source agent communication layer for AI agents — email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
+      "language": "Python",
+      "stars": 608,
+      "stars_gained": 0,
+      "forks": 134,
+      "topics": [
+        "agent-communication",
+        "agent-messaging",
+        "ai-agent",
+        "ai-agents",
+        "communication",
+        "crewai",
+        "discord",
+        "email",
+        "imessage",
+        "langchain",
+        "llm",
+        "mcp",
+        "messaging",
+        "python",
+        "sdk",
+        "slack",
+        "sms",
+        "telegram",
+        "typescript",
+        "whatsapp"
+      ],
+      "created_at": "2026-07-20T10:47:56Z",
+      "updated_at": "2026-08-09T20:27:56Z",
+      "rank": 22
+    },
+    {
+      "name": "mikehasa/agentacct",
+      "url": "https://github.com/mikehasa/agentacct",
+      "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
+      "full_description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
+      "language": "Python",
+      "stars": 570,
+      "stars_gained": 0,
+      "forks": 68,
+      "topics": [
+        "agent-observability",
+        "ai-agents",
+        "analytics",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agent",
+        "cost-tracking",
+        "dashboard",
+        "developer-tools",
+        "devtools",
+        "llm",
+        "llmops",
+        "local-first",
+        "mcp",
+        "observability",
+        "opencode",
+        "python",
+        "token-usage"
+      ],
+      "created_at": "2026-07-24T16:28:06Z",
+      "updated_at": "2026-08-10T02:37:22Z",
+      "rank": 23
     },
     {
       "name": "0xwilliamortiz/openclaude-improved",
@@ -689,76 +679,7 @@
       ],
       "created_at": "2026-07-26T21:58:28Z",
       "updated_at": "2026-08-04T03:42:39Z",
-      "rank": 26
-    },
-    {
-      "name": "mikehasa/agentacct",
-      "url": "https://github.com/mikehasa/agentacct",
-      "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
-      "full_description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
-      "language": "Python",
-      "stars": 559,
-      "stars_gained": 0,
-      "forks": 67,
-      "topics": [
-        "agent-observability",
-        "ai-agents",
-        "analytics",
-        "claude-code",
-        "cli",
-        "codex",
-        "coding-agent",
-        "cost-tracking",
-        "dashboard",
-        "developer-tools",
-        "devtools",
-        "llm",
-        "llmops",
-        "local-first",
-        "mcp",
-        "observability",
-        "opencode",
-        "python",
-        "token-usage"
-      ],
-      "created_at": "2026-07-24T16:28:06Z",
-      "updated_at": "2026-08-09T01:54:53Z",
-      "rank": 27
-    },
-    {
-      "name": "TryCaspian/caspian-sdk",
-      "url": "https://github.com/TryCaspian/caspian-sdk",
-      "description": "Agent communication SDK. The open-source agent communication layer for AI agents — email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
-      "full_description": "Agent communication SDK. The open-source agent communication layer for AI agents — email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
-      "language": "Python",
-      "stars": 534,
-      "stars_gained": 0,
-      "forks": 134,
-      "topics": [
-        "agent-communication",
-        "agent-messaging",
-        "ai-agent",
-        "ai-agents",
-        "communication",
-        "crewai",
-        "discord",
-        "email",
-        "imessage",
-        "langchain",
-        "llm",
-        "mcp",
-        "messaging",
-        "python",
-        "sdk",
-        "slack",
-        "sms",
-        "telegram",
-        "typescript",
-        "whatsapp"
-      ],
-      "created_at": "2026-07-20T10:47:56Z",
-      "updated_at": "2026-08-09T01:23:07Z",
-      "rank": 28
+      "rank": 24
     },
     {
       "name": "Pinvou/pinvou-agent",
@@ -766,9 +687,9 @@
       "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
       "full_description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
       "language": "JavaScript",
-      "stars": 493,
+      "stars": 546,
       "stars_gained": 0,
-      "forks": 69,
+      "forks": 81,
       "topics": [
         "ai-agent",
         "automation",
@@ -782,42 +703,145 @@
         "tauri"
       ],
       "created_at": "2026-07-24T07:28:41Z",
-      "updated_at": "2026-08-09T02:21:38Z",
+      "updated_at": "2026-08-10T02:35:57Z",
+      "rank": 25
+    },
+    {
+      "name": "AMAP-ML/LongHorizon-Harness",
+      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "full_description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "language": "Python",
+      "stars": 515,
+      "stars_gained": 0,
+      "forks": 63,
+      "topics": [
+        "agent",
+        "claude",
+        "claude-code",
+        "claude-plugin",
+        "cli",
+        "codex",
+        "codex-desktop",
+        "codex-plugin",
+        "cua",
+        "gui",
+        "harness",
+        "long-horizon",
+        "long-horizon-agents",
+        "longhorizon-harness",
+        "loop",
+        "loop-engineering"
+      ],
+      "created_at": "2026-08-04T04:30:58Z",
+      "updated_at": "2026-08-10T02:24:13Z",
+      "rank": 26
+    },
+    {
+      "name": "arcships/light-ocr",
+      "url": "https://github.com/arcships/light-ocr",
+      "description": "Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr",
+      "full_description": "Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr",
+      "language": "C++",
+      "stars": 471,
+      "stars_gained": 0,
+      "forks": 41,
+      "topics": [
+        "apple-silicon",
+        "computer-vision",
+        "coreml",
+        "cpp17",
+        "d3d12",
+        "image-processing",
+        "machine-learning",
+        "napi",
+        "native-addon",
+        "nodejs",
+        "nvidia",
+        "ocr",
+        "ocr-recognition",
+        "offline-ocr",
+        "paddleocr",
+        "ppocr",
+        "text-recognition",
+        "typescript",
+        "vulkan",
+        "webgpu"
+      ],
+      "created_at": "2026-07-14T01:32:23Z",
+      "updated_at": "2026-08-09T23:44:02Z",
+      "rank": 27
+    },
+    {
+      "name": "yuwen-cool/yuwen-publish-precheck",
+      "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+      "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
+      "full_description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
+      "language": "Python",
+      "stars": 455,
+      "stars_gained": 0,
+      "forks": 43,
+      "topics": [
+        "agent-skills",
+        "ai",
+        "chinese",
+        "claude",
+        "content-compliance",
+        "cursor",
+        "douyin",
+        "wechat-channels",
+        "xiaohongshu"
+      ],
+      "created_at": "2026-07-15T13:53:48Z",
+      "updated_at": "2026-08-09T08:49:08Z",
+      "rank": 28
+    },
+    {
+      "name": "icebird1998/scientific-illustrator",
+      "url": "https://github.com/icebird1998/scientific-illustrator",
+      "description": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
+      "full_description": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
+      "language": "JavaScript",
+      "stars": 449,
+      "stars_gained": 0,
+      "forks": 40,
+      "topics": [
+        "codex",
+        "drawio",
+        "editable-figures",
+        "mcp",
+        "powerpoint",
+        "scientific-illustration"
+      ],
+      "created_at": "2026-07-24T04:27:30Z",
+      "updated_at": "2026-08-10T02:03:32Z",
       "rank": 29
     },
     {
-      "name": "MaxFreedomPollard/Compartment",
-      "url": "https://github.com/MaxFreedomPollard/Compartment",
-      "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creation, storage and retrieval.",
-      "full_description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creation, storage and retrieval.",
-      "language": "Python",
-      "stars": 486,
+      "name": "0xwilliamortiz/ratchet",
+      "url": "https://github.com/0xwilliamortiz/ratchet",
+      "description": "Your agent reads the rules. This checks whether it followed them.",
+      "full_description": "Your agent reads the rules. This checks whether it followed them.",
+      "language": "JavaScript",
+      "stars": 439,
       "stars_gained": 0,
-      "forks": 2,
+      "forks": 86,
       "topics": [
-        "agent-memory",
         "ai-agents",
-        "ai-memory",
-        "claude",
         "claude-code",
-        "claude-desktop",
-        "encryption",
-        "hermes",
-        "hermes-agent",
-        "local-first",
-        "long-term-memory",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "offline",
-        "openclaw",
-        "privacy",
-        "rag",
-        "semantic-search",
-        "vector-database"
+        "claude-code-plugin",
+        "claude-skills",
+        "code-quality",
+        "developer-tools",
+        "hooks",
+        "llm",
+        "ratchet",
+        "rate-limiting",
+        "static-analysis",
+        "yagni"
       ],
-      "created_at": "2026-07-20T13:43:56Z",
-      "updated_at": "2026-08-09T02:31:19Z",
+      "created_at": "2026-07-31T17:54:30Z",
+      "updated_at": "2026-08-09T11:40:08Z",
       "rank": 30
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T02:34:35.974468+00:00",
+  "updated": "2026-08-10T02:40:19.984414+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
       "full_description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
       "language": "Python",
-      "stars": 411,
+      "stars": 515,
       "stars_gained": 0,
-      "forks": 46,
+      "forks": 63,
       "topics": [
         "agent",
         "claude",
@@ -32,54 +32,50 @@
         "loop-engineering"
       ],
       "created_at": "2026-08-04T04:30:58Z",
-      "updated_at": "2026-08-08T22:07:57Z",
+      "updated_at": "2026-08-10T02:24:13Z",
       "rank": 1
     },
     {
-      "name": "patchy631/time-to-first-token",
-      "url": "https://github.com/patchy631/time-to-first-token",
-      "description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
-      "full_description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
-      "language": "HTML",
-      "stars": 349,
+      "name": "sv-number/mcp-server",
+      "url": "https://github.com/sv-number/mcp-server",
+      "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+      "full_description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+      "language": "JavaScript",
+      "stars": 255,
       "stars_gained": 0,
-      "forks": 30,
+      "forks": 0,
       "topics": [
-        "learning-resources",
-        "llm",
-        "llm-inference",
-        "mlops",
-        "roadmap",
-        "sglang",
-        "vllm"
+        "ai-agents",
+        "claude-code",
+        "mcp",
+        "model-context-protocol",
+        "otp",
+        "phone-verification",
+        "sms",
+        "typescript"
       ],
-      "created_at": "2026-08-02T13:02:26Z",
-      "updated_at": "2026-08-08T23:42:38Z",
+      "created_at": "2026-08-07T11:13:26Z",
+      "updated_at": "2026-08-10T02:34:19Z",
       "rank": 2
     },
     {
-      "name": "alikon-art/DeterminFlow",
-      "url": "https://github.com/alikon-art/DeterminFlow",
-      "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
-      "full_description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
+      "name": "waiterve/wai-play",
+      "url": "https://github.com/waiterve/wai-play",
+      "description": "WAI Play - AI web game testing and quality evaluation platform",
+      "full_description": "WAI Play - AI web game testing and quality evaluation platform",
       "language": "Python",
-      "stars": 275,
+      "stars": 237,
       "stars_gained": 0,
-      "forks": 39,
+      "forks": 8,
       "topics": [
-        "agent-orchestration",
+        "ai",
         "ai-agents",
-        "ai-workflow",
-        "fastapi",
-        "llm",
-        "multi-agent",
-        "python",
-        "workflow-automation",
-        "workflow-engine",
-        "workflow-runtime"
+        "game",
+        "game-testing",
+        "python"
       ],
-      "created_at": "2026-08-02T07:40:51Z",
-      "updated_at": "2026-08-09T02:08:50Z",
+      "created_at": "2026-08-04T07:20:22Z",
+      "updated_at": "2026-08-10T02:15:18Z",
       "rank": 3
     },
     {
@@ -88,9 +84,9 @@
       "description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
       "full_description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
       "language": "Rust",
-      "stars": 228,
+      "stars": 234,
       "stars_gained": 0,
-      "forks": 14,
+      "forks": 16,
       "topics": [
         "claude-code",
         "coding-agents",
@@ -102,50 +98,8 @@
         "terminal"
       ],
       "created_at": "2026-08-04T10:08:23Z",
-      "updated_at": "2026-08-09T01:39:44Z",
+      "updated_at": "2026-08-10T02:26:59Z",
       "rank": 4
-    },
-    {
-      "name": "Mr-funny/hbg-classical-poem-silk-video",
-      "url": "https://github.com/Mr-funny/hbg-classical-poem-silk-video",
-      "description": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA.",
-      "full_description": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA.",
-      "language": "Shell",
-      "stars": 190,
-      "stars_gained": 0,
-      "forks": 29,
-      "topics": [
-        "agent-skill",
-        "chinese-poetry",
-        "codex",
-        "docker",
-        "ffmpeg",
-        "generative-ai",
-        "image-to-video"
-      ],
-      "created_at": "2026-08-03T01:04:46Z",
-      "updated_at": "2026-08-08T15:34:55Z",
-      "rank": 5
-    },
-    {
-      "name": "waiterve/wai-play",
-      "url": "https://github.com/waiterve/wai-play",
-      "description": "WAI Play - AI web game testing and quality evaluation platform",
-      "full_description": "WAI Play - AI web game testing and quality evaluation platform",
-      "language": "Python",
-      "stars": 190,
-      "stars_gained": 0,
-      "forks": 6,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "game",
-        "game-testing",
-        "python"
-      ],
-      "created_at": "2026-08-04T07:20:22Z",
-      "updated_at": "2026-08-09T02:08:47Z",
-      "rank": 6
     },
     {
       "name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
@@ -153,9 +107,9 @@
       "description": "MiniMax-H3超级缓存加速插件",
       "full_description": "MiniMax-H3超级缓存加速插件",
       "language": "Python",
-      "stars": 189,
+      "stars": 202,
       "stars_gained": 0,
-      "forks": 13,
+      "forks": 14,
       "topics": [
         "ai",
         "lgplv3",
@@ -167,8 +121,30 @@
         "video-generator"
       ],
       "created_at": "2026-08-03T19:56:28Z",
-      "updated_at": "2026-08-09T02:30:46Z",
-      "rank": 7
+      "updated_at": "2026-08-10T01:33:27Z",
+      "rank": 5
+    },
+    {
+      "name": "Mr-funny/hbg-classical-poem-silk-video",
+      "url": "https://github.com/Mr-funny/hbg-classical-poem-silk-video",
+      "description": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA.",
+      "full_description": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA.",
+      "language": "Shell",
+      "stars": 192,
+      "stars_gained": 0,
+      "forks": 30,
+      "topics": [
+        "agent-skill",
+        "chinese-poetry",
+        "codex",
+        "docker",
+        "ffmpeg",
+        "generative-ai",
+        "image-to-video"
+      ],
+      "created_at": "2026-08-03T01:04:46Z",
+      "updated_at": "2026-08-10T01:27:53Z",
+      "rank": 6
     },
     {
       "name": "i3T4AN/KADATH",
@@ -176,7 +152,7 @@
       "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
       "full_description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
       "language": "Python",
-      "stars": 163,
+      "stars": 169,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
@@ -199,7 +175,30 @@
         "self-evolving-agents"
       ],
       "created_at": "2026-08-08T15:49:55Z",
-      "updated_at": "2026-08-09T02:25:58Z",
+      "updated_at": "2026-08-10T01:25:41Z",
+      "rank": 7
+    },
+    {
+      "name": "UditAkhourii/neuroarxiv",
+      "url": "https://github.com/UditAkhourii/neuroarxiv",
+      "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
+      "full_description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
+      "language": "TypeScript",
+      "stars": 134,
+      "stars_gained": 0,
+      "forks": 15,
+      "topics": [
+        "arxiv",
+        "arxiv-api",
+        "llm",
+        "planning",
+        "reasoning",
+        "reasoning-language-models",
+        "reasoning-models",
+        "workflow"
+      ],
+      "created_at": "2026-08-05T10:26:26Z",
+      "updated_at": "2026-08-10T02:14:28Z",
       "rank": 8
     },
     {
@@ -208,7 +207,7 @@
       "description": "Curated collection of modular agent skills for LLM-based agents",
       "full_description": "Curated collection of modular agent skills for LLM-based agents",
       "language": "Python",
-      "stars": 146,
+      "stars": 134,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -227,8 +226,30 @@
         "python"
       ],
       "created_at": "2026-08-06T14:07:02Z",
-      "updated_at": "2026-08-08T12:52:13Z",
+      "updated_at": "2026-08-09T21:25:16Z",
       "rank": 9
+    },
+    {
+      "name": "GOROman/vibewatch",
+      "url": "https://github.com/GOROman/vibewatch",
+      "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
+      "full_description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
+      "language": "C++",
+      "stars": 114,
+      "stars_gained": 0,
+      "forks": 5,
+      "topics": [
+        "ai",
+        "ble-hid",
+        "esp32-s3",
+        "m5stack",
+        "m5stack-stopwatch",
+        "platformio",
+        "vibe-coding"
+      ],
+      "created_at": "2026-08-08T01:51:11Z",
+      "updated_at": "2026-08-10T02:16:04Z",
+      "rank": 10
     },
     {
       "name": "Hermes-brasil/hermes-brasil",
@@ -236,7 +257,7 @@
       "description": "Comunidade brasileira de Hermes Agent (Nous Research) — skills, guias e integrações em português.",
       "full_description": "Comunidade brasileira de Hermes Agent (Nous Research) — skills, guias e integrações em português.",
       "language": "",
-      "stars": 107,
+      "stars": 110,
       "stars_gained": 0,
       "forks": 5,
       "topics": [
@@ -254,102 +275,8 @@
         "skills"
       ],
       "created_at": "2026-08-03T18:03:18Z",
-      "updated_at": "2026-08-08T10:26:08Z",
-      "rank": 10
-    },
-    {
-      "name": "GOROman/vibewatch",
-      "url": "https://github.com/GOROman/vibewatch",
-      "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
-      "full_description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
-      "language": "C++",
-      "stars": 105,
-      "stars_gained": 0,
-      "forks": 4,
-      "topics": [
-        "ai",
-        "ble-hid",
-        "esp32-s3",
-        "m5stack",
-        "m5stack-stopwatch",
-        "platformio",
-        "vibe-coding"
-      ],
-      "created_at": "2026-08-08T01:51:11Z",
-      "updated_at": "2026-08-09T01:14:27Z",
+      "updated_at": "2026-08-10T00:39:11Z",
       "rank": 11
-    },
-    {
-      "name": "TOPDEV99999/AI-Knowledge-Management-Platform",
-      "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
-      "description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
-      "full_description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
-      "language": "Jupyter Notebook",
-      "stars": 93,
-      "stars_gained": 0,
-      "forks": 1,
-      "topics": [
-        "agentic-ai",
-        "ai",
-        "ai-agents",
-        "artificial-intelligence",
-        "generative-ai",
-        "large-language-models",
-        "llm",
-        "llm-agents"
-      ],
-      "created_at": "2026-08-03T07:36:22Z",
-      "updated_at": "2026-08-08T12:22:07Z",
-      "rank": 12
-    },
-    {
-      "name": "UditAkhourii/neuroarxiv",
-      "url": "https://github.com/UditAkhourii/neuroarxiv",
-      "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
-      "full_description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
-      "language": "TypeScript",
-      "stars": 89,
-      "stars_gained": 0,
-      "forks": 12,
-      "topics": [
-        "arxiv",
-        "arxiv-api",
-        "llm",
-        "planning",
-        "reasoning",
-        "reasoning-language-models",
-        "reasoning-models",
-        "workflow"
-      ],
-      "created_at": "2026-08-05T10:26:26Z",
-      "updated_at": "2026-08-09T02:30:34Z",
-      "rank": 13
-    },
-    {
-      "name": "calesthio/Resonant",
-      "url": "https://github.com/calesthio/Resonant",
-      "description": "Free, local AI music studio for Windows—generate songs, play instruments, arrange, mix, export WAV, and connect Codex or Claude through MCP.",
-      "full_description": "Free, local AI music studio for Windows—generate songs, play instruments, arrange, mix, export WAV, and connect Codex or Claude through MCP.",
-      "language": "TypeScript",
-      "stars": 87,
-      "stars_gained": 0,
-      "forks": 14,
-      "topics": [
-        "ace-step",
-        "ai-music",
-        "digital-audio-workstation",
-        "electron",
-        "generative-music",
-        "mcp",
-        "model-context-protocol",
-        "music-production",
-        "open-source",
-        "typescript",
-        "windows"
-      ],
-      "created_at": "2026-08-02T10:56:45Z",
-      "updated_at": "2026-08-08T17:52:53Z",
-      "rank": 14
     },
     {
       "name": "sosoj92/jarvis-assistant-vocal",
@@ -357,9 +284,9 @@
       "description": "Assistant vocal local en francais : Claude ou Ollama (offline), domotique Hue, OBS, agenda, navigateur, appels Twilio, serveur MCP. Python.",
       "full_description": "Assistant vocal local en francais : Claude ou Ollama (offline), domotique Hue, OBS, agenda, navigateur, appels Twilio, serveur MCP. Python.",
       "language": "Python",
-      "stars": 84,
+      "stars": 109,
       "stars_gained": 0,
-      "forks": 11,
+      "forks": 17,
       "topics": [
         "anthropic-claude",
         "browser-automation",
@@ -378,8 +305,58 @@
         "whisper"
       ],
       "created_at": "2026-08-07T15:30:20Z",
-      "updated_at": "2026-08-09T00:15:53Z",
-      "rank": 15
+      "updated_at": "2026-08-10T00:50:34Z",
+      "rank": 12
+    },
+    {
+      "name": "SaladDay/pi-from-scratch",
+      "url": "https://github.com/SaladDay/pi-from-scratch",
+      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "full_description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "language": "TypeScript",
+      "stars": 107,
+      "stars_gained": 0,
+      "forks": 6,
+      "topics": [
+        "agent-loop",
+        "ai-agent",
+        "coding-agent",
+        "llm",
+        "llm-agent",
+        "pi",
+        "pi-agent",
+        "tool-calling",
+        "typescript",
+        "typescript-tutorial"
+      ],
+      "created_at": "2026-08-09T12:15:30Z",
+      "updated_at": "2026-08-10T02:38:24Z",
+      "rank": 13
+    },
+    {
+      "name": "kogecodaviw9225/UNISWAP-ARBITRAGE-BOT",
+      "url": "https://github.com/kogecodaviw9225/UNISWAP-ARBITRAGE-BOT",
+      "description": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.",
+      "full_description": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.",
+      "language": "Solidity",
+      "stars": 86,
+      "stars_gained": 0,
+      "forks": 67,
+      "topics": [
+        "ai",
+        "binance",
+        "bitcoin",
+        "bot",
+        "btc",
+        "claude",
+        "deepseek",
+        "eth",
+        "gpt",
+        "uniswap"
+      ],
+      "created_at": "2026-08-09T23:57:14Z",
+      "updated_at": "2026-08-10T00:12:45Z",
+      "rank": 14
     },
     {
       "name": "Flaminis/Dalaran",
@@ -404,42 +381,7 @@
       ],
       "created_at": "2026-08-07T09:37:32Z",
       "updated_at": "2026-08-08T12:21:37Z",
-      "rank": 16
-    },
-    {
-      "name": "openwarehq/websiteprompts",
-      "url": "https://github.com/openwarehq/websiteprompts",
-      "description": "make beautiful 3d websites in one skill, plus 50+ website prompts for you to use. ",
-      "full_description": "make beautiful 3d websites in one skill, plus 50+ website prompts for you to use. ",
-      "language": "JavaScript",
-      "stars": 76,
-      "stars_gained": 0,
-      "forks": 6,
-      "topics": [
-        "agent-skills",
-        "ai",
-        "ai-tools",
-        "claude",
-        "claude-code",
-        "claude-skills",
-        "cursor",
-        "frontend",
-        "generative-ai",
-        "landing-page",
-        "llm",
-        "prompt-engineering",
-        "prompts",
-        "react",
-        "tailwindcss",
-        "typescript",
-        "ui-design",
-        "v0",
-        "vibe-coding",
-        "web-design"
-      ],
-      "created_at": "2026-08-02T04:49:19Z",
-      "updated_at": "2026-08-09T01:47:11Z",
-      "rank": 17
+      "rank": 15
     },
     {
       "name": "hike-lab/public-data-lens",
@@ -449,7 +391,7 @@
       "language": "Python",
       "stars": 75,
       "stars_gained": 0,
-      "forks": 18,
+      "forks": 19,
       "topics": [
         "ai-agents",
         "ai-ready-data",
@@ -469,7 +411,7 @@
       ],
       "created_at": "2026-08-03T02:02:25Z",
       "updated_at": "2026-08-08T19:21:00Z",
-      "rank": 18
+      "rank": 16
     },
     {
       "name": "wanmol/goal-flow",
@@ -477,7 +419,7 @@
       "description": "Graph-Orchestrated Agent Loop — a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to runnable code, swap wire protocols (Dify/OpenAI).",
       "full_description": "Graph-Orchestrated Agent Loop — a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to runnable code, swap wire protocols (Dify/OpenAI).",
       "language": "Python",
-      "stars": 71,
+      "stars": 72,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
@@ -502,8 +444,31 @@
         "python"
       ],
       "created_at": "2026-08-06T15:43:24Z",
-      "updated_at": "2026-08-07T11:14:09Z",
-      "rank": 19
+      "updated_at": "2026-08-09T06:29:29Z",
+      "rank": 17
+    },
+    {
+      "name": "kasturikhanke/generative-loaders",
+      "url": "https://github.com/kasturikhanke/generative-loaders",
+      "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
+      "full_description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
+      "language": "TypeScript",
+      "stars": 72,
+      "stars_gained": 0,
+      "forks": 4,
+      "topics": [
+        "accessibility",
+        "ai",
+        "animation",
+        "framer-motion",
+        "generative-ui",
+        "loader",
+        "react",
+        "typescript"
+      ],
+      "created_at": "2026-08-08T02:50:22Z",
+      "updated_at": "2026-08-10T02:04:08Z",
+      "rank": 18
     },
     {
       "name": "eticmedya/vibecodingex",
@@ -511,9 +476,9 @@
       "description": "AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fikri + satış pitch'i üret. Nuxt 4, SQLite, %100 yerel.",
       "full_description": "AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fikri + satış pitch'i üret. Nuxt 4, SQLite, %100 yerel.",
       "language": "Vue",
-      "stars": 71,
+      "stars": 70,
       "stars_gained": 0,
-      "forks": 18,
+      "forks": 19,
       "topics": [
         "ai",
         "gemini-api",
@@ -527,29 +492,38 @@
         "vue"
       ],
       "created_at": "2026-08-05T16:04:32Z",
-      "updated_at": "2026-08-08T16:52:33Z",
-      "rank": 20
+      "updated_at": "2026-08-09T21:11:21Z",
+      "rank": 19
     },
     {
-      "name": "talivia-group/agent",
-      "url": "https://github.com/talivia-group/agent",
-      "description": "Revenue-first website analytics installed and verified by AI agents through MCP",
-      "full_description": "Revenue-first website analytics installed and verified by AI agents through MCP",
-      "language": "JavaScript",
-      "stars": 62,
+      "name": "Juror-AI/juror",
+      "url": "https://github.com/Juror-AI/juror",
+      "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+      "full_description": "Cheaper and better Greptile alternative runs on your own github actions.",
+      "language": "TypeScript",
+      "stars": 66,
       "stars_gained": 0,
-      "forks": 0,
+      "forks": 9,
       "topics": [
-        "ai-agent",
-        "analytics",
-        "mcp",
-        "mcp-server",
-        "revenue-analytics",
-        "website-analytics"
+        "ai-agents",
+        "ai-code-review",
+        "cli",
+        "code-quality",
+        "code-review",
+        "codex",
+        "developer-tools",
+        "devtools",
+        "github-action",
+        "github-actions",
+        "llm",
+        "llmops",
+        "pull-request",
+        "static-analysis",
+        "typescript"
       ],
-      "created_at": "2026-08-02T09:32:39Z",
-      "updated_at": "2026-08-05T18:11:35Z",
-      "rank": 21
+      "created_at": "2026-08-06T12:24:49Z",
+      "updated_at": "2026-08-09T15:51:08Z",
+      "rank": 20
     },
     {
       "name": "shift-labs-ai/pi-rlm",
@@ -557,7 +531,7 @@
       "description": "A pi extension with a single tool: execute, running TypeScript in a persistent Bun evaluator. Files, shell, and subagents are expressed as code rather than as more tools.",
       "full_description": "A pi extension with a single tool: execute, running TypeScript in a persistent Bun evaluator. Files, shell, and subagents are expressed as code rather than as more tools.",
       "language": "TypeScript",
-      "stars": 61,
+      "stars": 65,
       "stars_gained": 0,
       "forks": 5,
       "topics": [
@@ -569,7 +543,24 @@
         "typescript"
       ],
       "created_at": "2026-08-06T13:45:45Z",
-      "updated_at": "2026-08-09T01:37:41Z",
+      "updated_at": "2026-08-09T16:16:27Z",
+      "rank": 21
+    },
+    {
+      "name": "p-e-w/lophius",
+      "url": "https://github.com/p-e-w/lophius",
+      "description": "A workbench for language model research",
+      "full_description": "A workbench for language model research",
+      "language": "Python",
+      "stars": 54,
+      "stars_gained": 0,
+      "forks": 2,
+      "topics": [
+        "llm",
+        "research"
+      ],
+      "created_at": "2026-08-09T14:11:31Z",
+      "updated_at": "2026-08-10T02:11:35Z",
       "rank": 22
     },
     {
@@ -629,31 +620,14 @@
       "rank": 24
     },
     {
-      "name": "sparkgeo/geo-mcp-servers",
-      "url": "https://github.com/sparkgeo/geo-mcp-servers",
-      "description": "A curated, tracked list of Model Context Protocol (MCP) servers for geospatial, GIS, mapping, and earth-observation work — geocoding, routing, PostGIS, STAC/imagery, QGIS/ArcGIS, weather, and the commercial location platforms.",
-      "full_description": "A curated, tracked list of Model Context Protocol (MCP) servers for geospatial, GIS, mapping, and earth-observation work — geocoding, routing, PostGIS, STAC/imagery, QGIS/ArcGIS, weather, and the commercial location platforms.",
-      "language": "Python",
-      "stars": 43,
-      "stars_gained": 0,
-      "forks": 6,
-      "topics": [
-        "geospatial",
-        "mcp"
-      ],
-      "created_at": "2026-08-02T21:55:50Z",
-      "updated_at": "2026-08-08T13:09:03Z",
-      "rank": 25
-    },
-    {
       "name": "reatlat/fullstory-claude-plugin",
       "url": "https://github.com/reatlat/fullstory-claude-plugin",
       "description": "",
       "full_description": "",
       "language": "",
-      "stars": 38,
+      "stars": 44,
       "stars_gained": 0,
-      "forks": 23,
+      "forks": 25,
       "topics": [
         "ai-skills",
         "analytics",
@@ -672,41 +646,27 @@
         "ux-research"
       ],
       "created_at": "2026-08-04T19:25:12Z",
-      "updated_at": "2026-08-09T00:53:25Z",
-      "rank": 26
+      "updated_at": "2026-08-10T02:27:39Z",
+      "rank": 25
     },
     {
-      "name": "worldbench/awesome-agentic-world-model",
-      "url": "https://github.com/worldbench/awesome-agentic-world-model",
-      "description": "🔥 Quo Vadis, World Modeling? Towards Interactive World Proxies for Continually Improving Agents",
-      "full_description": "🔥 Quo Vadis, World Modeling? Towards Interactive World Proxies for Continually Improving Agents",
-      "language": "HTML",
-      "stars": 35,
+      "name": "mintlify/index",
+      "url": "https://github.com/mintlify/index",
+      "description": "Mintlify Index: retrieval engine and MCP server. Install: npx mint index",
+      "full_description": "Mintlify Index: retrieval engine and MCP server. Install: npx mint index",
+      "language": "TypeScript",
+      "stars": 40,
       "stars_gained": 0,
-      "forks": 0,
+      "forks": 2,
       "topics": [
-        "agent",
-        "agentic",
-        "agentic-ai",
-        "agentic-world-model",
-        "agents",
-        "aigc",
-        "closed-loop",
-        "closed-loop-control",
-        "closed-loop-experiments",
-        "closed-loop-simulation",
-        "generation",
-        "generative-ai",
-        "image-generation",
-        "video-generation",
-        "world-model",
-        "world-modeling",
-        "world-models",
-        "world-models-rl"
+        "ai-agents",
+        "documentation",
+        "mcp",
+        "retrieval"
       ],
-      "created_at": "2026-08-02T00:18:26Z",
-      "updated_at": "2026-08-08T12:51:54Z",
-      "rank": 27
+      "created_at": "2026-08-05T22:27:42Z",
+      "updated_at": "2026-08-10T01:16:51Z",
+      "rank": 26
     },
     {
       "name": "Sentry-LLM/SentryLLM",
@@ -714,7 +674,7 @@
       "description": "AI Security Monitor — Real-time threat detection, prompt injection defense, and behavioral analysis for LLM-powered systems",
       "full_description": "AI Security Monitor — Real-time threat detection, prompt injection defense, and behavioral analysis for LLM-powered systems",
       "language": "TypeScript",
-      "stars": 35,
+      "stars": 36,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
@@ -730,8 +690,49 @@
         "typescript"
       ],
       "created_at": "2026-08-05T11:13:46Z",
-      "updated_at": "2026-08-07T01:00:18Z",
+      "updated_at": "2026-08-09T18:33:43Z",
+      "rank": 27
+    },
+    {
+      "name": "pulseaiclub/phi",
+      "url": "https://github.com/pulseaiclub/phi",
+      "description": "a coding Agent. Sub-agents, hashline edits, and a permission gate",
+      "full_description": "a coding Agent. Sub-agents, hashline edits, and a permission gate",
+      "language": "Go",
+      "stars": 36,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "ai",
+        "cli",
+        "coding-agent"
+      ],
+      "created_at": "2026-08-03T03:16:48Z",
+      "updated_at": "2026-08-10T02:12:04Z",
       "rank": 28
+    },
+    {
+      "name": "TOPDEV99999/AI-Knowledge-Management-Platform",
+      "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
+      "description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
+      "full_description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
+      "language": "Jupyter Notebook",
+      "stars": 35,
+      "stars_gained": 0,
+      "forks": 2,
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "ai-agents",
+        "artificial-intelligence",
+        "generative-ai",
+        "large-language-models",
+        "llm",
+        "llm-agents"
+      ],
+      "created_at": "2026-08-03T07:36:22Z",
+      "updated_at": "2026-08-10T00:52:54Z",
+      "rank": 29
     },
     {
       "name": "alijancb/bubble-agent-mcp",
@@ -753,25 +754,6 @@
       ],
       "created_at": "2026-08-06T06:50:40Z",
       "updated_at": "2026-08-08T13:41:55Z",
-      "rank": 29
-    },
-    {
-      "name": "mintlify/index",
-      "url": "https://github.com/mintlify/index",
-      "description": "Mintlify Index: retrieval engine and MCP server. Install: npx mint index",
-      "full_description": "Mintlify Index: retrieval engine and MCP server. Install: npx mint index",
-      "language": "TypeScript",
-      "stars": 33,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "ai-agents",
-        "documentation",
-        "mcp",
-        "retrieval"
-      ],
-      "created_at": "2026-08-05T22:27:42Z",
-      "updated_at": "2026-08-09T02:02:26Z",
       "rank": 30
     }
   ]
