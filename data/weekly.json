@@ -1,39 +1,52 @@
 {
-  "updated": "2026-08-11T02:33:52.967270+00:00",
+  "updated": "2026-08-12T03:03:34.586756+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
   "projects": [
     {
-      "name": "AMAP-ML/LongHorizon-Harness",
-      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "full_description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "name": "ShawnPana/phone-harness",
+      "url": "https://github.com/ShawnPana/phone-harness",
+      "description": "let your agent control your phone",
+      "full_description": "let your agent control your phone",
       "language": "Python",
-      "stars": 553,
+      "stars": 1519,
       "stars_gained": 0,
-      "forks": 67,
+      "forks": 130,
       "topics": [
         "agent",
-        "claude",
-        "claude-code",
-        "claude-plugin",
-        "cli",
-        "codex",
-        "codex-desktop",
-        "codex-plugin",
-        "cua",
-        "gui",
-        "harness",
-        "long-horizon",
-        "long-horizon-agents",
-        "longhorizon-harness",
-        "loop",
-        "loop-engineering"
+        "ai",
+        "automation",
+        "developer-tools"
       ],
-      "created_at": "2026-08-04T04:30:58Z",
-      "updated_at": "2026-08-11T02:24:49Z",
+      "created_at": "2026-08-07T22:28:53Z",
+      "updated_at": "2026-08-12T02:59:19Z",
       "rank": 1
+    },
+    {
+      "name": "Flaminis/Dalaran",
+      "url": "https://github.com/Flaminis/Dalaran",
+      "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+      "full_description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+      "language": "Rust",
+      "stars": 691,
+      "stars_gained": 0,
+      "forks": 52,
+      "topics": [
+        "apache2",
+        "computer-vision",
+        "lidar",
+        "pointcloud",
+        "python",
+        "robotics",
+        "ros2",
+        "rust",
+        "time-series",
+        "visualization"
+      ],
+      "created_at": "2026-08-07T09:37:32Z",
+      "updated_at": "2026-08-12T02:53:20Z",
+      "rank": 2
     },
     {
       "name": "sv-number/mcp-server",
@@ -41,7 +54,7 @@
       "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
       "full_description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
       "language": "JavaScript",
-      "stars": 552,
+      "stars": 618,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -62,99 +75,8 @@
         "windsurf"
       ],
       "created_at": "2026-08-07T11:13:26Z",
-      "updated_at": "2026-08-11T02:31:34Z",
-      "rank": 2
-    },
-    {
-      "name": "waiterve/wai-play",
-      "url": "https://github.com/waiterve/wai-play",
-      "description": "WAI Play - AI web game testing and quality evaluation platform",
-      "full_description": "WAI Play - AI web game testing and quality evaluation platform",
-      "language": "Python",
-      "stars": 298,
-      "stars_gained": 0,
-      "forks": 10,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "game",
-        "game-testing",
-        "python"
-      ],
-      "created_at": "2026-08-04T07:20:22Z",
-      "updated_at": "2026-08-11T02:27:33Z",
+      "updated_at": "2026-08-12T02:30:40Z",
       "rank": 3
-    },
-    {
-      "name": "UditAkhourii/neuroarxiv",
-      "url": "https://github.com/UditAkhourii/neuroarxiv",
-      "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
-      "full_description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
-      "language": "TypeScript",
-      "stars": 251,
-      "stars_gained": 0,
-      "forks": 28,
-      "topics": [
-        "arxiv",
-        "arxiv-api",
-        "llm",
-        "planning",
-        "reasoning",
-        "reasoning-language-models",
-        "reasoning-models",
-        "workflow"
-      ],
-      "created_at": "2026-08-05T10:26:26Z",
-      "updated_at": "2026-08-11T02:33:30Z",
-      "rank": 4
-    },
-    {
-      "name": "cristicretu/diri",
-      "url": "https://github.com/cristicretu/diri",
-      "description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
-      "full_description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
-      "language": "Rust",
-      "stars": 236,
-      "stars_gained": 0,
-      "forks": 18,
-      "topics": [
-        "claude-code",
-        "coding-agents",
-        "gpui",
-        "macos",
-        "mcp",
-        "rust",
-        "swift",
-        "terminal"
-      ],
-      "created_at": "2026-08-04T10:08:23Z",
-      "updated_at": "2026-08-10T05:38:01Z",
-      "rank": 5
-    },
-    {
-      "name": "antinomie-lab/pi-book",
-      "url": "https://github.com/antinomie-lab/pi-book",
-      "description": "Source-backed architecture notes on building an agent",
-      "full_description": "Source-backed architecture notes on building an agent",
-      "language": "Vue",
-      "stars": 236,
-      "stars_gained": 0,
-      "forks": 7,
-      "topics": [
-        "agent-loop",
-        "ai-agent",
-        "book",
-        "chinese",
-        "code-reading",
-        "llm",
-        "pi-agent",
-        "pi-agent-core",
-        "software-architecture",
-        "typescript"
-      ],
-      "created_at": "2026-08-07T17:14:43Z",
-      "updated_at": "2026-08-11T01:47:27Z",
-      "rank": 6
     },
     {
       "name": "SaladDay/pi-from-scratch",
@@ -162,9 +84,9 @@
       "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
       "full_description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
       "language": "TypeScript",
-      "stars": 217,
+      "stars": 565,
       "stars_gained": 0,
-      "forks": 13,
+      "forks": 38,
       "topics": [
         "agent-loop",
         "ai-agent",
@@ -178,7 +100,88 @@
         "typescript-tutorial"
       ],
       "created_at": "2026-08-09T12:15:30Z",
-      "updated_at": "2026-08-11T02:23:21Z",
+      "updated_at": "2026-08-12T03:02:25Z",
+      "rank": 4
+    },
+    {
+      "name": "UditAkhourii/neuroarxiv",
+      "url": "https://github.com/UditAkhourii/neuroarxiv",
+      "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
+      "full_description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
+      "language": "TypeScript",
+      "stars": 306,
+      "stars_gained": 0,
+      "forks": 35,
+      "topics": [
+        "arxiv",
+        "arxiv-api",
+        "llm",
+        "planning",
+        "reasoning",
+        "reasoning-language-models",
+        "reasoning-models",
+        "workflow"
+      ],
+      "created_at": "2026-08-05T10:26:26Z",
+      "updated_at": "2026-08-12T03:02:13Z",
+      "rank": 5
+    },
+    {
+      "name": "antinomie-lab/pi-book",
+      "url": "https://github.com/antinomie-lab/pi-book",
+      "description": "Source-backed architecture notes on building an agent",
+      "full_description": "Source-backed architecture notes on building an agent",
+      "language": "Vue",
+      "stars": 256,
+      "stars_gained": 0,
+      "forks": 6,
+      "topics": [
+        "agent-loop",
+        "ai-agent",
+        "book",
+        "chinese",
+        "code-reading",
+        "llm",
+        "pi-agent",
+        "pi-agent-core",
+        "software-architecture",
+        "typescript"
+      ],
+      "created_at": "2026-08-07T17:14:43Z",
+      "updated_at": "2026-08-12T02:22:43Z",
+      "rank": 6
+    },
+    {
+      "name": "oliverb-io1902e8/agent-skills-collection",
+      "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
+      "description": "Curated collection of modular agent skills for LLM-based agents",
+      "full_description": "Curated collection of modular agent skills for LLM-based agents",
+      "language": "Python",
+      "stars": 204,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "agent-skill",
+        "agent-skills",
+        "agentic-workflow",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "ai-model",
+        "ai-tools",
+        "automation",
+        "chatgpt",
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "claude-skills",
+        "developer-tools",
+        "llm",
+        "open-source",
+        "python"
+      ],
+      "created_at": "2026-08-06T14:07:02Z",
+      "updated_at": "2026-08-11T14:42:33Z",
       "rank": 7
     },
     {
@@ -187,9 +190,9 @@
       "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
       "full_description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
       "language": "Python",
-      "stars": 172,
+      "stars": 187,
       "stars_gained": 0,
-      "forks": 1,
+      "forks": 3,
       "topics": [
         "agent-evaluation-tools",
         "agent-framework",
@@ -210,61 +213,51 @@
         "self-evolving-agents"
       ],
       "created_at": "2026-08-08T15:49:55Z",
-      "updated_at": "2026-08-10T19:14:03Z",
+      "updated_at": "2026-08-12T01:11:55Z",
       "rank": 8
     },
     {
-      "name": "margelo/ai-chat-demo",
-      "url": "https://github.com/margelo/ai-chat-demo",
-      "description": " A ChatGPT-style mobile chat app in React Native with context about Margelo",
-      "full_description": " A ChatGPT-style mobile chat app in React Native with context about Margelo",
-      "language": "TypeScript",
-      "stars": 159,
-      "stars_gained": 0,
-      "forks": 14,
-      "topics": [
-        "ai",
-        "android",
-        "app",
-        "chat",
-        "chat-app",
-        "chatgpt",
-        "ios",
-        "react-native"
-      ],
-      "created_at": "2026-08-04T10:09:41Z",
-      "updated_at": "2026-08-10T19:08:27Z",
-      "rank": 9
-    },
-    {
-      "name": "oliverb-io1902e8/agent-skills-collection",
-      "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
-      "description": "Curated collection of modular agent skills for LLM-based agents",
-      "full_description": "Curated collection of modular agent skills for LLM-based agents",
-      "language": "Python",
-      "stars": 134,
+      "name": "surya-koritala/loomfeed",
+      "url": "https://github.com/surya-koritala/loomfeed",
+      "description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
+      "full_description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
+      "language": "Go",
+      "stars": 156,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
-        "agent-skills",
-        "agentic-workflow",
-        "ai",
-        "ai-agent",
         "ai-agents",
-        "ai-tools",
-        "automation",
-        "chatgpt",
-        "claude",
-        "claude-ai",
-        "claude-code",
-        "claude-skills",
-        "developer-tools",
-        "llm",
-        "open-source",
-        "python"
+        "community-platform",
+        "golang",
+        "mcp",
+        "nextjs",
+        "reddit-alternative",
+        "self-hosted",
+        "social-network"
       ],
-      "created_at": "2026-08-06T14:07:02Z",
-      "updated_at": "2026-08-10T22:26:01Z",
+      "created_at": "2026-08-09T19:28:09Z",
+      "updated_at": "2026-08-11T12:19:15Z",
+      "rank": 9
+    },
+    {
+      "name": "swping999/scene-card-studio",
+      "url": "https://github.com/swping999/scene-card-studio",
+      "description": "AI visual director for turning personal photos into structured, editable visual narratives.",
+      "full_description": "AI visual director for turning personal photos into structured, editable visual narratives.",
+      "language": "Python",
+      "stars": 147,
+      "stars_gained": 0,
+      "forks": 6,
+      "topics": [
+        "ai-tools",
+        "codex-skill",
+        "generative-ai",
+        "image-generation",
+        "photo-narrative",
+        "visual-storytelling"
+      ],
+      "created_at": "2026-08-09T03:25:19Z",
+      "updated_at": "2026-08-12T00:49:10Z",
       "rank": 10
     },
     {
@@ -273,9 +266,9 @@
       "description": "Assistant vocal local en francais : Claude ou Ollama (offline), domotique Hue, OBS, agenda, navigateur, appels Twilio, serveur MCP. Python.",
       "full_description": "Assistant vocal local en francais : Claude ou Ollama (offline), domotique Hue, OBS, agenda, navigateur, appels Twilio, serveur MCP. Python.",
       "language": "Python",
-      "stars": 118,
+      "stars": 125,
       "stars_gained": 0,
-      "forks": 18,
+      "forks": 21,
       "topics": [
         "anthropic-claude",
         "browser-automation",
@@ -294,7 +287,7 @@
         "whisper"
       ],
       "created_at": "2026-08-07T15:30:20Z",
-      "updated_at": "2026-08-11T00:32:04Z",
+      "updated_at": "2026-08-12T01:11:07Z",
       "rank": 11
     },
     {
@@ -303,7 +296,7 @@
       "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
       "full_description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
       "language": "C++",
-      "stars": 117,
+      "stars": 122,
       "stars_gained": 0,
       "forks": 5,
       "topics": [
@@ -316,8 +309,30 @@
         "vibe-coding"
       ],
       "created_at": "2026-08-08T01:51:11Z",
-      "updated_at": "2026-08-10T23:54:42Z",
+      "updated_at": "2026-08-11T18:20:38Z",
       "rank": 12
+    },
+    {
+      "name": "jundizhou/easy-stock",
+      "url": "https://github.com/jundizhou/easy-stock",
+      "description": "A 股行情分析与AI智能投研智能体--基于大模型",
+      "full_description": "A 股行情分析与AI智能投研智能体--基于大模型",
+      "language": "Go",
+      "stars": 112,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "a-share",
+        "ai-agent",
+        "china-stock",
+        "llm",
+        "stock",
+        "stock-analysis",
+        "trade"
+      ],
+      "created_at": "2026-08-07T16:25:36Z",
+      "updated_at": "2026-08-11T15:55:03Z",
+      "rank": 13
     },
     {
       "name": "kasturikhanke/generative-loaders",
@@ -325,7 +340,7 @@
       "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
       "full_description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
       "language": "TypeScript",
-      "stars": 99,
+      "stars": 102,
       "stars_gained": 0,
       "forks": 5,
       "topics": [
@@ -339,8 +354,57 @@
         "typescript"
       ],
       "created_at": "2026-08-08T02:50:22Z",
-      "updated_at": "2026-08-10T23:26:00Z",
-      "rank": 13
+      "updated_at": "2026-08-12T01:55:20Z",
+      "rank": 14
+    },
+    {
+      "name": "wanshuiyin/HERO-Anti-OverDefense",
+      "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense",
+      "description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
+      "full_description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
+      "language": "Markdown",
+      "stars": 94,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "agents-md",
+        "ai-agents",
+        "antigravity",
+        "claude-code",
+        "claude-md",
+        "codex",
+        "coding-agent",
+        "cursor",
+        "gemini-cli",
+        "github-copilot",
+        "llm",
+        "prompt-engineering",
+        "windsurf"
+      ],
+      "created_at": "2026-08-11T05:08:30Z",
+      "updated_at": "2026-08-12T02:35:01Z",
+      "rank": 15
+    },
+    {
+      "name": "dengzi008/DramaLens",
+      "url": "https://github.com/dengzi008/DramaLens",
+      "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
+      "full_description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
+      "language": "JavaScript",
+      "stars": 85,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai",
+        "chinese",
+        "chrome-extension",
+        "faster-whisper",
+        "local-first",
+        "speech-to-text"
+      ],
+      "created_at": "2026-08-11T03:58:26Z",
+      "updated_at": "2026-08-12T02:11:34Z",
+      "rank": 16
     },
     {
       "name": "wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
@@ -362,33 +426,25 @@
         "trand"
       ],
       "created_at": "2026-08-10T10:16:41Z",
-      "updated_at": "2026-08-11T02:33:29Z",
-      "rank": 14
+      "updated_at": "2026-08-12T03:02:41Z",
+      "rank": 17
     },
     {
-      "name": "eagerwrenmey8308/UNISWAP-ARBITRAGE-BOT",
-      "url": "https://github.com/eagerwrenmey8308/UNISWAP-ARBITRAGE-BOT",
-      "description": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.",
-      "full_description": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.",
-      "language": "Solidity",
-      "stars": 82,
+      "name": "p-e-w/lophius",
+      "url": "https://github.com/p-e-w/lophius",
+      "description": "A workbench for language model research",
+      "full_description": "A workbench for language model research",
+      "language": "Python",
+      "stars": 80,
       "stars_gained": 0,
-      "forks": 66,
+      "forks": 5,
       "topics": [
-        "ai",
-        "binance",
-        "bitcoin",
-        "bot",
-        "btc",
-        "claude",
-        "deepseek",
-        "eth",
-        "gpt",
-        "uniswap"
+        "llm",
+        "research"
       ],
-      "created_at": "2026-08-10T08:39:35Z",
-      "updated_at": "2026-08-11T02:33:37Z",
-      "rank": 15
+      "created_at": "2026-08-09T14:11:31Z",
+      "updated_at": "2026-08-12T00:15:29Z",
+      "rank": 18
     },
     {
       "name": "Juror-AI/juror",
@@ -396,9 +452,9 @@
       "description": "Cheaper and better Greptile alternative runs on your own github actions.",
       "full_description": "Cheaper and better Greptile alternative runs on your own github actions.",
       "language": "TypeScript",
-      "stars": 77,
+      "stars": 80,
       "stars_gained": 0,
-      "forks": 10,
+      "forks": 9,
       "topics": [
         "ai-agents",
         "ai-code-review",
@@ -417,50 +473,8 @@
         "typescript"
       ],
       "created_at": "2026-08-06T12:24:49Z",
-      "updated_at": "2026-08-10T23:31:38Z",
-      "rank": 16
-    },
-    {
-      "name": "Flaminis/Dalaran",
-      "url": "https://github.com/Flaminis/Dalaran",
-      "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
-      "full_description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
-      "language": "Rust",
-      "stars": 76,
-      "stars_gained": 0,
-      "forks": 47,
-      "topics": [
-        "apache2",
-        "computer-vision",
-        "lidar",
-        "pointcloud",
-        "python",
-        "robotics",
-        "ros2",
-        "rust",
-        "time-series",
-        "visualization"
-      ],
-      "created_at": "2026-08-07T09:37:32Z",
-      "updated_at": "2026-08-10T09:10:34Z",
-      "rank": 17
-    },
-    {
-      "name": "p-e-w/lophius",
-      "url": "https://github.com/p-e-w/lophius",
-      "description": "A workbench for language model research",
-      "full_description": "A workbench for language model research",
-      "language": "Python",
-      "stars": 75,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "llm",
-        "research"
-      ],
-      "created_at": "2026-08-09T14:11:31Z",
-      "updated_at": "2026-08-10T22:16:03Z",
-      "rank": 18
+      "updated_at": "2026-08-11T16:44:23Z",
+      "rank": 19
     },
     {
       "name": "iktok90-design/ai-smart-contract-auditor",
@@ -490,7 +504,28 @@
       ],
       "created_at": "2026-08-10T07:14:48Z",
       "updated_at": "2026-08-10T22:22:43Z",
-      "rank": 19
+      "rank": 20
+    },
+    {
+      "name": "shift-labs-ai/pi-rlm",
+      "url": "https://github.com/shift-labs-ai/pi-rlm",
+      "description": "A pi extension with a single tool: execute, running TypeScript in a persistent Bun evaluator. Files, shell, and subagents are expressed as code rather than as more tools.",
+      "full_description": "A pi extension with a single tool: execute, running TypeScript in a persistent Bun evaluator. Files, shell, and subagents are expressed as code rather than as more tools.",
+      "language": "TypeScript",
+      "stars": 72,
+      "stars_gained": 0,
+      "forks": 5,
+      "topics": [
+        "agent",
+        "bun",
+        "llm-tools",
+        "pi",
+        "repl",
+        "typescript"
+      ],
+      "created_at": "2026-08-06T13:45:45Z",
+      "updated_at": "2026-08-11T22:08:33Z",
+      "rank": 21
     },
     {
       "name": "wanmol/goal-flow",
@@ -523,8 +558,8 @@
         "python"
       ],
       "created_at": "2026-08-06T15:43:24Z",
-      "updated_at": "2026-08-10T03:30:26Z",
-      "rank": 20
+      "updated_at": "2026-08-11T07:55:42Z",
+      "rank": 22
     },
     {
       "name": "eticmedya/vibecodingex",
@@ -549,57 +584,6 @@
       ],
       "created_at": "2026-08-05T16:04:32Z",
       "updated_at": "2026-08-09T21:11:21Z",
-      "rank": 21
-    },
-    {
-      "name": "shift-labs-ai/pi-rlm",
-      "url": "https://github.com/shift-labs-ai/pi-rlm",
-      "description": "A pi extension with a single tool: execute, running TypeScript in a persistent Bun evaluator. Files, shell, and subagents are expressed as code rather than as more tools.",
-      "full_description": "A pi extension with a single tool: execute, running TypeScript in a persistent Bun evaluator. Files, shell, and subagents are expressed as code rather than as more tools.",
-      "language": "TypeScript",
-      "stars": 68,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "agent",
-        "bun",
-        "llm-tools",
-        "pi",
-        "repl",
-        "typescript"
-      ],
-      "created_at": "2026-08-06T13:45:45Z",
-      "updated_at": "2026-08-10T20:45:34Z",
-      "rank": 22
-    },
-    {
-      "name": "reatlat/fullstory-claude-plugin",
-      "url": "https://github.com/reatlat/fullstory-claude-plugin",
-      "description": "",
-      "full_description": "",
-      "language": "",
-      "stars": 64,
-      "stars_gained": 0,
-      "forks": 30,
-      "topics": [
-        "ai-skills",
-        "analytics",
-        "claude",
-        "claude-code",
-        "claude-plugin",
-        "cursor",
-        "cursor-plugin",
-        "developer-tools",
-        "fullstory",
-        "fullstory-mcp",
-        "mcp",
-        "model-context-protocol",
-        "product-analytics",
-        "session-replay",
-        "ux-research"
-      ],
-      "created_at": "2026-08-04T19:25:12Z",
-      "updated_at": "2026-08-10T19:29:56Z",
       "rank": 23
     },
     {
@@ -608,7 +592,7 @@
       "description": "A block-based content engine and bilingual blog backend for Laravel  Gutenberg-style editor, media library, post templates, roles, and an AI writing assistant, with zero host coupling.",
       "full_description": "A block-based content engine and bilingual blog backend for Laravel  Gutenberg-style editor, media library, post templates, roles, and an AI writing assistant, with zero host coupling.",
       "language": "PHP",
-      "stars": 56,
+      "stars": 61,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -619,7 +603,7 @@
         "mcp"
       ],
       "created_at": "2026-08-05T11:05:07Z",
-      "updated_at": "2026-08-10T18:10:04Z",
+      "updated_at": "2026-08-11T11:13:12Z",
       "rank": 24
     },
     {
@@ -628,9 +612,9 @@
       "description": "Agentic Infrastructure & Governance Layer for NestJS",
       "full_description": "Agentic Infrastructure & Governance Layer for NestJS",
       "language": "TypeScript",
-      "stars": 51,
+      "stars": 58,
       "stars_gained": 0,
-      "forks": 6,
+      "forks": 11,
       "topics": [
         "agent",
         "agentic",
@@ -639,8 +623,29 @@
         "nestjs-backend"
       ],
       "created_at": "2026-08-07T19:12:21Z",
-      "updated_at": "2026-08-11T02:26:22Z",
+      "updated_at": "2026-08-12T02:03:40Z",
       "rank": 25
+    },
+    {
+      "name": "Jaxton07/pi-desktop",
+      "url": "https://github.com/Jaxton07/pi-desktop",
+      "description": "pi-desktop Minimalist desktop GUI for the Pi coding agent — the same engine as the Pi CLI, in a clean visual interface. Multi-session chat, visual tool approvals, and custom themes.",
+      "full_description": "pi-desktop Minimalist desktop GUI for the Pi coding agent — the same engine as the Pi CLI, in a clean visual interface. Multi-session chat, visual tool approvals, and custom themes.",
+      "language": "TypeScript",
+      "stars": 53,
+      "stars_gained": 0,
+      "forks": 4,
+      "topics": [
+        "agent",
+        "ai-agent",
+        "desktop-app",
+        "gui",
+        "pi",
+        "pi-desktop"
+      ],
+      "created_at": "2026-08-08T04:37:46Z",
+      "updated_at": "2026-08-12T02:27:32Z",
+      "rank": 26
     },
     {
       "name": "zhiningsun/industrial-mcp",
@@ -648,7 +653,7 @@
       "description": "将工业设备变成 AI 可控工具的 MCP 服务器。支持 Modbus、OPC UA、MQTT 三种协议，内置设备仿真引擎、物理模型和完整的调试工具链。让 Claude 用自然语言监控传感器、启停电机、执行工厂巡检。",
       "full_description": "将工业设备变成 AI 可控工具的 MCP 服务器。支持 Modbus、OPC UA、MQTT 三种协议，内置设备仿真引擎、物理模型和完整的调试工具链。让 Claude 用自然语言监控传感器、启停电机、执行工厂巡检。",
       "language": "Python",
-      "stars": 51,
+      "stars": 50,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
@@ -674,54 +679,8 @@
         "simulation"
       ],
       "created_at": "2026-08-09T14:31:15Z",
-      "updated_at": "2026-08-11T01:38:42Z",
-      "rank": 26
-    },
-    {
-      "name": "Sparkfetch/sparkfetch",
-      "url": "https://github.com/Sparkfetch/sparkfetch",
-      "description": "🔥 Turn any URL into clean, structured, LLM-ready content. The open-source web fetching & extraction API.",
-      "full_description": "🔥 Turn any URL into clean, structured, LLM-ready content. The open-source web fetching & extraction API.",
-      "language": "TypeScript",
-      "stars": 45,
-      "stars_gained": 0,
-      "forks": 9,
-      "topics": [
-        "ai",
-        "api",
-        "content-extraction",
-        "data-extraction",
-        "html-to-markdown",
-        "llm",
-        "nodejs",
-        "open-source",
-        "rag",
-        "typescript",
-        "web-crawler",
-        "web-scraping"
-      ],
-      "created_at": "2026-08-05T00:23:26Z",
-      "updated_at": "2026-08-07T22:57:20Z",
+      "updated_at": "2026-08-11T15:58:11Z",
       "rank": 27
-    },
-    {
-      "name": "mintlify/index",
-      "url": "https://github.com/mintlify/index",
-      "description": "Mintlify Index: retrieval engine and MCP server. Install: npx mint index",
-      "full_description": "Mintlify Index: retrieval engine and MCP server. Install: npx mint index",
-      "language": "TypeScript",
-      "stars": 42,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "ai-agents",
-        "documentation",
-        "mcp",
-        "retrieval"
-      ],
-      "created_at": "2026-08-05T22:27:42Z",
-      "updated_at": "2026-08-11T00:31:53Z",
-      "rank": 28
     },
     {
       "name": "open-video-ai/open-video",
@@ -729,7 +688,7 @@
       "description": "Open-source video generation — Ollama for MiniMax H3. Local director on ComfyUI.",
       "full_description": "Open-source video generation — Ollama for MiniMax H3. Local director on ComfyUI.",
       "language": "Python",
-      "stars": 36,
+      "stars": 49,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
@@ -741,32 +700,55 @@
         "video-generation"
       ],
       "created_at": "2026-08-07T05:20:57Z",
-      "updated_at": "2026-08-11T01:35:58Z",
+      "updated_at": "2026-08-12T02:07:37Z",
+      "rank": 28
+    },
+    {
+      "name": "vlinx-io/VelaTerm",
+      "url": "https://github.com/vlinx-io/VelaTerm",
+      "description": "The best terminal for AI Coding",
+      "full_description": "The best terminal for AI Coding",
+      "language": "TypeScript",
+      "stars": 47,
+      "stars_gained": 0,
+      "forks": 4,
+      "topics": [
+        "ai",
+        "ai-agent",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "developer-tools",
+        "react",
+        "rust",
+        "tauri",
+        "tauri2",
+        "terminal",
+        "terminal-emulator",
+        "tmux"
+      ],
+      "created_at": "2026-08-09T02:29:46Z",
+      "updated_at": "2026-08-12T02:57:13Z",
       "rank": 29
     },
     {
-      "name": "Sentry-LLM/SentryLLM",
-      "url": "https://github.com/Sentry-LLM/SentryLLM",
-      "description": "AI Security Monitor — Real-time threat detection, prompt injection defense, and behavioral analysis for LLM-powered systems",
-      "full_description": "AI Security Monitor — Real-time threat detection, prompt injection defense, and behavioral analysis for LLM-powered systems",
+      "name": "mintlify/index",
+      "url": "https://github.com/mintlify/index",
+      "description": "Mintlify Index: retrieval engine and MCP server. Install: npx mint index",
+      "full_description": "Mintlify Index: retrieval engine and MCP server. Install: npx mint index",
       "language": "TypeScript",
-      "stars": 36,
+      "stars": 45,
       "stars_gained": 0,
-      "forks": 1,
+      "forks": 2,
       "topics": [
-        "ai-security",
-        "jailbreak-detection",
-        "llm",
-        "llm-security",
-        "monitoring",
-        "openai",
-        "owasp",
-        "prompt-injection",
-        "security",
-        "typescript"
+        "ai-agents",
+        "documentation",
+        "mcp",
+        "retrieval"
       ],
-      "created_at": "2026-08-05T11:13:46Z",
-      "updated_at": "2026-08-09T18:33:43Z",
+      "created_at": "2026-08-05T22:27:42Z",
+      "updated_at": "2026-08-11T09:28:15Z",
       "rank": 30
     }
   ]
