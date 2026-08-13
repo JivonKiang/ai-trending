@@ -1,18 +1,37 @@
 {
-  "updated": "2026-08-12T03:03:35.446425+00:00",
+  "updated": "2026-08-13T03:06:33.503590+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
   "projects": [
+    {
+      "name": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "description": "Multiplayer agent harness for work. https://qm.ycombinator.com",
+      "full_description": "Multiplayer agent harness for work. https://qm.ycombinator.com",
+      "language": "TypeScript",
+      "stars": 13248,
+      "stars_gained": 0,
+      "forks": 1545,
+      "topics": [
+        "ai",
+        "assistant",
+        "harness",
+        "qm"
+      ],
+      "created_at": "2026-07-29T20:03:08Z",
+      "updated_at": "2026-08-13T03:04:52Z",
+      "rank": 1
+    },
     {
       "name": "drumih/turbo-fieldfare",
       "url": "https://github.com/drumih/turbo-fieldfare",
       "description": "Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook",
       "full_description": "Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook",
       "language": "Swift",
-      "stars": 5760,
+      "stars": 5885,
       "stars_gained": 0,
-      "forks": 337,
+      "forks": 350,
       "topics": [
         "apple-silicon",
         "gemma",
@@ -29,8 +48,8 @@
         "swift"
       ],
       "created_at": "2026-07-17T15:57:54Z",
-      "updated_at": "2026-08-12T03:01:36Z",
-      "rank": 1
+      "updated_at": "2026-08-13T02:26:19Z",
+      "rank": 2
     },
     {
       "name": "FareedKhan-dev/kimi-k3-in-c",
@@ -38,9 +57,9 @@
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "full_description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
-      "stars": 4925,
+      "stars": 5242,
       "stars_gained": 0,
-      "forks": 785,
+      "forks": 844,
       "topics": [
         "avx2",
         "c99",
@@ -64,8 +83,8 @@
         "zero-dependencies"
       ],
       "created_at": "2026-08-01T09:29:38Z",
-      "updated_at": "2026-08-12T03:00:43Z",
-      "rank": 2
+      "updated_at": "2026-08-13T03:06:10Z",
+      "rank": 3
     },
     {
       "name": "kirodotdev/KiroCrew",
@@ -73,9 +92,9 @@
       "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
       "full_description": "A persistent workspace for development work that self-improves and continues beyond one session.",
       "language": "Python",
-      "stars": 2706,
+      "stars": 2784,
       "stars_gained": 0,
-      "forks": 250,
+      "forks": 270,
       "topics": [
         "agent",
         "agentic-ai",
@@ -88,31 +107,7 @@
         "llm"
       ],
       "created_at": "2026-07-16T21:21:54Z",
-      "updated_at": "2026-08-12T02:33:53Z",
-      "rank": 3
-    },
-    {
-      "name": "MIgHTy-alIeN/ai-trader-bot",
-      "url": "https://github.com/MIgHTy-alIeN/ai-trader-bot",
-      "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-      "full_description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-      "language": "Solidity",
-      "stars": 2676,
-      "stars_gained": 0,
-      "forks": 1896,
-      "topics": [
-        "ai",
-        "aitradingbot",
-        "bot",
-        "btc",
-        "claude",
-        "eth",
-        "etherlab",
-        "mev",
-        "mevbots"
-      ],
-      "created_at": "2026-07-17T09:45:22Z",
-      "updated_at": "2026-08-12T03:03:02Z",
+      "updated_at": "2026-08-13T03:05:31Z",
       "rank": 4
     },
     {
@@ -121,9 +116,9 @@
       "description": "Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
       "full_description": "Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
       "language": "TypeScript",
-      "stars": 2582,
+      "stars": 2739,
       "stars_gained": 0,
-      "forks": 480,
+      "forks": 502,
       "topics": [
         "ai",
         "cross-platform",
@@ -147,8 +142,54 @@
         "xlsx"
       ],
       "created_at": "2026-07-31T09:40:58Z",
-      "updated_at": "2026-08-12T03:01:58Z",
+      "updated_at": "2026-08-13T03:01:49Z",
       "rank": 5
+    },
+    {
+      "name": "MIgHTy-alIeN/ai-trader-bot",
+      "url": "https://github.com/MIgHTy-alIeN/ai-trader-bot",
+      "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "full_description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "language": "Solidity",
+      "stars": 2680,
+      "stars_gained": 0,
+      "forks": 1897,
+      "topics": [
+        "ai",
+        "aitradingbot",
+        "bot",
+        "btc",
+        "claude",
+        "eth",
+        "etherlab",
+        "mev",
+        "mevbots"
+      ],
+      "created_at": "2026-07-17T09:45:22Z",
+      "updated_at": "2026-08-13T03:06:26Z",
+      "rank": 6
+    },
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "full_description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "language": "Python",
+      "stars": 2622,
+      "stars_gained": 0,
+      "forks": 252,
+      "topics": [
+        "agent-skill",
+        "ai",
+        "c2pa",
+        "claude",
+        "provenance",
+        "synthid",
+        "watermark"
+      ],
+      "created_at": "2026-08-11T16:32:38Z",
+      "updated_at": "2026-08-13T03:06:18Z",
+      "rank": 7
     },
     {
       "name": "Jakubantalik/thinking-orbs",
@@ -156,9 +197,9 @@
       "description": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
       "full_description": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
       "language": "TypeScript",
-      "stars": 2263,
+      "stars": 2292,
       "stars_gained": 0,
-      "forks": 176,
+      "forks": 179,
       "topics": [
         "ai",
         "ai-agents",
@@ -168,8 +209,8 @@
         "ux"
       ],
       "created_at": "2026-07-21T07:01:53Z",
-      "updated_at": "2026-08-12T02:44:42Z",
-      "rank": 6
+      "updated_at": "2026-08-13T02:25:50Z",
+      "rank": 8
     },
     {
       "name": "QwenAudio/qwen-audio-agent",
@@ -177,9 +218,9 @@
       "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "full_description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "language": "JavaScript",
-      "stars": 2088,
+      "stars": 2103,
       "stars_gained": 0,
-      "forks": 159,
+      "forks": 163,
       "topics": [
         "acp",
         "agent",
@@ -196,8 +237,8 @@
         "voice-chat"
       ],
       "created_at": "2026-07-27T05:04:26Z",
-      "updated_at": "2026-08-12T02:46:27Z",
-      "rank": 7
+      "updated_at": "2026-08-13T02:56:16Z",
+      "rank": 9
     },
     {
       "name": "penecho/penecho",
@@ -205,9 +246,9 @@
       "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
       "full_description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
       "language": "JavaScript",
-      "stars": 2025,
+      "stars": 2042,
       "stars_gained": 0,
-      "forks": 246,
+      "forks": 247,
       "topics": [
         "ai",
         "canvas",
@@ -219,8 +260,8 @@
         "visual-thinking"
       ],
       "created_at": "2026-07-14T14:45:23Z",
-      "updated_at": "2026-08-12T02:31:09Z",
-      "rank": 8
+      "updated_at": "2026-08-13T00:42:18Z",
+      "rank": 10
     },
     {
       "name": "makecindy/cindy",
@@ -228,9 +269,9 @@
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "full_description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
-      "stars": 2003,
+      "stars": 2030,
       "stars_gained": 0,
-      "forks": 255,
+      "forks": 260,
       "topics": [
         "agent",
         "ai-agent",
@@ -247,8 +288,8 @@
         "windows"
       ],
       "created_at": "2026-07-22T17:49:34Z",
-      "updated_at": "2026-08-12T02:28:10Z",
-      "rank": 9
+      "updated_at": "2026-08-13T02:55:50Z",
+      "rank": 11
     },
     {
       "name": "Kritt-ai/open-kritt",
@@ -256,9 +297,9 @@
       "description": "Open-source, self-hosted AI vulnerability research tool that orchestrates agents to find and validate security issues in code.",
       "full_description": "Open-source, self-hosted AI vulnerability research tool that orchestrates agents to find and validate security issues in code.",
       "language": "JavaScript",
-      "stars": 1671,
+      "stars": 1689,
       "stars_gained": 0,
-      "forks": 292,
+      "forks": 295,
       "topics": [
         "ai",
         "ai-agents",
@@ -277,8 +318,8 @@
         "vulnerability-scanner"
       ],
       "created_at": "2026-07-20T20:26:24Z",
-      "updated_at": "2026-08-12T01:09:33Z",
-      "rank": 10
+      "updated_at": "2026-08-13T02:34:32Z",
+      "rank": 12
     },
     {
       "name": "ShawnPana/phone-harness",
@@ -286,9 +327,9 @@
       "description": "let your agent control your phone",
       "full_description": "let your agent control your phone",
       "language": "Python",
-      "stars": 1519,
+      "stars": 1651,
       "stars_gained": 0,
-      "forks": 130,
+      "forks": 145,
       "topics": [
         "agent",
         "ai",
@@ -296,36 +337,34 @@
         "developer-tools"
       ],
       "created_at": "2026-08-07T22:28:53Z",
-      "updated_at": "2026-08-12T02:59:19Z",
-      "rank": 11
+      "updated_at": "2026-08-13T03:02:53Z",
+      "rank": 13
     },
     {
       "name": "Prism-Shadow/penguin-harness",
       "url": "https://github.com/Prism-Shadow/penguin-harness",
-      "description": "🐧 Create Your Self-Evolving Agents in One Click with DeepSeek/Kimi/GPT/Claude/Gemini",
-      "full_description": "🐧 Create Your Self-Evolving Agents in One Click with DeepSeek/Kimi/GPT/Claude/Gemini",
+      "description": "🐧 Harness for RSI. AI Build Better AI",
+      "full_description": "🐧 Harness for RSI. AI Build Better AI",
       "language": "TypeScript",
-      "stars": 1188,
+      "stars": 1237,
       "stars_gained": 0,
-      "forks": 114,
+      "forks": 118,
       "topics": [
         "agent",
         "agentic-ai",
         "ai",
-        "ai-product",
         "build-tool",
         "claude-code",
         "deepseek",
         "desktop",
         "harness",
         "llm",
-        "productivity",
-        "skills",
-        "workflow"
+        "rsi",
+        "self-evolving"
       ],
       "created_at": "2026-07-19T03:15:21Z",
-      "updated_at": "2026-08-12T03:01:20Z",
-      "rank": 12
+      "updated_at": "2026-08-13T02:53:07Z",
+      "rank": 14
     },
     {
       "name": "Paritok-official/paritok-4b-v1",
@@ -333,9 +372,9 @@
       "description": "Non-destructive compression gateway for AI coding agents. Cuts token bills 25% on turn 1 to past 85% in long or saturated sessions, and fits ~3× more turns in the same context window. Powered by our open-source code-native 4B model. Drop-in for Claude Code, Cursor, Codex, OpenHands, and any BASE_URL agent.",
       "full_description": "Non-destructive compression gateway for AI coding agents. Cuts token bills 25% on turn 1 to past 85% in long or saturated sessions, and fits ~3× more turns in the same context window. Powered by our open-source code-native 4B model. Drop-in for Claude Code, Cursor, Codex, OpenHands, and any BASE_URL agent.",
       "language": "Python",
-      "stars": 1031,
+      "stars": 1116,
       "stars_gained": 0,
-      "forks": 118,
+      "forks": 125,
       "topics": [
         "agentic-coding",
         "ai",
@@ -348,8 +387,8 @@
         "token-optimization"
       ],
       "created_at": "2026-07-15T10:23:15Z",
-      "updated_at": "2026-08-11T19:59:02Z",
-      "rank": 13
+      "updated_at": "2026-08-13T02:58:04Z",
+      "rank": 15
     },
     {
       "name": "0xsline/OpenChatCut",
@@ -357,9 +396,9 @@
       "description": "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering.",
       "full_description": "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering.",
       "language": "TypeScript",
-      "stars": 1030,
+      "stars": 1075,
       "stars_gained": 0,
-      "forks": 135,
+      "forks": 140,
       "topics": [
         "agent-skills",
         "agentic-ai",
@@ -383,8 +422,33 @@
         "video-editor"
       ],
       "created_at": "2026-07-15T02:49:42Z",
-      "updated_at": "2026-08-12T02:46:17Z",
-      "rank": 14
+      "updated_at": "2026-08-13T03:01:30Z",
+      "rank": 16
+    },
+    {
+      "name": "Flaminis/Dalaran",
+      "url": "https://github.com/Flaminis/Dalaran",
+      "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+      "full_description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+      "language": "Rust",
+      "stars": 889,
+      "stars_gained": 0,
+      "forks": 55,
+      "topics": [
+        "apache2",
+        "computer-vision",
+        "lidar",
+        "pointcloud",
+        "python",
+        "robotics",
+        "ros2",
+        "rust",
+        "time-series",
+        "visualization"
+      ],
+      "created_at": "2026-08-07T09:37:32Z",
+      "updated_at": "2026-08-13T02:22:39Z",
+      "rank": 17
     },
     {
       "name": "miuuyy/codex-chatgpt-web",
@@ -392,9 +456,9 @@
       "description": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.",
       "full_description": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.",
       "language": "TypeScript",
-      "stars": 850,
+      "stars": 870,
       "stars_gained": 0,
-      "forks": 99,
+      "forks": 103,
       "topics": [
         "chatgpt",
         "chatgpt-pro",
@@ -408,8 +472,54 @@
         "typescript"
       ],
       "created_at": "2026-07-26T13:04:44Z",
-      "updated_at": "2026-08-12T02:16:07Z",
-      "rank": 15
+      "updated_at": "2026-08-13T03:05:23Z",
+      "rank": 18
+    },
+    {
+      "name": "hahhforest/pi-textbook",
+      "url": "https://github.com/hahhforest/pi-textbook",
+      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "full_description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "language": "TypeScript",
+      "stars": 849,
+      "stars_gained": 0,
+      "forks": 57,
+      "topics": [
+        "agent-engineering",
+        "ai-agent",
+        "chinese",
+        "llm",
+        "textbook",
+        "typescript"
+      ],
+      "created_at": "2026-07-21T04:17:35Z",
+      "updated_at": "2026-08-13T03:01:50Z",
+      "rank": 19
+    },
+    {
+      "name": "SaladDay/pi-from-scratch",
+      "url": "https://github.com/SaladDay/pi-from-scratch",
+      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "full_description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "language": "TypeScript",
+      "stars": 797,
+      "stars_gained": 0,
+      "forks": 52,
+      "topics": [
+        "agent-loop",
+        "ai-agent",
+        "coding-agent",
+        "llm",
+        "llm-agent",
+        "pi",
+        "pi-agent",
+        "tool-calling",
+        "typescript",
+        "typescript-tutorial"
+      ],
+      "created_at": "2026-08-09T12:15:30Z",
+      "updated_at": "2026-08-13T03:04:17Z",
+      "rank": 20
     },
     {
       "name": "bytedoger/awesome-OpenPrice",
@@ -417,7 +527,7 @@
       "description": "开源的 AI 订阅价格聚合与比价平台，收录 ChatGPT、Claude、Gemini、Grok、Cursor 等产品的官方订阅价格和卡网渠道报价，帮助用户快速查询并比较不同购买渠道。",
       "full_description": "开源的 AI 订阅价格聚合与比价平台，收录 ChatGPT、Claude、Gemini、Grok、Cursor 等产品的官方订阅价格和卡网渠道报价，帮助用户快速查询并比较不同购买渠道。",
       "language": "TypeScript",
-      "stars": 776,
+      "stars": 785,
       "stars_gained": 0,
       "forks": 43,
       "topics": [
@@ -434,29 +544,66 @@
         "sd2"
       ],
       "created_at": "2026-07-16T06:28:46Z",
-      "updated_at": "2026-08-12T01:44:46Z",
-      "rank": 16
+      "updated_at": "2026-08-13T02:27:57Z",
+      "rank": 21
     },
     {
-      "name": "hahhforest/pi-textbook",
-      "url": "https://github.com/hahhforest/pi-textbook",
-      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "full_description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "language": "TypeScript",
-      "stars": 771,
+      "name": "Pan-Chera/Multi-Agent-CAD",
+      "url": "https://github.com/Pan-Chera/Multi-Agent-CAD",
+      "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
+      "full_description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
+      "language": "Python",
+      "stars": 772,
       "stars_gained": 0,
-      "forks": 54,
+      "forks": 69,
       "topics": [
-        "agent-engineering",
-        "ai-agent",
-        "chinese",
+        "3d-modeling",
+        "3d-printing",
+        "agent-pipeline",
+        "aider",
+        "build123d",
+        "cad",
+        "generative-design",
+        "langgraph",
         "llm",
-        "textbook",
-        "typescript"
+        "llm-agent",
+        "mechanical-engineering",
+        "multi-agent",
+        "opencascade",
+        "qwen",
+        "step",
+        "step-file",
+        "text-to-3d",
+        "text-to-cad"
       ],
-      "created_at": "2026-07-21T04:17:35Z",
-      "updated_at": "2026-08-12T01:26:11Z",
-      "rank": 17
+      "created_at": "2026-07-30T17:19:26Z",
+      "updated_at": "2026-08-13T02:35:08Z",
+      "rank": 22
+    },
+    {
+      "name": "Pinvou/pinvou-agent",
+      "url": "https://github.com/Pinvou/pinvou-agent",
+      "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
+      "full_description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
+      "language": "JavaScript",
+      "stars": 684,
+      "stars_gained": 0,
+      "forks": 96,
+      "topics": [
+        "ai-agent",
+        "automation",
+        "desktop-app",
+        "llm",
+        "local-first",
+        "mcp",
+        "open-source",
+        "react",
+        "rust",
+        "tauri"
+      ],
+      "created_at": "2026-07-24T07:28:41Z",
+      "updated_at": "2026-08-13T02:54:41Z",
+      "rank": 23
     },
     {
       "name": "MaxFreedomPollard/Compartment",
@@ -464,7 +611,7 @@
       "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creation, storage and retrieval.",
       "full_description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creation, storage and retrieval.",
       "language": "Python",
-      "stars": 743,
+      "stars": 676,
       "stars_gained": 0,
       "forks": 3,
       "topics": [
@@ -490,66 +637,8 @@
         "vector-database"
       ],
       "created_at": "2026-07-20T13:43:56Z",
-      "updated_at": "2026-08-12T00:08:41Z",
-      "rank": 18
-    },
-    {
-      "name": "Pan-Chera/Multi-Agent-CAD",
-      "url": "https://github.com/Pan-Chera/Multi-Agent-CAD",
-      "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
-      "full_description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
-      "language": "Python",
-      "stars": 741,
-      "stars_gained": 0,
-      "forks": 63,
-      "topics": [
-        "3d-modeling",
-        "3d-printing",
-        "agent-pipeline",
-        "aider",
-        "build123d",
-        "cad",
-        "generative-design",
-        "langgraph",
-        "llm",
-        "llm-agent",
-        "mechanical-engineering",
-        "multi-agent",
-        "opencascade",
-        "qwen",
-        "step",
-        "step-file",
-        "text-to-3d",
-        "text-to-cad"
-      ],
-      "created_at": "2026-07-30T17:19:26Z",
-      "updated_at": "2026-08-12T02:48:38Z",
-      "rank": 19
-    },
-    {
-      "name": "Flaminis/Dalaran",
-      "url": "https://github.com/Flaminis/Dalaran",
-      "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
-      "full_description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
-      "language": "Rust",
-      "stars": 691,
-      "stars_gained": 0,
-      "forks": 52,
-      "topics": [
-        "apache2",
-        "computer-vision",
-        "lidar",
-        "pointcloud",
-        "python",
-        "robotics",
-        "ros2",
-        "rust",
-        "time-series",
-        "visualization"
-      ],
-      "created_at": "2026-08-07T09:37:32Z",
-      "updated_at": "2026-08-12T02:53:20Z",
-      "rank": 20
+      "updated_at": "2026-08-12T20:41:38Z",
+      "rank": 24
     },
     {
       "name": "MemTensor/memmy-agent",
@@ -557,9 +646,9 @@
       "description": "🍙  A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex, OpenClaw and Hermes Agent etc.",
       "full_description": "🍙  A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex, OpenClaw and Hermes Agent etc.",
       "language": "TypeScript",
-      "stars": 649,
+      "stars": 656,
       "stars_gained": 0,
-      "forks": 72,
+      "forks": 74,
       "topics": [
         "agent",
         "agentic-ai",
@@ -583,91 +672,8 @@
         "tui"
       ],
       "created_at": "2026-07-16T07:57:45Z",
-      "updated_at": "2026-08-12T01:44:56Z",
-      "rank": 21
-    },
-    {
-      "name": "Pinvou/pinvou-agent",
-      "url": "https://github.com/Pinvou/pinvou-agent",
-      "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-      "full_description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-      "language": "JavaScript",
-      "stars": 638,
-      "stars_gained": 0,
-      "forks": 89,
-      "topics": [
-        "ai-agent",
-        "automation",
-        "desktop-app",
-        "llm",
-        "local-first",
-        "mcp",
-        "open-source",
-        "react",
-        "rust",
-        "tauri"
-      ],
-      "created_at": "2026-07-24T07:28:41Z",
-      "updated_at": "2026-08-12T02:58:20Z",
-      "rank": 22
-    },
-    {
-      "name": "vshulcz/deja-vu",
-      "url": "https://github.com/vshulcz/deja-vu",
-      "description": "Your agents already solved this. deja finds it — it indexes the sessions your coding agents already wrote to disk, months of history from before you installed it, and recalls them automatically at session start across seventeen harnesses. 84.9% hit@1 on LongMemEval-S, no LLM, no embeddings. One zero-dep binary, fully local.",
-      "full_description": "Your agents already solved this. deja finds it — it indexes the sessions your coding agents already wrote to disk, months of history from before you installed it, and recalls them automatically at session start across seventeen harnesses. 84.9% hit@1 on LongMemEval-S, no LLM, no embeddings. One zero-dep binary, fully local.",
-      "language": "Go",
-      "stars": 623,
-      "stars_gained": 0,
-      "forks": 43,
-      "topics": [
-        "agent-memory",
-        "ai-memory",
-        "claude",
-        "claude-code",
-        "cli",
-        "codex",
-        "coding-agents",
-        "developer-tools",
-        "golang",
-        "mcp",
-        "mcp-server",
-        "opencode",
-        "session-search"
-      ],
-      "created_at": "2026-07-14T07:45:44Z",
-      "updated_at": "2026-08-12T00:45:41Z",
-      "rank": 23
-    },
-    {
-      "name": "sv-number/mcp-server",
-      "url": "https://github.com/sv-number/mcp-server",
-      "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
-      "full_description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
-      "language": "JavaScript",
-      "stars": 618,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "cline",
-        "cursor",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "otp",
-        "phone-verification",
-        "sms",
-        "sms-verification",
-        "typescript",
-        "virtual-phone-number",
-        "windsurf"
-      ],
-      "created_at": "2026-08-07T11:13:26Z",
-      "updated_at": "2026-08-12T02:30:40Z",
-      "rank": 24
+      "updated_at": "2026-08-13T01:47:08Z",
+      "rank": 25
     },
     {
       "name": "TryCaspian/caspian-sdk",
@@ -675,7 +681,7 @@
       "description": "Agent communication SDK. The open-source agent communication layer for AI agents — email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
       "full_description": "Agent communication SDK. The open-source agent communication layer for AI agents — email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
       "language": "Python",
-      "stars": 618,
+      "stars": 654,
       "stars_gained": 0,
       "forks": 133,
       "topics": [
@@ -701,8 +707,8 @@
         "whatsapp"
       ],
       "created_at": "2026-07-20T10:47:56Z",
-      "updated_at": "2026-08-11T20:02:16Z",
-      "rank": 25
+      "updated_at": "2026-08-12T19:24:17Z",
+      "rank": 26
     },
     {
       "name": "AMAP-ML/LongHorizon-Harness",
@@ -710,9 +716,9 @@
       "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
       "full_description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
       "language": "Python",
-      "stars": 584,
+      "stars": 647,
       "stars_gained": 0,
-      "forks": 69,
+      "forks": 76,
       "topics": [
         "agent",
         "claude",
@@ -732,122 +738,91 @@
         "loop-engineering"
       ],
       "created_at": "2026-08-04T04:30:58Z",
-      "updated_at": "2026-08-12T02:37:39Z",
-      "rank": 26
-    },
-    {
-      "name": "mikehasa/agentacct",
-      "url": "https://github.com/mikehasa/agentacct",
-      "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
-      "full_description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
-      "language": "Python",
-      "stars": 582,
-      "stars_gained": 0,
-      "forks": 69,
-      "topics": [
-        "agent-observability",
-        "ai-agents",
-        "analytics",
-        "claude-code",
-        "cli",
-        "codex",
-        "coding-agent",
-        "cost-tracking",
-        "dashboard",
-        "developer-tools",
-        "devtools",
-        "llm",
-        "llmops",
-        "local-first",
-        "mcp",
-        "observability",
-        "opencode",
-        "python",
-        "token-usage"
-      ],
-      "created_at": "2026-07-24T16:28:06Z",
-      "updated_at": "2026-08-11T20:40:16Z",
+      "updated_at": "2026-08-13T03:03:36Z",
       "rank": 27
     },
     {
-      "name": "SaladDay/pi-from-scratch",
-      "url": "https://github.com/SaladDay/pi-from-scratch",
-      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "full_description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "language": "TypeScript",
-      "stars": 565,
+      "name": "egoist/waku",
+      "url": "https://github.com/egoist/waku",
+      "description": "⚡ A native app for all your coding agents.",
+      "full_description": "⚡ A native app for all your coding agents.",
+      "language": "Rust",
+      "stars": 629,
       "stars_gained": 0,
-      "forks": 38,
+      "forks": 55,
       "topics": [
-        "agent-loop",
-        "ai-agent",
-        "coding-agent",
-        "llm",
-        "llm-agent",
+        "agent",
+        "amp",
+        "claude-code",
+        "codex",
+        "coding",
+        "cursor",
+        "gpui",
+        "grok",
+        "opencode",
         "pi",
-        "pi-agent",
-        "tool-calling",
-        "typescript",
-        "typescript-tutorial"
+        "rust"
       ],
-      "created_at": "2026-08-09T12:15:30Z",
-      "updated_at": "2026-08-12T03:02:25Z",
+      "created_at": "2026-07-31T09:38:33Z",
+      "updated_at": "2026-08-13T03:02:30Z",
       "rank": 28
     },
     {
-      "name": "icebird1998/scientific-illustrator",
-      "url": "https://github.com/icebird1998/scientific-illustrator",
-      "description": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
-      "full_description": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
-      "language": "JavaScript",
-      "stars": 478,
+      "name": "vshulcz/deja-vu",
+      "url": "https://github.com/vshulcz/deja-vu",
+      "description": "Your agents already solved this. deja finds it — it indexes the sessions your coding agents already wrote to disk, months of history from before you installed it, and recalls them automatically at session start across seventeen harnesses. 84.9% hit@1 on LongMemEval-S, no LLM, no embeddings. One zero-dep binary, fully local.",
+      "full_description": "Your agents already solved this. deja finds it — it indexes the sessions your coding agents already wrote to disk, months of history from before you installed it, and recalls them automatically at session start across seventeen harnesses. 84.9% hit@1 on LongMemEval-S, no LLM, no embeddings. One zero-dep binary, fully local.",
+      "language": "Go",
+      "stars": 629,
       "stars_gained": 0,
-      "forks": 42,
+      "forks": 44,
       "topics": [
+        "agent-memory",
+        "ai-memory",
+        "claude",
+        "claude-code",
+        "cli",
         "codex",
-        "drawio",
-        "editable-figures",
+        "coding-agents",
+        "developer-tools",
+        "golang",
         "mcp",
-        "powerpoint",
-        "scientific-illustration"
+        "mcp-server",
+        "opencode",
+        "session-search"
       ],
-      "created_at": "2026-07-24T04:27:30Z",
-      "updated_at": "2026-08-12T02:52:37Z",
+      "created_at": "2026-07-14T07:45:44Z",
+      "updated_at": "2026-08-13T01:40:56Z",
       "rank": 29
     },
     {
-      "name": "arcships/light-ocr",
-      "url": "https://github.com/arcships/light-ocr",
-      "description": "Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr",
-      "full_description": "Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr",
-      "language": "C++",
-      "stars": 473,
+      "name": "sv-number/mcp-server",
+      "url": "https://github.com/sv-number/mcp-server",
+      "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+      "full_description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+      "language": "JavaScript",
+      "stars": 597,
       "stars_gained": 0,
-      "forks": 41,
+      "forks": 3,
       "topics": [
-        "apple-silicon",
-        "computer-vision",
-        "coreml",
-        "cpp17",
-        "d3d12",
-        "image-processing",
-        "machine-learning",
-        "napi",
-        "native-addon",
-        "nodejs",
-        "nvidia",
-        "ocr",
-        "ocr-recognition",
-        "offline-ocr",
-        "paddleocr",
-        "ppocr",
-        "text-recognition",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "cline",
+        "cursor",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "otp",
+        "phone-verification",
+        "sms",
+        "sms-verification",
         "typescript",
-        "vulkan",
-        "webgpu"
+        "virtual-phone-number",
+        "windsurf"
       ],
-      "created_at": "2026-07-14T01:32:23Z",
-      "updated_at": "2026-08-11T06:43:52Z",
+      "created_at": "2026-08-07T11:13:26Z",
+      "updated_at": "2026-08-13T02:39:11Z",
       "rank": 30
     }
   ]
