@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T03:06:32.545913+00:00",
+  "updated": "2026-08-14T03:05:31.165877+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "full_description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "language": "Python",
-      "stars": 2622,
+      "stars": 5588,
       "stars_gained": 0,
-      "forks": 252,
+      "forks": 583,
       "topics": [
         "agent-skill",
         "ai",
@@ -23,7 +23,7 @@
         "watermark"
       ],
       "created_at": "2026-08-11T16:32:38Z",
-      "updated_at": "2026-08-13T03:06:18Z",
+      "updated_at": "2026-08-14T03:05:31Z",
       "rank": 1
     },
     {
@@ -32,9 +32,9 @@
       "description": "let your agent control your phone",
       "full_description": "let your agent control your phone",
       "language": "Python",
-      "stars": 1651,
+      "stars": 1719,
       "stars_gained": 0,
-      "forks": 145,
+      "forks": 155,
       "topics": [
         "agent",
         "ai",
@@ -42,8 +42,43 @@
         "developer-tools"
       ],
       "created_at": "2026-08-07T22:28:53Z",
-      "updated_at": "2026-08-13T03:02:53Z",
+      "updated_at": "2026-08-14T02:46:56Z",
       "rank": 2
+    },
+    {
+      "name": "Leutenegger/book-to-skill",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "full_description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars": 1031,
+      "stars_gained": 0,
+      "forks": 132,
+      "topics": [
+        "agent",
+        "agent-memory",
+        "agent-skill",
+        "agent-skills",
+        "agentic",
+        "agentic-ai",
+        "agents",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "github-copilot",
+        "pdf",
+        "pdf-document",
+        "pdf-generation",
+        "pdf-parser",
+        "pdf-tools",
+        "pdf-viewer",
+        "skill-generator"
+      ],
+      "created_at": "2026-08-13T13:15:23Z",
+      "updated_at": "2026-08-14T02:57:25Z",
+      "rank": 3
     },
     {
       "name": "Flaminis/Dalaran",
@@ -51,9 +86,9 @@
       "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
       "full_description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
       "language": "Rust",
-      "stars": 889,
+      "stars": 937,
       "stars_gained": 0,
-      "forks": 55,
+      "forks": 56,
       "topics": [
         "apache2",
         "computer-vision",
@@ -67,8 +102,8 @@
         "visualization"
       ],
       "created_at": "2026-08-07T09:37:32Z",
-      "updated_at": "2026-08-13T02:22:39Z",
-      "rank": 3
+      "updated_at": "2026-08-14T02:55:54Z",
+      "rank": 4
     },
     {
       "name": "SaladDay/pi-from-scratch",
@@ -76,9 +111,9 @@
       "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
       "full_description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
       "language": "TypeScript",
-      "stars": 797,
+      "stars": 900,
       "stars_gained": 0,
-      "forks": 52,
+      "forks": 62,
       "topics": [
         "agent-loop",
         "ai-agent",
@@ -92,8 +127,8 @@
         "typescript-tutorial"
       ],
       "created_at": "2026-08-09T12:15:30Z",
-      "updated_at": "2026-08-13T03:04:17Z",
-      "rank": 4
+      "updated_at": "2026-08-14T03:05:22Z",
+      "rank": 5
     },
     {
       "name": "sv-number/mcp-server",
@@ -101,7 +136,7 @@
       "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
       "full_description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
       "language": "JavaScript",
-      "stars": 597,
+      "stars": 568,
       "stars_gained": 0,
       "forks": 3,
       "topics": [
@@ -122,66 +157,8 @@
         "windsurf"
       ],
       "created_at": "2026-08-07T11:13:26Z",
-      "updated_at": "2026-08-13T02:39:11Z",
-      "rank": 5
-    },
-    {
-      "name": "antinomie-lab/pi-book",
-      "url": "https://github.com/antinomie-lab/pi-book",
-      "description": "Source-backed architecture notes on building an agent",
-      "full_description": "Source-backed architecture notes on building an agent",
-      "language": "Vue",
-      "stars": 276,
-      "stars_gained": 0,
-      "forks": 7,
-      "topics": [
-        "agent-loop",
-        "ai-agent",
-        "book",
-        "chinese",
-        "code-reading",
-        "llm",
-        "pi-agent",
-        "pi-agent-core",
-        "software-architecture",
-        "typescript"
-      ],
-      "created_at": "2026-08-07T17:14:43Z",
-      "updated_at": "2026-08-13T02:24:42Z",
+      "updated_at": "2026-08-14T01:38:42Z",
       "rank": 6
-    },
-    {
-      "name": "oliverb-io1902e8/agent-skills-collection",
-      "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
-      "description": "Curated collection of modular agent skills for LLM-based agents",
-      "full_description": "Curated collection of modular agent skills for LLM-based agents",
-      "language": "Python",
-      "stars": 204,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "agent-skill",
-        "agent-skills",
-        "agentic-workflow",
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "ai-model",
-        "ai-tools",
-        "automation",
-        "chatgpt",
-        "claude",
-        "claude-ai",
-        "claude-code",
-        "claude-skills",
-        "developer-tools",
-        "llm",
-        "open-source",
-        "python"
-      ],
-      "created_at": "2026-08-06T14:07:02Z",
-      "updated_at": "2026-08-11T14:42:33Z",
-      "rank": 7
     },
     {
       "name": "i3T4AN/KADATH",
@@ -189,9 +166,9 @@
       "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
       "full_description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
       "language": "Python",
-      "stars": 172,
+      "stars": 349,
       "stars_gained": 0,
-      "forks": 4,
+      "forks": 3,
       "topics": [
         "agent-evaluation-tools",
         "agent-framework",
@@ -212,8 +189,89 @@
         "self-evolving-agents"
       ],
       "created_at": "2026-08-08T15:49:55Z",
-      "updated_at": "2026-08-13T00:01:54Z",
+      "updated_at": "2026-08-14T02:49:18Z",
+      "rank": 7
+    },
+    {
+      "name": "antinomie-lab/pi-book",
+      "url": "https://github.com/antinomie-lab/pi-book",
+      "description": "Source-backed architecture notes on building an agent",
+      "full_description": "Source-backed architecture notes on building an agent",
+      "language": "Vue",
+      "stars": 290,
+      "stars_gained": 0,
+      "forks": 8,
+      "topics": [
+        "agent-loop",
+        "ai-agent",
+        "book",
+        "chinese",
+        "code-reading",
+        "llm",
+        "pi-agent",
+        "pi-agent-core",
+        "software-architecture",
+        "typescript"
+      ],
+      "created_at": "2026-08-07T17:14:43Z",
+      "updated_at": "2026-08-14T02:48:03Z",
       "rank": 8
+    },
+    {
+      "name": "elie222/rakazo",
+      "url": "https://github.com/elie222/rakazo",
+      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "full_description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "language": "TypeScript",
+      "stars": 259,
+      "stars_gained": 0,
+      "forks": 23,
+      "topics": [
+        "ai-agents",
+        "chatgpt",
+        "docker",
+        "electron",
+        "expo",
+        "grok",
+        "llm",
+        "self-hosted",
+        "typescript"
+      ],
+      "created_at": "2026-08-13T06:28:56Z",
+      "updated_at": "2026-08-14T03:04:29Z",
+      "rank": 9
+    },
+    {
+      "name": "Anionex/dsh-vision-toolkit",
+      "url": "https://github.com/Anionex/dsh-vision-toolkit",
+      "description": "让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+      "full_description": "让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+      "language": "TypeScript",
+      "stars": 215,
+      "stars_gained": 0,
+      "forks": 7,
+      "topics": [
+        "agent-skills",
+        "agent-vision-toolkit",
+        "computer-vision",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "gui-automation",
+        "ocr",
+        "plugin",
+        "python",
+        "screenshot-testing",
+        "text-only-llm",
+        "typescript",
+        "ui-restoration",
+        "vision-language-model",
+        "vision-tools"
+      ],
+      "created_at": "2026-08-13T12:36:34Z",
+      "updated_at": "2026-08-14T03:04:28Z",
+      "rank": 10
     },
     {
       "name": "surya-koritala/loomfeed",
@@ -221,7 +279,7 @@
       "description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
       "full_description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
       "language": "Go",
-      "stars": 165,
+      "stars": 212,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
@@ -235,8 +293,63 @@
         "social-network"
       ],
       "created_at": "2026-08-09T19:28:09Z",
-      "updated_at": "2026-08-13T02:49:37Z",
-      "rank": 9
+      "updated_at": "2026-08-13T14:01:02Z",
+      "rank": 11
+    },
+    {
+      "name": "wzchav/tokentab",
+      "url": "https://github.com/wzchav/tokentab",
+      "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "full_description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "language": "Python",
+      "stars": 211,
+      "stars_gained": 0,
+      "forks": 12,
+      "topics": [
+        "ai",
+        "api",
+        "claude",
+        "claude-code",
+        "claude-tool",
+        "gemini",
+        "token-usage"
+      ],
+      "created_at": "2026-08-12T16:09:39Z",
+      "updated_at": "2026-08-13T23:30:02Z",
+      "rank": 12
+    },
+    {
+      "name": "0xsline/awesome-deepseek-harness",
+      "url": "https://github.com/0xsline/awesome-deepseek-harness",
+      "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "full_description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "language": "Python",
+      "stars": 209,
+      "stars_gained": 0,
+      "forks": 37,
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agents",
+        "ai-tools",
+        "awesome",
+        "awesome-list",
+        "coding-assistant",
+        "curated-list",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "harness",
+        "llm",
+        "mcp",
+        "plugins"
+      ],
+      "created_at": "2026-08-11T13:14:49Z",
+      "updated_at": "2026-08-14T03:05:08Z",
+      "rank": 13
     },
     {
       "name": "swping999/scene-card-studio",
@@ -244,7 +357,7 @@
       "description": "AI visual director for turning personal photos into structured, editable visual narratives.",
       "full_description": "AI visual director for turning personal photos into structured, editable visual narratives.",
       "language": "Python",
-      "stars": 160,
+      "stars": 165,
       "stars_gained": 0,
       "forks": 8,
       "topics": [
@@ -256,8 +369,8 @@
         "visual-storytelling"
       ],
       "created_at": "2026-08-09T03:25:19Z",
-      "updated_at": "2026-08-13T02:36:36Z",
-      "rank": 10
+      "updated_at": "2026-08-13T14:27:44Z",
+      "rank": 14
     },
     {
       "name": "jundizhou/easy-stock",
@@ -265,7 +378,7 @@
       "description": "A 股行情分析与AI智能投研智能体--基于大模型",
       "full_description": "A 股行情分析与AI智能投研智能体--基于大模型",
       "language": "Go",
-      "stars": 139,
+      "stars": 165,
       "stars_gained": 0,
       "forks": 3,
       "topics": [
@@ -278,8 +391,41 @@
         "trade"
       ],
       "created_at": "2026-08-07T16:25:36Z",
-      "updated_at": "2026-08-13T02:58:53Z",
-      "rank": 11
+      "updated_at": "2026-08-14T02:19:21Z",
+      "rank": 15
+    },
+    {
+      "name": "Carasibana/ComfyUI-H3-FaceRefine",
+      "url": "https://github.com/Carasibana/ComfyUI-H3-FaceRefine",
+      "description": "Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with H3, stitch back.",
+      "full_description": "Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with H3, stitch back.",
+      "language": "Python",
+      "stars": 146,
+      "stars_gained": 0,
+      "forks": 6,
+      "topics": [
+        "ai-video",
+        "comfyui",
+        "comfyui-custom-node",
+        "comfyui-custom-nodes",
+        "comfyui-nodes",
+        "comfyui-video",
+        "diffusion-models",
+        "face-detection",
+        "face-enhancement",
+        "face-restoration",
+        "generative-ai",
+        "insightface",
+        "lipsync",
+        "minimax-h3",
+        "segment-anything",
+        "video-generation",
+        "video-processing",
+        "yolov8"
+      ],
+      "created_at": "2026-08-12T11:18:15Z",
+      "updated_at": "2026-08-14T03:04:21Z",
+      "rank": 16
     },
     {
       "name": "sosoj92/jarvis-assistant-vocal",
@@ -287,9 +433,9 @@
       "description": "Assistant vocal local en francais : Claude ou Ollama (offline), domotique Hue, OBS, agenda, navigateur, appels Twilio, serveur MCP. Python.",
       "full_description": "Assistant vocal local en francais : Claude ou Ollama (offline), domotique Hue, OBS, agenda, navigateur, appels Twilio, serveur MCP. Python.",
       "language": "Python",
-      "stars": 132,
+      "stars": 140,
       "stars_gained": 0,
-      "forks": 22,
+      "forks": 23,
       "topics": [
         "anthropic-claude",
         "browser-automation",
@@ -308,64 +454,8 @@
         "whisper"
       ],
       "created_at": "2026-08-07T15:30:20Z",
-      "updated_at": "2026-08-13T00:57:11Z",
-      "rank": 12
-    },
-    {
-      "name": "wanmol/goal-flow",
-      "url": "https://github.com/wanmol/goal-flow",
-      "description": "Graph-Orchestrated Agent Loop — a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to runnable code, swap wire protocols (Dify/OpenAI).",
-      "full_description": "Graph-Orchestrated Agent Loop — a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to runnable code, swap wire protocols (Dify/OpenAI).",
-      "language": "Python",
-      "stars": 131,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "agent",
-        "agentic",
-        "agentic-ai",
-        "agentic-engineering",
-        "agentic-framework",
-        "agentic-workflow",
-        "ai",
-        "ai-agent",
-        "deepage",
-        "dify",
-        "dify2langgraph",
-        "harness",
-        "human-in-the-loop",
-        "langchain",
-        "langgraph",
-        "llm",
-        "llmops",
-        "mulit-agent",
-        "python"
-      ],
-      "created_at": "2026-08-06T15:43:24Z",
-      "updated_at": "2026-08-12T18:15:17Z",
-      "rank": 13
-    },
-    {
-      "name": "GOROman/vibewatch",
-      "url": "https://github.com/GOROman/vibewatch",
-      "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
-      "full_description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
-      "language": "C++",
-      "stars": 126,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "ai",
-        "ble-hid",
-        "esp32-s3",
-        "m5stack",
-        "m5stack-stopwatch",
-        "platformio",
-        "vibe-coding"
-      ],
-      "created_at": "2026-08-08T01:51:11Z",
-      "updated_at": "2026-08-12T19:40:08Z",
-      "rank": 14
+      "updated_at": "2026-08-14T00:07:29Z",
+      "rank": 17
     },
     {
       "name": "wanshuiyin/HERO-Anti-OverDefense",
@@ -373,7 +463,7 @@
       "description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
       "full_description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
       "language": "Markdown",
-      "stars": 119,
+      "stars": 131,
       "stars_gained": 0,
       "forks": 4,
       "topics": [
@@ -392,8 +482,65 @@
         "windsurf"
       ],
       "created_at": "2026-08-11T05:08:30Z",
-      "updated_at": "2026-08-13T01:55:09Z",
-      "rank": 15
+      "updated_at": "2026-08-14T03:03:44Z",
+      "rank": 18
+    },
+    {
+      "name": "GOROman/vibewatch",
+      "url": "https://github.com/GOROman/vibewatch",
+      "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
+      "full_description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
+      "language": "C++",
+      "stars": 126,
+      "stars_gained": 0,
+      "forks": 6,
+      "topics": [
+        "ai",
+        "ble-hid",
+        "esp32-s3",
+        "m5stack",
+        "m5stack-stopwatch",
+        "platformio",
+        "vibe-coding"
+      ],
+      "created_at": "2026-08-08T01:51:11Z",
+      "updated_at": "2026-08-12T19:40:08Z",
+      "rank": 19
+    },
+    {
+      "name": "DrHazemAli/enterprise-system-design",
+      "url": "https://github.com/DrHazemAli/enterprise-system-design",
+      "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
+      "full_description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
+      "language": "",
+      "stars": 123,
+      "stars_gained": 0,
+      "forks": 30,
+      "topics": [
+        "ai",
+        "ai-governance",
+        "ai-security",
+        "ai-systems",
+        "cloud-architecture",
+        "cloud-infrastructure",
+        "cybersecurity",
+        "distributed-computing",
+        "distributed-systems",
+        "engineering",
+        "enterprise-architecture",
+        "enterprise-systems",
+        "hpc",
+        "mission-critical",
+        "realibility",
+        "sovereign-systems",
+        "system-design",
+        "well-architected",
+        "well-architected-framework",
+        "zero-trust"
+      ],
+      "created_at": "2026-08-12T04:03:15Z",
+      "updated_at": "2026-08-14T02:46:05Z",
+      "rank": 20
     },
     {
       "name": "kasturikhanke/generative-loaders",
@@ -401,7 +548,7 @@
       "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
       "full_description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
       "language": "TypeScript",
-      "stars": 115,
+      "stars": 122,
       "stars_gained": 0,
       "forks": 5,
       "topics": [
@@ -415,8 +562,72 @@
         "typescript"
       ],
       "created_at": "2026-08-08T02:50:22Z",
-      "updated_at": "2026-08-12T22:22:56Z",
-      "rank": 16
+      "updated_at": "2026-08-13T22:32:28Z",
+      "rank": 21
+    },
+    {
+      "name": "dengzi008/DramaLens",
+      "url": "https://github.com/dengzi008/DramaLens",
+      "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
+      "full_description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
+      "language": "JavaScript",
+      "stars": 122,
+      "stars_gained": 0,
+      "forks": 14,
+      "topics": [
+        "ai",
+        "chinese",
+        "chrome-extension",
+        "faster-whisper",
+        "local-first",
+        "speech-to-text"
+      ],
+      "created_at": "2026-08-11T03:58:26Z",
+      "updated_at": "2026-08-13T11:20:41Z",
+      "rank": 22
+    },
+    {
+      "name": "Jaxton07/percho",
+      "url": "https://github.com/Jaxton07/percho",
+      "description": "pi-desktop Minimalist desktop GUI for the Pi coding agent — the same engine as the Pi CLI, in a clean visual interface. Multi-session chat, visual tool approvals, and custom themes.",
+      "full_description": "pi-desktop Minimalist desktop GUI for the Pi coding agent — the same engine as the Pi CLI, in a clean visual interface. Multi-session chat, visual tool approvals, and custom themes.",
+      "language": "TypeScript",
+      "stars": 107,
+      "stars_gained": 0,
+      "forks": 7,
+      "topics": [
+        "agent",
+        "ai-agent",
+        "coding-agent",
+        "desktop-app",
+        "gui",
+        "minimalist",
+        "pi",
+        "pi-agent",
+        "pi-desktop"
+      ],
+      "created_at": "2026-08-08T04:37:46Z",
+      "updated_at": "2026-08-13T21:31:42Z",
+      "rank": 23
+    },
+    {
+      "name": "vercel-labs/eve-software-factory-template",
+      "url": "https://github.com/vercel-labs/eve-software-factory-template",
+      "description": "Meet Foreman, an eve Software Factory.",
+      "full_description": "Meet Foreman, an eve Software Factory.",
+      "language": "TypeScript",
+      "stars": 105,
+      "stars_gained": 0,
+      "forks": 7,
+      "topics": [
+        "agent",
+        "ai",
+        "eve",
+        "vercel"
+      ],
+      "created_at": "2026-08-12T12:34:43Z",
+      "updated_at": "2026-08-14T03:02:45Z",
+      "rank": 24
     },
     {
       "name": "Yixuan-Wu39/bandminton",
@@ -438,28 +649,102 @@
       ],
       "created_at": "2026-08-12T06:14:49Z",
       "updated_at": "2026-08-12T11:32:24Z",
-      "rank": 17
+      "rank": 25
     },
     {
-      "name": "dengzi008/DramaLens",
-      "url": "https://github.com/dengzi008/DramaLens",
-      "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
-      "full_description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
-      "language": "JavaScript",
-      "stars": 86,
+      "name": "nduc99911/repo-context-mcp",
+      "url": "https://github.com/nduc99911/repo-context-mcp",
+      "description": "MCP server: repo map, code search, and token-aware context packs for AI coding agents",
+      "full_description": "MCP server: repo map, code search, and token-aware context packs for AI coding agents",
+      "language": "TypeScript",
+      "stars": 98,
       "stars_gained": 0,
-      "forks": 0,
+      "forks": 89,
+      "topics": [
+        "ai-agent",
+        "claude",
+        "codex",
+        "cursor",
+        "mcp",
+        "model-context-protocol",
+        "typescript"
+      ],
+      "created_at": "2026-08-12T08:22:31Z",
+      "updated_at": "2026-08-14T02:36:27Z",
+      "rank": 26
+    },
+    {
+      "name": "OpenSparX/MasterAgent",
+      "url": "https://github.com/OpenSparX/MasterAgent",
+      "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
+      "full_description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
+      "language": "C++",
+      "stars": 93,
+      "stars_gained": 0,
+      "forks": 10,
+      "topics": [
+        "agent-framework",
+        "ai-agent",
+        "automotive",
+        "edge-ai",
+        "embedded",
+        "iot",
+        "llm",
+        "npu",
+        "on-device",
+        "qualcomm"
+      ],
+      "created_at": "2026-08-10T18:43:36Z",
+      "updated_at": "2026-08-13T10:57:22Z",
+      "rank": 27
+    },
+    {
+      "name": "lyc403223157-source/knowledge-inbox",
+      "url": "https://github.com/lyc403223157-source/knowledge-inbox",
+      "description": "Local-first knowledge ingestion for AI agents and Obsidian",
+      "full_description": "Local-first knowledge ingestion for AI agents and Obsidian",
+      "language": "Python",
+      "stars": 92,
+      "stars_gained": 0,
+      "forks": 1,
+      "topics": [
+        "fastapi",
+        "hermes-agent",
+        "knowledge-management",
+        "local-first",
+        "mcp",
+        "obsidian",
+        "python",
+        "wechat"
+      ],
+      "created_at": "2026-08-11T12:39:37Z",
+      "updated_at": "2026-08-14T02:38:31Z",
+      "rank": 28
+    },
+    {
+      "name": "vuphongle/oss-pr-reviewer",
+      "url": "https://github.com/vuphongle/oss-pr-reviewer",
+      "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
+      "full_description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
+      "language": "TypeScript",
+      "stars": 91,
+      "stars_gained": 0,
+      "forks": 87,
       "topics": [
         "ai",
-        "chinese",
-        "chrome-extension",
-        "faster-whisper",
-        "local-first",
-        "speech-to-text"
+        "cli",
+        "code-review",
+        "developer-tools",
+        "github",
+        "llm",
+        "maintainer-tools",
+        "open-source",
+        "pull-request",
+        "typescript"
       ],
-      "created_at": "2026-08-11T03:58:26Z",
-      "updated_at": "2026-08-12T09:31:52Z",
-      "rank": 18
+      "created_at": "2026-08-13T01:59:03Z",
+      "updated_at": "2026-08-14T02:35:17Z",
+      "rank": 29
     },
     {
       "name": "wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
@@ -481,255 +766,7 @@
         "trand"
       ],
       "created_at": "2026-08-10T10:16:41Z",
-      "updated_at": "2026-08-13T03:05:17Z",
-      "rank": 19
-    },
-    {
-      "name": "Jaxton07/pi-desktop",
-      "url": "https://github.com/Jaxton07/pi-desktop",
-      "description": "pi-desktop Minimalist desktop GUI for the Pi coding agent — the same engine as the Pi CLI, in a clean visual interface. Multi-session chat, visual tool approvals, and custom themes.",
-      "full_description": "pi-desktop Minimalist desktop GUI for the Pi coding agent — the same engine as the Pi CLI, in a clean visual interface. Multi-session chat, visual tool approvals, and custom themes.",
-      "language": "TypeScript",
-      "stars": 82,
-      "stars_gained": 0,
-      "forks": 6,
-      "topics": [
-        "agent",
-        "ai-agent",
-        "coding-agent",
-        "desktop-app",
-        "gui",
-        "minimalist",
-        "pi",
-        "pi-agent",
-        "pi-desktop"
-      ],
-      "created_at": "2026-08-08T04:37:46Z",
-      "updated_at": "2026-08-13T02:07:52Z",
-      "rank": 20
-    },
-    {
-      "name": "p-e-w/lophius",
-      "url": "https://github.com/p-e-w/lophius",
-      "description": "A workbench for language model research",
-      "full_description": "A workbench for language model research",
-      "language": "Python",
-      "stars": 82,
-      "stars_gained": 0,
-      "forks": 6,
-      "topics": [
-        "llm",
-        "research"
-      ],
-      "created_at": "2026-08-09T14:11:31Z",
-      "updated_at": "2026-08-12T21:36:05Z",
-      "rank": 21
-    },
-    {
-      "name": "Juror-AI/juror",
-      "url": "https://github.com/Juror-AI/juror",
-      "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-      "full_description": "Cheaper and better Greptile alternative runs on your own github actions.",
-      "language": "TypeScript",
-      "stars": 82,
-      "stars_gained": 0,
-      "forks": 9,
-      "topics": [
-        "ai-agents",
-        "ai-code-review",
-        "cli",
-        "code-quality",
-        "code-review",
-        "codex",
-        "developer-tools",
-        "devtools",
-        "github-action",
-        "github-actions",
-        "llm",
-        "llmops",
-        "pull-request",
-        "static-analysis",
-        "typescript"
-      ],
-      "created_at": "2026-08-06T12:24:49Z",
-      "updated_at": "2026-08-12T15:41:11Z",
-      "rank": 22
-    },
-    {
-      "name": "dannguyen9x/tiktok-live-studio-mcp",
-      "url": "https://github.com/dannguyen9x/tiktok-live-studio-mcp",
-      "description": "Local MCP server for controlling TikTok LIVE Studio through its verified Stream Deck Socket.IO channel.",
-      "full_description": "Local MCP server for controlling TikTok LIVE Studio through its verified Stream Deck Socket.IO channel.",
-      "language": "TypeScript",
-      "stars": 77,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "mcp",
-        "model-context-protocol",
-        "socket-io",
-        "tiktok-live-studio",
-        "typescript",
-        "windows"
-      ],
-      "created_at": "2026-08-08T11:31:32Z",
-      "updated_at": "2026-08-12T12:50:37Z",
-      "rank": 23
-    },
-    {
-      "name": "shift-labs-ai/pi-rlm",
-      "url": "https://github.com/shift-labs-ai/pi-rlm",
-      "description": "A pi extension with a single tool: execute, running TypeScript in a persistent Bun evaluator. Files, shell, and subagents are expressed as code rather than as more tools.",
-      "full_description": "A pi extension with a single tool: execute, running TypeScript in a persistent Bun evaluator. Files, shell, and subagents are expressed as code rather than as more tools.",
-      "language": "TypeScript",
-      "stars": 73,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "agent",
-        "bun",
-        "llm-tools",
-        "pi",
-        "repl",
-        "typescript"
-      ],
-      "created_at": "2026-08-06T13:45:45Z",
-      "updated_at": "2026-08-12T19:12:25Z",
-      "rank": 24
-    },
-    {
-      "name": "evan-steinhilb/md2hd",
-      "url": "https://github.com/evan-steinhilb/md2hd",
-      "description": "Markdown, mapped - the MD2HD CLI. Pull the repo, tell your agent to create an MD2HD map, visually comprehend complex topics and relationships.",
-      "full_description": "Markdown, mapped - the MD2HD CLI. Pull the repo, tell your agent to create an MD2HD map, visually comprehend complex topics and relationships.",
-      "language": "JavaScript",
-      "stars": 68,
-      "stars_gained": 0,
-      "forks": 11,
-      "topics": [
-        "ai",
-        "open-source"
-      ],
-      "created_at": "2026-08-11T15:39:44Z",
-      "updated_at": "2026-08-13T02:52:25Z",
-      "rank": 25
-    },
-    {
-      "name": "open-video-ai/open-video",
-      "url": "https://github.com/open-video-ai/open-video",
-      "description": "Open-source video generation — Ollama for MiniMax H3. Local director on ComfyUI.",
-      "full_description": "Open-source video generation — Ollama for MiniMax H3. Local director on ComfyUI.",
-      "language": "Python",
-      "stars": 65,
-      "stars_gained": 0,
-      "forks": 1,
-      "topics": [
-        "agent",
-        "comfyui",
-        "minimax-h3",
-        "open-source",
-        "text-to-video",
-        "video-generation"
-      ],
-      "created_at": "2026-08-07T05:20:57Z",
-      "updated_at": "2026-08-13T02:24:17Z",
-      "rank": 26
-    },
-    {
-      "name": "lyc403223157-source/knowledge-inbox",
-      "url": "https://github.com/lyc403223157-source/knowledge-inbox",
-      "description": "Local-first knowledge ingestion for AI agents and Obsidian",
-      "full_description": "Local-first knowledge ingestion for AI agents and Obsidian",
-      "language": "Python",
-      "stars": 65,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "fastapi",
-        "hermes-agent",
-        "knowledge-management",
-        "local-first",
-        "mcp",
-        "obsidian",
-        "python",
-        "wechat"
-      ],
-      "created_at": "2026-08-11T12:39:37Z",
-      "updated_at": "2026-08-13T01:34:40Z",
-      "rank": 27
-    },
-    {
-      "name": "vlinx-io/VelaTerm",
-      "url": "https://github.com/vlinx-io/VelaTerm",
-      "description": "The best terminal for AI Coding",
-      "full_description": "The best terminal for AI Coding",
-      "language": "TypeScript",
-      "stars": 63,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "ai",
-        "ai-agent",
-        "claude",
-        "claude-code",
-        "codex",
-        "coding",
-        "developer-tools",
-        "react",
-        "rust",
-        "tauri",
-        "tauri2",
-        "terminal",
-        "terminal-emulator",
-        "tmux"
-      ],
-      "created_at": "2026-08-09T02:29:46Z",
-      "updated_at": "2026-08-13T02:59:50Z",
-      "rank": 28
-    },
-    {
-      "name": "irzix/nestjs-agentic",
-      "url": "https://github.com/irzix/nestjs-agentic",
-      "description": "The NestJS-native runtime for governed AI agents",
-      "full_description": "The NestJS-native runtime for governed AI agents",
-      "language": "TypeScript",
-      "stars": 62,
-      "stars_gained": 0,
-      "forks": 11,
-      "topics": [
-        "agent",
-        "agentic",
-        "agentic-ai",
-        "nestjs",
-        "nestjs-backend"
-      ],
-      "created_at": "2026-08-07T19:12:21Z",
-      "updated_at": "2026-08-12T13:11:55Z",
-      "rank": 29
-    },
-    {
-      "name": "agents-universe/agents-universe",
-      "url": "https://github.com/agents-universe/agents-universe",
-      "description": "让智能体像人一样学习和工作",
-      "full_description": "让智能体像人一样学习和工作",
-      "language": "Python",
-      "stars": 53,
-      "stars_gained": 0,
-      "forks": 1,
-      "topics": [
-        "agent-framework",
-        "agentic-ai",
-        "ai-agents",
-        "codex",
-        "fastapi",
-        "knowledge-management",
-        "llm",
-        "muti-agent",
-        "self-hosted",
-        "vue3"
-      ],
-      "created_at": "2026-08-08T08:33:12Z",
-      "updated_at": "2026-08-13T00:48:30Z",
+      "updated_at": "2026-08-14T03:05:24Z",
       "rank": 30
     }
   ]
