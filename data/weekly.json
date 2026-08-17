@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T02:05:16.265715+00:00",
+  "updated": "2026-08-17T02:00:57.498624+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "full_description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "language": "Python",
-      "stars": 9787,
+      "stars": 11684,
       "stars_gained": 0,
-      "forks": 1010,
+      "forks": 1243,
       "topics": [
         "agent-skill",
         "ai",
@@ -23,7 +23,7 @@
         "watermark"
       ],
       "created_at": "2026-08-11T16:32:38Z",
-      "updated_at": "2026-08-16T02:03:58Z",
+      "updated_at": "2026-08-17T02:00:16Z",
       "rank": 1
     },
     {
@@ -32,9 +32,9 @@
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "full_description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars": 1127,
+      "stars": 1155,
       "stars_gained": 0,
-      "forks": 141,
+      "forks": 142,
       "topics": [
         "agent",
         "agent-memory",
@@ -58,33 +58,8 @@
         "skill-generator"
       ],
       "created_at": "2026-08-13T13:15:23Z",
-      "updated_at": "2026-08-16T01:45:47Z",
+      "updated_at": "2026-08-17T01:35:50Z",
       "rank": 2
-    },
-    {
-      "name": "SaladDay/pi-from-scratch",
-      "url": "https://github.com/SaladDay/pi-from-scratch",
-      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "full_description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "language": "TypeScript",
-      "stars": 1007,
-      "stars_gained": 0,
-      "forks": 69,
-      "topics": [
-        "agent-loop",
-        "ai-agent",
-        "coding-agent",
-        "llm",
-        "llm-agent",
-        "pi",
-        "pi-agent",
-        "tool-calling",
-        "typescript",
-        "typescript-tutorial"
-      ],
-      "created_at": "2026-08-09T12:15:30Z",
-      "updated_at": "2026-08-15T21:05:38Z",
-      "rank": 3
     },
     {
       "name": "vercel-labs/eve-software-factory-template",
@@ -92,9 +67,9 @@
       "description": "Meet Foreman, an eve Software Factory.",
       "full_description": "Meet Foreman, an eve Software Factory.",
       "language": "TypeScript",
-      "stars": 789,
+      "stars": 834,
       "stars_gained": 0,
-      "forks": 51,
+      "forks": 54,
       "topics": [
         "agent",
         "ai",
@@ -102,8 +77,8 @@
         "vercel"
       ],
       "created_at": "2026-08-12T12:34:43Z",
-      "updated_at": "2026-08-16T01:53:24Z",
-      "rank": 4
+      "updated_at": "2026-08-16T23:18:15Z",
+      "rank": 3
     },
     {
       "name": "0xsline/awesome-deepseek-harness",
@@ -111,9 +86,9 @@
       "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
       "full_description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
       "language": "Python",
-      "stars": 497,
+      "stars": 609,
       "stars_gained": 0,
-      "forks": 181,
+      "forks": 224,
       "topics": [
         "agent",
         "ai",
@@ -135,8 +110,64 @@
         "plugins"
       ],
       "created_at": "2026-08-11T13:14:49Z",
-      "updated_at": "2026-08-16T01:49:48Z",
+      "updated_at": "2026-08-17T01:52:33Z",
+      "rank": 4
+    },
+    {
+      "name": "elie222/rakazo",
+      "url": "https://github.com/elie222/rakazo",
+      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "full_description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "language": "TypeScript",
+      "stars": 545,
+      "stars_gained": 0,
+      "forks": 63,
+      "topics": [
+        "ai-agents",
+        "chatgpt",
+        "docker",
+        "electron",
+        "expo",
+        "grok",
+        "llm",
+        "self-hosted",
+        "typescript"
+      ],
+      "created_at": "2026-08-13T06:28:56Z",
+      "updated_at": "2026-08-17T01:59:54Z",
       "rank": 5
+    },
+    {
+      "name": "Anionex/dsh-vision-toolkit",
+      "url": "https://github.com/Anionex/dsh-vision-toolkit",
+      "description": "让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+      "full_description": "让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+      "language": "TypeScript",
+      "stars": 539,
+      "stars_gained": 0,
+      "forks": 28,
+      "topics": [
+        "agent-skills",
+        "agent-vision-toolkit",
+        "computer-vision",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "gui-automation",
+        "ocr",
+        "plugin",
+        "python",
+        "screenshot-testing",
+        "text-only-llm",
+        "typescript",
+        "ui-restoration",
+        "vision-language-model",
+        "vision-tools"
+      ],
+      "created_at": "2026-08-13T12:36:34Z",
+      "updated_at": "2026-08-17T02:00:32Z",
+      "rank": 6
     },
     {
       "name": "DrHazemAli/enterprise-system-design",
@@ -144,9 +175,9 @@
       "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
       "full_description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
       "language": "",
-      "stars": 494,
+      "stars": 531,
       "stars_gained": 0,
-      "forks": 104,
+      "forks": 111,
       "topics": [
         "ai",
         "ai-governance",
@@ -170,32 +201,27 @@
         "zero-trust"
       ],
       "created_at": "2026-08-12T04:03:15Z",
-      "updated_at": "2026-08-16T01:51:51Z",
-      "rank": 6
+      "updated_at": "2026-08-17T00:17:32Z",
+      "rank": 7
     },
     {
-      "name": "elie222/rakazo",
-      "url": "https://github.com/elie222/rakazo",
-      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-      "full_description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-      "language": "TypeScript",
-      "stars": 491,
+      "name": "SheberDavid/v4-flash-godmode-opencode-go",
+      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
+      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "full_description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "language": "JavaScript",
+      "stars": 500,
       "stars_gained": 0,
-      "forks": 56,
+      "forks": 12,
       "topics": [
-        "ai-agents",
-        "chatgpt",
-        "docker",
-        "electron",
-        "expo",
-        "grok",
-        "llm",
-        "self-hosted",
-        "typescript"
+        "agent",
+        "deepseek",
+        "dsh",
+        "flash"
       ],
-      "created_at": "2026-08-13T06:28:56Z",
-      "updated_at": "2026-08-16T01:59:58Z",
-      "rank": 7
+      "created_at": "2026-08-15T06:10:13Z",
+      "updated_at": "2026-08-17T01:38:53Z",
+      "rank": 8
     },
     {
       "name": "decionis/agent-safe-pipeline",
@@ -203,9 +229,9 @@
       "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
       "full_description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
       "language": "TypeScript",
-      "stars": 447,
+      "stars": 486,
       "stars_gained": 0,
-      "forks": 58,
+      "forks": 59,
       "topics": [
         "agentic-ai",
         "ai-agent-permissions",
@@ -221,40 +247,35 @@
         "typescript"
       ],
       "created_at": "2026-08-13T21:36:19Z",
-      "updated_at": "2026-08-16T01:50:30Z",
-      "rank": 8
+      "updated_at": "2026-08-17T01:53:54Z",
+      "rank": 9
     },
     {
-      "name": "Anionex/dsh-vision-toolkit",
-      "url": "https://github.com/Anionex/dsh-vision-toolkit",
-      "description": "让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
-      "full_description": "让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
-      "language": "TypeScript",
-      "stars": 438,
+      "name": "Electricitysheep/dsh-handbook",
+      "url": "https://github.com/Electricitysheep/dsh-handbook",
+      "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
+      "full_description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
+      "language": "HTML",
+      "stars": 374,
       "stars_gained": 0,
-      "forks": 21,
+      "forks": 15,
       "topics": [
-        "agent-skills",
-        "agent-vision-toolkit",
-        "computer-vision",
+        "agent",
+        "agent-framework",
+        "ai-agents",
+        "beginners",
         "deepseek",
-        "deepseek-harness",
-        "dsh",
+        "deepseek-ai",
         "dsh-plugin",
-        "gui-automation",
-        "ocr",
-        "plugin",
-        "python",
-        "screenshot-testing",
-        "text-only-llm",
-        "typescript",
-        "ui-restoration",
-        "vision-language-model",
-        "vision-tools"
+        "getting-started",
+        "guide",
+        "harness",
+        "llm",
+        "tutorial"
       ],
-      "created_at": "2026-08-13T12:36:34Z",
-      "updated_at": "2026-08-16T01:39:13Z",
-      "rank": 9
+      "created_at": "2026-08-13T15:22:29Z",
+      "updated_at": "2026-08-17T01:47:19Z",
+      "rank": 10
     },
     {
       "name": "OpenSparX/MasterAgent",
@@ -279,53 +300,7 @@
       ],
       "created_at": "2026-08-10T18:43:36Z",
       "updated_at": "2026-08-15T14:20:58Z",
-      "rank": 10
-    },
-    {
-      "name": "Electricitysheep/dsh-handbook",
-      "url": "https://github.com/Electricitysheep/dsh-handbook",
-      "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-      "full_description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-      "language": "HTML",
-      "stars": 292,
-      "stars_gained": 0,
-      "forks": 7,
-      "topics": [
-        "agent",
-        "agent-framework",
-        "ai-agents",
-        "beginners",
-        "deepseek",
-        "deepseek-ai",
-        "dsh-plugin",
-        "getting-started",
-        "guide",
-        "harness",
-        "llm",
-        "tutorial"
-      ],
-      "created_at": "2026-08-13T15:22:29Z",
-      "updated_at": "2026-08-15T23:35:28Z",
       "rank": 11
-    },
-    {
-      "name": "SheberDavid/v4-flash-godmode-opencode-go",
-      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
-      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
-      "full_description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
-      "language": "JavaScript",
-      "stars": 277,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "agent",
-        "deepseek",
-        "dsh",
-        "flash"
-      ],
-      "created_at": "2026-08-15T06:10:13Z",
-      "updated_at": "2026-08-16T02:04:13Z",
-      "rank": 12
     },
     {
       "name": "Carasibana/ComfyUI-H3-FaceRefine",
@@ -333,9 +308,9 @@
       "description": "Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with H3, stitch back.",
       "full_description": "Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with H3, stitch back.",
       "language": "Python",
-      "stars": 216,
+      "stars": 228,
       "stars_gained": 0,
-      "forks": 12,
+      "forks": 13,
       "topics": [
         "ai-video",
         "comfyui",
@@ -357,31 +332,30 @@
         "yolov8"
       ],
       "created_at": "2026-08-12T11:18:15Z",
-      "updated_at": "2026-08-16T01:16:15Z",
-      "rank": 13
+      "updated_at": "2026-08-16T22:31:46Z",
+      "rank": 12
     },
     {
-      "name": "surya-koritala/loomfeed",
-      "url": "https://github.com/surya-koritala/loomfeed",
-      "description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
-      "full_description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
-      "language": "Go",
-      "stars": 216,
+      "name": "Endokelp/Endoplexity",
+      "url": "https://github.com/Endokelp/Endoplexity",
+      "description": "Agentic browser control driven by your own Claude / Cursor subscriptions",
+      "full_description": "Agentic browser control driven by your own Claude / Cursor subscriptions",
+      "language": "TypeScript",
+      "stars": 224,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 0,
       "topics": [
-        "ai-agents",
-        "community-platform",
-        "golang",
-        "mcp",
-        "nextjs",
-        "reddit-alternative",
-        "self-hosted",
-        "social-network"
+        "ai-agent",
+        "browser-automation",
+        "cdp",
+        "chrome-extension",
+        "claude",
+        "cursor",
+        "mcp"
       ],
-      "created_at": "2026-08-09T19:28:09Z",
-      "updated_at": "2026-08-15T19:59:25Z",
-      "rank": 14
+      "created_at": "2026-08-14T17:37:36Z",
+      "updated_at": "2026-08-16T12:50:14Z",
+      "rank": 13
     },
     {
       "name": "wzchav/tokentab",
@@ -389,7 +363,7 @@
       "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
       "full_description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
       "language": "Python",
-      "stars": 216,
+      "stars": 219,
       "stars_gained": 0,
       "forks": 14,
       "topics": [
@@ -402,8 +376,8 @@
         "token-usage"
       ],
       "created_at": "2026-08-12T16:09:39Z",
-      "updated_at": "2026-08-16T00:32:34Z",
-      "rank": 15
+      "updated_at": "2026-08-16T20:14:53Z",
+      "rank": 14
     },
     {
       "name": "vibeinging/deepseek-harness-desktop-app",
@@ -411,7 +385,7 @@
       "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
       "full_description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
       "language": "JavaScript",
-      "stars": 202,
+      "stars": 216,
       "stars_gained": 0,
       "forks": 4,
       "topics": [
@@ -432,8 +406,8 @@
         "typescript"
       ],
       "created_at": "2026-08-13T10:41:33Z",
-      "updated_at": "2026-08-16T01:58:46Z",
-      "rank": 16
+      "updated_at": "2026-08-17T01:59:41Z",
+      "rank": 15
     },
     {
       "name": "wanshuiyin/HERO-Anti-OverDefense",
@@ -441,9 +415,9 @@
       "description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
       "full_description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
       "language": "Markdown",
-      "stars": 154,
+      "stars": 166,
       "stars_gained": 0,
-      "forks": 5,
+      "forks": 6,
       "topics": [
         "agents-md",
         "ai-agents",
@@ -460,8 +434,8 @@
         "windsurf"
       ],
       "created_at": "2026-08-11T05:08:30Z",
-      "updated_at": "2026-08-16T01:40:49Z",
-      "rank": 17
+      "updated_at": "2026-08-17T01:26:57Z",
+      "rank": 16
     },
     {
       "name": "icesixgod/codex-trajectory",
@@ -469,9 +443,9 @@
       "description": "Privacy-aware trajectory viewer for local Codex task logs",
       "full_description": "Privacy-aware trajectory viewer for local Codex task logs",
       "language": "Python",
-      "stars": 142,
+      "stars": 151,
       "stars_gained": 0,
-      "forks": 6,
+      "forks": 7,
       "topics": [
         "codex",
         "codex-plugin",
@@ -482,7 +456,42 @@
         "uv"
       ],
       "created_at": "2026-08-13T17:16:42Z",
-      "updated_at": "2026-08-15T19:17:25Z",
+      "updated_at": "2026-08-16T18:52:28Z",
+      "rank": 17
+    },
+    {
+      "name": "seyedehsanhadi/sloptrim",
+      "url": "https://github.com/seyedehsanhadi/sloptrim",
+      "description": "A local detector for AI-writing patterns. Scores every prose file your agent saves. Python standard library only, no network, no model.",
+      "full_description": "A local detector for AI-writing patterns. Scores every prose file your agent saves. Python standard library only, no network, no model.",
+      "language": "Python",
+      "stars": 149,
+      "stars_gained": 0,
+      "forks": 11,
+      "topics": [
+        "ai-agents",
+        "ai-slop",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-code-plugins-marketplace",
+        "claude-code-skills",
+        "de-slop",
+        "developer-tools",
+        "docx",
+        "humanizer",
+        "linter",
+        "llm",
+        "markdown",
+        "prose-linter",
+        "python",
+        "stylometry",
+        "text-analysis",
+        "writing-quality",
+        "writing-tools",
+        "zero-dependency"
+      ],
+      "created_at": "2026-08-13T08:09:10Z",
+      "updated_at": "2026-08-17T01:49:57Z",
       "rank": 18
     },
     {
@@ -491,9 +500,9 @@
       "description": "SillyTavern migration and next-generation Agent RP for DSH",
       "full_description": "SillyTavern migration and next-generation Agent RP for DSH",
       "language": "TypeScript",
-      "stars": 130,
+      "stars": 142,
       "stars_gained": 0,
-      "forks": 4,
+      "forks": 5,
       "topics": [
         "agent",
         "dsh",
@@ -501,7 +510,7 @@
         "sillytavern"
       ],
       "created_at": "2026-08-13T12:49:30Z",
-      "updated_at": "2026-08-16T00:58:51Z",
+      "updated_at": "2026-08-16T23:50:38Z",
       "rank": 19
     },
     {
@@ -526,35 +535,14 @@
       "rank": 20
     },
     {
-      "name": "swping999/scene-card-studio",
-      "url": "https://github.com/swping999/scene-card-studio",
-      "description": "AI visual director for turning personal photos into structured, editable visual narratives.",
-      "full_description": "AI visual director for turning personal photos into structured, editable visual narratives.",
-      "language": "Python",
-      "stars": 112,
-      "stars_gained": 0,
-      "forks": 8,
-      "topics": [
-        "ai-tools",
-        "codex-skill",
-        "generative-ai",
-        "image-generation",
-        "photo-narrative",
-        "visual-storytelling"
-      ],
-      "created_at": "2026-08-09T03:25:19Z",
-      "updated_at": "2026-08-16T01:29:27Z",
-      "rank": 21
-    },
-    {
       "name": "vuphongle/oss-pr-reviewer",
       "url": "https://github.com/vuphongle/oss-pr-reviewer",
       "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
       "full_description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
       "language": "TypeScript",
-      "stars": 106,
+      "stars": 108,
       "stars_gained": 0,
-      "forks": 100,
+      "forks": 99,
       "topics": [
         "ai",
         "cli",
@@ -568,8 +556,8 @@
         "typescript"
       ],
       "created_at": "2026-08-13T01:59:03Z",
-      "updated_at": "2026-08-15T22:12:17Z",
-      "rank": 22
+      "updated_at": "2026-08-16T20:17:12Z",
+      "rank": 21
     },
     {
       "name": "nduc99911/repo-context-mcp",
@@ -577,9 +565,9 @@
       "description": "MCP server: repo map, code search, and token-aware context packs for AI coding agents",
       "full_description": "MCP server: repo map, code search, and token-aware context packs for AI coding agents",
       "language": "TypeScript",
-      "stars": 103,
+      "stars": 104,
       "stars_gained": 0,
-      "forks": 95,
+      "forks": 94,
       "topics": [
         "ai-agent",
         "claude",
@@ -590,8 +578,8 @@
         "typescript"
       ],
       "created_at": "2026-08-12T08:22:31Z",
-      "updated_at": "2026-08-14T16:20:15Z",
-      "rank": 23
+      "updated_at": "2026-08-16T23:03:53Z",
+      "rank": 22
     },
     {
       "name": "Yixuan-Wu39/bandminton",
@@ -613,7 +601,7 @@
       ],
       "created_at": "2026-08-12T06:14:49Z",
       "updated_at": "2026-08-12T11:32:24Z",
-      "rank": 24
+      "rank": 23
     },
     {
       "name": "evan-steinhilb/md2hd",
@@ -621,7 +609,7 @@
       "description": "Markdown, mapped - the MD2HD CLI. Pull the repo, tell your agent to create an MD2HD map, visually comprehend complex topics and relationships.",
       "full_description": "Markdown, mapped - the MD2HD CLI. Pull the repo, tell your agent to create an MD2HD map, visually comprehend complex topics and relationships.",
       "language": "JavaScript",
-      "stars": 92,
+      "stars": 94,
       "stars_gained": 0,
       "forks": 11,
       "topics": [
@@ -629,97 +617,94 @@
         "open-source"
       ],
       "created_at": "2026-08-11T15:39:44Z",
-      "updated_at": "2026-08-16T01:55:14Z",
+      "updated_at": "2026-08-17T01:48:47Z",
+      "rank": 24
+    },
+    {
+      "name": "bradeGithub/DSH-Plugins-Marketplace",
+      "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace",
+      "description": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
+      "full_description": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
+      "language": "JavaScript",
+      "stars": 93,
+      "stars_gained": 0,
+      "forks": 6,
+      "topics": [
+        "agent",
+        "ai-agents",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "javascript",
+        "llm",
+        "marketplace",
+        "nodejs",
+        "plugin",
+        "plugin-marketplace"
+      ],
+      "created_at": "2026-08-13T16:01:59Z",
+      "updated_at": "2026-08-17T01:57:22Z",
       "rank": 25
     },
     {
-      "name": "thiientv/godmode",
-      "url": "https://github.com/thiientv/godmode",
-      "description": "Production-grade Agent Skills for AI coding agents—composable workflows for planning, TDD, debugging, review, UI/UX, releases, incidents, and evals.",
-      "full_description": "Production-grade Agent Skills for AI coding agents—composable workflows for planning, TDD, debugging, review, UI/UX, releases, incidents, and evals.",
-      "language": "Python",
-      "stars": 90,
+      "name": "Dominic789654/awesome-deepseek-harness",
+      "url": "https://github.com/Dominic789654/awesome-deepseek-harness",
+      "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
+      "full_description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
+      "language": "TypeScript",
+      "stars": 93,
       "stars_gained": 0,
-      "forks": 86,
+      "forks": 54,
       "topics": [
-        "agent-evaluation",
-        "agent-skills",
+        "agent",
+        "agent-framework",
+        "ai-agent",
         "ai-agents",
-        "ai-coding",
-        "claude-code",
-        "code-review",
-        "codex",
-        "coding-agents",
-        "developer-tools",
+        "awesome",
+        "awesome-list",
+        "coding-agent",
+        "deepseek",
+        "deepseek-ai",
+        "deepseek-harness",
+        "deepseek-harness-plugin",
+        "deepseek-harness-plugins",
+        "dsh",
+        "dsh-patch",
+        "dsh-plugin",
+        "dsh-plugins",
         "llm",
-        "prompt-engineering",
-        "software-engineering",
-        "test-driven-development",
-        "ui-ux",
-        "workflow-automation"
+        "llm-agent",
+        "mcp",
+        "plugins"
       ],
-      "created_at": "2026-08-13T04:06:22Z",
-      "updated_at": "2026-08-15T15:16:32Z",
+      "created_at": "2026-08-13T13:54:05Z",
+      "updated_at": "2026-08-17T01:43:01Z",
       "rank": 26
     },
     {
-      "name": "seyedehsanhadi/sloptrim",
-      "url": "https://github.com/seyedehsanhadi/sloptrim",
-      "description": "A local detector for AI-writing patterns. Scores every prose file your agent saves. Python standard library only, no network, no model.",
-      "full_description": "A local detector for AI-writing patterns. Scores every prose file your agent saves. Python standard library only, no network, no model.",
-      "language": "Python",
-      "stars": 89,
+      "name": "libukai/awesome-deepseek-harness",
+      "url": "https://github.com/libukai/awesome-deepseek-harness",
+      "description": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
+      "full_description": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
+      "language": "",
+      "stars": 92,
       "stars_gained": 0,
-      "forks": 9,
+      "forks": 26,
       "topics": [
-        "ai-agents",
-        "ai-slop",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-code-plugins-marketplace",
-        "claude-code-skills",
-        "de-slop",
+        "agent",
+        "agent-harness",
+        "awesome-list",
+        "deepseek",
+        "deepseek-harness",
         "developer-tools",
-        "docx",
-        "humanizer",
-        "linter",
-        "llm",
-        "markdown",
-        "prose-linter",
-        "python",
-        "stylometry",
-        "text-analysis",
-        "writing-quality",
-        "writing-tools",
-        "zero-dependency"
+        "dsh",
+        "dsh-plugin",
+        "plugins"
       ],
-      "created_at": "2026-08-13T08:09:10Z",
-      "updated_at": "2026-08-16T01:59:45Z",
+      "created_at": "2026-08-13T13:47:48Z",
+      "updated_at": "2026-08-17T01:43:36Z",
       "rank": 27
-    },
-    {
-      "name": "christiangrey922/multi-agent-workflow-lab",
-      "url": "https://github.com/christiangrey922/multi-agent-workflow-lab",
-      "description": "Testing and observability for multi-agent delegation, MCP tools, permissions, sandboxed actions, prompts, and workflow replay.",
-      "full_description": "Testing and observability for multi-agent delegation, MCP tools, permissions, sandboxed actions, prompts, and workflow replay.",
-      "language": "TypeScript",
-      "stars": 87,
-      "stars_gained": 0,
-      "forks": 79,
-      "topics": [
-        "agent-orchestration",
-        "agent-security",
-        "agent-testing",
-        "ai-agent",
-        "ai-agents",
-        "ai-security",
-        "mcp",
-        "model-context-protocol",
-        "multi-agent"
-      ],
-      "created_at": "2026-08-12T09:04:07Z",
-      "updated_at": "2026-08-15T14:47:53Z",
-      "rank": 28
     },
     {
       "name": "trefeon/freebuff-proxy",
@@ -727,9 +712,9 @@
       "description": "OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
       "full_description": "OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
       "language": "Go",
-      "stars": 84,
+      "stars": 92,
       "stars_gained": 0,
-      "forks": 23,
+      "forks": 26,
       "topics": [
         "api-gateway",
         "codebuff",
@@ -753,30 +738,63 @@
         "token-pool"
       ],
       "created_at": "2026-08-11T07:06:43Z",
-      "updated_at": "2026-08-16T01:24:39Z",
+      "updated_at": "2026-08-16T19:34:52Z",
+      "rank": 28
+    },
+    {
+      "name": "thiientv/godmode",
+      "url": "https://github.com/thiientv/godmode",
+      "description": "Production-grade Agent Skills for AI coding agents—composable workflows for planning, TDD, debugging, review, UI/UX, releases, incidents, and evals.",
+      "full_description": "Production-grade Agent Skills for AI coding agents—composable workflows for planning, TDD, debugging, review, UI/UX, releases, incidents, and evals.",
+      "language": "Python",
+      "stars": 90,
+      "stars_gained": 0,
+      "forks": 85,
+      "topics": [
+        "agent-evaluation",
+        "agent-skills",
+        "ai-agents",
+        "ai-coding",
+        "claude-code",
+        "code-review",
+        "codex",
+        "coding-agents",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "software-engineering",
+        "test-driven-development",
+        "ui-ux",
+        "workflow-automation"
+      ],
+      "created_at": "2026-08-13T04:06:22Z",
+      "updated_at": "2026-08-17T01:21:36Z",
       "rank": 29
     },
     {
-      "name": "wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
-      "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
-      "description": "I’ve just created my own bot and I’m excited to share my work with you!",
-      "full_description": "I’ve just created my own bot and I’m excited to share my work with you!",
-      "language": "HTML",
-      "stars": 84,
+      "name": "idavidov13/agentic-playwright",
+      "url": "https://github.com/idavidov13/agentic-playwright",
+      "description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
+      "full_description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
+      "language": "Python",
+      "stars": 90,
       "stars_gained": 0,
-      "forks": 65,
+      "forks": 25,
       "topics": [
+        "agentic",
         "ai",
-        "bot",
-        "code",
-        "evm",
-        "html",
-        "index",
-        "js",
-        "trand"
+        "api-testing",
+        "claude-code",
+        "cursor",
+        "e2e",
+        "github-copilot",
+        "playwright",
+        "test-automation",
+        "testing",
+        "typescript"
       ],
-      "created_at": "2026-08-10T10:16:41Z",
-      "updated_at": "2026-08-16T02:04:36Z",
+      "created_at": "2026-08-13T08:12:20Z",
+      "updated_at": "2026-08-16T21:21:06Z",
       "rank": 30
     }
   ]
