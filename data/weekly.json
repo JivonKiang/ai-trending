@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T02:00:57.498624+00:00",
+  "updated": "2026-08-18T01:57:00.812186+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "full_description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "language": "Python",
-      "stars": 11684,
+      "stars": 13537,
       "stars_gained": 0,
-      "forks": 1243,
+      "forks": 1482,
       "topics": [
         "agent-skill",
         "ai",
@@ -23,7 +23,7 @@
         "watermark"
       ],
       "created_at": "2026-08-11T16:32:38Z",
-      "updated_at": "2026-08-17T02:00:16Z",
+      "updated_at": "2026-08-18T01:56:44Z",
       "rank": 1
     },
     {
@@ -32,7 +32,7 @@
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "full_description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars": 1155,
+      "stars": 1178,
       "stars_gained": 0,
       "forks": 142,
       "topics": [
@@ -58,7 +58,7 @@
         "skill-generator"
       ],
       "created_at": "2026-08-13T13:15:23Z",
-      "updated_at": "2026-08-17T01:35:50Z",
+      "updated_at": "2026-08-18T01:53:05Z",
       "rank": 2
     },
     {
@@ -67,9 +67,9 @@
       "description": "Meet Foreman, an eve Software Factory.",
       "full_description": "Meet Foreman, an eve Software Factory.",
       "language": "TypeScript",
-      "stars": 834,
+      "stars": 884,
       "stars_gained": 0,
-      "forks": 54,
+      "forks": 58,
       "topics": [
         "agent",
         "ai",
@@ -77,8 +77,32 @@
         "vercel"
       ],
       "created_at": "2026-08-12T12:34:43Z",
-      "updated_at": "2026-08-16T23:18:15Z",
+      "updated_at": "2026-08-18T01:00:11Z",
       "rank": 3
+    },
+    {
+      "name": "elie222/rakazo",
+      "url": "https://github.com/elie222/rakazo",
+      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "full_description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "language": "TypeScript",
+      "stars": 780,
+      "stars_gained": 0,
+      "forks": 100,
+      "topics": [
+        "ai-agents",
+        "chatgpt",
+        "docker",
+        "electron",
+        "expo",
+        "grok",
+        "llm",
+        "self-hosted",
+        "typescript"
+      ],
+      "created_at": "2026-08-13T06:28:56Z",
+      "updated_at": "2026-08-18T01:45:27Z",
+      "rank": 4
     },
     {
       "name": "0xsline/awesome-deepseek-harness",
@@ -86,9 +110,9 @@
       "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
       "full_description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
       "language": "Python",
-      "stars": 609,
+      "stars": 688,
       "stars_gained": 0,
-      "forks": 224,
+      "forks": 248,
       "topics": [
         "agent",
         "ai",
@@ -110,42 +134,18 @@
         "plugins"
       ],
       "created_at": "2026-08-11T13:14:49Z",
-      "updated_at": "2026-08-17T01:52:33Z",
-      "rank": 4
-    },
-    {
-      "name": "elie222/rakazo",
-      "url": "https://github.com/elie222/rakazo",
-      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-      "full_description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-      "language": "TypeScript",
-      "stars": 545,
-      "stars_gained": 0,
-      "forks": 63,
-      "topics": [
-        "ai-agents",
-        "chatgpt",
-        "docker",
-        "electron",
-        "expo",
-        "grok",
-        "llm",
-        "self-hosted",
-        "typescript"
-      ],
-      "created_at": "2026-08-13T06:28:56Z",
-      "updated_at": "2026-08-17T01:59:54Z",
+      "updated_at": "2026-08-18T01:46:22Z",
       "rank": 5
     },
     {
       "name": "Anionex/dsh-vision-toolkit",
       "url": "https://github.com/Anionex/dsh-vision-toolkit",
-      "description": "让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
-      "full_description": "让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+      "description": "[dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+      "full_description": "[dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
       "language": "TypeScript",
-      "stars": 539,
+      "stars": 626,
       "stars_gained": 0,
-      "forks": 28,
+      "forks": 31,
       "topics": [
         "agent-skills",
         "agent-vision-toolkit",
@@ -166,7 +166,7 @@
         "vision-tools"
       ],
       "created_at": "2026-08-13T12:36:34Z",
-      "updated_at": "2026-08-17T02:00:32Z",
+      "updated_at": "2026-08-18T01:53:54Z",
       "rank": 6
     },
     {
@@ -175,9 +175,9 @@
       "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
       "full_description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
       "language": "",
-      "stars": 531,
+      "stars": 544,
       "stars_gained": 0,
-      "forks": 111,
+      "forks": 113,
       "topics": [
         "ai",
         "ai-governance",
@@ -201,27 +201,8 @@
         "zero-trust"
       ],
       "created_at": "2026-08-12T04:03:15Z",
-      "updated_at": "2026-08-17T00:17:32Z",
+      "updated_at": "2026-08-17T23:35:39Z",
       "rank": 7
-    },
-    {
-      "name": "SheberDavid/v4-flash-godmode-opencode-go",
-      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
-      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
-      "full_description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
-      "language": "JavaScript",
-      "stars": 500,
-      "stars_gained": 0,
-      "forks": 12,
-      "topics": [
-        "agent",
-        "deepseek",
-        "dsh",
-        "flash"
-      ],
-      "created_at": "2026-08-15T06:10:13Z",
-      "updated_at": "2026-08-17T01:38:53Z",
-      "rank": 8
     },
     {
       "name": "decionis/agent-safe-pipeline",
@@ -229,9 +210,9 @@
       "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
       "full_description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
       "language": "TypeScript",
-      "stars": 486,
+      "stars": 516,
       "stars_gained": 0,
-      "forks": 59,
+      "forks": 58,
       "topics": [
         "agentic-ai",
         "ai-agent-permissions",
@@ -247,7 +228,26 @@
         "typescript"
       ],
       "created_at": "2026-08-13T21:36:19Z",
-      "updated_at": "2026-08-17T01:53:54Z",
+      "updated_at": "2026-08-18T00:38:41Z",
+      "rank": 8
+    },
+    {
+      "name": "SheberDavid/v4-flash-godmode-opencode-go",
+      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
+      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "full_description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "language": "JavaScript",
+      "stars": 510,
+      "stars_gained": 0,
+      "forks": 12,
+      "topics": [
+        "agent",
+        "deepseek",
+        "dsh",
+        "flash"
+      ],
+      "created_at": "2026-08-15T06:10:13Z",
+      "updated_at": "2026-08-18T01:56:32Z",
       "rank": 9
     },
     {
@@ -256,9 +256,9 @@
       "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
       "full_description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
       "language": "HTML",
-      "stars": 374,
+      "stars": 453,
       "stars_gained": 0,
-      "forks": 15,
+      "forks": 21,
       "topics": [
         "agent",
         "agent-framework",
@@ -274,32 +274,37 @@
         "tutorial"
       ],
       "created_at": "2026-08-13T15:22:29Z",
-      "updated_at": "2026-08-17T01:47:19Z",
+      "updated_at": "2026-08-18T01:42:14Z",
       "rank": 10
     },
     {
-      "name": "OpenSparX/MasterAgent",
-      "url": "https://github.com/OpenSparX/MasterAgent",
-      "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
-      "full_description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
-      "language": "C++",
-      "stars": 344,
+      "name": "vibeinging/deepseek-harness-desktop-app",
+      "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
+      "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+      "full_description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+      "language": "JavaScript",
+      "stars": 311,
       "stars_gained": 0,
-      "forks": 17,
+      "forks": 4,
       "topics": [
-        "agent-framework",
+        "agentic-workflows",
         "ai-agent",
-        "automotive",
-        "edge-ai",
-        "embedded",
-        "iot",
-        "llm",
-        "npu",
-        "on-device",
-        "qualcomm"
+        "ai-workbench",
+        "data-analysis",
+        "deepseek-harness",
+        "desktop-app",
+        "dsh",
+        "dsh-plugin",
+        "electron",
+        "local-first",
+        "mcp",
+        "model-context-protocol",
+        "office-automation",
+        "react",
+        "typescript"
       ],
-      "created_at": "2026-08-10T18:43:36Z",
-      "updated_at": "2026-08-15T14:20:58Z",
+      "created_at": "2026-08-13T10:41:33Z",
+      "updated_at": "2026-08-17T23:03:27Z",
       "rank": 11
     },
     {
@@ -308,9 +313,9 @@
       "description": "Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with H3, stitch back.",
       "full_description": "Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with H3, stitch back.",
       "language": "Python",
-      "stars": 228,
+      "stars": 238,
       "stars_gained": 0,
-      "forks": 13,
+      "forks": 14,
       "topics": [
         "ai-video",
         "comfyui",
@@ -332,30 +337,8 @@
         "yolov8"
       ],
       "created_at": "2026-08-12T11:18:15Z",
-      "updated_at": "2026-08-16T22:31:46Z",
+      "updated_at": "2026-08-18T01:53:50Z",
       "rank": 12
-    },
-    {
-      "name": "Endokelp/Endoplexity",
-      "url": "https://github.com/Endokelp/Endoplexity",
-      "description": "Agentic browser control driven by your own Claude / Cursor subscriptions",
-      "full_description": "Agentic browser control driven by your own Claude / Cursor subscriptions",
-      "language": "TypeScript",
-      "stars": 224,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai-agent",
-        "browser-automation",
-        "cdp",
-        "chrome-extension",
-        "claude",
-        "cursor",
-        "mcp"
-      ],
-      "created_at": "2026-08-14T17:37:36Z",
-      "updated_at": "2026-08-16T12:50:14Z",
-      "rank": 13
     },
     {
       "name": "wzchav/tokentab",
@@ -363,7 +346,7 @@
       "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
       "full_description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
       "language": "Python",
-      "stars": 219,
+      "stars": 222,
       "stars_gained": 0,
       "forks": 14,
       "topics": [
@@ -376,37 +359,50 @@
         "token-usage"
       ],
       "created_at": "2026-08-12T16:09:39Z",
-      "updated_at": "2026-08-16T20:14:53Z",
+      "updated_at": "2026-08-17T08:37:41Z",
+      "rank": 13
+    },
+    {
+      "name": "pgrundev/pgbot",
+      "url": "https://github.com/pgrundev/pgbot",
+      "description": "pgbot - Postgres intelligence for AI agents & apps",
+      "full_description": "pgbot - Postgres intelligence for AI agents & apps",
+      "language": "Go",
+      "stars": 209,
+      "stars_gained": 0,
+      "forks": 13,
+      "topics": [
+        "ai",
+        "data-analysis",
+        "database",
+        "postgres",
+        "postgresql",
+        "postgresql-database"
+      ],
+      "created_at": "2026-08-11T23:41:52Z",
+      "updated_at": "2026-08-18T01:47:38Z",
       "rank": 14
     },
     {
-      "name": "vibeinging/deepseek-harness-desktop-app",
-      "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
-      "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-      "full_description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-      "language": "JavaScript",
-      "stars": 216,
+      "name": "Endokelp/Endoplexity",
+      "url": "https://github.com/Endokelp/Endoplexity",
+      "description": "Agentic browser control driven by your own Claude / Cursor subscriptions",
+      "full_description": "Agentic browser control driven by your own Claude / Cursor subscriptions",
+      "language": "TypeScript",
+      "stars": 208,
       "stars_gained": 0,
-      "forks": 4,
+      "forks": 0,
       "topics": [
-        "agentic-workflows",
         "ai-agent",
-        "ai-workbench",
-        "data-analysis",
-        "deepseek-harness",
-        "desktop-app",
-        "dsh",
-        "dsh-plugin",
-        "electron",
-        "local-first",
-        "mcp",
-        "model-context-protocol",
-        "office-automation",
-        "react",
-        "typescript"
+        "browser-automation",
+        "cdp",
+        "chrome-extension",
+        "claude",
+        "cursor",
+        "mcp"
       ],
-      "created_at": "2026-08-13T10:41:33Z",
-      "updated_at": "2026-08-17T01:59:41Z",
+      "created_at": "2026-08-14T17:37:36Z",
+      "updated_at": "2026-08-17T07:22:15Z",
       "rank": 15
     },
     {
@@ -415,7 +411,7 @@
       "description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
       "full_description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
       "language": "Markdown",
-      "stars": 166,
+      "stars": 185,
       "stars_gained": 0,
       "forks": 6,
       "topics": [
@@ -434,7 +430,7 @@
         "windsurf"
       ],
       "created_at": "2026-08-11T05:08:30Z",
-      "updated_at": "2026-08-17T01:26:57Z",
+      "updated_at": "2026-08-18T01:20:44Z",
       "rank": 16
     },
     {
@@ -443,7 +439,7 @@
       "description": "Privacy-aware trajectory viewer for local Codex task logs",
       "full_description": "Privacy-aware trajectory viewer for local Codex task logs",
       "language": "Python",
-      "stars": 151,
+      "stars": 155,
       "stars_gained": 0,
       "forks": 7,
       "topics": [
@@ -456,8 +452,27 @@
         "uv"
       ],
       "created_at": "2026-08-13T17:16:42Z",
-      "updated_at": "2026-08-16T18:52:28Z",
+      "updated_at": "2026-08-17T16:29:18Z",
       "rank": 17
+    },
+    {
+      "name": "hewzhew/dsh-agent-rp",
+      "url": "https://github.com/hewzhew/dsh-agent-rp",
+      "description": "SillyTavern migration and next-generation Agent RP for DSH",
+      "full_description": "SillyTavern migration and next-generation Agent RP for DSH",
+      "language": "TypeScript",
+      "stars": 154,
+      "stars_gained": 0,
+      "forks": 5,
+      "topics": [
+        "agent",
+        "dsh",
+        "roleplay",
+        "sillytavern"
+      ],
+      "created_at": "2026-08-13T12:49:30Z",
+      "updated_at": "2026-08-17T14:54:15Z",
+      "rank": 18
     },
     {
       "name": "seyedehsanhadi/sloptrim",
@@ -465,7 +480,7 @@
       "description": "A local detector for AI-writing patterns. Scores every prose file your agent saves. Python standard library only, no network, no model.",
       "full_description": "A local detector for AI-writing patterns. Scores every prose file your agent saves. Python standard library only, no network, no model.",
       "language": "Python",
-      "stars": 149,
+      "stars": 154,
       "stars_gained": 0,
       "forks": 11,
       "topics": [
@@ -491,161 +506,30 @@
         "zero-dependency"
       ],
       "created_at": "2026-08-13T08:09:10Z",
-      "updated_at": "2026-08-17T01:49:57Z",
-      "rank": 18
-    },
-    {
-      "name": "hewzhew/dsh-agent-rp",
-      "url": "https://github.com/hewzhew/dsh-agent-rp",
-      "description": "SillyTavern migration and next-generation Agent RP for DSH",
-      "full_description": "SillyTavern migration and next-generation Agent RP for DSH",
-      "language": "TypeScript",
-      "stars": 142,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "agent",
-        "dsh",
-        "roleplay",
-        "sillytavern"
-      ],
-      "created_at": "2026-08-13T12:49:30Z",
-      "updated_at": "2026-08-16T23:50:38Z",
+      "updated_at": "2026-08-17T13:53:29Z",
       "rank": 19
     },
     {
-      "name": "dengzi008/DramaLens",
-      "url": "https://github.com/dengzi008/DramaLens",
-      "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
-      "full_description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
-      "language": "JavaScript",
-      "stars": 122,
+      "name": "bawadou/ai-data-extractor",
+      "url": "https://github.com/bawadou/ai-data-extractor",
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "full_description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "language": "Python",
+      "stars": 127,
       "stars_gained": 0,
-      "forks": 14,
+      "forks": 50,
       "topics": [
         "ai",
-        "chinese",
-        "chrome-extension",
-        "faster-whisper",
-        "local-first",
-        "speech-to-text"
-      ],
-      "created_at": "2026-08-11T03:58:26Z",
-      "updated_at": "2026-08-13T11:20:41Z",
-      "rank": 20
-    },
-    {
-      "name": "vuphongle/oss-pr-reviewer",
-      "url": "https://github.com/vuphongle/oss-pr-reviewer",
-      "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
-      "full_description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
-      "language": "TypeScript",
-      "stars": 108,
-      "stars_gained": 0,
-      "forks": 99,
-      "topics": [
-        "ai",
-        "cli",
-        "code-review",
-        "developer-tools",
-        "github",
-        "llm",
-        "maintainer-tools",
-        "open-source",
-        "pull-request",
-        "typescript"
-      ],
-      "created_at": "2026-08-13T01:59:03Z",
-      "updated_at": "2026-08-16T20:17:12Z",
-      "rank": 21
-    },
-    {
-      "name": "nduc99911/repo-context-mcp",
-      "url": "https://github.com/nduc99911/repo-context-mcp",
-      "description": "MCP server: repo map, code search, and token-aware context packs for AI coding agents",
-      "full_description": "MCP server: repo map, code search, and token-aware context packs for AI coding agents",
-      "language": "TypeScript",
-      "stars": 104,
-      "stars_gained": 0,
-      "forks": 94,
-      "topics": [
-        "ai-agent",
+        "ai-data-extractor",
         "claude",
-        "codex",
         "cursor",
-        "mcp",
-        "model-context-protocol",
-        "typescript"
+        "cursor-ai",
+        "data-extraction",
+        "gemini"
       ],
-      "created_at": "2026-08-12T08:22:31Z",
-      "updated_at": "2026-08-16T23:03:53Z",
-      "rank": 22
-    },
-    {
-      "name": "Yixuan-Wu39/bandminton",
-      "url": "https://github.com/Yixuan-Wu39/bandminton",
-      "description": "Open-source wearable badminton motion analysis with lightweight on-device machine learning.",
-      "full_description": "Open-source wearable badminton motion analysis with lightweight on-device machine learning.",
-      "language": "JavaScript",
-      "stars": 103,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "accelerometer",
-        "badminton",
-        "fitness-tracking",
-        "machine-learning",
-        "motion-analysis",
-        "wearable",
-        "xiaomi"
-      ],
-      "created_at": "2026-08-12T06:14:49Z",
-      "updated_at": "2026-08-12T11:32:24Z",
-      "rank": 23
-    },
-    {
-      "name": "evan-steinhilb/md2hd",
-      "url": "https://github.com/evan-steinhilb/md2hd",
-      "description": "Markdown, mapped - the MD2HD CLI. Pull the repo, tell your agent to create an MD2HD map, visually comprehend complex topics and relationships.",
-      "full_description": "Markdown, mapped - the MD2HD CLI. Pull the repo, tell your agent to create an MD2HD map, visually comprehend complex topics and relationships.",
-      "language": "JavaScript",
-      "stars": 94,
-      "stars_gained": 0,
-      "forks": 11,
-      "topics": [
-        "ai",
-        "open-source"
-      ],
-      "created_at": "2026-08-11T15:39:44Z",
-      "updated_at": "2026-08-17T01:48:47Z",
-      "rank": 24
-    },
-    {
-      "name": "bradeGithub/DSH-Plugins-Marketplace",
-      "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace",
-      "description": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
-      "full_description": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
-      "language": "JavaScript",
-      "stars": 93,
-      "stars_gained": 0,
-      "forks": 6,
-      "topics": [
-        "agent",
-        "ai-agents",
-        "cordis",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "javascript",
-        "llm",
-        "marketplace",
-        "nodejs",
-        "plugin",
-        "plugin-marketplace"
-      ],
-      "created_at": "2026-08-13T16:01:59Z",
-      "updated_at": "2026-08-17T01:57:22Z",
-      "rank": 25
+      "created_at": "2026-08-16T18:35:58Z",
+      "updated_at": "2026-08-18T01:23:05Z",
+      "rank": 20
     },
     {
       "name": "Dominic789654/awesome-deepseek-harness",
@@ -653,9 +537,9 @@
       "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
       "full_description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
       "language": "TypeScript",
-      "stars": 93,
+      "stars": 125,
       "stars_gained": 0,
-      "forks": 54,
+      "forks": 75,
       "topics": [
         "agent",
         "agent-framework",
@@ -679,8 +563,29 @@
         "plugins"
       ],
       "created_at": "2026-08-13T13:54:05Z",
-      "updated_at": "2026-08-17T01:43:01Z",
-      "rank": 26
+      "updated_at": "2026-08-18T01:28:17Z",
+      "rank": 21
+    },
+    {
+      "name": "dengzi008/DramaLens",
+      "url": "https://github.com/dengzi008/DramaLens",
+      "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
+      "full_description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
+      "language": "JavaScript",
+      "stars": 122,
+      "stars_gained": 0,
+      "forks": 14,
+      "topics": [
+        "ai",
+        "chinese",
+        "chrome-extension",
+        "faster-whisper",
+        "local-first",
+        "speech-to-text"
+      ],
+      "created_at": "2026-08-11T03:58:26Z",
+      "updated_at": "2026-08-13T11:20:41Z",
+      "rank": 22
     },
     {
       "name": "libukai/awesome-deepseek-harness",
@@ -688,9 +593,9 @@
       "description": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
       "full_description": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
       "language": "",
-      "stars": 92,
+      "stars": 119,
       "stars_gained": 0,
-      "forks": 26,
+      "forks": 29,
       "topics": [
         "agent",
         "agent-harness",
@@ -703,8 +608,153 @@
         "plugins"
       ],
       "created_at": "2026-08-13T13:47:48Z",
-      "updated_at": "2026-08-17T01:43:36Z",
+      "updated_at": "2026-08-18T01:36:04Z",
+      "rank": 23
+    },
+    {
+      "name": "browser-use/macos-harness",
+      "url": "https://github.com/browser-use/macos-harness",
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "full_description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "language": "Python",
+      "stars": 116,
+      "stars_gained": 0,
+      "forks": 8,
+      "topics": [
+        "accessibility",
+        "agent",
+        "automation",
+        "cdp",
+        "computer-use",
+        "macos",
+        "python"
+      ],
+      "created_at": "2026-08-17T00:22:20Z",
+      "updated_at": "2026-08-18T01:52:37Z",
+      "rank": 24
+    },
+    {
+      "name": "bradeGithub/DSH-Plugins-Marketplace",
+      "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace",
+      "description": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
+      "full_description": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
+      "language": "JavaScript",
+      "stars": 116,
+      "stars_gained": 0,
+      "forks": 6,
+      "topics": [
+        "agent",
+        "ai-agents",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "javascript",
+        "llm",
+        "marketplace",
+        "nodejs",
+        "plugin",
+        "plugin-marketplace"
+      ],
+      "created_at": "2026-08-13T16:01:59Z",
+      "updated_at": "2026-08-18T01:14:17Z",
+      "rank": 25
+    },
+    {
+      "name": "vuphongle/oss-pr-reviewer",
+      "url": "https://github.com/vuphongle/oss-pr-reviewer",
+      "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
+      "full_description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
+      "language": "TypeScript",
+      "stars": 111,
+      "stars_gained": 0,
+      "forks": 97,
+      "topics": [
+        "ai",
+        "cli",
+        "code-review",
+        "developer-tools",
+        "github",
+        "llm",
+        "maintainer-tools",
+        "open-source",
+        "pull-request",
+        "typescript"
+      ],
+      "created_at": "2026-08-13T01:59:03Z",
+      "updated_at": "2026-08-17T19:04:21Z",
+      "rank": 26
+    },
+    {
+      "name": "nduc99911/repo-context-mcp",
+      "url": "https://github.com/nduc99911/repo-context-mcp",
+      "description": "MCP server: repo map, code search, and token-aware context packs for AI coding agents",
+      "full_description": "MCP server: repo map, code search, and token-aware context packs for AI coding agents",
+      "language": "TypeScript",
+      "stars": 104,
+      "stars_gained": 0,
+      "forks": 91,
+      "topics": [
+        "ai-agent",
+        "claude",
+        "codex",
+        "cursor",
+        "mcp",
+        "model-context-protocol",
+        "typescript"
+      ],
+      "created_at": "2026-08-12T08:22:31Z",
+      "updated_at": "2026-08-16T23:03:53Z",
       "rank": 27
+    },
+    {
+      "name": "Yixuan-Wu39/bandminton",
+      "url": "https://github.com/Yixuan-Wu39/bandminton",
+      "description": "Open-source wearable badminton motion analysis with lightweight on-device machine learning.",
+      "full_description": "Open-source wearable badminton motion analysis with lightweight on-device machine learning.",
+      "language": "JavaScript",
+      "stars": 103,
+      "stars_gained": 0,
+      "forks": 2,
+      "topics": [
+        "accelerometer",
+        "badminton",
+        "fitness-tracking",
+        "machine-learning",
+        "motion-analysis",
+        "wearable",
+        "xiaomi"
+      ],
+      "created_at": "2026-08-12T06:14:49Z",
+      "updated_at": "2026-08-12T11:32:24Z",
+      "rank": 28
+    },
+    {
+      "name": "ZSeven-W/dsh-noema",
+      "url": "https://github.com/ZSeven-W/dsh-noema",
+      "description": "Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.",
+      "full_description": "Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.",
+      "language": "TypeScript",
+      "stars": 100,
+      "stars_gained": 0,
+      "forks": 7,
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "coding-agent",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "long-term-memory",
+        "mcp",
+        "memory",
+        "noema",
+        "plugin",
+        "typescript"
+      ],
+      "created_at": "2026-08-14T12:38:51Z",
+      "updated_at": "2026-08-18T01:18:35Z",
+      "rank": 29
     },
     {
       "name": "trefeon/freebuff-proxy",
@@ -712,9 +762,9 @@
       "description": "OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
       "full_description": "OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
       "language": "Go",
-      "stars": 92,
+      "stars": 100,
       "stars_gained": 0,
-      "forks": 26,
+      "forks": 28,
       "topics": [
         "api-gateway",
         "codebuff",
@@ -738,63 +788,7 @@
         "token-pool"
       ],
       "created_at": "2026-08-11T07:06:43Z",
-      "updated_at": "2026-08-16T19:34:52Z",
-      "rank": 28
-    },
-    {
-      "name": "thiientv/godmode",
-      "url": "https://github.com/thiientv/godmode",
-      "description": "Production-grade Agent Skills for AI coding agents—composable workflows for planning, TDD, debugging, review, UI/UX, releases, incidents, and evals.",
-      "full_description": "Production-grade Agent Skills for AI coding agents—composable workflows for planning, TDD, debugging, review, UI/UX, releases, incidents, and evals.",
-      "language": "Python",
-      "stars": 90,
-      "stars_gained": 0,
-      "forks": 85,
-      "topics": [
-        "agent-evaluation",
-        "agent-skills",
-        "ai-agents",
-        "ai-coding",
-        "claude-code",
-        "code-review",
-        "codex",
-        "coding-agents",
-        "developer-tools",
-        "llm",
-        "prompt-engineering",
-        "software-engineering",
-        "test-driven-development",
-        "ui-ux",
-        "workflow-automation"
-      ],
-      "created_at": "2026-08-13T04:06:22Z",
-      "updated_at": "2026-08-17T01:21:36Z",
-      "rank": 29
-    },
-    {
-      "name": "idavidov13/agentic-playwright",
-      "url": "https://github.com/idavidov13/agentic-playwright",
-      "description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
-      "full_description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
-      "language": "Python",
-      "stars": 90,
-      "stars_gained": 0,
-      "forks": 25,
-      "topics": [
-        "agentic",
-        "ai",
-        "api-testing",
-        "claude-code",
-        "cursor",
-        "e2e",
-        "github-copilot",
-        "playwright",
-        "test-automation",
-        "testing",
-        "typescript"
-      ],
-      "created_at": "2026-08-13T08:12:20Z",
-      "updated_at": "2026-08-16T21:21:06Z",
+      "updated_at": "2026-08-17T20:44:21Z",
       "rank": 30
     }
   ]
