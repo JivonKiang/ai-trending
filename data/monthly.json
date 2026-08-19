@@ -1,37 +1,18 @@
 {
-  "updated": "2026-08-18T01:57:01.551133+00:00",
+  "updated": "2026-08-19T01:58:55.505401+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
   "projects": [
-    {
-      "name": "yc-software/qm",
-      "url": "https://github.com/yc-software/qm",
-      "description": "Multiplayer agent harness for work.",
-      "full_description": "Multiplayer agent harness for work.",
-      "language": "TypeScript",
-      "stars": 13809,
-      "stars_gained": 0,
-      "forks": 1632,
-      "topics": [
-        "ai",
-        "assistant",
-        "harness",
-        "qm"
-      ],
-      "created_at": "2026-07-29T20:03:08Z",
-      "updated_at": "2026-08-18T01:39:36Z",
-      "rank": 1
-    },
     {
       "name": "guillaumemeyer/watermarks-remover",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "full_description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "language": "Python",
-      "stars": 13537,
+      "stars": 14544,
       "stars_gained": 0,
-      "forks": 1482,
+      "forks": 1614,
       "topics": [
         "agent-skill",
         "ai",
@@ -42,7 +23,26 @@
         "watermark"
       ],
       "created_at": "2026-08-11T16:32:38Z",
-      "updated_at": "2026-08-18T01:56:44Z",
+      "updated_at": "2026-08-19T01:57:27Z",
+      "rank": 1
+    },
+    {
+      "name": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "description": "Multiplayer agent harness for work.",
+      "full_description": "Multiplayer agent harness for work.",
+      "language": "TypeScript",
+      "stars": 13897,
+      "stars_gained": 0,
+      "forks": 1648,
+      "topics": [
+        "ai",
+        "assistant",
+        "harness",
+        "qm"
+      ],
+      "created_at": "2026-07-29T20:03:08Z",
+      "updated_at": "2026-08-19T01:52:50Z",
       "rank": 2
     },
     {
@@ -51,9 +51,9 @@
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "full_description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
-      "stars": 5950,
+      "stars": 6024,
       "stars_gained": 0,
-      "forks": 971,
+      "forks": 991,
       "topics": [
         "avx2",
         "c99",
@@ -77,7 +77,7 @@
         "zero-dependencies"
       ],
       "created_at": "2026-08-01T09:29:38Z",
-      "updated_at": "2026-08-18T01:51:48Z",
+      "updated_at": "2026-08-19T01:50:29Z",
       "rank": 3
     },
     {
@@ -86,9 +86,9 @@
       "description": "Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
       "full_description": "Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
       "language": "TypeScript",
-      "stars": 3222,
+      "stars": 3303,
       "stars_gained": 0,
-      "forks": 552,
+      "forks": 560,
       "topics": [
         "ai",
         "cross-platform",
@@ -112,7 +112,7 @@
         "xlsx"
       ],
       "created_at": "2026-07-31T09:40:58Z",
-      "updated_at": "2026-08-18T01:26:39Z",
+      "updated_at": "2026-08-19T01:45:09Z",
       "rank": 4
     },
     {
@@ -121,7 +121,7 @@
       "description": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
       "full_description": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
       "language": "TypeScript",
-      "stars": 2515,
+      "stars": 2526,
       "stars_gained": 0,
       "forks": 200,
       "topics": [
@@ -133,8 +133,42 @@
         "ux"
       ],
       "created_at": "2026-07-21T07:01:53Z",
-      "updated_at": "2026-08-18T01:40:17Z",
+      "updated_at": "2026-08-18T23:03:56Z",
       "rank": 5
+    },
+    {
+      "name": "Tiger3807861189/J-Space-Cognition-Suite-V3.6",
+      "url": "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6",
+      "description": "J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research. | 哔哩哔哩：Tiger380 (UID 3494375382321675) — https://space.bilibili.com/3494375382321675",
+      "full_description": "J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research. | 哔哩哔哩：Tiger380 (UID 3494375382321675) — https://space.bilibili.com/3494375382321675",
+      "language": "Python",
+      "stars": 2244,
+      "stars_gained": 0,
+      "forks": 138,
+      "topics": [
+        "agent-skills",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "cognitive-enhancement",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "global-workspace",
+        "hermes-agent",
+        "inference-time-control",
+        "j-space",
+        "opencode",
+        "react",
+        "tailwindcss"
+      ],
+      "created_at": "2026-07-22T00:34:24Z",
+      "updated_at": "2026-08-19T01:56:58Z",
+      "rank": 6
     },
     {
       "name": "QwenAudio/qwen-audio-agent",
@@ -142,7 +176,7 @@
       "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "full_description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "language": "JavaScript",
-      "stars": 2170,
+      "stars": 2181,
       "stars_gained": 0,
       "forks": 177,
       "topics": [
@@ -161,8 +195,8 @@
         "voice-chat"
       ],
       "created_at": "2026-07-27T05:04:26Z",
-      "updated_at": "2026-08-18T01:03:26Z",
-      "rank": 6
+      "updated_at": "2026-08-19T00:47:30Z",
+      "rank": 7
     },
     {
       "name": "makecindy/cindy",
@@ -170,9 +204,9 @@
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "full_description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
-      "stars": 2120,
+      "stars": 2160,
       "stars_gained": 0,
-      "forks": 283,
+      "forks": 293,
       "topics": [
         "agent",
         "ai-agent",
@@ -189,8 +223,8 @@
         "windows"
       ],
       "created_at": "2026-07-22T17:49:34Z",
-      "updated_at": "2026-08-18T00:59:29Z",
-      "rank": 7
+      "updated_at": "2026-08-19T01:56:48Z",
+      "rank": 8
     },
     {
       "name": "Kritt-ai/open-kritt",
@@ -198,9 +232,9 @@
       "description": "Open-source, self-hosted AI vulnerability research tool that orchestrates agents to find and validate security issues in code.",
       "full_description": "Open-source, self-hosted AI vulnerability research tool that orchestrates agents to find and validate security issues in code.",
       "language": "JavaScript",
-      "stars": 1910,
+      "stars": 1934,
       "stars_gained": 0,
-      "forks": 327,
+      "forks": 332,
       "topics": [
         "ai",
         "ai-agents",
@@ -219,8 +253,8 @@
         "vulnerability-scanner"
       ],
       "created_at": "2026-07-20T20:26:24Z",
-      "updated_at": "2026-08-18T01:54:37Z",
-      "rank": 8
+      "updated_at": "2026-08-18T23:35:07Z",
+      "rank": 9
     },
     {
       "name": "ShawnPana/phone-harness",
@@ -228,9 +262,9 @@
       "description": "let your agent control your phone",
       "full_description": "let your agent control your phone",
       "language": "Python",
-      "stars": 1890,
+      "stars": 1919,
       "stars_gained": 0,
-      "forks": 179,
+      "forks": 181,
       "topics": [
         "agent",
         "ai",
@@ -238,35 +272,28 @@
         "developer-tools"
       ],
       "created_at": "2026-08-07T22:28:53Z",
-      "updated_at": "2026-08-18T01:35:56Z",
-      "rank": 9
+      "updated_at": "2026-08-19T01:55:56Z",
+      "rank": 10
     },
     {
-      "name": "Prism-Shadow/penguin-harness",
-      "url": "https://github.com/Prism-Shadow/penguin-harness",
-      "description": "🐧 Harness for RSI. Let AI Build AI",
-      "full_description": "🐧 Harness for RSI. Let AI Build AI",
+      "name": "truefoundry/trueforge",
+      "url": "https://github.com/truefoundry/trueforge",
+      "description": "The open-source agent harness - the runtime layer that turns an LLM into a working agent.",
+      "full_description": "The open-source agent harness - the runtime layer that turns an LLM into a working agent.",
       "language": "TypeScript",
-      "stars": 1423,
+      "stars": 1291,
       "stars_gained": 0,
-      "forks": 141,
+      "forks": 25,
       "topics": [
         "agent",
         "agentic-ai",
-        "ai",
-        "build-tool",
-        "claude-code",
-        "deepseek",
-        "deepseek-harness",
-        "desktop",
+        "agents",
         "harness",
-        "llm",
-        "rsi",
-        "self-evolving"
+        "harness-engineering"
       ],
-      "created_at": "2026-07-19T03:15:21Z",
-      "updated_at": "2026-08-18T01:30:41Z",
-      "rank": 10
+      "created_at": "2026-07-23T09:16:13Z",
+      "updated_at": "2026-08-19T01:29:34Z",
+      "rank": 11
     },
     {
       "name": "Leutenegger/book-to-skill",
@@ -274,7 +301,7 @@
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "full_description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars": 1178,
+      "stars": 1193,
       "stars_gained": 0,
       "forks": 142,
       "topics": [
@@ -300,88 +327,8 @@
         "skill-generator"
       ],
       "created_at": "2026-08-13T13:15:23Z",
-      "updated_at": "2026-08-18T01:53:05Z",
-      "rank": 11
-    },
-    {
-      "name": "Tiger3807861189/J-Space-Cognition-Suite-V3.6",
-      "url": "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6",
-      "description": "J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research. | 哔哩哔哩：Tiger380 (UID 3494375382321675) — https://space.bilibili.com/3494375382321675",
-      "full_description": "J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research. | 哔哩哔哩：Tiger380 (UID 3494375382321675) — https://space.bilibili.com/3494375382321675",
-      "language": "Python",
-      "stars": 1163,
-      "stars_gained": 0,
-      "forks": 60,
-      "topics": [
-        "agent-skills",
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "cognitive-enhancement",
-        "deepseek",
-        "deepseek-harness",
-        "developer-tools",
-        "dsh",
-        "dsh-plugin",
-        "global-workspace",
-        "hermes-agent",
-        "inference-time-control",
-        "j-space",
-        "opencode",
-        "react",
-        "tailwindcss"
-      ],
-      "created_at": "2026-07-22T00:34:24Z",
-      "updated_at": "2026-08-18T01:56:26Z",
+      "updated_at": "2026-08-19T01:54:30Z",
       "rank": 12
-    },
-    {
-      "name": "hahhforest/pi-textbook",
-      "url": "https://github.com/hahhforest/pi-textbook",
-      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "full_description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "language": "TypeScript",
-      "stars": 1059,
-      "stars_gained": 0,
-      "forks": 62,
-      "topics": [
-        "agent-engineering",
-        "ai-agent",
-        "chinese",
-        "llm",
-        "textbook",
-        "typescript"
-      ],
-      "created_at": "2026-07-21T04:17:35Z",
-      "updated_at": "2026-08-18T01:39:34Z",
-      "rank": 13
-    },
-    {
-      "name": "SaladDay/pi-from-scratch",
-      "url": "https://github.com/SaladDay/pi-from-scratch",
-      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "full_description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "language": "TypeScript",
-      "stars": 1044,
-      "stars_gained": 0,
-      "forks": 73,
-      "topics": [
-        "agent-loop",
-        "ai-agent",
-        "coding-agent",
-        "llm",
-        "llm-agent",
-        "pi",
-        "pi-agent",
-        "tool-calling",
-        "typescript",
-        "typescript-tutorial"
-      ],
-      "created_at": "2026-08-09T12:15:30Z",
-      "updated_at": "2026-08-18T00:15:55Z",
-      "rank": 14
     },
     {
       "name": "miuuyy/codex-chatgpt-web",
@@ -389,9 +336,9 @@
       "description": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.",
       "full_description": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.",
       "language": "TypeScript",
-      "stars": 1034,
+      "stars": 1081,
       "stars_gained": 0,
-      "forks": 135,
+      "forks": 137,
       "topics": [
         "chatgpt",
         "chatgpt-pro",
@@ -405,7 +352,53 @@
         "typescript"
       ],
       "created_at": "2026-07-26T13:04:44Z",
-      "updated_at": "2026-08-18T01:37:32Z",
+      "updated_at": "2026-08-19T01:21:01Z",
+      "rank": 13
+    },
+    {
+      "name": "hahhforest/pi-textbook",
+      "url": "https://github.com/hahhforest/pi-textbook",
+      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "full_description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "language": "TypeScript",
+      "stars": 1068,
+      "stars_gained": 0,
+      "forks": 62,
+      "topics": [
+        "agent-engineering",
+        "ai-agent",
+        "chinese",
+        "llm",
+        "textbook",
+        "typescript"
+      ],
+      "created_at": "2026-07-21T04:17:35Z",
+      "updated_at": "2026-08-19T01:17:52Z",
+      "rank": 14
+    },
+    {
+      "name": "SaladDay/pi-from-scratch",
+      "url": "https://github.com/SaladDay/pi-from-scratch",
+      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "full_description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "language": "TypeScript",
+      "stars": 1063,
+      "stars_gained": 0,
+      "forks": 76,
+      "topics": [
+        "agent-loop",
+        "ai-agent",
+        "coding-agent",
+        "llm",
+        "llm-agent",
+        "pi",
+        "pi-agent",
+        "tool-calling",
+        "typescript",
+        "typescript-tutorial"
+      ],
+      "created_at": "2026-08-09T12:15:30Z",
+      "updated_at": "2026-08-19T01:57:01Z",
       "rank": 15
     },
     {
@@ -414,7 +407,7 @@
       "description": "为纯文本模型\"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI还原、GUI 自动化等，并可选无缝接入多个主流agent，直接识别粘贴图片｜ A vision toolkit and skill designed for text-only llms — image Q&A, long-screenshot OCR, frontend UI restoration, and GUI automation, with optional seamless integration for Codex, Claude Code, Pi, Oh My Pi, and OpenCode",
       "full_description": "为纯文本模型\"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI还原、GUI 自动化等，并可选无缝接入多个主流agent，直接识别粘贴图片｜ A vision toolkit and skill designed for text-only llms — image Q&A, long-screenshot OCR, frontend UI restoration, and GUI automation, with optional seamless integration for Codex, Claude Code, Pi, Oh My Pi, and OpenCode",
       "language": "Python",
-      "stars": 1003,
+      "stars": 1046,
       "stars_gained": 0,
       "forks": 36,
       "topics": [
@@ -434,84 +427,8 @@
         "vision-language-model"
       ],
       "created_at": "2026-08-01T10:00:13Z",
-      "updated_at": "2026-08-18T01:42:35Z",
+      "updated_at": "2026-08-19T01:57:59Z",
       "rank": 16
-    },
-    {
-      "name": "egoist/waku",
-      "url": "https://github.com/egoist/waku",
-      "description": "⚡ A native app for all your coding agents.",
-      "full_description": "⚡ A native app for all your coding agents.",
-      "language": "Rust",
-      "stars": 973,
-      "stars_gained": 0,
-      "forks": 97,
-      "topics": [
-        "agent",
-        "amp",
-        "claude-code",
-        "codex",
-        "coding",
-        "cursor",
-        "gpui",
-        "grok",
-        "opencode",
-        "pi",
-        "rust"
-      ],
-      "created_at": "2026-07-31T09:38:33Z",
-      "updated_at": "2026-08-18T01:52:04Z",
-      "rank": 17
-    },
-    {
-      "name": "Flaminis/Dalaran",
-      "url": "https://github.com/Flaminis/Dalaran",
-      "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
-      "full_description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
-      "language": "Rust",
-      "stars": 965,
-      "stars_gained": 0,
-      "forks": 57,
-      "topics": [
-        "apache2",
-        "computer-vision",
-        "lidar",
-        "pointcloud",
-        "python",
-        "robotics",
-        "ros2",
-        "rust",
-        "time-series",
-        "visualization"
-      ],
-      "created_at": "2026-08-07T09:37:32Z",
-      "updated_at": "2026-08-17T07:17:57Z",
-      "rank": 18
-    },
-    {
-      "name": "Pinvou/pinvou-agent",
-      "url": "https://github.com/Pinvou/pinvou-agent",
-      "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-      "full_description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-      "language": "Rust",
-      "stars": 906,
-      "stars_gained": 0,
-      "forks": 129,
-      "topics": [
-        "ai-agent",
-        "automation",
-        "desktop-app",
-        "llm",
-        "local-first",
-        "mcp",
-        "open-source",
-        "react",
-        "rust",
-        "tauri"
-      ],
-      "created_at": "2026-07-24T07:28:41Z",
-      "updated_at": "2026-08-18T01:18:22Z",
-      "rank": 19
     },
     {
       "name": "fuxicodex/Fuxi",
@@ -519,9 +436,9 @@
       "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
       "full_description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
       "language": "HTML",
-      "stars": 886,
+      "stars": 1040,
       "stars_gained": 0,
-      "forks": 54,
+      "forks": 49,
       "topics": [
         "agent",
         "ai",
@@ -537,28 +454,84 @@
         "tui"
       ],
       "created_at": "2026-08-04T07:32:11Z",
-      "updated_at": "2026-08-18T01:34:08Z",
-      "rank": 20
+      "updated_at": "2026-08-19T01:58:10Z",
+      "rank": 17
     },
     {
-      "name": "truefoundry/trueforge",
-      "url": "https://github.com/truefoundry/trueforge",
-      "description": "The open-source agent harness - the runtime layer that turns an LLM into a working agent.",
-      "full_description": "The open-source agent harness - the runtime layer that turns an LLM into a working agent.",
-      "language": "TypeScript",
-      "stars": 885,
+      "name": "egoist/waku",
+      "url": "https://github.com/egoist/waku",
+      "description": "⚡ A native app for all your coding agents.",
+      "full_description": "⚡ A native app for all your coding agents.",
+      "language": "Rust",
+      "stars": 1012,
       "stars_gained": 0,
-      "forks": 20,
+      "forks": 102,
       "topics": [
         "agent",
-        "agentic-ai",
-        "agents",
-        "harness",
-        "harness-engineering"
+        "amp",
+        "claude-code",
+        "codex",
+        "coding",
+        "cursor",
+        "gpui",
+        "grok",
+        "opencode",
+        "pi",
+        "rust"
       ],
-      "created_at": "2026-07-23T09:16:13Z",
-      "updated_at": "2026-08-18T01:56:34Z",
-      "rank": 21
+      "created_at": "2026-07-31T09:38:33Z",
+      "updated_at": "2026-08-19T01:58:22Z",
+      "rank": 18
+    },
+    {
+      "name": "Flaminis/Dalaran",
+      "url": "https://github.com/Flaminis/Dalaran",
+      "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+      "full_description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+      "language": "Rust",
+      "stars": 967,
+      "stars_gained": 0,
+      "forks": 57,
+      "topics": [
+        "apache2",
+        "computer-vision",
+        "lidar",
+        "pointcloud",
+        "python",
+        "robotics",
+        "ros2",
+        "rust",
+        "time-series",
+        "visualization"
+      ],
+      "created_at": "2026-08-07T09:37:32Z",
+      "updated_at": "2026-08-18T18:47:10Z",
+      "rank": 19
+    },
+    {
+      "name": "Pinvou/pinvou-agent",
+      "url": "https://github.com/Pinvou/pinvou-agent",
+      "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
+      "full_description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
+      "language": "Rust",
+      "stars": 951,
+      "stars_gained": 0,
+      "forks": 139,
+      "topics": [
+        "ai-agent",
+        "automation",
+        "desktop-app",
+        "llm",
+        "local-first",
+        "mcp",
+        "open-source",
+        "react",
+        "rust",
+        "tauri"
+      ],
+      "created_at": "2026-07-24T07:28:41Z",
+      "updated_at": "2026-08-19T01:56:49Z",
+      "rank": 20
     },
     {
       "name": "vercel-labs/eve-software-factory-template",
@@ -566,9 +539,9 @@
       "description": "Meet Foreman, an eve Software Factory.",
       "full_description": "Meet Foreman, an eve Software Factory.",
       "language": "TypeScript",
-      "stars": 884,
+      "stars": 911,
       "stars_gained": 0,
-      "forks": 58,
+      "forks": 59,
       "topics": [
         "agent",
         "ai",
@@ -576,7 +549,31 @@
         "vercel"
       ],
       "created_at": "2026-08-12T12:34:43Z",
-      "updated_at": "2026-08-18T01:00:11Z",
+      "updated_at": "2026-08-19T00:05:37Z",
+      "rank": 21
+    },
+    {
+      "name": "elie222/rakazo",
+      "url": "https://github.com/elie222/rakazo",
+      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "full_description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "language": "TypeScript",
+      "stars": 854,
+      "stars_gained": 0,
+      "forks": 107,
+      "topics": [
+        "ai-agents",
+        "chatgpt",
+        "docker",
+        "electron",
+        "expo",
+        "grok",
+        "llm",
+        "self-hosted",
+        "typescript"
+      ],
+      "created_at": "2026-08-13T06:28:56Z",
+      "updated_at": "2026-08-19T01:57:50Z",
       "rank": 22
     },
     {
@@ -585,9 +582,9 @@
       "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
       "full_description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
       "language": "Python",
-      "stars": 841,
+      "stars": 847,
       "stars_gained": 0,
-      "forks": 74,
+      "forks": 75,
       "topics": [
         "3d-modeling",
         "3d-printing",
@@ -609,7 +606,7 @@
         "text-to-cad"
       ],
       "created_at": "2026-07-30T17:19:26Z",
-      "updated_at": "2026-08-18T00:05:37Z",
+      "updated_at": "2026-08-18T22:00:54Z",
       "rank": 23
     },
     {
@@ -618,9 +615,9 @@
       "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
       "full_description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
       "language": "Python",
-      "stars": 810,
+      "stars": 830,
       "stars_gained": 0,
-      "forks": 93,
+      "forks": 96,
       "topics": [
         "agent",
         "claude",
@@ -641,7 +638,7 @@
         "loop-engineering"
       ],
       "created_at": "2026-08-04T04:30:58Z",
-      "updated_at": "2026-08-17T20:34:47Z",
+      "updated_at": "2026-08-19T01:18:15Z",
       "rank": 24
     },
     {
@@ -650,7 +647,7 @@
       "description": "Agent communication SDK. The open-source agent communication layer for AI agents — email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
       "full_description": "Agent communication SDK. The open-source agent communication layer for AI agents — email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
       "language": "Python",
-      "stars": 804,
+      "stars": 808,
       "stars_gained": 0,
       "forks": 133,
       "topics": [
@@ -676,32 +673,8 @@
         "whatsapp"
       ],
       "created_at": "2026-07-20T10:47:56Z",
-      "updated_at": "2026-08-17T19:45:45Z",
+      "updated_at": "2026-08-18T20:04:24Z",
       "rank": 25
-    },
-    {
-      "name": "elie222/rakazo",
-      "url": "https://github.com/elie222/rakazo",
-      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-      "full_description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-      "language": "TypeScript",
-      "stars": 780,
-      "stars_gained": 0,
-      "forks": 100,
-      "topics": [
-        "ai-agents",
-        "chatgpt",
-        "docker",
-        "electron",
-        "expo",
-        "grok",
-        "llm",
-        "self-hosted",
-        "typescript"
-      ],
-      "created_at": "2026-08-13T06:28:56Z",
-      "updated_at": "2026-08-18T01:45:27Z",
-      "rank": 26
     },
     {
       "name": "patchy631/time-to-first-token",
@@ -709,9 +682,9 @@
       "description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
       "full_description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
       "language": "HTML",
-      "stars": 724,
+      "stars": 738,
       "stars_gained": 0,
-      "forks": 90,
+      "forks": 94,
       "topics": [
         "learning-resources",
         "llm",
@@ -722,8 +695,8 @@
         "vllm"
       ],
       "created_at": "2026-08-02T13:02:26Z",
-      "updated_at": "2026-08-17T23:09:37Z",
-      "rank": 27
+      "updated_at": "2026-08-19T01:41:52Z",
+      "rank": 26
     },
     {
       "name": "0xsline/awesome-deepseek-harness",
@@ -731,9 +704,9 @@
       "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
       "full_description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
       "language": "Python",
-      "stars": 688,
+      "stars": 731,
       "stars_gained": 0,
-      "forks": 248,
+      "forks": 263,
       "topics": [
         "agent",
         "ai",
@@ -755,8 +728,8 @@
         "plugins"
       ],
       "created_at": "2026-08-11T13:14:49Z",
-      "updated_at": "2026-08-18T01:46:22Z",
-      "rank": 28
+      "updated_at": "2026-08-19T01:44:13Z",
+      "rank": 27
     },
     {
       "name": "Anionex/dsh-vision-toolkit",
@@ -764,7 +737,7 @@
       "description": "[dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
       "full_description": "[dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
       "language": "TypeScript",
-      "stars": 626,
+      "stars": 703,
       "stars_gained": 0,
       "forks": 31,
       "topics": [
@@ -787,8 +760,8 @@
         "vision-tools"
       ],
       "created_at": "2026-08-13T12:36:34Z",
-      "updated_at": "2026-08-18T01:53:54Z",
-      "rank": 29
+      "updated_at": "2026-08-19T01:35:38Z",
+      "rank": 28
     },
     {
       "name": "AmazingAng/old-coder",
@@ -796,7 +769,7 @@
       "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
       "full_description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
       "language": "Python",
-      "stars": 625,
+      "stars": 635,
       "stars_gained": 0,
       "forks": 47,
       "topics": [
@@ -816,7 +789,41 @@
         "tdd"
       ],
       "created_at": "2026-07-27T05:03:11Z",
-      "updated_at": "2026-08-18T01:54:10Z",
+      "updated_at": "2026-08-18T22:03:51Z",
+      "rank": 29
+    },
+    {
+      "name": "mikehasa/agentacct",
+      "url": "https://github.com/mikehasa/agentacct",
+      "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
+      "full_description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
+      "language": "Python",
+      "stars": 609,
+      "stars_gained": 0,
+      "forks": 69,
+      "topics": [
+        "agent-observability",
+        "ai-agents",
+        "analytics",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agent",
+        "cost-tracking",
+        "dashboard",
+        "developer-tools",
+        "devtools",
+        "llm",
+        "llmops",
+        "local-first",
+        "mcp",
+        "observability",
+        "opencode",
+        "python",
+        "token-usage"
+      ],
+      "created_at": "2026-07-24T16:28:06Z",
+      "updated_at": "2026-08-19T01:55:37Z",
       "rank": 30
     }
   ]

@@ -1,38 +1,16 @@
 {
-  "updated": "2026-08-18T01:57:00.812186+00:00",
+  "updated": "2026-08-19T01:58:54.562165+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
   "projects": [
-    {
-      "name": "guillaumemeyer/watermarks-remover",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "full_description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "language": "Python",
-      "stars": 13537,
-      "stars_gained": 0,
-      "forks": 1482,
-      "topics": [
-        "agent-skill",
-        "ai",
-        "c2pa",
-        "claude",
-        "provenance",
-        "synthid",
-        "watermark"
-      ],
-      "created_at": "2026-08-11T16:32:38Z",
-      "updated_at": "2026-08-18T01:56:44Z",
-      "rank": 1
-    },
     {
       "name": "Leutenegger/book-to-skill",
       "url": "https://github.com/Leutenegger/book-to-skill",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "full_description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars": 1178,
+      "stars": 1193,
       "stars_gained": 0,
       "forks": 142,
       "topics": [
@@ -58,8 +36,8 @@
         "skill-generator"
       ],
       "created_at": "2026-08-13T13:15:23Z",
-      "updated_at": "2026-08-18T01:53:05Z",
-      "rank": 2
+      "updated_at": "2026-08-19T01:54:30Z",
+      "rank": 1
     },
     {
       "name": "vercel-labs/eve-software-factory-template",
@@ -67,9 +45,9 @@
       "description": "Meet Foreman, an eve Software Factory.",
       "full_description": "Meet Foreman, an eve Software Factory.",
       "language": "TypeScript",
-      "stars": 884,
+      "stars": 911,
       "stars_gained": 0,
-      "forks": 58,
+      "forks": 59,
       "topics": [
         "agent",
         "ai",
@@ -77,8 +55,8 @@
         "vercel"
       ],
       "created_at": "2026-08-12T12:34:43Z",
-      "updated_at": "2026-08-18T01:00:11Z",
-      "rank": 3
+      "updated_at": "2026-08-19T00:05:37Z",
+      "rank": 2
     },
     {
       "name": "elie222/rakazo",
@@ -86,9 +64,9 @@
       "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
       "full_description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
       "language": "TypeScript",
-      "stars": 780,
+      "stars": 854,
       "stars_gained": 0,
-      "forks": 100,
+      "forks": 107,
       "topics": [
         "ai-agents",
         "chatgpt",
@@ -101,41 +79,8 @@
         "typescript"
       ],
       "created_at": "2026-08-13T06:28:56Z",
-      "updated_at": "2026-08-18T01:45:27Z",
-      "rank": 4
-    },
-    {
-      "name": "0xsline/awesome-deepseek-harness",
-      "url": "https://github.com/0xsline/awesome-deepseek-harness",
-      "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "full_description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "language": "Python",
-      "stars": 688,
-      "stars_gained": 0,
-      "forks": 248,
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agents",
-        "ai-tools",
-        "awesome",
-        "awesome-list",
-        "coding-assistant",
-        "curated-list",
-        "deepseek",
-        "deepseek-harness",
-        "developer-tools",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "harness",
-        "llm",
-        "mcp",
-        "plugins"
-      ],
-      "created_at": "2026-08-11T13:14:49Z",
-      "updated_at": "2026-08-18T01:46:22Z",
-      "rank": 5
+      "updated_at": "2026-08-19T01:57:50Z",
+      "rank": 3
     },
     {
       "name": "Anionex/dsh-vision-toolkit",
@@ -143,7 +88,7 @@
       "description": "[dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
       "full_description": "[dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
       "language": "TypeScript",
-      "stars": 626,
+      "stars": 703,
       "stars_gained": 0,
       "forks": 31,
       "topics": [
@@ -166,8 +111,8 @@
         "vision-tools"
       ],
       "created_at": "2026-08-13T12:36:34Z",
-      "updated_at": "2026-08-18T01:53:54Z",
-      "rank": 6
+      "updated_at": "2026-08-19T01:35:38Z",
+      "rank": 4
     },
     {
       "name": "DrHazemAli/enterprise-system-design",
@@ -175,9 +120,9 @@
       "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
       "full_description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
       "language": "",
-      "stars": 544,
+      "stars": 554,
       "stars_gained": 0,
-      "forks": 113,
+      "forks": 114,
       "topics": [
         "ai",
         "ai-governance",
@@ -201,8 +146,8 @@
         "zero-trust"
       ],
       "created_at": "2026-08-12T04:03:15Z",
-      "updated_at": "2026-08-17T23:35:39Z",
-      "rank": 7
+      "updated_at": "2026-08-19T00:33:06Z",
+      "rank": 5
     },
     {
       "name": "decionis/agent-safe-pipeline",
@@ -210,7 +155,7 @@
       "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
       "full_description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
       "language": "TypeScript",
-      "stars": 516,
+      "stars": 533,
       "stars_gained": 0,
       "forks": 58,
       "topics": [
@@ -228,8 +173,8 @@
         "typescript"
       ],
       "created_at": "2026-08-13T21:36:19Z",
-      "updated_at": "2026-08-18T00:38:41Z",
-      "rank": 8
+      "updated_at": "2026-08-18T23:32:28Z",
+      "rank": 6
     },
     {
       "name": "SheberDavid/v4-flash-godmode-opencode-go",
@@ -237,7 +182,7 @@
       "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
       "full_description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
       "language": "JavaScript",
-      "stars": 510,
+      "stars": 499,
       "stars_gained": 0,
       "forks": 12,
       "topics": [
@@ -247,8 +192,8 @@
         "flash"
       ],
       "created_at": "2026-08-15T06:10:13Z",
-      "updated_at": "2026-08-18T01:56:32Z",
-      "rank": 9
+      "updated_at": "2026-08-19T01:23:44Z",
+      "rank": 7
     },
     {
       "name": "Electricitysheep/dsh-handbook",
@@ -256,9 +201,9 @@
       "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
       "full_description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
       "language": "HTML",
-      "stars": 453,
+      "stars": 497,
       "stars_gained": 0,
-      "forks": 21,
+      "forks": 24,
       "topics": [
         "agent",
         "agent-framework",
@@ -274,8 +219,8 @@
         "tutorial"
       ],
       "created_at": "2026-08-13T15:22:29Z",
-      "updated_at": "2026-08-18T01:42:14Z",
-      "rank": 10
+      "updated_at": "2026-08-19T01:56:54Z",
+      "rank": 8
     },
     {
       "name": "vibeinging/deepseek-harness-desktop-app",
@@ -283,9 +228,9 @@
       "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
       "full_description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
       "language": "JavaScript",
-      "stars": 311,
+      "stars": 487,
       "stars_gained": 0,
-      "forks": 4,
+      "forks": 7,
       "topics": [
         "agentic-workflows",
         "ai-agent",
@@ -304,8 +249,30 @@
         "typescript"
       ],
       "created_at": "2026-08-13T10:41:33Z",
-      "updated_at": "2026-08-17T23:03:27Z",
-      "rank": 11
+      "updated_at": "2026-08-19T01:07:00Z",
+      "rank": 9
+    },
+    {
+      "name": "browser-use/macos-harness",
+      "url": "https://github.com/browser-use/macos-harness",
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "full_description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "language": "Python",
+      "stars": 412,
+      "stars_gained": 0,
+      "forks": 24,
+      "topics": [
+        "accessibility",
+        "agent",
+        "automation",
+        "cdp",
+        "computer-use",
+        "macos",
+        "python"
+      ],
+      "created_at": "2026-08-17T00:22:20Z",
+      "updated_at": "2026-08-19T01:56:16Z",
+      "rank": 10
     },
     {
       "name": "Carasibana/ComfyUI-H3-FaceRefine",
@@ -313,9 +280,9 @@
       "description": "Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with H3, stitch back.",
       "full_description": "Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with H3, stitch back.",
       "language": "Python",
-      "stars": 238,
+      "stars": 245,
       "stars_gained": 0,
-      "forks": 14,
+      "forks": 17,
       "topics": [
         "ai-video",
         "comfyui",
@@ -337,8 +304,8 @@
         "yolov8"
       ],
       "created_at": "2026-08-12T11:18:15Z",
-      "updated_at": "2026-08-18T01:53:50Z",
-      "rank": 12
+      "updated_at": "2026-08-18T22:43:41Z",
+      "rank": 11
     },
     {
       "name": "wzchav/tokentab",
@@ -346,7 +313,7 @@
       "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
       "full_description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
       "language": "Python",
-      "stars": 222,
+      "stars": 224,
       "stars_gained": 0,
       "forks": 14,
       "topics": [
@@ -359,29 +326,73 @@
         "token-usage"
       ],
       "created_at": "2026-08-12T16:09:39Z",
-      "updated_at": "2026-08-17T08:37:41Z",
+      "updated_at": "2026-08-18T22:18:55Z",
+      "rank": 12
+    },
+    {
+      "name": "icesixgod/codex-trajectory",
+      "url": "https://github.com/icesixgod/codex-trajectory",
+      "description": "Privacy-aware trajectory viewer for local Codex task logs",
+      "full_description": "Privacy-aware trajectory viewer for local Codex task logs",
+      "language": "Python",
+      "stars": 212,
+      "stars_gained": 0,
+      "forks": 16,
+      "topics": [
+        "codex",
+        "codex-plugin",
+        "developer-tools",
+        "mcp",
+        "python",
+        "trajectory",
+        "uv"
+      ],
+      "created_at": "2026-08-13T17:16:42Z",
+      "updated_at": "2026-08-19T01:58:51Z",
       "rank": 13
     },
     {
-      "name": "pgrundev/pgbot",
-      "url": "https://github.com/pgrundev/pgbot",
-      "description": "pgbot - Postgres intelligence for AI agents & apps",
-      "full_description": "pgbot - Postgres intelligence for AI agents & apps",
-      "language": "Go",
-      "stars": 209,
+      "name": "bawadou/ai-data-extractor",
+      "url": "https://github.com/bawadou/ai-data-extractor",
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "full_description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "language": "Python",
+      "stars": 212,
       "stars_gained": 0,
-      "forks": 13,
+      "forks": 87,
       "topics": [
         "ai",
-        "data-analysis",
-        "database",
-        "postgres",
-        "postgresql",
-        "postgresql-database"
+        "ai-data-extractor",
+        "claude",
+        "cursor",
+        "cursor-ai",
+        "data-extraction",
+        "gemini"
       ],
-      "created_at": "2026-08-11T23:41:52Z",
-      "updated_at": "2026-08-18T01:47:38Z",
+      "created_at": "2026-08-16T18:35:58Z",
+      "updated_at": "2026-08-19T01:25:35Z",
       "rank": 14
+    },
+    {
+      "name": "lencx/Minke",
+      "url": "https://github.com/lencx/Minke",
+      "description": "🐳 DeepSeek Harness Desktop",
+      "full_description": "🐳 DeepSeek Harness Desktop",
+      "language": "TypeScript",
+      "stars": 209,
+      "stars_gained": 0,
+      "forks": 24,
+      "topics": [
+        "agent",
+        "deekseek",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "harness"
+      ],
+      "created_at": "2026-08-15T01:49:38Z",
+      "updated_at": "2026-08-19T01:40:24Z",
+      "rank": 15
     },
     {
       "name": "Endokelp/Endoplexity",
@@ -389,7 +400,7 @@
       "description": "Agentic browser control driven by your own Claude / Cursor subscriptions",
       "full_description": "Agentic browser control driven by your own Claude / Cursor subscriptions",
       "language": "TypeScript",
-      "stars": 208,
+      "stars": 201,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -402,77 +413,34 @@
         "mcp"
       ],
       "created_at": "2026-08-14T17:37:36Z",
-      "updated_at": "2026-08-17T07:22:15Z",
-      "rank": 15
-    },
-    {
-      "name": "wanshuiyin/HERO-Anti-OverDefense",
-      "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense",
-      "description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
-      "full_description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
-      "language": "Markdown",
-      "stars": 185,
-      "stars_gained": 0,
-      "forks": 6,
-      "topics": [
-        "agents-md",
-        "ai-agents",
-        "antigravity",
-        "claude-code",
-        "claude-md",
-        "codex",
-        "coding-agent",
-        "cursor",
-        "gemini-cli",
-        "github-copilot",
-        "llm",
-        "prompt-engineering",
-        "windsurf"
-      ],
-      "created_at": "2026-08-11T05:08:30Z",
-      "updated_at": "2026-08-18T01:20:44Z",
+      "updated_at": "2026-08-18T09:31:15Z",
       "rank": 16
     },
     {
-      "name": "icesixgod/codex-trajectory",
-      "url": "https://github.com/icesixgod/codex-trajectory",
-      "description": "Privacy-aware trajectory viewer for local Codex task logs",
-      "full_description": "Privacy-aware trajectory viewer for local Codex task logs",
+      "name": "MirroS-Lab/HarnessEval-W",
+      "url": "https://github.com/MirroS-Lab/HarnessEval-W",
+      "description": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
+      "full_description": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
       "language": "Python",
-      "stars": 155,
+      "stars": 161,
       "stars_gained": 0,
-      "forks": 7,
-      "topics": [
-        "codex",
-        "codex-plugin",
-        "developer-tools",
-        "mcp",
-        "python",
-        "trajectory",
-        "uv"
-      ],
-      "created_at": "2026-08-13T17:16:42Z",
-      "updated_at": "2026-08-17T16:29:18Z",
-      "rank": 17
-    },
-    {
-      "name": "hewzhew/dsh-agent-rp",
-      "url": "https://github.com/hewzhew/dsh-agent-rp",
-      "description": "SillyTavern migration and next-generation Agent RP for DSH",
-      "full_description": "SillyTavern migration and next-generation Agent RP for DSH",
-      "language": "TypeScript",
-      "stars": 154,
-      "stars_gained": 0,
-      "forks": 5,
+      "forks": 3,
       "topics": [
         "agent",
-        "dsh",
-        "roleplay",
-        "sillytavern"
+        "benchmark",
+        "evaluation",
+        "harness",
+        "harness-engineering",
+        "kling",
+        "minimax-h3",
+        "seedance",
+        "video-generation",
+        "wan",
+        "world-model"
       ],
-      "created_at": "2026-08-13T12:49:30Z",
-      "updated_at": "2026-08-17T14:54:15Z",
-      "rank": 18
+      "created_at": "2026-08-17T09:50:26Z",
+      "updated_at": "2026-08-19T01:58:54Z",
+      "rank": 17
     },
     {
       "name": "seyedehsanhadi/sloptrim",
@@ -480,9 +448,9 @@
       "description": "A local detector for AI-writing patterns. Scores every prose file your agent saves. Python standard library only, no network, no model.",
       "full_description": "A local detector for AI-writing patterns. Scores every prose file your agent saves. Python standard library only, no network, no model.",
       "language": "Python",
-      "stars": 154,
+      "stars": 160,
       "stars_gained": 0,
-      "forks": 11,
+      "forks": 12,
       "topics": [
         "ai-agents",
         "ai-slop",
@@ -506,30 +474,27 @@
         "zero-dependency"
       ],
       "created_at": "2026-08-13T08:09:10Z",
-      "updated_at": "2026-08-17T13:53:29Z",
-      "rank": 19
+      "updated_at": "2026-08-18T23:35:01Z",
+      "rank": 18
     },
     {
-      "name": "bawadou/ai-data-extractor",
-      "url": "https://github.com/bawadou/ai-data-extractor",
-      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "full_description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "language": "Python",
-      "stars": 127,
+      "name": "hewzhew/dsh-agent-rp",
+      "url": "https://github.com/hewzhew/dsh-agent-rp",
+      "description": "SillyTavern migration and next-generation Agent RP for DSH",
+      "full_description": "SillyTavern migration and next-generation Agent RP for DSH",
+      "language": "TypeScript",
+      "stars": 157,
       "stars_gained": 0,
-      "forks": 50,
+      "forks": 5,
       "topics": [
-        "ai",
-        "ai-data-extractor",
-        "claude",
-        "cursor",
-        "cursor-ai",
-        "data-extraction",
-        "gemini"
+        "agent",
+        "dsh",
+        "roleplay",
+        "sillytavern"
       ],
-      "created_at": "2026-08-16T18:35:58Z",
-      "updated_at": "2026-08-18T01:23:05Z",
-      "rank": 20
+      "created_at": "2026-08-13T12:49:30Z",
+      "updated_at": "2026-08-18T17:49:54Z",
+      "rank": 19
     },
     {
       "name": "Dominic789654/awesome-deepseek-harness",
@@ -537,9 +502,9 @@
       "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
       "full_description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
       "language": "TypeScript",
-      "stars": 125,
+      "stars": 149,
       "stars_gained": 0,
-      "forks": 75,
+      "forks": 100,
       "topics": [
         "agent",
         "agent-framework",
@@ -563,29 +528,8 @@
         "plugins"
       ],
       "created_at": "2026-08-13T13:54:05Z",
-      "updated_at": "2026-08-18T01:28:17Z",
-      "rank": 21
-    },
-    {
-      "name": "dengzi008/DramaLens",
-      "url": "https://github.com/dengzi008/DramaLens",
-      "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
-      "full_description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
-      "language": "JavaScript",
-      "stars": 122,
-      "stars_gained": 0,
-      "forks": 14,
-      "topics": [
-        "ai",
-        "chinese",
-        "chrome-extension",
-        "faster-whisper",
-        "local-first",
-        "speech-to-text"
-      ],
-      "created_at": "2026-08-11T03:58:26Z",
-      "updated_at": "2026-08-13T11:20:41Z",
-      "rank": 22
+      "updated_at": "2026-08-19T00:28:21Z",
+      "rank": 20
     },
     {
       "name": "libukai/awesome-deepseek-harness",
@@ -593,9 +537,9 @@
       "description": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
       "full_description": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
       "language": "",
-      "stars": 119,
+      "stars": 143,
       "stars_gained": 0,
-      "forks": 29,
+      "forks": 37,
       "topics": [
         "agent",
         "agent-harness",
@@ -608,30 +552,8 @@
         "plugins"
       ],
       "created_at": "2026-08-13T13:47:48Z",
-      "updated_at": "2026-08-18T01:36:04Z",
-      "rank": 23
-    },
-    {
-      "name": "browser-use/macos-harness",
-      "url": "https://github.com/browser-use/macos-harness",
-      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "full_description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "language": "Python",
-      "stars": 116,
-      "stars_gained": 0,
-      "forks": 8,
-      "topics": [
-        "accessibility",
-        "agent",
-        "automation",
-        "cdp",
-        "computer-use",
-        "macos",
-        "python"
-      ],
-      "created_at": "2026-08-17T00:22:20Z",
-      "updated_at": "2026-08-18T01:52:37Z",
-      "rank": 24
+      "updated_at": "2026-08-19T01:44:33Z",
+      "rank": 21
     },
     {
       "name": "bradeGithub/DSH-Plugins-Marketplace",
@@ -639,9 +561,9 @@
       "description": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
       "full_description": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
       "language": "JavaScript",
-      "stars": 116,
+      "stars": 122,
       "stars_gained": 0,
-      "forks": 6,
+      "forks": 7,
       "topics": [
         "agent",
         "ai-agents",
@@ -657,8 +579,33 @@
         "plugin-marketplace"
       ],
       "created_at": "2026-08-13T16:01:59Z",
-      "updated_at": "2026-08-18T01:14:17Z",
-      "rank": 25
+      "updated_at": "2026-08-19T01:47:21Z",
+      "rank": 22
+    },
+    {
+      "name": "V1ki/dsh-plugin-subscriptions",
+      "url": "https://github.com/V1ki/dsh-plugin-subscriptions",
+      "description": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys",
+      "full_description": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys",
+      "language": "TypeScript",
+      "stars": 122,
+      "stars_gained": 0,
+      "forks": 8,
+      "topics": [
+        "ai-agent",
+        "chatgpt",
+        "claude",
+        "codex",
+        "deepseek-harness",
+        "dsh-plugin",
+        "grok",
+        "llm",
+        "oauth",
+        "typescript"
+      ],
+      "created_at": "2026-08-14T08:27:11Z",
+      "updated_at": "2026-08-19T01:54:50Z",
+      "rank": 23
     },
     {
       "name": "vuphongle/oss-pr-reviewer",
@@ -682,8 +629,83 @@
         "typescript"
       ],
       "created_at": "2026-08-13T01:59:03Z",
-      "updated_at": "2026-08-17T19:04:21Z",
+      "updated_at": "2026-08-18T16:34:28Z",
+      "rank": 24
+    },
+    {
+      "name": "ZSeven-W/dsh-noema",
+      "url": "https://github.com/ZSeven-W/dsh-noema",
+      "description": "Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.",
+      "full_description": "Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.",
+      "language": "TypeScript",
+      "stars": 109,
+      "stars_gained": 0,
+      "forks": 7,
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "coding-agent",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "long-term-memory",
+        "mcp",
+        "memory",
+        "noema",
+        "plugin",
+        "typescript"
+      ],
+      "created_at": "2026-08-14T12:38:51Z",
+      "updated_at": "2026-08-18T15:41:58Z",
+      "rank": 25
+    },
+    {
+      "name": "amitshekhariitbhu/llm-inference-engineering",
+      "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
+      "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+      "full_description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+      "language": "Markdown",
+      "stars": 108,
+      "stars_gained": 0,
+      "forks": 12,
+      "topics": [
+        "inference-engineering",
+        "inference-optimization",
+        "large-language-models",
+        "llm",
+        "llm-engineering",
+        "llm-inference",
+        "llms"
+      ],
+      "created_at": "2026-08-18T03:10:26Z",
+      "updated_at": "2026-08-19T01:46:05Z",
       "rank": 26
+    },
+    {
+      "name": "idavidov13/agentic-playwright",
+      "url": "https://github.com/idavidov13/agentic-playwright",
+      "description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
+      "full_description": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
+      "language": "Python",
+      "stars": 107,
+      "stars_gained": 0,
+      "forks": 27,
+      "topics": [
+        "agentic",
+        "ai",
+        "api-testing",
+        "claude-code",
+        "cursor",
+        "e2e",
+        "github-copilot",
+        "playwright",
+        "test-automation",
+        "testing",
+        "typescript"
+      ],
+      "created_at": "2026-08-13T08:12:20Z",
+      "updated_at": "2026-08-18T16:20:28Z",
+      "rank": 27
     },
     {
       "name": "nduc99911/repo-context-mcp",
@@ -691,7 +713,7 @@
       "description": "MCP server: repo map, code search, and token-aware context packs for AI coding agents",
       "full_description": "MCP server: repo map, code search, and token-aware context packs for AI coding agents",
       "language": "TypeScript",
-      "stars": 104,
+      "stars": 103,
       "stars_gained": 0,
       "forks": 91,
       "topics": [
@@ -704,8 +726,8 @@
         "typescript"
       ],
       "created_at": "2026-08-12T08:22:31Z",
-      "updated_at": "2026-08-16T23:03:53Z",
-      "rank": 27
+      "updated_at": "2026-08-18T16:06:01Z",
+      "rank": 28
     },
     {
       "name": "Yixuan-Wu39/bandminton",
@@ -727,68 +749,41 @@
       ],
       "created_at": "2026-08-12T06:14:49Z",
       "updated_at": "2026-08-12T11:32:24Z",
-      "rank": 28
-    },
-    {
-      "name": "ZSeven-W/dsh-noema",
-      "url": "https://github.com/ZSeven-W/dsh-noema",
-      "description": "Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.",
-      "full_description": "Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.",
-      "language": "TypeScript",
-      "stars": 100,
-      "stars_gained": 0,
-      "forks": 7,
-      "topics": [
-        "agent-memory",
-        "ai-agents",
-        "coding-agent",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "long-term-memory",
-        "mcp",
-        "memory",
-        "noema",
-        "plugin",
-        "typescript"
-      ],
-      "created_at": "2026-08-14T12:38:51Z",
-      "updated_at": "2026-08-18T01:18:35Z",
       "rank": 29
     },
     {
-      "name": "trefeon/freebuff-proxy",
-      "url": "https://github.com/trefeon/freebuff-proxy",
-      "description": "OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
-      "full_description": "OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
-      "language": "Go",
-      "stars": 100,
+      "name": "memoket/memoket-kite",
+      "url": "https://github.com/memoket/memoket-kite",
+      "description": "An open-source, vector-free long-term memory engine for AI agents, achieving SOTA on LoCoMo and LongMemEval with significantly less context.",
+      "full_description": "An open-source, vector-free long-term memory engine for AI agents, achieving SOTA on LoCoMo and LongMemEval with significantly less context.",
+      "language": "Python",
+      "stars": 95,
       "stars_gained": 0,
-      "forks": 28,
+      "forks": 5,
       "topics": [
-        "api-gateway",
-        "codebuff",
-        "coding-agent",
-        "coding-assistant",
-        "freebuff",
-        "golang",
-        "htmx",
+        "agent-memory",
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-memory",
+        "chatbot",
+        "genai",
+        "knowledge-management",
         "llm",
-        "llm-router",
-        "multi-account",
-        "openai",
-        "openai-compatible",
-        "proxy",
-        "reverse-proxy",
-        "self-hosted",
-        "session-management",
-        "single-binary",
-        "stealth",
-        "tls-fingerprinting",
-        "token-pool"
+        "llm-memory",
+        "locomo",
+        "long-term-memory",
+        "longmemeval",
+        "memory",
+        "memory-engine",
+        "memory-layer",
+        "memory-management",
+        "python",
+        "rag",
+        "retrieval"
       ],
-      "created_at": "2026-08-11T07:06:43Z",
-      "updated_at": "2026-08-17T20:44:21Z",
+      "created_at": "2026-08-12T03:19:07Z",
+      "updated_at": "2026-08-19T00:51:16Z",
       "rank": 30
     }
   ]
