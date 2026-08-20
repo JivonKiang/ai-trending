@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T01:58:55.505401+00:00",
+  "updated": "2026-08-20T01:57:55.046148+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "full_description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "language": "Python",
-      "stars": 14544,
+      "stars": 15349,
       "stars_gained": 0,
-      "forks": 1614,
+      "forks": 1726,
       "topics": [
         "agent-skill",
         "ai",
@@ -23,7 +23,7 @@
         "watermark"
       ],
       "created_at": "2026-08-11T16:32:38Z",
-      "updated_at": "2026-08-19T01:57:27Z",
+      "updated_at": "2026-08-20T01:57:29Z",
       "rank": 1
     },
     {
@@ -32,9 +32,9 @@
       "description": "Multiplayer agent harness for work.",
       "full_description": "Multiplayer agent harness for work.",
       "language": "TypeScript",
-      "stars": 13897,
+      "stars": 13952,
       "stars_gained": 0,
-      "forks": 1648,
+      "forks": 1659,
       "topics": [
         "ai",
         "assistant",
@@ -42,7 +42,7 @@
         "qm"
       ],
       "created_at": "2026-07-29T20:03:08Z",
-      "updated_at": "2026-08-19T01:52:50Z",
+      "updated_at": "2026-08-20T01:52:48Z",
       "rank": 2
     },
     {
@@ -51,9 +51,9 @@
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "full_description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
-      "stars": 6024,
+      "stars": 6107,
       "stars_gained": 0,
-      "forks": 991,
+      "forks": 1003,
       "topics": [
         "avx2",
         "c99",
@@ -77,7 +77,7 @@
         "zero-dependencies"
       ],
       "created_at": "2026-08-01T09:29:38Z",
-      "updated_at": "2026-08-19T01:50:29Z",
+      "updated_at": "2026-08-20T01:22:53Z",
       "rank": 3
     },
     {
@@ -86,9 +86,9 @@
       "description": "Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
       "full_description": "Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
       "language": "TypeScript",
-      "stars": 3303,
+      "stars": 3367,
       "stars_gained": 0,
-      "forks": 560,
+      "forks": 568,
       "topics": [
         "ai",
         "cross-platform",
@@ -112,29 +112,8 @@
         "xlsx"
       ],
       "created_at": "2026-07-31T09:40:58Z",
-      "updated_at": "2026-08-19T01:45:09Z",
+      "updated_at": "2026-08-20T01:08:28Z",
       "rank": 4
-    },
-    {
-      "name": "Jakubantalik/thinking-orbs",
-      "url": "https://github.com/Jakubantalik/thinking-orbs",
-      "description": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
-      "full_description": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
-      "language": "TypeScript",
-      "stars": 2526,
-      "stars_gained": 0,
-      "forks": 200,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "chat",
-        "loader",
-        "ui",
-        "ux"
-      ],
-      "created_at": "2026-07-21T07:01:53Z",
-      "updated_at": "2026-08-18T23:03:56Z",
-      "rank": 5
     },
     {
       "name": "Tiger3807861189/J-Space-Cognition-Suite-V3.6",
@@ -142,9 +121,9 @@
       "description": "J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research. | 哔哩哔哩：Tiger380 (UID 3494375382321675) — https://space.bilibili.com/3494375382321675",
       "full_description": "J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research. | 哔哩哔哩：Tiger380 (UID 3494375382321675) — https://space.bilibili.com/3494375382321675",
       "language": "Python",
-      "stars": 2244,
+      "stars": 2802,
       "stars_gained": 0,
-      "forks": 138,
+      "forks": 185,
       "topics": [
         "agent-skills",
         "ai",
@@ -167,36 +146,29 @@
         "tailwindcss"
       ],
       "created_at": "2026-07-22T00:34:24Z",
-      "updated_at": "2026-08-19T01:56:58Z",
-      "rank": 6
+      "updated_at": "2026-08-20T01:57:18Z",
+      "rank": 5
     },
     {
-      "name": "QwenAudio/qwen-audio-agent",
-      "url": "https://github.com/QwenAudio/qwen-audio-agent",
-      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "full_description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "language": "JavaScript",
-      "stars": 2181,
+      "name": "Jakubantalik/thinking-orbs",
+      "url": "https://github.com/Jakubantalik/thinking-orbs",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
+      "full_description": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
+      "language": "TypeScript",
+      "stars": 2533,
       "stars_gained": 0,
-      "forks": 177,
+      "forks": 201,
       "topics": [
-        "acp",
-        "agent",
-        "agentic-ai",
-        "ai-coding",
-        "claude-code",
-        "codex",
-        "developer-tools",
-        "opencode",
-        "speech-recognition",
-        "text-to-speech",
-        "voice-agent",
-        "voice-ai",
-        "voice-chat"
+        "ai",
+        "ai-agents",
+        "chat",
+        "loader",
+        "ui",
+        "ux"
       ],
-      "created_at": "2026-07-27T05:04:26Z",
-      "updated_at": "2026-08-19T00:47:30Z",
-      "rank": 7
+      "created_at": "2026-07-21T07:01:53Z",
+      "updated_at": "2026-08-20T01:38:23Z",
+      "rank": 6
     },
     {
       "name": "makecindy/cindy",
@@ -204,9 +176,9 @@
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "full_description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
-      "stars": 2160,
+      "stars": 2210,
       "stars_gained": 0,
-      "forks": 293,
+      "forks": 301,
       "topics": [
         "agent",
         "ai-agent",
@@ -223,38 +195,36 @@
         "windows"
       ],
       "created_at": "2026-07-22T17:49:34Z",
-      "updated_at": "2026-08-19T01:56:48Z",
-      "rank": 8
+      "updated_at": "2026-08-19T23:54:15Z",
+      "rank": 7
     },
     {
-      "name": "Kritt-ai/open-kritt",
-      "url": "https://github.com/Kritt-ai/open-kritt",
-      "description": "Open-source, self-hosted AI vulnerability research tool that orchestrates agents to find and validate security issues in code.",
-      "full_description": "Open-source, self-hosted AI vulnerability research tool that orchestrates agents to find and validate security issues in code.",
+      "name": "QwenAudio/qwen-audio-agent",
+      "url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "full_description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "language": "JavaScript",
-      "stars": 1934,
+      "stars": 2195,
       "stars_gained": 0,
-      "forks": 332,
+      "forks": 178,
       "topics": [
-        "ai",
-        "ai-agents",
-        "ai-security",
-        "bug-bounty",
-        "bugbounty-tools",
-        "code-security",
-        "hackenproof",
-        "hackerone",
-        "immunefi",
-        "security-automation",
-        "security-research",
-        "security-tools",
-        "self-hosted",
-        "source-code-analysis",
-        "vulnerability-scanner"
+        "acp",
+        "agent",
+        "agentic-ai",
+        "ai-coding",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "opencode",
+        "speech-recognition",
+        "text-to-speech",
+        "voice-agent",
+        "voice-ai",
+        "voice-chat"
       ],
-      "created_at": "2026-07-20T20:26:24Z",
-      "updated_at": "2026-08-18T23:35:07Z",
-      "rank": 9
+      "created_at": "2026-07-27T05:04:26Z",
+      "updated_at": "2026-08-20T01:53:03Z",
+      "rank": 8
     },
     {
       "name": "ShawnPana/phone-harness",
@@ -262,9 +232,9 @@
       "description": "let your agent control your phone",
       "full_description": "let your agent control your phone",
       "language": "Python",
-      "stars": 1919,
+      "stars": 1934,
       "stars_gained": 0,
-      "forks": 181,
+      "forks": 182,
       "topics": [
         "agent",
         "ai",
@@ -272,8 +242,8 @@
         "developer-tools"
       ],
       "created_at": "2026-08-07T22:28:53Z",
-      "updated_at": "2026-08-19T01:55:56Z",
-      "rank": 10
+      "updated_at": "2026-08-19T19:25:12Z",
+      "rank": 9
     },
     {
       "name": "truefoundry/trueforge",
@@ -281,9 +251,9 @@
       "description": "The open-source agent harness - the runtime layer that turns an LLM into a working agent.",
       "full_description": "The open-source agent harness - the runtime layer that turns an LLM into a working agent.",
       "language": "TypeScript",
-      "stars": 1291,
+      "stars": 1906,
       "stars_gained": 0,
-      "forks": 25,
+      "forks": 133,
       "topics": [
         "agent",
         "agentic-ai",
@@ -292,7 +262,34 @@
         "harness-engineering"
       ],
       "created_at": "2026-07-23T09:16:13Z",
-      "updated_at": "2026-08-19T01:29:34Z",
+      "updated_at": "2026-08-20T01:54:49Z",
+      "rank": 10
+    },
+    {
+      "name": "fuxicodex/Fuxi",
+      "url": "https://github.com/fuxicodex/Fuxi",
+      "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
+      "full_description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
+      "language": "HTML",
+      "stars": 1221,
+      "stars_gained": 0,
+      "forks": 53,
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "cli",
+        "code-assistant",
+        "coding-assistant",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "terminal",
+        "tui"
+      ],
+      "created_at": "2026-08-04T07:32:11Z",
+      "updated_at": "2026-08-20T01:50:49Z",
       "rank": 11
     },
     {
@@ -301,7 +298,7 @@
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "full_description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars": 1193,
+      "stars": 1202,
       "stars_gained": 0,
       "forks": 142,
       "topics": [
@@ -327,8 +324,33 @@
         "skill-generator"
       ],
       "created_at": "2026-08-13T13:15:23Z",
-      "updated_at": "2026-08-19T01:54:30Z",
+      "updated_at": "2026-08-19T19:40:38Z",
       "rank": 12
+    },
+    {
+      "name": "cinderline/northcinder",
+      "url": "https://github.com/cinderline/northcinder",
+      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "full_description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "language": "JavaScript",
+      "stars": 1193,
+      "stars_gained": 0,
+      "forks": 4,
+      "topics": [
+        "agentic-commerce",
+        "human-in-the-loop",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "privacy",
+        "self-hosted",
+        "shopping-agent",
+        "typescript"
+      ],
+      "created_at": "2026-08-17T11:42:31Z",
+      "updated_at": "2026-08-19T21:12:52Z",
+      "rank": 13
     },
     {
       "name": "miuuyy/codex-chatgpt-web",
@@ -336,9 +358,9 @@
       "description": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.",
       "full_description": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.",
       "language": "TypeScript",
-      "stars": 1081,
+      "stars": 1119,
       "stars_gained": 0,
-      "forks": 137,
+      "forks": 142,
       "topics": [
         "chatgpt",
         "chatgpt-pro",
@@ -352,28 +374,7 @@
         "typescript"
       ],
       "created_at": "2026-07-26T13:04:44Z",
-      "updated_at": "2026-08-19T01:21:01Z",
-      "rank": 13
-    },
-    {
-      "name": "hahhforest/pi-textbook",
-      "url": "https://github.com/hahhforest/pi-textbook",
-      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "full_description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "language": "TypeScript",
-      "stars": 1068,
-      "stars_gained": 0,
-      "forks": 62,
-      "topics": [
-        "agent-engineering",
-        "ai-agent",
-        "chinese",
-        "llm",
-        "textbook",
-        "typescript"
-      ],
-      "created_at": "2026-07-21T04:17:35Z",
-      "updated_at": "2026-08-19T01:17:52Z",
+      "updated_at": "2026-08-20T01:41:38Z",
       "rank": 14
     },
     {
@@ -382,7 +383,7 @@
       "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
       "full_description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
       "language": "TypeScript",
-      "stars": 1063,
+      "stars": 1076,
       "stars_gained": 0,
       "forks": 76,
       "topics": [
@@ -398,8 +399,29 @@
         "typescript-tutorial"
       ],
       "created_at": "2026-08-09T12:15:30Z",
-      "updated_at": "2026-08-19T01:57:01Z",
+      "updated_at": "2026-08-20T00:18:52Z",
       "rank": 15
+    },
+    {
+      "name": "hahhforest/pi-textbook",
+      "url": "https://github.com/hahhforest/pi-textbook",
+      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "full_description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "language": "TypeScript",
+      "stars": 1073,
+      "stars_gained": 0,
+      "forks": 62,
+      "topics": [
+        "agent-engineering",
+        "ai-agent",
+        "chinese",
+        "llm",
+        "textbook",
+        "typescript"
+      ],
+      "created_at": "2026-07-21T04:17:35Z",
+      "updated_at": "2026-08-19T19:21:58Z",
+      "rank": 16
     },
     {
       "name": "Anionex/agent-vision-toolkit",
@@ -407,7 +429,7 @@
       "description": "为纯文本模型\"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI还原、GUI 自动化等，并可选无缝接入多个主流agent，直接识别粘贴图片｜ A vision toolkit and skill designed for text-only llms — image Q&A, long-screenshot OCR, frontend UI restoration, and GUI automation, with optional seamless integration for Codex, Claude Code, Pi, Oh My Pi, and OpenCode",
       "full_description": "为纯文本模型\"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI还原、GUI 自动化等，并可选无缝接入多个主流agent，直接识别粘贴图片｜ A vision toolkit and skill designed for text-only llms — image Q&A, long-screenshot OCR, frontend UI restoration, and GUI automation, with optional seamless integration for Codex, Claude Code, Pi, Oh My Pi, and OpenCode",
       "language": "Python",
-      "stars": 1046,
+      "stars": 1071,
       "stars_gained": 0,
       "forks": 36,
       "topics": [
@@ -427,34 +449,7 @@
         "vision-language-model"
       ],
       "created_at": "2026-08-01T10:00:13Z",
-      "updated_at": "2026-08-19T01:57:59Z",
-      "rank": 16
-    },
-    {
-      "name": "fuxicodex/Fuxi",
-      "url": "https://github.com/fuxicodex/Fuxi",
-      "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
-      "full_description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
-      "language": "HTML",
-      "stars": 1040,
-      "stars_gained": 0,
-      "forks": 49,
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agent",
-        "ai-coding",
-        "cli",
-        "code-assistant",
-        "coding-assistant",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "terminal",
-        "tui"
-      ],
-      "created_at": "2026-08-04T07:32:11Z",
-      "updated_at": "2026-08-19T01:58:10Z",
+      "updated_at": "2026-08-20T01:44:16Z",
       "rank": 17
     },
     {
@@ -463,9 +458,9 @@
       "description": "⚡ A native app for all your coding agents.",
       "full_description": "⚡ A native app for all your coding agents.",
       "language": "Rust",
-      "stars": 1012,
+      "stars": 1037,
       "stars_gained": 0,
-      "forks": 102,
+      "forks": 107,
       "topics": [
         "agent",
         "amp",
@@ -480,8 +475,33 @@
         "rust"
       ],
       "created_at": "2026-07-31T09:38:33Z",
-      "updated_at": "2026-08-19T01:58:22Z",
+      "updated_at": "2026-08-19T23:49:50Z",
       "rank": 18
+    },
+    {
+      "name": "Pinvou/pinvou-agent",
+      "url": "https://github.com/Pinvou/pinvou-agent",
+      "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
+      "full_description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
+      "language": "JavaScript",
+      "stars": 1004,
+      "stars_gained": 0,
+      "forks": 146,
+      "topics": [
+        "ai-agent",
+        "automation",
+        "desktop-app",
+        "llm",
+        "local-first",
+        "mcp",
+        "open-source",
+        "react",
+        "rust",
+        "tauri"
+      ],
+      "created_at": "2026-07-24T07:28:41Z",
+      "updated_at": "2026-08-20T01:41:35Z",
+      "rank": 19
     },
     {
       "name": "Flaminis/Dalaran",
@@ -489,7 +509,7 @@
       "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
       "full_description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
       "language": "Rust",
-      "stars": 967,
+      "stars": 968,
       "stars_gained": 0,
       "forks": 57,
       "topics": [
@@ -505,32 +525,7 @@
         "visualization"
       ],
       "created_at": "2026-08-07T09:37:32Z",
-      "updated_at": "2026-08-18T18:47:10Z",
-      "rank": 19
-    },
-    {
-      "name": "Pinvou/pinvou-agent",
-      "url": "https://github.com/Pinvou/pinvou-agent",
-      "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-      "full_description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-      "language": "Rust",
-      "stars": 951,
-      "stars_gained": 0,
-      "forks": 139,
-      "topics": [
-        "ai-agent",
-        "automation",
-        "desktop-app",
-        "llm",
-        "local-first",
-        "mcp",
-        "open-source",
-        "react",
-        "rust",
-        "tauri"
-      ],
-      "created_at": "2026-07-24T07:28:41Z",
-      "updated_at": "2026-08-19T01:56:49Z",
+      "updated_at": "2026-08-19T02:36:28Z",
       "rank": 20
     },
     {
@@ -539,9 +534,9 @@
       "description": "Meet Foreman, an eve Software Factory.",
       "full_description": "Meet Foreman, an eve Software Factory.",
       "language": "TypeScript",
-      "stars": 911,
+      "stars": 938,
       "stars_gained": 0,
-      "forks": 59,
+      "forks": 63,
       "topics": [
         "agent",
         "ai",
@@ -549,7 +544,7 @@
         "vercel"
       ],
       "created_at": "2026-08-12T12:34:43Z",
-      "updated_at": "2026-08-19T00:05:37Z",
+      "updated_at": "2026-08-19T23:01:28Z",
       "rank": 21
     },
     {
@@ -558,9 +553,9 @@
       "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
       "full_description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
       "language": "TypeScript",
-      "stars": 854,
+      "stars": 899,
       "stars_gained": 0,
-      "forks": 107,
+      "forks": 115,
       "topics": [
         "ai-agents",
         "chatgpt",
@@ -573,7 +568,7 @@
         "typescript"
       ],
       "created_at": "2026-08-13T06:28:56Z",
-      "updated_at": "2026-08-19T01:57:50Z",
+      "updated_at": "2026-08-20T01:24:14Z",
       "rank": 22
     },
     {
@@ -582,9 +577,9 @@
       "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
       "full_description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
       "language": "Python",
-      "stars": 847,
+      "stars": 852,
       "stars_gained": 0,
-      "forks": 75,
+      "forks": 77,
       "topics": [
         "3d-modeling",
         "3d-printing",
@@ -606,7 +601,7 @@
         "text-to-cad"
       ],
       "created_at": "2026-07-30T17:19:26Z",
-      "updated_at": "2026-08-18T22:00:54Z",
+      "updated_at": "2026-08-20T01:29:07Z",
       "rank": 23
     },
     {
@@ -615,9 +610,9 @@
       "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
       "full_description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
       "language": "Python",
-      "stars": 830,
+      "stars": 849,
       "stars_gained": 0,
-      "forks": 96,
+      "forks": 99,
       "topics": [
         "agent",
         "claude",
@@ -638,65 +633,40 @@
         "loop-engineering"
       ],
       "created_at": "2026-08-04T04:30:58Z",
-      "updated_at": "2026-08-19T01:18:15Z",
+      "updated_at": "2026-08-20T01:43:05Z",
       "rank": 24
     },
     {
-      "name": "TryCaspian/caspian-sdk",
-      "url": "https://github.com/TryCaspian/caspian-sdk",
-      "description": "Agent communication SDK. The open-source agent communication layer for AI agents — email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
-      "full_description": "Agent communication SDK. The open-source agent communication layer for AI agents — email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
-      "language": "Python",
-      "stars": 808,
+      "name": "Anionex/dsh-vision-toolkit",
+      "url": "https://github.com/Anionex/dsh-vision-toolkit",
+      "description": "[dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+      "full_description": "[dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+      "language": "TypeScript",
+      "stars": 757,
       "stars_gained": 0,
-      "forks": 133,
+      "forks": 33,
       "topics": [
-        "agent-communication",
-        "agent-messaging",
-        "ai-agent",
-        "ai-agents",
-        "communication",
-        "crewai",
-        "discord",
-        "email",
-        "imessage",
-        "langchain",
-        "llm",
-        "mcp",
-        "messaging",
+        "agent-skills",
+        "agent-vision-toolkit",
+        "computer-vision",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "gui-automation",
+        "ocr",
+        "plugin",
         "python",
-        "sdk",
-        "slack",
-        "sms",
-        "telegram",
+        "screenshot-testing",
+        "text-only-llm",
         "typescript",
-        "whatsapp"
+        "ui-restoration",
+        "vision-language-model",
+        "vision-tools"
       ],
-      "created_at": "2026-07-20T10:47:56Z",
-      "updated_at": "2026-08-18T20:04:24Z",
+      "created_at": "2026-08-13T12:36:34Z",
+      "updated_at": "2026-08-20T01:56:44Z",
       "rank": 25
-    },
-    {
-      "name": "patchy631/time-to-first-token",
-      "url": "https://github.com/patchy631/time-to-first-token",
-      "description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
-      "full_description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
-      "language": "HTML",
-      "stars": 738,
-      "stars_gained": 0,
-      "forks": 94,
-      "topics": [
-        "learning-resources",
-        "llm",
-        "llm-inference",
-        "mlops",
-        "roadmap",
-        "sglang",
-        "vllm"
-      ],
-      "created_at": "2026-08-02T13:02:26Z",
-      "updated_at": "2026-08-19T01:41:52Z",
-      "rank": 26
     },
     {
       "name": "0xsline/awesome-deepseek-harness",
@@ -704,9 +674,9 @@
       "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
       "full_description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
       "language": "Python",
-      "stars": 731,
+      "stars": 751,
       "stars_gained": 0,
-      "forks": 263,
+      "forks": 272,
       "topics": [
         "agent",
         "ai",
@@ -728,39 +698,52 @@
         "plugins"
       ],
       "created_at": "2026-08-11T13:14:49Z",
-      "updated_at": "2026-08-19T01:44:13Z",
+      "updated_at": "2026-08-20T01:26:29Z",
+      "rank": 26
+    },
+    {
+      "name": "patchy631/time-to-first-token",
+      "url": "https://github.com/patchy631/time-to-first-token",
+      "description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
+      "full_description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
+      "language": "HTML",
+      "stars": 747,
+      "stars_gained": 0,
+      "forks": 93,
+      "topics": [
+        "learning-resources",
+        "llm",
+        "llm-inference",
+        "mlops",
+        "roadmap",
+        "sglang",
+        "vllm"
+      ],
+      "created_at": "2026-08-02T13:02:26Z",
+      "updated_at": "2026-08-19T17:37:10Z",
       "rank": 27
     },
     {
-      "name": "Anionex/dsh-vision-toolkit",
-      "url": "https://github.com/Anionex/dsh-vision-toolkit",
-      "description": "[dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
-      "full_description": "[dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
-      "language": "TypeScript",
-      "stars": 703,
+      "name": "KiaBush/persian-text-to-ipa-byt5",
+      "url": "https://github.com/KiaBush/persian-text-to-ipa-byt5",
+      "description": "Persian (Farsi) grapheme-to-phoneme conversion to the International Phonetic Alphabet (IPA) using a fine-tuned ByT5 model.",
+      "full_description": "Persian (Farsi) grapheme-to-phoneme conversion to the International Phonetic Alphabet (IPA) using a fine-tuned ByT5 model.",
+      "language": "Python",
+      "stars": 651,
       "stars_gained": 0,
-      "forks": 31,
+      "forks": 0,
       "topics": [
-        "agent-skills",
-        "agent-vision-toolkit",
-        "computer-vision",
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "gui-automation",
-        "ocr",
-        "plugin",
-        "python",
-        "screenshot-testing",
-        "text-only-llm",
-        "typescript",
-        "ui-restoration",
-        "vision-language-model",
-        "vision-tools"
+        "byt5",
+        "farsi",
+        "g2p",
+        "ipa",
+        "nlp",
+        "persian",
+        "text-to-speech",
+        "transformers"
       ],
-      "created_at": "2026-08-13T12:36:34Z",
-      "updated_at": "2026-08-19T01:35:38Z",
+      "created_at": "2026-08-02T16:49:03Z",
+      "updated_at": "2026-08-19T23:59:42Z",
       "rank": 28
     },
     {
@@ -769,7 +752,7 @@
       "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
       "full_description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
       "language": "Python",
-      "stars": 635,
+      "stars": 645,
       "stars_gained": 0,
       "forks": 47,
       "topics": [
@@ -789,7 +772,7 @@
         "tdd"
       ],
       "created_at": "2026-07-27T05:03:11Z",
-      "updated_at": "2026-08-18T22:03:51Z",
+      "updated_at": "2026-08-20T01:09:48Z",
       "rank": 29
     },
     {
@@ -798,7 +781,7 @@
       "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
       "full_description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
       "language": "Python",
-      "stars": 609,
+      "stars": 614,
       "stars_gained": 0,
       "forks": 69,
       "topics": [
@@ -823,7 +806,7 @@
         "token-usage"
       ],
       "created_at": "2026-07-24T16:28:06Z",
-      "updated_at": "2026-08-19T01:55:37Z",
+      "updated_at": "2026-08-19T16:07:18Z",
       "rank": 30
     }
   ]
