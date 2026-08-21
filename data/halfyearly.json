@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T01:57:56.097521+00:00",
+  "updated": "2026-08-21T02:06:41.077638+00:00",
   "period": "halfyearly",
   "label": "半年",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "full_description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
-      "stars": 108377,
+      "stars": 108712,
       "stars_gained": 0,
-      "forks": 10516,
+      "forks": 10556,
       "topics": [
         "ai-agents",
         "antigravity",
@@ -35,7 +35,7 @@
         "tree-sitter"
       ],
       "created_at": "2026-04-03T15:49:07Z",
-      "updated_at": "2026-08-20T01:57:01Z",
+      "updated_at": "2026-08-21T01:58:26Z",
       "rank": 1
     },
     {
@@ -44,9 +44,9 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "full_description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars": 106036,
+      "stars": 106761,
       "stars_gained": 0,
-      "forks": 5860,
+      "forks": 5897,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -60,7 +60,7 @@
         "yagni"
       ],
       "created_at": "2026-06-12T00:52:37Z",
-      "updated_at": "2026-08-20T01:56:01Z",
+      "updated_at": "2026-08-21T02:05:06Z",
       "rank": 2
     },
     {
@@ -69,9 +69,9 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "full_description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "Go",
-      "stars": 99248,
+      "stars": 99667,
       "stars_gained": 0,
-      "forks": 5759,
+      "forks": 5771,
       "topics": [
         "ai",
         "anthropic",
@@ -85,7 +85,7 @@
         "tokens"
       ],
       "created_at": "2026-04-04T10:03:00Z",
-      "updated_at": "2026-08-20T01:51:37Z",
+      "updated_at": "2026-08-21T02:05:02Z",
       "rank": 3
     },
     {
@@ -94,9 +94,9 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "full_description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars": 73107,
+      "stars": 73444,
       "stars_gained": 0,
-      "forks": 6219,
+      "forks": 6256,
       "topics": [
         "agent-infrastructure",
         "ai-agent",
@@ -117,7 +117,7 @@
         "youtube-transcript"
       ],
       "created_at": "2026-02-24T02:10:24Z",
-      "updated_at": "2026-08-20T01:53:17Z",
+      "updated_at": "2026-08-21T02:06:10Z",
       "rank": 4
     },
     {
@@ -126,9 +126,9 @@
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "full_description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "language": "JavaScript",
-      "stars": 65825,
+      "stars": 66740,
       "stars_gained": 0,
-      "forks": 12745,
+      "forks": 12825,
       "topics": [
         "ai",
         "ai-agent",
@@ -152,7 +152,7 @@
         "resume"
       ],
       "created_at": "2026-04-04T18:21:18Z",
-      "updated_at": "2026-08-20T01:57:08Z",
+      "updated_at": "2026-08-21T02:05:56Z",
       "rank": 5
     },
     {
@@ -161,9 +161,9 @@
       "description": "The best-benchmarked open-source AI memory system. And it's free.",
       "full_description": "The best-benchmarked open-source AI memory system. And it's free.",
       "language": "Python",
-      "stars": 58474,
+      "stars": 58508,
       "stars_gained": 0,
-      "forks": 7502,
+      "forks": 7503,
       "topics": [
         "ai",
         "chromadb",
@@ -173,7 +173,7 @@
         "python"
       ],
       "created_at": "2026-04-05T01:12:07Z",
-      "updated_at": "2026-08-20T01:34:53Z",
+      "updated_at": "2026-08-21T01:34:27Z",
       "rank": 6
     },
     {
@@ -182,9 +182,9 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "full_description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars": 48985,
+      "stars": 49125,
       "stars_gained": 0,
-      "forks": 6139,
+      "forks": 6163,
       "topics": [
         "agent",
         "agentic-ai",
@@ -207,7 +207,7 @@
         "video-production"
       ],
       "created_at": "2026-03-29T15:23:22Z",
-      "updated_at": "2026-08-20T01:49:03Z",
+      "updated_at": "2026-08-21T01:58:13Z",
       "rank": 7
     },
     {
@@ -216,9 +216,9 @@
       "description": "Learn it. Build it. Ship it for others.",
       "full_description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars": 47220,
+      "stars": 47390,
       "stars_gained": 0,
-      "forks": 8295,
+      "forks": 8334,
       "topics": [
         "agents",
         "ai",
@@ -242,7 +242,7 @@
         "typescript"
       ],
       "created_at": "2026-03-18T18:38:02Z",
-      "updated_at": "2026-08-20T01:52:06Z",
+      "updated_at": "2026-08-21T02:02:24Z",
       "rank": 8
     },
     {
@@ -251,9 +251,9 @@
       "description": "Write HTML. Render video. Built for agents.",
       "full_description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars": 41719,
+      "stars": 41847,
       "stars_gained": 0,
-      "forks": 4002,
+      "forks": 4011,
       "topics": [
         "ai",
         "animation",
@@ -268,7 +268,7 @@
         "video"
       ],
       "created_at": "2026-03-10T01:51:06Z",
-      "updated_at": "2026-08-20T01:48:03Z",
+      "updated_at": "2026-08-21T02:01:56Z",
       "rank": 9
     },
     {
@@ -277,9 +277,9 @@
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "full_description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars": 39589,
+      "stars": 39710,
       "stars_gained": 0,
-      "forks": 3182,
+      "forks": 3192,
       "topics": [
         "aider",
         "ast",
@@ -303,7 +303,7 @@
         "windsurf"
       ],
       "created_at": "2026-02-24T22:01:00Z",
-      "updated_at": "2026-08-20T01:45:35Z",
+      "updated_at": "2026-08-21T02:05:47Z",
       "rank": 10
     },
     {
@@ -312,9 +312,9 @@
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "full_description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "language": "Go",
-      "stars": 34880,
+      "stars": 34959,
       "stars_gained": 0,
-      "forks": 2315,
+      "forks": 2320,
       "topics": [
         "agent",
         "agent-framework",
@@ -336,7 +336,7 @@
         "typescript"
       ],
       "created_at": "2026-04-21T08:27:02Z",
-      "updated_at": "2026-08-20T01:54:54Z",
+      "updated_at": "2026-08-21T01:57:27Z",
       "rank": 11
     },
     {
@@ -345,7 +345,7 @@
       "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
       "full_description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
       "language": "Python",
-      "stars": 34108,
+      "stars": 34225,
       "stars_gained": 0,
       "forks": 3009,
       "topics": [
@@ -367,8 +367,35 @@
         "webui"
       ],
       "created_at": "2026-02-24T03:42:56Z",
-      "updated_at": "2026-08-20T01:46:23Z",
+      "updated_at": "2026-08-21T02:04:43Z",
       "rank": 12
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "full_description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "language": "Python",
+      "stars": 32585,
+      "stars_gained": 0,
+      "forks": 11472,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "career",
+        "claude-code",
+        "cover-letter",
+        "cv",
+        "interview-preparation",
+        "job-application",
+        "job-hunting",
+        "job-search",
+        "latex",
+        "resume"
+      ],
+      "created_at": "2026-03-18T14:33:04Z",
+      "updated_at": "2026-08-21T02:00:43Z",
+      "rank": 13
     },
     {
       "name": "JCodesMore/ai-website-cloner-template",
@@ -376,9 +403,9 @@
       "description": "Clone any website with one command using AI coding agents",
       "full_description": "Clone any website with one command using AI coding agents",
       "language": "JavaScript",
-      "stars": 32475,
+      "stars": 32551,
       "stars_gained": 0,
-      "forks": 4730,
+      "forks": 4739,
       "topics": [
         "ai",
         "ai-agents",
@@ -401,34 +428,7 @@
         "website-clone"
       ],
       "created_at": "2026-03-13T11:14:39Z",
-      "updated_at": "2026-08-20T01:56:52Z",
-      "rank": 13
-    },
-    {
-      "name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "full_description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "language": "Python",
-      "stars": 32402,
-      "stars_gained": 0,
-      "forks": 11396,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "career",
-        "claude-code",
-        "cover-letter",
-        "cv",
-        "interview-preparation",
-        "job-application",
-        "job-hunting",
-        "job-search",
-        "latex",
-        "resume"
-      ],
-      "created_at": "2026-03-18T14:33:04Z",
-      "updated_at": "2026-08-20T01:54:19Z",
+      "updated_at": "2026-08-21T01:51:25Z",
       "rank": 14
     },
     {
@@ -437,9 +437,9 @@
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "full_description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars": 31293,
+      "stars": 31359,
       "stars_gained": 0,
-      "forks": 5079,
+      "forks": 5094,
       "topics": [
         "ai-agent",
         "algorithmic-trading",
@@ -453,28 +453,8 @@
         "trading"
       ],
       "created_at": "2026-04-01T09:52:20Z",
-      "updated_at": "2026-08-20T01:32:40Z",
+      "updated_at": "2026-08-21T01:20:57Z",
       "rank": 15
-    },
-    {
-      "name": "Gitlawb/openclaude",
-      "url": "https://github.com/Gitlawb/openclaude",
-      "description": "runs anywhere. uses anything",
-      "full_description": "runs anywhere. uses anything",
-      "language": "TypeScript",
-      "stars": 30770,
-      "stars_gained": 0,
-      "forks": 8917,
-      "topics": [
-        "ai",
-        "ai-agent",
-        "ai-tools",
-        "cli",
-        "coding"
-      ],
-      "created_at": "2026-04-01T03:15:49Z",
-      "updated_at": "2026-08-20T01:53:59Z",
-      "rank": 16
     },
     {
       "name": "herdrdev/herdr",
@@ -482,9 +462,9 @@
       "description": "the runtime your coding agents live on",
       "full_description": "the runtime your coding agents live on",
       "language": "Rust",
-      "stars": 30682,
+      "stars": 31063,
       "stars_gained": 0,
-      "forks": 2191,
+      "forks": 2223,
       "topics": [
         "agent",
         "agent-orchestration",
@@ -506,7 +486,27 @@
         "workspace-manager"
       ],
       "created_at": "2026-03-27T17:54:33Z",
-      "updated_at": "2026-08-20T01:50:46Z",
+      "updated_at": "2026-08-21T02:06:06Z",
+      "rank": 16
+    },
+    {
+      "name": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "full_description": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "stars": 30778,
+      "stars_gained": 0,
+      "forks": 8918,
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-tools",
+        "cli",
+        "coding"
+      ],
+      "created_at": "2026-04-01T03:15:49Z",
+      "updated_at": "2026-08-21T00:41:34Z",
       "rank": 17
     },
     {
@@ -515,9 +515,9 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "full_description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars": 30584,
+      "stars": 30631,
       "stars_gained": 0,
-      "forks": 2785,
+      "forks": 2791,
       "topics": [
         "ai-coding",
         "claude",
@@ -533,7 +533,7 @@
         "tree-sitter"
       ],
       "created_at": "2026-02-26T17:25:13Z",
-      "updated_at": "2026-08-20T01:49:59Z",
+      "updated_at": "2026-08-21T01:58:24Z",
       "rank": 18
     },
     {
@@ -542,9 +542,9 @@
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "full_description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars": 29870,
+      "stars": 30378,
       "stars_gained": 0,
-      "forks": 3540,
+      "forks": 3611,
       "topics": [
         "ai-agents",
         "claude-code",
@@ -568,7 +568,7 @@
         "threat-intelligence"
       ],
       "created_at": "2026-02-25T09:47:50Z",
-      "updated_at": "2026-08-20T01:57:44Z",
+      "updated_at": "2026-08-21T02:01:24Z",
       "rank": 19
     },
     {
@@ -577,9 +577,9 @@
       "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "full_description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars": 28865,
+      "stars": 28948,
       "stars_gained": 0,
-      "forks": 1963,
+      "forks": 1970,
       "topics": [
         "agent",
         "ai",
@@ -597,7 +597,7 @@
         "xlsx"
       ],
       "created_at": "2026-03-15T07:39:12Z",
-      "updated_at": "2026-08-20T01:49:49Z",
+      "updated_at": "2026-08-21T01:53:58Z",
       "rank": 20
     },
     {
@@ -606,9 +606,9 @@
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "full_description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
-      "stars": 27189,
+      "stars": 27221,
       "stars_gained": 0,
-      "forks": 2324,
+      "forks": 2328,
       "topics": [
         "agentmemory",
         "agents",
@@ -625,7 +625,7 @@
         "openclaw"
       ],
       "created_at": "2026-02-25T07:32:52Z",
-      "updated_at": "2026-08-20T00:23:22Z",
+      "updated_at": "2026-08-21T01:19:04Z",
       "rank": 21
     },
     {
@@ -634,9 +634,9 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "full_description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
-      "stars": 23238,
+      "stars": 23490,
       "stars_gained": 0,
-      "forks": 2130,
+      "forks": 2167,
       "topics": [
         "agent",
         "ai-agent",
@@ -649,7 +649,7 @@
         "vector-search"
       ],
       "created_at": "2026-04-07T06:34:26Z",
-      "updated_at": "2026-08-20T01:56:45Z",
+      "updated_at": "2026-08-21T02:02:45Z",
       "rank": 22
     },
     {
@@ -658,9 +658,9 @@
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "full_description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars": 23139,
+      "stars": 23427,
       "stars_gained": 0,
-      "forks": 2449,
+      "forks": 2477,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -677,7 +677,7 @@
         "study-tools"
       ],
       "created_at": "2026-05-01T02:09:39Z",
-      "updated_at": "2026-08-20T01:55:54Z",
+      "updated_at": "2026-08-21T02:00:59Z",
       "rank": 23
     },
     {
@@ -686,9 +686,9 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "full_description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars": 20875,
+      "stars": 20978,
       "stars_gained": 0,
-      "forks": 1492,
+      "forks": 1510,
       "topics": [
         "agent",
         "agent-skills",
@@ -698,7 +698,7 @@
         "repository-level-context"
       ],
       "created_at": "2026-05-18T02:16:36Z",
-      "updated_at": "2026-08-20T01:49:58Z",
+      "updated_at": "2026-08-21T01:59:40Z",
       "rank": 24
     },
     {
@@ -707,9 +707,9 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "full_description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars": 19992,
+      "stars": 20025,
       "stars_gained": 0,
-      "forks": 1438,
+      "forks": 1444,
       "topics": [
         "antigravity",
         "claude",
@@ -733,7 +733,7 @@
         "zed-extension"
       ],
       "created_at": "2026-02-23T05:56:28Z",
-      "updated_at": "2026-08-20T01:37:02Z",
+      "updated_at": "2026-08-21T01:52:04Z",
       "rank": 25
     },
     {
@@ -742,7 +742,7 @@
       "description": "数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents",
       "full_description": "数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents",
       "language": "Python",
-      "stars": 19855,
+      "stars": 19882,
       "stars_gained": 0,
       "forks": 2151,
       "topics": [
@@ -757,7 +757,7 @@
         "vibe-coding"
       ],
       "created_at": "2026-04-06T07:37:02Z",
-      "updated_at": "2026-08-19T22:51:32Z",
+      "updated_at": "2026-08-21T02:02:16Z",
       "rank": 26
     },
     {
@@ -766,9 +766,9 @@
       "description": "🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 52 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。",
       "full_description": "🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 52 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。",
       "language": "Shell",
-      "stars": 19615,
+      "stars": 19658,
       "stars_gained": 0,
-      "forks": 3198,
+      "forks": 3205,
       "topics": [
         "agency-orchestrator",
         "agent-definitions",
@@ -791,7 +791,7 @@
         "workflow"
       ],
       "created_at": "2026-03-06T11:11:51Z",
-      "updated_at": "2026-08-20T01:54:45Z",
+      "updated_at": "2026-08-21T01:54:16Z",
       "rank": 27
     },
     {
@@ -800,7 +800,7 @@
       "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.",
       "full_description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.",
       "language": "TypeScript",
-      "stars": 19463,
+      "stars": 19472,
       "stars_gained": 0,
       "forks": 1188,
       "topics": [
@@ -810,7 +810,7 @@
         "pua"
       ],
       "created_at": "2026-03-08T16:55:16Z",
-      "updated_at": "2026-08-19T23:03:07Z",
+      "updated_at": "2026-08-20T19:19:39Z",
       "rank": 28
     },
     {
@@ -821,7 +821,7 @@
       "language": "Rust",
       "stars": 18126,
       "stars_gained": 0,
-      "forks": 2285,
+      "forks": 2286,
       "topics": [
         "agent-framework",
         "ai-agents",
@@ -833,7 +833,7 @@
         "rust"
       ],
       "created_at": "2026-02-24T23:12:38Z",
-      "updated_at": "2026-08-19T22:18:35Z",
+      "updated_at": "2026-08-21T01:55:03Z",
       "rank": 29
     },
     {
@@ -842,9 +842,9 @@
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "full_description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "language": "Python",
-      "stars": 17508,
+      "stars": 17568,
       "stars_gained": 0,
-      "forks": 2417,
+      "forks": 2430,
       "topics": [
         "agent",
         "ai-agents",
@@ -853,7 +853,7 @@
         "nous-research"
       ],
       "created_at": "2026-03-30T21:50:12Z",
-      "updated_at": "2026-08-20T01:06:25Z",
+      "updated_at": "2026-08-21T00:56:45Z",
       "rank": 30
     }
   ]
