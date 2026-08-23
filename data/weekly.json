@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T01:56:42.687594+00:00",
+  "updated": "2026-08-23T02:08:23.503253+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "full_description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "language": "TypeScript",
-      "stars": 2132,
+      "stars": 2336,
       "stars_gained": 0,
-      "forks": 230,
+      "forks": 268,
       "topics": [
         "ag-ui",
         "agent-governance",
@@ -23,18 +23,18 @@
         "mcp"
       ],
       "created_at": "2026-08-17T00:44:59Z",
-      "updated_at": "2026-08-22T01:56:00Z",
+      "updated_at": "2026-08-23T02:02:09Z",
       "rank": 1
     },
     {
       "name": "cinderline/northcinder",
       "url": "https://github.com/cinderline/northcinder",
-      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-      "full_description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "description": "Open-source MCP server for comparing products and asking the buyer before purchase.",
+      "full_description": "Open-source MCP server for comparing products and asking the buyer before purchase.",
       "language": "JavaScript",
-      "stars": 1203,
+      "stars": 1205,
       "stars_gained": 0,
-      "forks": 5,
+      "forks": 6,
       "topics": [
         "agentic-commerce",
         "human-in-the-loop",
@@ -48,7 +48,7 @@
         "typescript"
       ],
       "created_at": "2026-08-17T11:42:31Z",
-      "updated_at": "2026-08-21T08:31:39Z",
+      "updated_at": "2026-08-22T18:51:06Z",
       "rank": 2
     },
     {
@@ -57,9 +57,9 @@
       "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
       "full_description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
       "language": "Python",
-      "stars": 687,
+      "stars": 709,
       "stars_gained": 0,
-      "forks": 45,
+      "forks": 49,
       "topics": [
         "accessibility",
         "agent",
@@ -70,7 +70,7 @@
         "python"
       ],
       "created_at": "2026-08-17T00:22:20Z",
-      "updated_at": "2026-08-22T01:37:35Z",
+      "updated_at": "2026-08-23T00:59:25Z",
       "rank": 3
     },
     {
@@ -79,7 +79,7 @@
       "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
       "full_description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
       "language": "Python",
-      "stars": 537,
+      "stars": 541,
       "stars_gained": 0,
       "forks": 99,
       "topics": [
@@ -92,48 +92,8 @@
         "gemini"
       ],
       "created_at": "2026-08-16T18:35:58Z",
-      "updated_at": "2026-08-21T23:04:31Z",
+      "updated_at": "2026-08-22T21:16:03Z",
       "rank": 4
-    },
-    {
-      "name": "SheberDavid/v4-flash-godmode-opencode-go",
-      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
-      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
-      "full_description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
-      "language": "JavaScript",
-      "stars": 492,
-      "stars_gained": 0,
-      "forks": 13,
-      "topics": [
-        "agent",
-        "deepseek",
-        "dsh",
-        "flash"
-      ],
-      "created_at": "2026-08-15T06:10:13Z",
-      "updated_at": "2026-08-21T15:43:49Z",
-      "rank": 5
-    },
-    {
-      "name": "lencx/Minke",
-      "url": "https://github.com/lencx/Minke",
-      "description": "🐳 DeepSeek Harness Desktop",
-      "full_description": "🐳 DeepSeek Harness Desktop",
-      "language": "TypeScript",
-      "stars": 381,
-      "stars_gained": 0,
-      "forks": 42,
-      "topics": [
-        "agent",
-        "deekseek",
-        "desktop",
-        "dsh",
-        "dsh-plugin",
-        "harness"
-      ],
-      "created_at": "2026-08-15T01:49:38Z",
-      "updated_at": "2026-08-22T01:41:26Z",
-      "rank": 6
     },
     {
       "name": "MirroS-Lab/HarnessEval-W",
@@ -141,7 +101,7 @@
       "description": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
       "full_description": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
       "language": "Python",
-      "stars": 242,
+      "stars": 246,
       "stars_gained": 0,
       "forks": 7,
       "topics": [
@@ -158,8 +118,8 @@
         "world-model"
       ],
       "created_at": "2026-08-17T09:50:26Z",
-      "updated_at": "2026-08-22T00:31:50Z",
-      "rank": 7
+      "updated_at": "2026-08-22T17:21:20Z",
+      "rank": 5
     },
     {
       "name": "sam70361/emotion-ball",
@@ -167,9 +127,9 @@
       "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
       "full_description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
       "language": "JavaScript",
-      "stars": 224,
+      "stars": 233,
       "stars_gained": 0,
-      "forks": 23,
+      "forks": 24,
       "topics": [
         "ai",
         "ai-agent",
@@ -186,8 +146,8 @@
         "vanilla-javascript"
       ],
       "created_at": "2026-08-18T09:28:02Z",
-      "updated_at": "2026-08-22T01:40:07Z",
-      "rank": 8
+      "updated_at": "2026-08-23T00:14:58Z",
+      "rank": 6
     },
     {
       "name": "amitshekhariitbhu/llm-inference-engineering",
@@ -195,7 +155,7 @@
       "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
       "full_description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
       "language": "Markdown",
-      "stars": 213,
+      "stars": 214,
       "stars_gained": 0,
       "forks": 25,
       "topics": [
@@ -208,8 +168,8 @@
         "llms"
       ],
       "created_at": "2026-08-18T03:10:26Z",
-      "updated_at": "2026-08-21T21:38:07Z",
-      "rank": 9
+      "updated_at": "2026-08-22T11:18:07Z",
+      "rank": 7
     },
     {
       "name": "ZSeven-W/dsh-ios",
@@ -217,9 +177,9 @@
       "description": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
       "full_description": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
       "language": "TypeScript",
-      "stars": 179,
+      "stars": 209,
       "stars_gained": 0,
-      "forks": 18,
+      "forks": 22,
       "topics": [
         "accessibility",
         "ai-agents",
@@ -239,31 +199,27 @@
         "xcode"
       ],
       "created_at": "2026-08-19T18:02:50Z",
-      "updated_at": "2026-08-22T01:49:00Z",
-      "rank": 10
+      "updated_at": "2026-08-23T01:58:51Z",
+      "rank": 8
     },
     {
-      "name": "Vistyy/nopus",
-      "url": "https://github.com/Vistyy/nopus",
-      "description": "Deterministic prose checks for clearer coding-agent responses",
-      "full_description": "Deterministic prose checks for clearer coding-agent responses",
-      "language": "TypeScript",
-      "stars": 172,
+      "name": "furkankly/zoetrope",
+      "url": "https://github.com/furkankly/zoetrope",
+      "description": "Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
+      "full_description": "Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
+      "language": "Rust",
+      "stars": 168,
       "stars_gained": 0,
-      "forks": 10,
+      "forks": 8,
       "topics": [
-        "agent-skills",
+        "agent",
+        "agent-visualization",
         "claude-code",
-        "coding-agents",
-        "developer-tools",
-        "llm",
-        "openai-codex",
-        "pi-coding-agent",
-        "readability"
+        "flow"
       ],
-      "created_at": "2026-08-15T12:53:20Z",
-      "updated_at": "2026-08-22T01:14:58Z",
-      "rank": 11
+      "created_at": "2026-08-18T10:48:39Z",
+      "updated_at": "2026-08-22T21:19:13Z",
+      "rank": 9
     },
     {
       "name": "squall01337/mixamo-llm-mocap",
@@ -271,9 +227,9 @@
       "description": "Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated end-to-end by an AI agent.",
       "full_description": "Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated end-to-end by an AI agent.",
       "language": "Python",
-      "stars": 134,
+      "stars": 152,
       "stars_gained": 0,
-      "forks": 33,
+      "forks": 37,
       "topics": [
         "ai-agent",
         "animation",
@@ -287,8 +243,8 @@
         "smpl-x"
       ],
       "created_at": "2026-08-17T21:05:02Z",
-      "updated_at": "2026-08-21T23:36:52Z",
-      "rank": 12
+      "updated_at": "2026-08-22T23:29:24Z",
+      "rank": 10
     },
     {
       "name": "azrtydxb/procoder",
@@ -296,9 +252,9 @@
       "description": "Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
       "full_description": "Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
       "language": "Go",
-      "stars": 130,
+      "stars": 140,
       "stars_gained": 0,
-      "forks": 8,
+      "forks": 9,
       "topics": [
         "ai-coding-assistant",
         "claude-code",
@@ -312,76 +268,32 @@
         "static-analysis"
       ],
       "created_at": "2026-08-16T07:47:17Z",
-      "updated_at": "2026-08-22T01:35:22Z",
-      "rank": 13
+      "updated_at": "2026-08-22T21:23:06Z",
+      "rank": 11
     },
     {
-      "name": "zachahn/vomit",
-      "url": "https://github.com/zachahn/vomit",
-      "description": "Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
-      "full_description": "Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
-      "language": "Go",
-      "stars": 129,
-      "stars_gained": 0,
-      "forks": 3,
-      "topics": [
-        "ai",
-        "ai-tools",
-        "claude-code"
-      ],
-      "created_at": "2026-08-15T05:43:59Z",
-      "updated_at": "2026-08-22T01:40:41Z",
-      "rank": 14
-    },
-    {
-      "name": "toolclub/dsh-agent-team-gui",
-      "url": "https://github.com/toolclub/dsh-agent-team-gui",
-      "description": "Persistent multi-model workflow teams for DeepSeek Harness — dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights.",
-      "full_description": "Persistent multi-model workflow teams for DeepSeek Harness — dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights.",
-      "language": "TypeScript",
-      "stars": 116,
+      "name": "only-cli/oc",
+      "url": "https://github.com/only-cli/oc",
+      "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+      "full_description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+      "language": "JavaScript",
+      "stars": 120,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
-        "agent",
-        "agent-orchestration",
         "ai-agents",
-        "dag",
-        "deepseek-harness",
-        "deepseek-harness-plugin",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "multi-agent",
-        "multi-model",
-        "orchestration",
-        "react",
-        "token-usage",
-        "typescript",
-        "workflow-engine"
-      ],
-      "created_at": "2026-08-15T03:40:19Z",
-      "updated_at": "2026-08-21T23:52:55Z",
-      "rank": 15
-    },
-    {
-      "name": "furkankly/zoetrope",
-      "url": "https://github.com/furkankly/zoetrope",
-      "description": "Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
-      "full_description": "Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
-      "language": "Rust",
-      "stars": 106,
-      "stars_gained": 0,
-      "forks": 4,
-      "topics": [
-        "agent",
-        "agent-visualization",
+        "browser-automation",
         "claude-code",
-        "flow"
+        "cli",
+        "cli-app",
+        "cli-tool",
+        "llm",
+        "markdown",
+        "web-scraping"
       ],
-      "created_at": "2026-08-18T10:48:39Z",
-      "updated_at": "2026-08-22T01:52:40Z",
-      "rank": 16
+      "created_at": "2026-08-18T13:00:30Z",
+      "updated_at": "2026-08-23T01:11:13Z",
+      "rank": 12
     },
     {
       "name": "joe960913/Jixu",
@@ -389,9 +301,9 @@
       "description": "A durable single-Agent Harness for TypeScript with recoverable Threads, explicit side-effect boundaries, and a native terminal UI.",
       "full_description": "A durable single-Agent Harness for TypeScript with recoverable Threads, explicit side-effect boundaries, and a native terminal UI.",
       "language": "TypeScript",
-      "stars": 106,
+      "stars": 107,
       "stars_gained": 0,
-      "forks": 6,
+      "forks": 7,
       "topics": [
         "agent-framework",
         "agent-runtime",
@@ -404,8 +316,8 @@
         "typescript"
       ],
       "created_at": "2026-08-18T11:43:25Z",
-      "updated_at": "2026-08-22T00:58:39Z",
-      "rank": 17
+      "updated_at": "2026-08-22T21:17:08Z",
+      "rank": 13
     },
     {
       "name": "elie222/botdirectory.ai",
@@ -413,9 +325,9 @@
       "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent — botdirectory.ai",
       "full_description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent — botdirectory.ai",
       "language": "Astro",
-      "stars": 103,
+      "stars": 107,
       "stars_gained": 0,
-      "forks": 46,
+      "forks": 48,
       "topics": [
         "agents",
         "ai-agents",
@@ -431,8 +343,94 @@
         "rakazo"
       ],
       "created_at": "2026-08-17T18:23:44Z",
-      "updated_at": "2026-08-21T23:53:18Z",
-      "rank": 18
+      "updated_at": "2026-08-22T23:32:48Z",
+      "rank": 14
+    },
+    {
+      "name": "Vendredi218/awesome-ai-harness",
+      "url": "https://github.com/Vendredi218/awesome-ai-harness",
+      "description": "The model is the engine; the harness is the car. Curated knowledge on harness engineering — context management, tool design, agent loops, memory, sandboxing, evals. EN/中文",
+      "full_description": "The model is the engine; the harness is the car. Curated knowledge on harness engineering — context management, tool design, agent loops, memory, sandboxing, evals. EN/中文",
+      "language": "",
+      "stars": 103,
+      "stars_gained": 0,
+      "forks": 2,
+      "topics": [
+        "agent-harness",
+        "agentic-ai",
+        "ai-agents",
+        "awesome-list",
+        "context-engineering",
+        "llm",
+        "mcp",
+        "prompt-engineering"
+      ],
+      "created_at": "2026-08-16T04:57:52Z",
+      "updated_at": "2026-08-22T20:20:58Z",
+      "rank": 15
+    },
+    {
+      "name": "Jordanwei1/jiaojie-skill",
+      "url": "https://github.com/Jordanwei1/jiaojie-skill",
+      "description": "交接 Skill（Jiaojie）：跨窗口、跨模型、跨设备、跨语言的 AI 上下文交接工具。换窗口，不失忆；换模型，不重来。Open-source AI context handoff.",
+      "full_description": "交接 Skill（Jiaojie）：跨窗口、跨模型、跨设备、跨语言的 AI 上下文交接工具。换窗口，不失忆；换模型，不重来。Open-source AI context handoff.",
+      "language": "Python",
+      "stars": 103,
+      "stars_gained": 0,
+      "forks": 5,
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "ai-agents",
+        "ai-memory",
+        "claude-code",
+        "claude-code-skill",
+        "codex",
+        "codex-skill",
+        "context-engineering",
+        "context-handoff",
+        "cross-model",
+        "cursor",
+        "cursor-skills",
+        "gemini-cli",
+        "gemini-cli-skills",
+        "handoff",
+        "llm",
+        "open-source",
+        "openclaw",
+        "openclaw-skill"
+      ],
+      "created_at": "2026-08-20T08:57:52Z",
+      "updated_at": "2026-08-22T06:53:52Z",
+      "rank": 16
+    },
+    {
+      "name": "ZSeven-W/dsh-crew",
+      "url": "https://github.com/ZSeven-W/dsh-crew",
+      "description": "DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex — native subagent progress, in-host worker sessions with per-tier presets, and a multimodal bridge that lends the text-only harness vision and image generation.",
+      "full_description": "DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex — native subagent progress, in-host worker sessions with per-tier presets, and a multimodal bridge that lends the text-only harness vision and image generation.",
+      "language": "JavaScript",
+      "stars": 100,
+      "stars_gained": 0,
+      "forks": 5,
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "coding-agent",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "mcp",
+        "multimodal",
+        "orchestration",
+        "plugin",
+        "subagent",
+        "typescript"
+      ],
+      "created_at": "2026-08-16T15:19:41Z",
+      "updated_at": "2026-08-22T19:28:02Z",
+      "rank": 17
     },
     {
       "name": "zorost/AI-Engineering-Lab",
@@ -467,35 +465,7 @@
       ],
       "created_at": "2026-08-17T16:34:05Z",
       "updated_at": "2026-08-20T23:55:46Z",
-      "rank": 19
-    },
-    {
-      "name": "ZSeven-W/dsh-crew",
-      "url": "https://github.com/ZSeven-W/dsh-crew",
-      "description": "DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex — native subagent progress, in-host worker sessions with per-tier presets, and a multimodal bridge that lends the text-only harness vision and image generation.",
-      "full_description": "DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex — native subagent progress, in-host worker sessions with per-tier presets, and a multimodal bridge that lends the text-only harness vision and image generation.",
-      "language": "JavaScript",
-      "stars": 93,
-      "stars_gained": 0,
-      "forks": 4,
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "coding-agent",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "mcp",
-        "multimodal",
-        "orchestration",
-        "plugin",
-        "subagent",
-        "typescript"
-      ],
-      "created_at": "2026-08-16T15:19:41Z",
-      "updated_at": "2026-08-21T15:40:09Z",
-      "rank": 20
+      "rank": 18
     },
     {
       "name": "six-nut/PocketMen-with-you",
@@ -503,7 +473,7 @@
       "description": "Create high-fidelity Codex companions from 2+ photos with local open-weight neural editing and no OpenAI API key.",
       "full_description": "Create high-fidelity Codex companions from 2+ photos with local open-weight neural editing and no OpenAI API key.",
       "language": "Python",
-      "stars": 83,
+      "stars": 91,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -529,8 +499,8 @@
         "spritesheet"
       ],
       "created_at": "2026-08-17T02:07:01Z",
-      "updated_at": "2026-08-21T23:58:10Z",
-      "rank": 21
+      "updated_at": "2026-08-23T01:42:11Z",
+      "rank": 19
     },
     {
       "name": "ztratar/openhistory",
@@ -538,7 +508,7 @@
       "description": "Your private, searchable work timeline for macOS and local AI agents.",
       "full_description": "Your private, searchable work timeline for macOS and local AI agents.",
       "language": "TypeScript",
-      "stars": 80,
+      "stars": 86,
       "stars_gained": 0,
       "forks": 5,
       "topics": [
@@ -554,8 +524,8 @@
         "swift"
       ],
       "created_at": "2026-08-16T21:17:24Z",
-      "updated_at": "2026-08-22T01:18:53Z",
-      "rank": 22
+      "updated_at": "2026-08-22T19:47:50Z",
+      "rank": 20
     },
     {
       "name": "abligail/narralume",
@@ -563,9 +533,9 @@
       "description": "Open-source AI-assisted writing studio for long-form fiction. 故事设定、正文版本、AI 协作、审稿与交付一体化的长篇小说写作工具。",
       "full_description": "Open-source AI-assisted writing studio for long-form fiction. 故事设定、正文版本、AI 协作、审稿与交付一体化的长篇小说写作工具。",
       "language": "TypeScript",
-      "stars": 75,
+      "stars": 86,
       "stars_gained": 0,
-      "forks": 15,
+      "forks": 17,
       "topics": [
         "ai-writing",
         "creative-writing",
@@ -578,55 +548,28 @@
         "writing-tool"
       ],
       "created_at": "2026-08-20T16:16:58Z",
-      "updated_at": "2026-08-22T01:27:50Z",
-      "rank": 23
+      "updated_at": "2026-08-23T01:46:01Z",
+      "rank": 21
     },
     {
-      "name": "Vendredi218/awesome-ai-harness",
-      "url": "https://github.com/Vendredi218/awesome-ai-harness",
-      "description": "The model is the engine; the harness is the car. Curated knowledge on harness engineering — context management, tool design, agent loops, memory, sandboxing, evals. EN/中文",
-      "full_description": "The model is the engine; the harness is the car. Curated knowledge on harness engineering — context management, tool design, agent loops, memory, sandboxing, evals. EN/中文",
-      "language": "",
-      "stars": 72,
+      "name": "ihsan-ramadhan/bansos-router",
+      "url": "https://github.com/ihsan-ramadhan/bansos-router",
+      "description": "Free, keyless coding models routed to every coding harness through one local endpoint. No accounts, no keys, no cost.",
+      "full_description": "Free, keyless coding models routed to every coding harness through one local endpoint. No accounts, no keys, no cost.",
+      "language": "TypeScript",
+      "stars": 74,
       "stars_gained": 0,
-      "forks": 2,
+      "forks": 13,
       "topics": [
-        "agent-harness",
-        "agentic-ai",
-        "ai-agents",
-        "awesome-list",
-        "context-engineering",
-        "llm",
-        "mcp",
-        "prompt-engineering"
+        "ai",
+        "bansos",
+        "free-ai",
+        "proxy",
+        "router"
       ],
-      "created_at": "2026-08-16T04:57:52Z",
-      "updated_at": "2026-08-21T22:56:59Z",
-      "rank": 24
-    },
-    {
-      "name": "only-cli/oc",
-      "url": "https://github.com/only-cli/oc",
-      "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
-      "full_description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
-      "language": "JavaScript",
-      "stars": 70,
-      "stars_gained": 0,
-      "forks": 1,
-      "topics": [
-        "ai-agents",
-        "browser-automation",
-        "claude-code",
-        "cli",
-        "cli-app",
-        "cli-tool",
-        "llm",
-        "markdown",
-        "web-scraping"
-      ],
-      "created_at": "2026-08-18T13:00:30Z",
-      "updated_at": "2026-08-20T18:04:09Z",
-      "rank": 25
+      "created_at": "2026-08-17T23:53:59Z",
+      "updated_at": "2026-08-22T18:12:26Z",
+      "rank": 22
     },
     {
       "name": "agents-universe/agents-universe",
@@ -634,7 +577,7 @@
       "description": "让智能体像人一样学习和工作，共享智能体和项目记忆",
       "full_description": "让智能体像人一样学习和工作，共享智能体和项目记忆",
       "language": "Python",
-      "stars": 68,
+      "stars": 73,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
@@ -654,8 +597,8 @@
         "webapp"
       ],
       "created_at": "2026-08-18T12:49:42Z",
-      "updated_at": "2026-08-22T00:36:14Z",
-      "rank": 26
+      "updated_at": "2026-08-23T02:01:57Z",
+      "rank": 23
     },
     {
       "name": "lianghsun/open-sheet",
@@ -663,9 +606,9 @@
       "description": "The spreadsheet framework built for agents — write the model as React, export a live .xlsx. The third medium, after open-slide and open-doc.",
       "full_description": "The spreadsheet framework built for agents — write the model as React, export a live .xlsx. The third medium, after open-slide and open-doc.",
       "language": "TypeScript",
-      "stars": 67,
+      "stars": 72,
       "stars_gained": 0,
-      "forks": 6,
+      "forks": 7,
       "topics": [
         "ai-agents",
         "claude-code",
@@ -681,82 +624,150 @@
         "xlsx"
       ],
       "created_at": "2026-08-18T07:15:17Z",
-      "updated_at": "2026-08-22T00:46:19Z",
-      "rank": 27
+      "updated_at": "2026-08-22T12:58:25Z",
+      "rank": 24
     },
     {
-      "name": "ihsan-ramadhan/bansos-router",
-      "url": "https://github.com/ihsan-ramadhan/bansos-router",
-      "description": "Free, keyless coding models routed to every coding harness through one local endpoint. No accounts, no keys, no cost.",
-      "full_description": "Free, keyless coding models routed to every coding harness through one local endpoint. No accounts, no keys, no cost.",
+      "name": "tabtin-ai/TabTin",
+      "url": "https://github.com/tabtin-ai/TabTin",
+      "description": "A workspace where people and multiple AI agents work together.",
+      "full_description": "A workspace where people and multiple AI agents work together.",
       "language": "TypeScript",
-      "stars": 66,
+      "stars": 68,
       "stars_gained": 0,
-      "forks": 10,
+      "forks": 16,
       "topics": [
+        "agents",
         "ai",
-        "bansos",
-        "free-ai",
-        "proxy",
-        "router"
+        "collaboration",
+        "desktop",
+        "workspace"
       ],
-      "created_at": "2026-08-17T23:53:59Z",
-      "updated_at": "2026-08-22T01:00:32Z",
-      "rank": 28
+      "created_at": "2026-08-19T02:36:25Z",
+      "updated_at": "2026-08-23T02:04:01Z",
+      "rank": 25
     },
     {
-      "name": "wtfzambo/speak-like-you-eat",
-      "url": "https://github.com/wtfzambo/speak-like-you-eat",
-      "description": "Translate AI garbage to human language. A Pi package for plain-language rewrites.",
-      "full_description": "Translate AI garbage to human language. A Pi package for plain-language rewrites.",
-      "language": "TypeScript",
-      "stars": 64,
+      "name": "programasweights/claudish",
+      "url": "https://github.com/programasweights/claudish",
+      "description": "Translate between English and Claudish with tiny ProgramAsWeights functions.",
+      "full_description": "Translate between English and Claudish with tiny ProgramAsWeights functions.",
+      "language": "Python",
+      "stars": 51,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "claude",
+        "nlp",
+        "programasweights",
+        "translator"
+      ],
+      "created_at": "2026-08-22T16:27:39Z",
+      "updated_at": "2026-08-23T01:56:18Z",
+      "rank": 26
+    },
+    {
+      "name": "unclecode/modelprint",
+      "url": "https://github.com/unclecode/modelprint",
+      "description": "Who is really behind that API? Fingerprint any OpenAI-compatible endpoint in the browser: 9 infrastructure probes, side-by-side comparison, community-extensible.",
+      "full_description": "Who is really behind that API? Fingerprint any OpenAI-compatible endpoint in the browser: 9 infrastructure probes, side-by-side comparison, community-extensible.",
+      "language": "JavaScript",
+      "stars": 51,
       "stars_gained": 0,
       "forks": 6,
       "topics": [
+        "ai-tools",
+        "fingerprinting",
         "llm",
-        "pi",
-        "pi-package",
-        "plain-language",
-        "writing"
+        "openrouter"
       ],
-      "created_at": "2026-08-15T15:49:26Z",
-      "updated_at": "2026-08-21T18:58:35Z",
+      "created_at": "2026-08-21T12:16:56Z",
+      "updated_at": "2026-08-22T15:21:25Z",
+      "rank": 27
+    },
+    {
+      "name": "stems-arraign-48/neurocursor-ai",
+      "url": "https://github.com/stems-arraign-48/neurocursor-ai",
+      "description": "AI-powered, camera-based mouse cursor control written in C++. Turn your webcam into a hands-free pointing device — built for gaming, perfect for everyday use and accessibility.",
+      "full_description": "AI-powered, camera-based mouse cursor control written in C++. Turn your webcam into a hands-free pointing device — built for gaming, perfect for everyday use and accessibility.",
+      "language": "C++",
+      "stars": 50,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai",
+        "computer-vision",
+        "cplusplus",
+        "cpp",
+        "cursor-control",
+        "eye-tracking",
+        "face-tracking",
+        "gamedev",
+        "gaming",
+        "gaze-tracking",
+        "head-tracking",
+        "machine-learning",
+        "mouse-control",
+        "neural-network"
+      ],
+      "created_at": "2026-08-20T20:42:28Z",
+      "updated_at": "2026-08-20T22:23:14Z",
+      "rank": 28
+    },
+    {
+      "name": "AI4CharityPL/kancelaria-lex",
+      "url": "https://github.com/AI4CharityPL/kancelaria-lex",
+      "description": "Fully local AI for Polish legal case files - zero fabricated citations by construction. Free; please support a Wroclaw animal shelter instead.",
+      "full_description": "Fully local AI for Polish legal case files - zero fabricated citations by construction. Free; please support a Wroclaw animal shelter instead.",
+      "language": "Python",
+      "stars": 45,
+      "stars_gained": 0,
+      "forks": 6,
+      "topics": [
+        "charity",
+        "gdpr",
+        "legal-tech",
+        "local-first",
+        "ollama",
+        "polish",
+        "privacy",
+        "rag"
+      ],
+      "created_at": "2026-08-17T09:27:27Z",
+      "updated_at": "2026-08-22T15:58:29Z",
       "rank": 29
     },
     {
-      "name": "Greninja9257/LabLLM",
-      "url": "https://github.com/Greninja9257/LabLLM",
-      "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
-      "full_description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
-      "language": "Swift",
-      "stars": 59,
+      "name": "sevensir888/codex-command-center",
+      "url": "https://github.com/sevensir888/codex-command-center",
+      "description": "A local desktop control center for organizing Codex projects, engineering tasks, sessions, Git changes, Skills, and MCP configuration.",
+      "full_description": "A local desktop control center for organizing Codex projects, engineering tasks, sessions, Git changes, Skills, and MCP configuration.",
+      "language": "TypeScript",
+      "stars": 45,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
-        "ai",
-        "apple-silicon",
-        "artificial-intelligence",
-        "deep-learning",
-        "fine-tuning",
-        "generative-ai",
-        "gpt",
-        "large-language-model",
-        "llm",
-        "local-ai",
-        "lora",
-        "machine-learning",
-        "macos",
-        "mlx",
-        "on-device-ai",
-        "open-source-llm",
-        "quantization",
-        "swift",
-        "swiftui",
-        "transformers"
+        "ai-coding",
+        "codex",
+        "codex-cli",
+        "codex-desktop",
+        "codex-github",
+        "codex-skill",
+        "coding-agents",
+        "desktop-app",
+        "developer-tools",
+        "git",
+        "local-first",
+        "mcp",
+        "openai-codex",
+        "react",
+        "rust",
+        "tauri",
+        "typescript",
+        "windows"
       ],
-      "created_at": "2026-08-15T22:16:40Z",
-      "updated_at": "2026-08-21T15:29:23Z",
+      "created_at": "2026-08-17T16:45:32Z",
+      "updated_at": "2026-08-23T00:28:37Z",
       "rank": 30
     }
   ]
