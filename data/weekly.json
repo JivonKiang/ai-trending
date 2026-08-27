@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T02:07:47.657312+00:00",
+  "updated": "2026-08-27T10:05:36.858773+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "full_description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "language": "Zig",
-      "stars": 1386,
+      "stars": 1487,
       "stars_gained": 0,
-      "forks": 135,
+      "forks": 146,
       "topics": [
         "ai-agents",
         "ai-debugging",
@@ -35,7 +35,7 @@
         "ziglang"
       ],
       "created_at": "2026-08-22T14:28:41Z",
-      "updated_at": "2026-08-26T01:56:18Z",
+      "updated_at": "2026-08-27T08:48:42Z",
       "rank": 1
     },
     {
@@ -44,9 +44,9 @@
       "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
       "full_description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
       "language": "TypeScript",
-      "stars": 368,
+      "stars": 423,
       "stars_gained": 0,
-      "forks": 38,
+      "forks": 40,
       "topics": [
         "ai-agents",
         "canvas",
@@ -59,7 +59,7 @@
         "multiplayer"
       ],
       "created_at": "2026-08-22T15:40:51Z",
-      "updated_at": "2026-08-26T02:07:34Z",
+      "updated_at": "2026-08-27T08:31:59Z",
       "rank": 2
     },
     {
@@ -68,9 +68,9 @@
       "description": "Rome is the agentic OS.",
       "full_description": "Rome is the agentic OS.",
       "language": "TypeScript",
-      "stars": 337,
+      "stars": 366,
       "stars_gained": 0,
-      "forks": 18,
+      "forks": 21,
       "topics": [
         "agent",
         "agent-os",
@@ -79,39 +79,8 @@
         "llm"
       ],
       "created_at": "2026-08-23T06:15:15Z",
-      "updated_at": "2026-08-26T01:49:53Z",
+      "updated_at": "2026-08-27T09:30:51Z",
       "rank": 3
-    },
-    {
-      "name": "ZSeven-W/dsh-ios",
-      "url": "https://github.com/ZSeven-W/dsh-ios",
-      "description": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
-      "full_description": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
-      "language": "TypeScript",
-      "stars": 253,
-      "stars_gained": 0,
-      "forks": 22,
-      "topics": [
-        "accessibility",
-        "ai-agents",
-        "coding-agent",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "ios",
-        "ios-simulator",
-        "iphone",
-        "mcp",
-        "mobile-automation",
-        "plugin",
-        "typescript",
-        "ui-automation",
-        "webdriveragent",
-        "xcode"
-      ],
-      "created_at": "2026-08-19T18:02:50Z",
-      "updated_at": "2026-08-25T14:23:21Z",
-      "rank": 4
     },
     {
       "name": "programasweights/claudish",
@@ -119,9 +88,9 @@
       "description": "Translate between English and Claudish with tiny ProgramAsWeights functions.",
       "full_description": "Translate between English and Claudish with tiny ProgramAsWeights functions.",
       "language": "Python",
-      "stars": 199,
+      "stars": 219,
       "stars_gained": 0,
-      "forks": 17,
+      "forks": 19,
       "topics": [
         "claude",
         "nlp",
@@ -129,28 +98,28 @@
         "translator"
       ],
       "created_at": "2026-08-22T16:27:39Z",
-      "updated_at": "2026-08-26T00:28:25Z",
-      "rank": 5
+      "updated_at": "2026-08-27T09:14:54Z",
+      "rank": 4
     },
     {
-      "name": "tabtin-ai/TabTin",
-      "url": "https://github.com/tabtin-ai/TabTin",
-      "description": "A workspace where people and multiple AI agents work together.",
-      "full_description": "A workspace where people and multiple AI agents work together.",
-      "language": "TypeScript",
-      "stars": 150,
+      "name": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
+      "url": "https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects",
+      "description": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
+      "full_description": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
+      "language": "",
+      "stars": 156,
       "stars_gained": 0,
-      "forks": 36,
+      "forks": 9,
       "topics": [
-        "agents",
-        "ai",
-        "collaboration",
-        "desktop",
-        "workspace"
+        "agent",
+        "ai-coding",
+        "documentation",
+        "interview",
+        "take-home-assignment"
       ],
-      "created_at": "2026-08-19T02:36:25Z",
-      "updated_at": "2026-08-26T01:12:41Z",
-      "rank": 6
+      "created_at": "2026-08-26T02:22:48Z",
+      "updated_at": "2026-08-27T09:34:08Z",
+      "rank": 5
     },
     {
       "name": "itshen/source-reading-methodology",
@@ -158,9 +127,9 @@
       "description": "带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行",
       "full_description": "带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行",
       "language": "Python",
-      "stars": 123,
+      "stars": 125,
       "stars_gained": 0,
-      "forks": 10,
+      "forks": 11,
       "topics": [
         "agent-skills",
         "ai-agent",
@@ -174,8 +143,8 @@
         "technical-writing"
       ],
       "created_at": "2026-08-23T02:51:45Z",
-      "updated_at": "2026-08-25T18:12:08Z",
-      "rank": 7
+      "updated_at": "2026-08-26T09:02:10Z",
+      "rank": 6
     },
     {
       "name": "Jordanwei1/jiaojie-skill",
@@ -210,7 +179,7 @@
       ],
       "created_at": "2026-08-20T08:57:52Z",
       "updated_at": "2026-08-25T20:29:50Z",
-      "rank": 8
+      "rank": 7
     },
     {
       "name": "abligail/narralume",
@@ -218,9 +187,9 @@
       "description": "Open-source AI-assisted writing studio for long-form fiction. 故事设定、正文版本、AI 协作、审稿与交付一体化的长篇小说写作工具。",
       "full_description": "Open-source AI-assisted writing studio for long-form fiction. 故事设定、正文版本、AI 协作、审稿与交付一体化的长篇小说写作工具。",
       "language": "TypeScript",
-      "stars": 94,
+      "stars": 102,
       "stars_gained": 0,
-      "forks": 20,
+      "forks": 23,
       "topics": [
         "ai-writing",
         "creative-writing",
@@ -233,8 +202,8 @@
         "writing-tool"
       ],
       "created_at": "2026-08-20T16:16:58Z",
-      "updated_at": "2026-08-25T08:03:12Z",
-      "rank": 9
+      "updated_at": "2026-08-27T09:50:48Z",
+      "rank": 8
     },
     {
       "name": "unclecode/modelprint",
@@ -242,7 +211,7 @@
       "description": "Who is really behind that API? Fingerprint any OpenAI-compatible endpoint in the browser: 9 infrastructure probes, side-by-side comparison, community-extensible.",
       "full_description": "Who is really behind that API? Fingerprint any OpenAI-compatible endpoint in the browser: 9 infrastructure probes, side-by-side comparison, community-extensible.",
       "language": "JavaScript",
-      "stars": 89,
+      "stars": 96,
       "stars_gained": 0,
       "forks": 11,
       "topics": [
@@ -252,62 +221,57 @@
         "openrouter"
       ],
       "created_at": "2026-08-21T12:16:56Z",
-      "updated_at": "2026-08-25T13:26:20Z",
+      "updated_at": "2026-08-27T01:14:28Z",
+      "rank": 9
+    },
+    {
+      "name": "crane-in-clear-sky/WorkWit-AI-Agent",
+      "url": "https://github.com/crane-in-clear-sky/WorkWit-AI-Agent",
+      "description": "WorkWit: a self-hosted, open-source (MIT) enterprise AI Agent platform for office automation — built-in contract review & resume screening, 40+ skills, MCP connectors, multi-tenant RBAC. Deploy with one Docker Compose.",
+      "full_description": "WorkWit: a self-hosted, open-source (MIT) enterprise AI Agent platform for office automation — built-in contract review & resume screening, 40+ skills, MCP connectors, multi-tenant RBAC. Deploy with one Docker Compose.",
+      "language": "Python",
+      "stars": 89,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai-agents",
+        "docker",
+        "enterprise",
+        "fastapi",
+        "llm",
+        "llm-tools",
+        "mcp",
+        "office-automation",
+        "self-hosted"
+      ],
+      "created_at": "2026-08-20T02:50:06Z",
+      "updated_at": "2026-08-27T09:01:06Z",
       "rank": 10
     },
     {
-      "name": "NiluK/worldmodels101",
-      "url": "https://github.com/NiluK/worldmodels101",
-      "description": "Free interactive course on world models in AI. Nine visual chapters on prediction, latent dynamics, planning, JEPA, video models, and failure modes.",
-      "full_description": "Free interactive course on world models in AI. Nine visual chapters on prediction, latent dynamics, planning, JEPA, video models, and failure modes.",
-      "language": "TypeScript",
-      "stars": 67,
-      "stars_gained": 0,
-      "forks": 39,
-      "topics": [
-        "artificial-intelligence",
-        "deep-learning",
-        "education",
-        "interactive-learning",
-        "jepa",
-        "machine-learning",
-        "model-based-reinforcement-learning",
-        "reinforcement-learning",
-        "representation-learning",
-        "self-supervised-learning",
-        "video-generation",
-        "world-models"
-      ],
-      "created_at": "2026-08-19T10:39:11Z",
-      "updated_at": "2026-08-25T12:43:06Z",
-      "rank": 11
-    },
-    {
-      "name": "forcewake/hermes-conductor",
-      "url": "https://github.com/forcewake/hermes-conductor",
-      "description": "One Hermes conductor. Many coding CLIs. Zero trust in self-reports. Production multi-harness orchestration patterns: worktree lanes, verification gates, recovery playbooks — from 18 kanban boards and every incident that tried to ruin them.",
-      "full_description": "One Hermes conductor. Many coding CLIs. Zero trust in self-reports. Production multi-harness orchestration patterns: worktree lanes, verification gates, recovery playbooks — from 18 kanban boards and every incident that tried to ruin them.",
-      "language": "",
-      "stars": 65,
+      "name": "UditAkhourii/cdaf",
+      "url": "https://github.com/UditAkhourii/cdaf",
+      "description": "CDAF (Cached Descriptive Asset Files) - open sidecar format for video so AI agents stop re-analyzing the same footage. Spec, CLI, agent skill, reproducible benchmark.",
+      "full_description": "CDAF (Cached Descriptive Asset Files) - open sidecar format for video so AI agents stop re-analyzing the same footage. Spec, CLI, agent skill, reproducible benchmark.",
+      "language": "Python",
+      "stars": 82,
       "stars_gained": 0,
       "forks": 6,
       "topics": [
-        "agent-orchestration",
+        "agentic-ai",
         "ai-agents",
-        "claude-code",
-        "codex-cli",
-        "hermes-agent",
-        "kanban",
+        "file-format",
+        "gemini",
         "llm",
-        "multi-agent",
-        "nousresearch",
-        "opencode",
-        "orchestration",
-        "worktrees"
+        "remotion",
+        "sidecar",
+        "token-optimization",
+        "video",
+        "video-understanding"
       ],
-      "created_at": "2026-08-23T18:49:46Z",
-      "updated_at": "2026-08-25T20:22:03Z",
-      "rank": 12
+      "created_at": "2026-08-26T09:12:41Z",
+      "updated_at": "2026-08-27T09:38:25Z",
+      "rank": 11
     },
     {
       "name": "Stupidoodle/swissdevjobs-cli",
@@ -315,9 +279,9 @@
       "description": "Search & apply to ~4,700 salary-transparent tech jobs across 7 countries (🇨🇭🇩🇪🇬🇧🇺🇸🇨🇦🇳🇱🇫🇷) from your terminal or AI agent — zero-dependency Python CLI + MCP server + Claude Code plugin",
       "full_description": "Search & apply to ~4,700 salary-transparent tech jobs across 7 countries (🇨🇭🇩🇪🇬🇧🇺🇸🇨🇦🇳🇱🇫🇷) from your terminal or AI agent — zero-dependency Python CLI + MCP server + Claude Code plugin",
       "language": "Python",
-      "stars": 64,
+      "stars": 79,
       "stars_gained": 0,
-      "forks": 8,
+      "forks": 11,
       "topics": [
         "ai-agents",
         "claude",
@@ -341,7 +305,34 @@
         "zero-dependencies"
       ],
       "created_at": "2026-08-24T19:59:58Z",
-      "updated_at": "2026-08-26T00:32:44Z",
+      "updated_at": "2026-08-27T06:38:17Z",
+      "rank": 12
+    },
+    {
+      "name": "forcewake/hermes-conductor",
+      "url": "https://github.com/forcewake/hermes-conductor",
+      "description": "One Hermes conductor. Many coding CLIs. Zero trust in self-reports. Production multi-harness orchestration patterns: worktree lanes, verification gates, recovery playbooks — from 18 kanban boards and every incident that tried to ruin them.",
+      "full_description": "One Hermes conductor. Many coding CLIs. Zero trust in self-reports. Production multi-harness orchestration patterns: worktree lanes, verification gates, recovery playbooks — from 18 kanban boards and every incident that tried to ruin them.",
+      "language": "",
+      "stars": 68,
+      "stars_gained": 0,
+      "forks": 6,
+      "topics": [
+        "agent-orchestration",
+        "ai-agents",
+        "claude-code",
+        "codex-cli",
+        "hermes-agent",
+        "kanban",
+        "llm",
+        "multi-agent",
+        "nousresearch",
+        "opencode",
+        "orchestration",
+        "worktrees"
+      ],
+      "created_at": "2026-08-23T18:49:46Z",
+      "updated_at": "2026-08-26T23:29:05Z",
       "rank": 13
     },
     {
@@ -350,9 +341,9 @@
       "description": "Quality gate for AI/Codex-generated pull requests: blocks TODO leftovers, leaked secrets, sloppy commits and red CI before they reach main.",
       "full_description": "Quality gate for AI/Codex-generated pull requests: blocks TODO leftovers, leaked secrets, sloppy commits and red CI before they reach main.",
       "language": "JavaScript",
-      "stars": 63,
+      "stars": 64,
       "stars_gained": 0,
-      "forks": 4,
+      "forks": 5,
       "topics": [
         "ai",
         "claude-code",
@@ -367,8 +358,59 @@
         "quality-gate"
       ],
       "created_at": "2026-08-20T16:28:08Z",
-      "updated_at": "2026-08-25T22:56:25Z",
+      "updated_at": "2026-08-27T07:57:51Z",
       "rank": 14
+    },
+    {
+      "name": "2youg1/sprawling",
+      "url": "https://github.com/2youg1/sprawling",
+      "description": "Local multi-agent city for running persistent agent teams, long-run, society-simulation",
+      "full_description": "Local multi-agent city for running persistent agent teams, long-run, society-simulation",
+      "language": "Rust",
+      "stars": 58,
+      "stars_gained": 0,
+      "forks": 6,
+      "topics": [
+        "agent",
+        "agentic-workflow",
+        "harness",
+        "harness-engineering",
+        "multi-agent",
+        "multi-agent-system",
+        "privacy-first",
+        "rust",
+        "society-simulation"
+      ],
+      "created_at": "2026-08-22T13:20:29Z",
+      "updated_at": "2026-08-27T09:36:31Z",
+      "rank": 15
+    },
+    {
+      "name": "ArihantDeva/heimdall",
+      "url": "https://github.com/ArihantDeva/heimdall",
+      "description": "A lightweight CPU only memory approach with ranked retrieval. Simple, yet effective.",
+      "full_description": "A lightweight CPU only memory approach with ranked retrieval. Simple, yet effective.",
+      "language": "JavaScript",
+      "stars": 57,
+      "stars_gained": 0,
+      "forks": 4,
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "code-intelligence",
+        "developer-tools",
+        "embeddings",
+        "knowledge-base",
+        "llm-tools",
+        "mcp",
+        "memory",
+        "rag",
+        "semantic-search"
+      ],
+      "created_at": "2026-08-20T16:22:22Z",
+      "updated_at": "2026-08-26T15:11:50Z",
+      "rank": 16
     },
     {
       "name": "Cripacx/mediagen",
@@ -401,35 +443,8 @@
         "video-generation"
       ],
       "created_at": "2026-08-22T23:49:10Z",
-      "updated_at": "2026-08-25T01:31:02Z",
-      "rank": 15
-    },
-    {
-      "name": "ArihantDeva/heimdall",
-      "url": "https://github.com/ArihantDeva/heimdall",
-      "description": "Persistent memory for AI coding agents — one verified kb_search replaces the grep/find/ls orientation loop. Cross-repo, CPU-only, zero token spend.",
-      "full_description": "Persistent memory for AI coding agents — one verified kb_search replaces the grep/find/ls orientation loop. Cross-repo, CPU-only, zero token spend.",
-      "language": "JavaScript",
-      "stars": 53,
-      "stars_gained": 0,
-      "forks": 3,
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "cli",
-        "code-intelligence",
-        "developer-tools",
-        "embeddings",
-        "knowledge-base",
-        "llm-tools",
-        "mcp",
-        "memory",
-        "rag",
-        "semantic-search"
-      ],
-      "created_at": "2026-08-20T16:22:22Z",
-      "updated_at": "2026-08-26T01:58:52Z",
-      "rank": 16
+      "updated_at": "2026-08-26T14:31:14Z",
+      "rank": 17
     },
     {
       "name": "dshplugin/dsh-plugin-hub",
@@ -437,9 +452,9 @@
       "description": "DeepSeek Harness 社区内置插件市场（dsh-plugin）— 搜索插件、下载并安装 4000+ 人工精选社区插件，每日更新、完全免费。内置在 Harness「设置 → 插件中心」，无需离开应用即可浏览、搜索、安装各类 AI 插件。",
       "full_description": "DeepSeek Harness 社区内置插件市场（dsh-plugin）— 搜索插件、下载并安装 4000+ 人工精选社区插件，每日更新、完全免费。内置在 Harness「设置 → 插件中心」，无需离开应用即可浏览、搜索、安装各类 AI 插件。",
       "language": "TypeScript",
-      "stars": 48,
+      "stars": 54,
       "stars_gained": 0,
-      "forks": 6,
+      "forks": 8,
       "topics": [
         "agent",
         "ai",
@@ -457,8 +472,29 @@
         "typescript"
       ],
       "created_at": "2026-08-20T03:32:27Z",
-      "updated_at": "2026-08-26T02:02:35Z",
-      "rank": 17
+      "updated_at": "2026-08-27T07:58:18Z",
+      "rank": 18
+    },
+    {
+      "name": "singula-ai/alego",
+      "url": "https://github.com/singula-ai/alego",
+      "description": "Build AI Agents like playing LEGOs. Everything is a Plugin.",
+      "full_description": "Build AI Agents like playing LEGOs. Everything is a Plugin.",
+      "language": "TypeScript",
+      "stars": 52,
+      "stars_gained": 0,
+      "forks": 14,
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "ai-tools",
+        "deepseek",
+        "harness"
+      ],
+      "created_at": "2026-08-22T17:19:45Z",
+      "updated_at": "2026-08-27T09:44:37Z",
+      "rank": 19
     },
     {
       "name": "Bil0000/agents-fleet",
@@ -480,7 +516,42 @@
       ],
       "created_at": "2026-08-22T21:16:07Z",
       "updated_at": "2026-08-25T16:45:26Z",
-      "rank": 18
+      "rank": 20
+    },
+    {
+      "name": "DavidCarliez/cover",
+      "url": "https://github.com/DavidCarliez/cover",
+      "description": "Keep private data, internal infrastructure and secrets out of cloud coding agents without breaking your workflow.",
+      "full_description": "Keep private data, internal infrastructure and secrets out of cloud coding agents without breaking your workflow.",
+      "language": "Go",
+      "stars": 42,
+      "stars_gained": 0,
+      "forks": 4,
+      "topics": [
+        "ai-security",
+        "claude-code",
+        "codex",
+        "coding-agents",
+        "cursor",
+        "data-redaction",
+        "dlp",
+        "llm",
+        "llm-privacy",
+        "local-first",
+        "oh-my-pi",
+        "pi",
+        "pii-detection",
+        "pii-redaction",
+        "privacy",
+        "privacy-proxy",
+        "pseudonymization",
+        "secret-scanning",
+        "security",
+        "self-hosted"
+      ],
+      "created_at": "2026-08-21T18:56:30Z",
+      "updated_at": "2026-08-27T06:43:07Z",
+      "rank": 21
     },
     {
       "name": "stems-arraign-48/neurocursor-ai",
@@ -509,42 +580,7 @@
       ],
       "created_at": "2026-08-20T20:42:28Z",
       "updated_at": "2026-08-25T17:54:59Z",
-      "rank": 19
-    },
-    {
-      "name": "DavidCarliez/cover",
-      "url": "https://github.com/DavidCarliez/cover",
-      "description": "Reversible privacy proxy for AI agents: send realistic fakes, restore originals locally.",
-      "full_description": "Reversible privacy proxy for AI agents: send realistic fakes, restore originals locally.",
-      "language": "Go",
-      "stars": 41,
-      "stars_gained": 0,
-      "forks": 4,
-      "topics": [
-        "ai-security",
-        "claude-code",
-        "codex",
-        "coding-agents",
-        "cursor",
-        "data-redaction",
-        "dlp",
-        "llm",
-        "llm-privacy",
-        "local-first",
-        "oh-my-pi",
-        "pi",
-        "pii-detection",
-        "pii-redaction",
-        "privacy",
-        "privacy-proxy",
-        "pseudonymization",
-        "secret-scanning",
-        "security",
-        "self-hosted"
-      ],
-      "created_at": "2026-08-21T18:56:30Z",
-      "updated_at": "2026-08-24T20:25:14Z",
-      "rank": 20
+      "rank": 22
     },
     {
       "name": "sinyu1012/proxypin-mcp-workbench",
@@ -565,7 +601,94 @@
       ],
       "created_at": "2026-08-20T04:07:43Z",
       "updated_at": "2026-08-24T18:23:41Z",
-      "rank": 21
+      "rank": 23
+    },
+    {
+      "name": "keyline-icons/keyline-icons",
+      "url": "https://github.com/keyline-icons/keyline-icons",
+      "description": "Free MIT icons on one 24×24 grid, in stroke, duotone and fill. Built for shadcn/ui.",
+      "full_description": "Free MIT icons on one 24×24 grid, in stroke, duotone and fill. Built for shadcn/ui.",
+      "language": "TypeScript",
+      "stars": 38,
+      "stars_gained": 0,
+      "forks": 1,
+      "topics": [
+        "design-system",
+        "figma",
+        "icon-set",
+        "icons",
+        "mcp",
+        "react",
+        "shadcn",
+        "shadcn-ui",
+        "svg",
+        "tailwindcss",
+        "typescript"
+      ],
+      "created_at": "2026-08-20T05:50:56Z",
+      "updated_at": "2026-08-27T06:37:37Z",
+      "rank": 24
+    },
+    {
+      "name": "mrpulor-gh/nuphus",
+      "url": "https://github.com/mrpulor-gh/nuphus",
+      "description": "Nuphus — 本地优先的 AI Agent：真实桌面执行力 + 手机第二块屏幕。Local-first AI agent with real desktop execution and dual-device real-time sync.",
+      "full_description": "Nuphus — 本地优先的 AI Agent：真实桌面执行力 + 手机第二块屏幕。Local-first AI agent with real desktop execution and dual-device real-time sync.",
+      "language": "Rust",
+      "stars": 37,
+      "stars_gained": 0,
+      "forks": 9,
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "ai-agents",
+        "automation",
+        "computer-use",
+        "desktop-automation",
+        "llm",
+        "local-first",
+        "mobile",
+        "open-source",
+        "privacy",
+        "pwa",
+        "react",
+        "rust",
+        "tauri",
+        "tauri-v2",
+        "typescript",
+        "web-automation",
+        "workflow-automation"
+      ],
+      "created_at": "2026-08-21T20:35:53Z",
+      "updated_at": "2026-08-27T06:12:47Z",
+      "rank": 25
+    },
+    {
+      "name": "Lucas-Xi/IntentRoute-AI",
+      "url": "https://github.com/Lucas-Xi/IntentRoute-AI",
+      "description": "Open-source AI-assisted per-application routing for Windows with OpenAI/Ollama drafts and a sing-box TUN data plane.",
+      "full_description": "Open-source AI-assisted per-application routing for Windows with OpenAI/Ollama drafts and a sing-box TUN data plane.",
+      "language": "C#",
+      "stars": 37,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai",
+        "dotnet",
+        "network-routing",
+        "ollama",
+        "open-source",
+        "openai",
+        "proxy",
+        "sing-box",
+        "split-tunneling",
+        "tun",
+        "windows",
+        "wpf"
+      ],
+      "created_at": "2026-08-26T04:02:31Z",
+      "updated_at": "2026-08-27T07:39:20Z",
+      "rank": 26
     },
     {
       "name": "dataPro-lgtm/fde-interview-fieldbook",
@@ -590,31 +713,37 @@
       ],
       "created_at": "2026-08-21T02:33:51Z",
       "updated_at": "2026-08-25T13:10:53Z",
-      "rank": 22
+      "rank": 27
     },
     {
-      "name": "2youg1/sprawling",
-      "url": "https://github.com/2youg1/sprawling",
-      "description": "Local multi-agent city for running persistent agent teams, long-run, society-simulation",
-      "full_description": "Local multi-agent city for running persistent agent teams, long-run, society-simulation",
-      "language": "Rust",
+      "name": "karuvanan/MiniMax-H3-Director-Cut-Studio",
+      "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio",
+      "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeline prompt reconciliation and shot-aware long-video rendering through ComfyUI.",
+      "full_description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeline prompt reconciliation and shot-aware long-video rendering through ComfyUI.",
+      "language": "Python",
       "stars": 34,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 7,
       "topics": [
-        "agent",
-        "agentic-workflow",
-        "harness",
-        "harness-engineering",
-        "multi-agent",
-        "multi-agent-system",
-        "privacy-first",
-        "rust",
-        "society-simulation"
+        "ai-video",
+        "blip",
+        "comfyui",
+        "director-tools",
+        "ffmpeg",
+        "generative-ai",
+        "lm-studio",
+        "minimax-h3",
+        "prompt-engineering",
+        "pyside6",
+        "reference-to-video",
+        "timeline-editor",
+        "video-generation",
+        "whisper",
+        "windows-11"
       ],
-      "created_at": "2026-08-22T13:20:29Z",
-      "updated_at": "2026-08-26T00:58:43Z",
-      "rank": 23
+      "created_at": "2026-08-23T16:29:36Z",
+      "updated_at": "2026-08-27T09:46:04Z",
+      "rank": 28
     },
     {
       "name": "scarletkc/Perenna",
@@ -637,84 +766,7 @@
       ],
       "created_at": "2026-08-21T22:58:14Z",
       "updated_at": "2026-08-26T00:59:58Z",
-      "rank": 24
-    },
-    {
-      "name": "mrpulor-gh/nuphus",
-      "url": "https://github.com/mrpulor-gh/nuphus",
-      "description": "Nuphus — 本地优先的 AI Agent：真实桌面执行力 + 手机第二块屏幕。Local-first AI agent with real desktop execution and dual-device real-time sync.",
-      "full_description": "Nuphus — 本地优先的 AI Agent：真实桌面执行力 + 手机第二块屏幕。Local-first AI agent with real desktop execution and dual-device real-time sync.",
-      "language": "Rust",
-      "stars": 32,
-      "stars_gained": 0,
-      "forks": 8,
-      "topics": [
-        "agent-skills",
-        "ai-agent",
-        "ai-agents",
-        "automation",
-        "computer-use",
-        "desktop-automation",
-        "llm",
-        "local-first",
-        "mobile",
-        "open-source",
-        "privacy",
-        "pwa",
-        "react",
-        "rust",
-        "tauri",
-        "tauri-v2",
-        "typescript",
-        "web-automation",
-        "workflow-automation"
-      ],
-      "created_at": "2026-08-21T20:35:53Z",
-      "updated_at": "2026-08-25T23:35:44Z",
-      "rank": 25
-    },
-    {
-      "name": "patcireamo/ChungusHub",
-      "url": "https://github.com/patcireamo/ChungusHub",
-      "description": "ChungusHub is a local-first, privacy-focused LLM frontend for roleplay.",
-      "full_description": "ChungusHub is a local-first, privacy-focused LLM frontend for roleplay.",
-      "language": "TypeScript",
-      "stars": 32,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "ai",
-        "chat",
-        "frontend",
-        "llm",
-        "roleplay"
-      ],
-      "created_at": "2026-08-19T12:01:11Z",
-      "updated_at": "2026-08-26T00:03:39Z",
-      "rank": 26
-    },
-    {
-      "name": "2005selene2005-a11y/susu-phone-agent",
-      "url": "https://github.com/2005selene2005-a11y/susu-phone-agent",
-      "description": "Android device bridge for Claude Code via MCP + Shizuku. No root, no model polling.",
-      "full_description": "Android device bridge for Claude Code via MCP + Shizuku. No root, no model polling.",
-      "language": "Java",
-      "stars": 28,
-      "stars_gained": 0,
-      "forks": 1,
-      "topics": [
-        "ai-agent",
-        "android",
-        "android-automation",
-        "automation",
-        "claude-code",
-        "mcp",
-        "model-context-protocol",
-        "shizuku"
-      ],
-      "created_at": "2026-08-22T19:18:46Z",
-      "updated_at": "2026-08-25T13:23:35Z",
-      "rank": 27
+      "rank": 29
     },
     {
       "name": "BeforeWave/dsh-with-chatgpt",
@@ -722,9 +774,9 @@
       "description": "Bring ChatGPT’s reasoning to your local codebase. Work directly, or delegate larger tasks to DSH.",
       "full_description": "Bring ChatGPT’s reasoning to your local codebase. Work directly, or delegate larger tasks to DSH.",
       "language": "",
-      "stars": 28,
+      "stars": 33,
       "stars_gained": 0,
-      "forks": 2,
+      "forks": 4,
       "topics": [
         "chatgpt",
         "chatgpt-plugins",
@@ -737,48 +789,7 @@
         "typescript"
       ],
       "created_at": "2026-08-21T16:41:35Z",
-      "updated_at": "2026-08-25T16:29:30Z",
-      "rank": 28
-    },
-    {
-      "name": "w-partners/Wbrowser",
-      "url": "https://github.com/w-partners/Wbrowser",
-      "description": "Drive the Chrome you are already logged into - from your terminal or any AI assistant. Cross-platform, MCP-ready.",
-      "full_description": "Drive the Chrome you are already logged into - from your terminal or any AI assistant. Cross-platform, MCP-ready.",
-      "language": "JavaScript",
-      "stars": 28,
-      "stars_gained": 0,
-      "forks": 6,
-      "topics": [
-        "ai-agent",
-        "browser-automation",
-        "chrome",
-        "claude",
-        "cli",
-        "mcp"
-      ],
-      "created_at": "2026-08-23T16:55:49Z",
-      "updated_at": "2026-08-25T12:46:07Z",
-      "rank": 29
-    },
-    {
-      "name": "zhuyifang/tonghuasun-codex",
-      "url": "https://github.com/zhuyifang/tonghuasun-codex",
-      "description": "将本机同花顺行情、账户资料和实时数据接入 Codex",
-      "full_description": "将本机同花顺行情、账户资料和实时数据接入 Codex",
-      "language": "",
-      "stars": 27,
-      "stars_gained": 0,
-      "forks": 7,
-      "topics": [
-        "codex",
-        "market-data",
-        "mcp",
-        "quant-trading",
-        "tonghuashun"
-      ],
-      "created_at": "2026-08-23T07:58:14Z",
-      "updated_at": "2026-08-25T12:57:51Z",
+      "updated_at": "2026-08-26T18:13:47Z",
       "rank": 30
     }
   ]
