@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T11:36:50.678293+00:00",
+  "updated": "2026-08-29T07:15:15.791352+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "full_description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "language": "Zig",
-      "stars": 1623,
+      "stars": 1679,
       "stars_gained": 0,
-      "forks": 165,
+      "forks": 170,
       "topics": [
         "ai-agents",
         "ai-debugging",
@@ -35,31 +35,28 @@
         "ziglang"
       ],
       "created_at": "2026-08-22T14:28:41Z",
-      "updated_at": "2026-08-28T10:34:21Z",
+      "updated_at": "2026-08-29T07:06:47Z",
       "rank": 1
     },
     {
-      "name": "kgoedecke/doop",
-      "url": "https://github.com/kgoedecke/doop",
-      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "full_description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "name": "XiaoDuoYa/codex-with-chatgpt",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "full_description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
       "language": "TypeScript",
-      "stars": 471,
+      "stars": 529,
       "stars_gained": 0,
-      "forks": 47,
+      "forks": 52,
       "topics": [
         "ai-agents",
-        "canvas",
-        "claude",
-        "claude-code",
-        "claude-design",
-        "design",
-        "design-tool",
+        "chatgpt",
+        "codex",
         "mcp",
-        "multiplayer"
+        "model-context-protocol",
+        "oauth"
       ],
-      "created_at": "2026-08-22T15:40:51Z",
-      "updated_at": "2026-08-28T10:45:12Z",
+      "created_at": "2026-08-28T12:57:24Z",
+      "updated_at": "2026-08-29T07:13:17Z",
       "rank": 2
     },
     {
@@ -68,9 +65,9 @@
       "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
       "full_description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
       "language": "TypeScript",
-      "stars": 422,
+      "stars": 515,
       "stars_gained": 0,
-      "forks": 59,
+      "forks": 69,
       "topics": [
         "automation",
         "chatgpt",
@@ -84,8 +81,59 @@
         "windows"
       ],
       "created_at": "2026-08-22T14:16:24Z",
-      "updated_at": "2026-08-28T11:31:27Z",
+      "updated_at": "2026-08-29T06:12:34Z",
       "rank": 3
+    },
+    {
+      "name": "Nanako0129/sepia",
+      "url": "https://github.com/Nanako0129/sepia",
+      "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "full_description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "language": "Shell",
+      "stars": 507,
+      "stars_gained": 0,
+      "forks": 24,
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "fiction",
+        "grok",
+        "humanizer",
+        "llm",
+        "prompt-engineering",
+        "writing-tools"
+      ],
+      "created_at": "2026-08-28T05:56:49Z",
+      "updated_at": "2026-08-29T07:14:43Z",
+      "rank": 4
+    },
+    {
+      "name": "kgoedecke/doop",
+      "url": "https://github.com/kgoedecke/doop",
+      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "full_description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "language": "TypeScript",
+      "stars": 491,
+      "stars_gained": 0,
+      "forks": 51,
+      "topics": [
+        "ai-agents",
+        "canvas",
+        "claude",
+        "claude-code",
+        "claude-design",
+        "design",
+        "design-tool",
+        "mcp",
+        "multiplayer"
+      ],
+      "created_at": "2026-08-22T15:40:51Z",
+      "updated_at": "2026-08-29T05:16:48Z",
+      "rank": 5
     },
     {
       "name": "rome-os/rome",
@@ -93,9 +141,9 @@
       "description": "Rome is the agentic OS.",
       "full_description": "Rome is the agentic OS.",
       "language": "TypeScript",
-      "stars": 380,
+      "stars": 383,
       "stars_gained": 0,
-      "forks": 21,
+      "forks": 22,
       "topics": [
         "agent",
         "agent-os",
@@ -104,8 +152,55 @@
         "llm"
       ],
       "created_at": "2026-08-23T06:15:15Z",
-      "updated_at": "2026-08-28T10:21:53Z",
-      "rank": 4
+      "updated_at": "2026-08-29T07:02:31Z",
+      "rank": 6
+    },
+    {
+      "name": "OnlyTerp/opengrok",
+      "url": "https://github.com/OnlyTerp/opengrok",
+      "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+      "full_description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+      "language": "Python",
+      "stars": 301,
+      "stars_gained": 0,
+      "forks": 32,
+      "topics": [
+        "ai-agents",
+        "grok",
+        "llm",
+        "model-router",
+        "openai-compatible",
+        "windows"
+      ],
+      "created_at": "2026-08-27T18:30:44Z",
+      "updated_at": "2026-08-29T07:04:20Z",
+      "rank": 7
+    },
+    {
+      "name": "S1N6H/pentest-harness",
+      "url": "https://github.com/S1N6H/pentest-harness",
+      "description": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+      "full_description": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+      "language": "TypeScript",
+      "stars": 237,
+      "stars_gained": 0,
+      "forks": 38,
+      "topics": [
+        "ai-agent",
+        "anthropic-api",
+        "bug-bounty",
+        "infosec",
+        "llm",
+        "offensive-security",
+        "open-source",
+        "openai-api",
+        "pentesting",
+        "red-team",
+        "security-tools"
+      ],
+      "created_at": "2026-08-26T04:57:19Z",
+      "updated_at": "2026-08-29T07:08:23Z",
+      "rank": 8
     },
     {
       "name": "programasweights/claudish",
@@ -113,9 +208,9 @@
       "description": "Translate between English and Claudish with tiny ProgramAsWeights functions.",
       "full_description": "Translate between English and Claudish with tiny ProgramAsWeights functions.",
       "language": "Python",
-      "stars": 227,
+      "stars": 233,
       "stars_gained": 0,
-      "forks": 19,
+      "forks": 20,
       "topics": [
         "claude",
         "nlp",
@@ -123,8 +218,8 @@
         "translator"
       ],
       "created_at": "2026-08-22T16:27:39Z",
-      "updated_at": "2026-08-28T09:44:30Z",
-      "rank": 5
+      "updated_at": "2026-08-29T03:38:35Z",
+      "rank": 9
     },
     {
       "name": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
@@ -132,9 +227,9 @@
       "description": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
       "full_description": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
       "language": "",
-      "stars": 214,
+      "stars": 232,
       "stars_gained": 0,
-      "forks": 15,
+      "forks": 16,
       "topics": [
         "agent",
         "ai-coding",
@@ -143,8 +238,8 @@
         "take-home-assignment"
       ],
       "created_at": "2026-08-26T02:22:48Z",
-      "updated_at": "2026-08-28T10:34:36Z",
-      "rank": 6
+      "updated_at": "2026-08-29T05:42:30Z",
+      "rank": 10
     },
     {
       "name": "damejan80/tokentab",
@@ -152,7 +247,7 @@
       "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
       "full_description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
       "language": "Python",
-      "stars": 212,
+      "stars": 213,
       "stars_gained": 0,
       "forks": 13,
       "topics": [
@@ -165,8 +260,8 @@
         "token-usage"
       ],
       "created_at": "2026-08-27T14:16:09Z",
-      "updated_at": "2026-08-28T01:20:09Z",
-      "rank": 7
+      "updated_at": "2026-08-28T12:57:01Z",
+      "rank": 11
     },
     {
       "name": "Merit-Systems/OpenInstinct",
@@ -174,9 +269,9 @@
       "description": "iMessage personal assistant + password vault",
       "full_description": "iMessage personal assistant + password vault",
       "language": "TypeScript",
-      "stars": 164,
+      "stars": 198,
       "stars_gained": 0,
-      "forks": 19,
+      "forks": 26,
       "topics": [
         "agent",
         "ai",
@@ -184,8 +279,28 @@
         "imessage"
       ],
       "created_at": "2026-08-25T14:42:47Z",
-      "updated_at": "2026-08-28T11:34:36Z",
-      "rank": 8
+      "updated_at": "2026-08-29T05:05:41Z",
+      "rank": 12
+    },
+    {
+      "name": "hkqr/my-free-code",
+      "url": "https://github.com/hkqr/my-free-code",
+      "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+      "full_description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+      "language": "Python",
+      "stars": 157,
+      "stars_gained": 0,
+      "forks": 54,
+      "topics": [
+        "ai",
+        "claude-code",
+        "free-claude-api",
+        "multi-provider",
+        "multi-provider-llm"
+      ],
+      "created_at": "2026-08-27T17:59:23Z",
+      "updated_at": "2026-08-29T07:14:49Z",
+      "rank": 13
     },
     {
       "name": "itshen/source-reading-methodology",
@@ -193,7 +308,7 @@
       "description": "带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行",
       "full_description": "带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行",
       "language": "Python",
-      "stars": 126,
+      "stars": 127,
       "stars_gained": 0,
       "forks": 11,
       "topics": [
@@ -209,74 +324,8 @@
         "technical-writing"
       ],
       "created_at": "2026-08-23T02:51:45Z",
-      "updated_at": "2026-08-28T03:05:47Z",
-      "rank": 9
-    },
-    {
-      "name": "S1N6H/pentest-harness",
-      "url": "https://github.com/S1N6H/pentest-harness",
-      "description": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
-      "full_description": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
-      "language": "TypeScript",
-      "stars": 118,
-      "stars_gained": 0,
-      "forks": 22,
-      "topics": [
-        "ai-agent",
-        "anthropic-api",
-        "bug-bounty",
-        "infosec",
-        "llm",
-        "offensive-security",
-        "open-source",
-        "openai-api",
-        "pentesting",
-        "red-team",
-        "security-tools"
-      ],
-      "created_at": "2026-08-26T04:57:19Z",
-      "updated_at": "2026-08-28T11:35:47Z",
-      "rank": 10
-    },
-    {
-      "name": "OnlyTerp/opengrok",
-      "url": "https://github.com/OnlyTerp/opengrok",
-      "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
-      "full_description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
-      "language": "Python",
-      "stars": 110,
-      "stars_gained": 0,
-      "forks": 17,
-      "topics": [
-        "ai-agents",
-        "grok",
-        "llm",
-        "model-router",
-        "openai-compatible",
-        "windows"
-      ],
-      "created_at": "2026-08-27T18:30:44Z",
-      "updated_at": "2026-08-28T11:29:16Z",
-      "rank": 11
-    },
-    {
-      "name": "unclecode/modelprint",
-      "url": "https://github.com/unclecode/modelprint",
-      "description": "Who is really behind that API? Fingerprint any OpenAI-compatible endpoint in the browser: 9 infrastructure probes, side-by-side comparison, community-extensible.",
-      "full_description": "Who is really behind that API? Fingerprint any OpenAI-compatible endpoint in the browser: 9 infrastructure probes, side-by-side comparison, community-extensible.",
-      "language": "JavaScript",
-      "stars": 102,
-      "stars_gained": 0,
-      "forks": 12,
-      "topics": [
-        "ai-tools",
-        "fingerprinting",
-        "llm",
-        "openrouter"
-      ],
-      "created_at": "2026-08-21T12:16:56Z",
-      "updated_at": "2026-08-28T03:07:31Z",
-      "rank": 12
+      "updated_at": "2026-08-28T16:56:50Z",
+      "rank": 14
     },
     {
       "name": "UditAkhourii/cdaf",
@@ -284,7 +333,7 @@
       "description": "CDAF (Cached Descriptive Asset Files) - open sidecar format for video so AI agents stop re-analyzing the same footage. Spec, CLI, agent skill, reproducible benchmark.",
       "full_description": "CDAF (Cached Descriptive Asset Files) - open sidecar format for video so AI agents stop re-analyzing the same footage. Spec, CLI, agent skill, reproducible benchmark.",
       "language": "Python",
-      "stars": 97,
+      "stars": 99,
       "stars_gained": 0,
       "forks": 6,
       "topics": [
@@ -300,8 +349,28 @@
         "video-understanding"
       ],
       "created_at": "2026-08-26T09:12:41Z",
-      "updated_at": "2026-08-28T10:52:19Z",
-      "rank": 13
+      "updated_at": "2026-08-29T05:39:12Z",
+      "rank": 15
+    },
+    {
+      "name": "MariusOTB/OpenTrade-Agent",
+      "url": "https://github.com/MariusOTB/OpenTrade-Agent",
+      "description": "The open-source trading harness for agents",
+      "full_description": "The open-source trading harness for agents",
+      "language": "TypeScript",
+      "stars": 89,
+      "stars_gained": 0,
+      "forks": 199,
+      "topics": [
+        "agent",
+        "claude-code",
+        "codex",
+        "robinhood",
+        "robinhood-chain"
+      ],
+      "created_at": "2026-08-25T06:51:42Z",
+      "updated_at": "2026-08-29T02:51:46Z",
+      "rank": 16
     },
     {
       "name": "Stupidoodle/swissdevjobs-cli",
@@ -309,7 +378,7 @@
       "description": "Search & apply to ~4,700 salary-transparent tech jobs across 7 countries (🇨🇭🇩🇪🇬🇧🇺🇸🇨🇦🇳🇱🇫🇷) from your terminal or AI agent — zero-dependency Python CLI + MCP server + Claude Code plugin",
       "full_description": "Search & apply to ~4,700 salary-transparent tech jobs across 7 countries (🇨🇭🇩🇪🇬🇧🇺🇸🇨🇦🇳🇱🇫🇷) from your terminal or AI agent — zero-dependency Python CLI + MCP server + Claude Code plugin",
       "language": "Python",
-      "stars": 83,
+      "stars": 88,
       "stars_gained": 0,
       "forks": 11,
       "topics": [
@@ -335,8 +404,8 @@
         "zero-dependencies"
       ],
       "created_at": "2026-08-24T19:59:58Z",
-      "updated_at": "2026-08-28T06:09:36Z",
-      "rank": 14
+      "updated_at": "2026-08-28T22:14:24Z",
+      "rank": 17
     },
     {
       "name": "singula-ai/alego",
@@ -357,7 +426,7 @@
       ],
       "created_at": "2026-08-22T17:19:45Z",
       "updated_at": "2026-08-28T08:00:20Z",
-      "rank": 15
+      "rank": 18
     },
     {
       "name": "karuvanan/MiniMax-H3-Director-Cut-Studio",
@@ -365,9 +434,9 @@
       "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeline prompt reconciliation and shot-aware long-video rendering through ComfyUI.",
       "full_description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeline prompt reconciliation and shot-aware long-video rendering through ComfyUI.",
       "language": "Python",
-      "stars": 71,
+      "stars": 77,
       "stars_gained": 0,
-      "forks": 9,
+      "forks": 12,
       "topics": [
         "ai-video",
         "blip",
@@ -386,8 +455,32 @@
         "windows-11"
       ],
       "created_at": "2026-08-23T16:29:36Z",
-      "updated_at": "2026-08-28T11:10:51Z",
-      "rank": 16
+      "updated_at": "2026-08-29T04:54:12Z",
+      "rank": 19
+    },
+    {
+      "name": "2youg1/sprawling",
+      "url": "https://github.com/2youg1/sprawling",
+      "description": "Local multi-agent city for running persistent agent teams, long-run, society-simulation",
+      "full_description": "Local multi-agent city for running persistent agent teams, long-run, society-simulation",
+      "language": "Rust",
+      "stars": 77,
+      "stars_gained": 0,
+      "forks": 7,
+      "topics": [
+        "agent",
+        "agentic-workflow",
+        "harness",
+        "harness-engineering",
+        "multi-agent",
+        "multi-agent-system",
+        "privacy-first",
+        "rust",
+        "society-simulation"
+      ],
+      "created_at": "2026-08-22T13:20:29Z",
+      "updated_at": "2026-08-29T06:37:00Z",
+      "rank": 20
     },
     {
       "name": "pinoox/neuromesh",
@@ -397,7 +490,7 @@
       "language": "Rust",
       "stars": 71,
       "stars_gained": 0,
-      "forks": 4,
+      "forks": 5,
       "topics": [
         "antigravity",
         "claude-code",
@@ -421,32 +514,8 @@
         "windsurf"
       ],
       "created_at": "2026-08-22T11:14:43Z",
-      "updated_at": "2026-08-28T06:01:44Z",
-      "rank": 17
-    },
-    {
-      "name": "2youg1/sprawling",
-      "url": "https://github.com/2youg1/sprawling",
-      "description": "Local multi-agent city for running persistent agent teams, long-run, society-simulation",
-      "full_description": "Local multi-agent city for running persistent agent teams, long-run, society-simulation",
-      "language": "Rust",
-      "stars": 69,
-      "stars_gained": 0,
-      "forks": 7,
-      "topics": [
-        "agent",
-        "agentic-workflow",
-        "harness",
-        "harness-engineering",
-        "multi-agent",
-        "multi-agent-system",
-        "privacy-first",
-        "rust",
-        "society-simulation"
-      ],
-      "created_at": "2026-08-22T13:20:29Z",
-      "updated_at": "2026-08-28T11:12:24Z",
-      "rank": 18
+      "updated_at": "2026-08-28T21:52:13Z",
+      "rank": 21
     },
     {
       "name": "forcewake/hermes-conductor",
@@ -473,15 +542,15 @@
       ],
       "created_at": "2026-08-23T18:49:46Z",
       "updated_at": "2026-08-27T21:48:41Z",
-      "rank": 19
+      "rank": 22
     },
     {
-      "name": "Lucas-Xi/IntentRoute-AI",
-      "url": "https://github.com/Lucas-Xi/IntentRoute-AI",
+      "name": "Vincent-Xi08/IntentRoute-AI",
+      "url": "https://github.com/Vincent-Xi08/IntentRoute-AI",
       "description": "Open-source AI-assisted per-application routing for Windows with OpenAI/Ollama drafts and a sing-box TUN data plane.",
       "full_description": "Open-source AI-assisted per-application routing for Windows with OpenAI/Ollama drafts and a sing-box TUN data plane.",
       "language": "C#",
-      "stars": 58,
+      "stars": 59,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -499,8 +568,8 @@
         "wpf"
       ],
       "created_at": "2026-08-26T04:02:31Z",
-      "updated_at": "2026-08-28T05:51:00Z",
-      "rank": 20
+      "updated_at": "2026-08-28T15:19:57Z",
+      "rank": 23
     },
     {
       "name": "Cripacx/mediagen",
@@ -534,32 +603,29 @@
       ],
       "created_at": "2026-08-22T23:49:10Z",
       "updated_at": "2026-08-26T14:31:14Z",
-      "rank": 21
+      "rank": 24
     },
     {
-      "name": "naw103/foremerge",
-      "url": "https://github.com/naw103/foremerge",
-      "description": "Catch intent conflicts before code conflicts. The open-source coordination protocol for coding agents, built above Git.",
-      "full_description": "Catch intent conflicts before code conflicts. The open-source coordination protocol for coding agents, built above Git.",
+      "name": "JordyZomer/lemmalog",
+      "url": "https://github.com/JordyZomer/lemmalog",
+      "description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
+      "full_description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
       "language": "Rust",
-      "stars": 56,
+      "stars": 50,
       "stars_gained": 0,
-      "forks": 0,
+      "forks": 4,
       "topics": [
-        "ai-agents",
-        "cli",
-        "coding-agents",
-        "developer-tools",
-        "git",
+        "agent-memory",
+        "datalog",
+        "knowledge-graph",
+        "llm",
+        "llm-agents",
         "mcp",
-        "model-context-protocol",
-        "multi-agent",
-        "rust",
-        "sqlite"
+        "neurosymbolic"
       ],
-      "created_at": "2026-08-21T17:52:45Z",
-      "updated_at": "2026-08-28T08:04:01Z",
-      "rank": 22
+      "created_at": "2026-08-27T07:06:55Z",
+      "updated_at": "2026-08-29T07:05:49Z",
+      "rank": 25
     },
     {
       "name": "Bil0000/agents-fleet",
@@ -567,7 +633,7 @@
       "description": "A blank, working source of truth for Claude Code and Codex across macOS and Linux.",
       "full_description": "A blank, working source of truth for Claude Code and Codex across macOS and Linux.",
       "language": "Python",
-      "stars": 47,
+      "stars": 48,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
@@ -580,102 +646,39 @@
         "mcp"
       ],
       "created_at": "2026-08-22T21:16:07Z",
-      "updated_at": "2026-08-25T16:45:26Z",
-      "rank": 23
-    },
-    {
-      "name": "DavidCarliez/cover",
-      "url": "https://github.com/DavidCarliez/cover",
-      "description": "Keep private data, internal infrastructure and secrets out of cloud coding agents without breaking your workflow.",
-      "full_description": "Keep private data, internal infrastructure and secrets out of cloud coding agents without breaking your workflow.",
-      "language": "Go",
-      "stars": 43,
-      "stars_gained": 0,
-      "forks": 4,
-      "topics": [
-        "ai-security",
-        "claude-code",
-        "codex",
-        "coding-agents",
-        "cursor",
-        "data-redaction",
-        "dlp",
-        "llm",
-        "llm-privacy",
-        "local-first",
-        "oh-my-pi",
-        "pi",
-        "pii-detection",
-        "pii-redaction",
-        "privacy",
-        "privacy-proxy",
-        "pseudonymization",
-        "secret-scanning",
-        "security",
-        "self-hosted"
-      ],
-      "created_at": "2026-08-21T18:56:30Z",
-      "updated_at": "2026-08-27T13:37:28Z",
-      "rank": 24
-    },
-    {
-      "name": "dataPro-lgtm/fde-interview-fieldbook",
-      "url": "https://github.com/dataPro-lgtm/fde-interview-fieldbook",
-      "description": "Source-backed, production-first FDE interview fieldbook with cases, scorecards, and current role research.",
-      "full_description": "Source-backed, production-first FDE interview fieldbook with cases, scorecards, and current role research.",
-      "language": "Python",
-      "stars": 37,
-      "stars_gained": 0,
-      "forks": 4,
-      "topics": [
-        "ai-agents",
-        "applied-ai",
-        "chinese",
-        "customer-engineering",
-        "fde",
-        "forward-deployed-engineer",
-        "interview-preparation",
-        "production-ai",
-        "rag",
-        "system-design"
-      ],
-      "created_at": "2026-08-21T02:33:51Z",
-      "updated_at": "2026-08-27T14:53:51Z",
-      "rank": 25
-    },
-    {
-      "name": "mrpulor-gh/nuphus",
-      "url": "https://github.com/mrpulor-gh/nuphus",
-      "description": "Nuphus — 本地优先的 AI Agent：真实桌面执行力 + 手机第二块屏幕。Local-first AI agent with real desktop execution and dual-device real-time sync.",
-      "full_description": "Nuphus — 本地优先的 AI Agent：真实桌面执行力 + 手机第二块屏幕。Local-first AI agent with real desktop execution and dual-device real-time sync.",
-      "language": "Rust",
-      "stars": 37,
-      "stars_gained": 0,
-      "forks": 9,
-      "topics": [
-        "agent-skills",
-        "ai-agent",
-        "ai-agents",
-        "automation",
-        "computer-use",
-        "desktop-automation",
-        "llm",
-        "local-first",
-        "mobile",
-        "open-source",
-        "privacy",
-        "pwa",
-        "react",
-        "rust",
-        "tauri",
-        "tauri-v2",
-        "typescript",
-        "web-automation",
-        "workflow-automation"
-      ],
-      "created_at": "2026-08-21T20:35:53Z",
-      "updated_at": "2026-08-28T05:38:36Z",
+      "updated_at": "2026-08-28T21:06:16Z",
       "rank": 26
+    },
+    {
+      "name": "zidniryi/unbagrnd",
+      "url": "https://github.com/zidniryi/unbagrnd",
+      "description": "Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, and Linux.",
+      "full_description": "Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, and Linux.",
+      "language": "Rust",
+      "stars": 41,
+      "stars_gained": 0,
+      "forks": 4,
+      "topics": [
+        "ai",
+        "ai-tools",
+        "background-removal",
+        "computer-vision",
+        "cross-platform",
+        "free-software",
+        "image-editing",
+        "image-processing",
+        "linux",
+        "machine-learning",
+        "macos",
+        "onnx",
+        "onnxruntime",
+        "open-source",
+        "u2net",
+        "windows"
+      ],
+      "created_at": "2026-08-24T14:30:32Z",
+      "updated_at": "2026-08-29T03:28:29Z",
+      "rank": 27
     },
     {
       "name": "kangarooking/Ta",
@@ -683,9 +686,9 @@
       "description": "拓（Ta）— AI 原生截图工具：截图、OCR、AI 识图、翻译、长截图、钉图与标注；AI 美化持续开发中。现支持 macOS，Windows 制作中。（AI-native screenshot tool; Windows in progress.）",
       "full_description": "拓（Ta）— AI 原生截图工具：截图、OCR、AI 识图、翻译、长截图、钉图与标注；AI 美化持续开发中。现支持 macOS，Windows 制作中。（AI-native screenshot tool; Windows in progress.）",
       "language": "Swift",
-      "stars": 37,
+      "stars": 40,
       "stars_gained": 0,
-      "forks": 5,
+      "forks": 6,
       "topics": [
         "ai",
         "appkit",
@@ -701,81 +704,56 @@
         "translation"
       ],
       "created_at": "2026-08-23T17:25:24Z",
-      "updated_at": "2026-08-28T09:44:45Z",
-      "rank": 27
-    },
-    {
-      "name": "BeforeWave/dsh-with-chatgpt",
-      "url": "https://github.com/BeforeWave/dsh-with-chatgpt",
-      "description": "Bring ChatGPT’s reasoning to your local codebase. Work directly, or delegate larger tasks to DSH.",
-      "full_description": "Bring ChatGPT’s reasoning to your local codebase. Work directly, or delegate larger tasks to DSH.",
-      "language": "",
-      "stars": 36,
-      "stars_gained": 0,
-      "forks": 4,
-      "topics": [
-        "chatgpt",
-        "chatgpt-plugins",
-        "deepseek-harness",
-        "dsh-plugin",
-        "dsh-plugin-market",
-        "dsh-plugins",
-        "mcp",
-        "serena",
-        "typescript"
-      ],
-      "created_at": "2026-08-21T16:41:35Z",
-      "updated_at": "2026-08-28T10:25:37Z",
+      "updated_at": "2026-08-29T07:15:08Z",
       "rank": 28
     },
     {
-      "name": "Nanako0129/sepia",
-      "url": "https://github.com/Nanako0129/sepia",
-      "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "full_description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "language": "Shell",
-      "stars": 36,
+      "name": "zhoujinjian/ai-testing-guide",
+      "url": "https://github.com/zhoujinjian/ai-testing-guide",
+      "description": "AI 测试开发学习路线大全：测试工程师的 AI 时代进阶指南，涵盖 AI 辅助测试、自动化测试、Agent 测试开发等，持续更新 🚀",
+      "full_description": "AI 测试开发学习路线大全：测试工程师的 AI 时代进阶指南，涵盖 AI 辅助测试、自动化测试、Agent 测试开发等，持续更新 🚀",
+      "language": "",
+      "stars": 31,
       "stars_gained": 0,
-      "forks": 0,
+      "forks": 2,
       "topics": [
-        "agent-skills",
-        "ai-writing",
-        "antigravity",
-        "claude-code",
-        "codex",
-        "developer-tools",
-        "fiction",
-        "grok",
-        "humanizer",
-        "llm",
-        "prompt-engineering",
-        "writing-tools"
+        "agent",
+        "ai",
+        "ai-testing",
+        "learning-path",
+        "qa",
+        "roadmap",
+        "test",
+        "test-automation",
+        "testing",
+        "vibecoding"
       ],
-      "created_at": "2026-08-28T05:56:49Z",
-      "updated_at": "2026-08-28T11:24:04Z",
+      "created_at": "2026-08-25T14:14:52Z",
+      "updated_at": "2026-08-29T01:25:47Z",
       "rank": 29
     },
     {
-      "name": "scarletkc/Perenna",
-      "url": "https://github.com/scarletkc/Perenna",
-      "description": "A lightweight, Git-backed permanent memory for AI agents.",
-      "full_description": "A lightweight, Git-backed permanent memory for AI agents.",
+      "name": "CALISKAN-EMRE/NSOSYAL",
+      "url": "https://github.com/CALISKAN-EMRE/NSOSYAL",
+      "description": "TEKNOFEST 2026 NSosyal İnovasyon — Explainable recommendations, semantic context cards and Turkish AI moderation.",
+      "full_description": "TEKNOFEST 2026 NSosyal İnovasyon — Explainable recommendations, semantic context cards and Turkish AI moderation.",
       "language": "Python",
-      "stars": 35,
+      "stars": 30,
       "stars_gained": 0,
-      "forks": 1,
+      "forks": 5,
       "topics": [
-        "agent-memory",
-        "ai-agents",
-        "ai-memory",
-        "git-backed",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "self-hosted"
+        "content-moderation",
+        "explainable-ai",
+        "fastapi",
+        "machine-learning",
+        "nextjs",
+        "nlp",
+        "teknofest",
+        "teknofest2026",
+        "turkish-nlp"
       ],
-      "created_at": "2026-08-21T22:58:14Z",
-      "updated_at": "2026-08-28T09:11:37Z",
+      "created_at": "2026-08-23T11:38:15Z",
+      "updated_at": "2026-08-29T05:51:55Z",
       "rank": 30
     }
   ]
