@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T05:52:58.458085+00:00",
+  "updated": "2026-09-01T05:26:11.369370+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
       "full_description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
       "language": "TypeScript",
-      "stars": 1511,
+      "stars": 1931,
       "stars_gained": 0,
-      "forks": 166,
+      "forks": 202,
       "topics": [
         "ai-agents",
         "chatgpt",
@@ -22,18 +22,18 @@
         "oauth"
       ],
       "created_at": "2026-08-28T12:57:24Z",
-      "updated_at": "2026-08-31T05:49:54Z",
+      "updated_at": "2026-09-01T05:25:29Z",
       "rank": 1
     },
     {
       "name": "Nanako0129/sepia",
       "url": "https://github.com/Nanako0129/sepia",
-      "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "full_description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "full_description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "language": "",
-      "stars": 981,
+      "stars": 1268,
       "stars_gained": 0,
-      "forks": 60,
+      "forks": 74,
       "topics": [
         "agent-skills",
         "ai-writing",
@@ -49,7 +49,7 @@
         "writing-tools"
       ],
       "created_at": "2026-08-28T05:56:49Z",
-      "updated_at": "2026-08-31T05:51:52Z",
+      "updated_at": "2026-09-01T05:24:58Z",
       "rank": 2
     },
     {
@@ -58,9 +58,9 @@
       "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
       "full_description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
       "language": "Markdown",
-      "stars": 742,
+      "stars": 872,
       "stars_gained": 0,
-      "forks": 108,
+      "forks": 132,
       "topics": [
         "agent-marketplace",
         "claude-code",
@@ -70,7 +70,7 @@
         "mcp"
       ],
       "created_at": "2026-08-28T18:03:04Z",
-      "updated_at": "2026-08-31T05:45:10Z",
+      "updated_at": "2026-09-01T04:56:29Z",
       "rank": 3
     },
     {
@@ -79,9 +79,9 @@
       "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
       "full_description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
       "language": "Python",
-      "stars": 423,
+      "stars": 743,
       "stars_gained": 0,
-      "forks": 67,
+      "forks": 161,
       "topics": [
         "ai",
         "claude",
@@ -92,7 +92,7 @@
         "token-usage"
       ],
       "created_at": "2026-08-27T14:16:09Z",
-      "updated_at": "2026-08-31T05:52:05Z",
+      "updated_at": "2026-09-01T04:46:06Z",
       "rank": 4
     },
     {
@@ -101,9 +101,9 @@
       "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
       "full_description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
       "language": "Python",
-      "stars": 409,
+      "stars": 616,
       "stars_gained": 0,
-      "forks": 155,
+      "forks": 211,
       "topics": [
         "ai",
         "claude-code",
@@ -112,7 +112,7 @@
         "multi-provider-llm"
       ],
       "created_at": "2026-08-27T17:59:23Z",
-      "updated_at": "2026-08-31T05:34:02Z",
+      "updated_at": "2026-09-01T05:07:58Z",
       "rank": 5
     },
     {
@@ -121,9 +121,9 @@
       "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
       "full_description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
       "language": "JavaScript",
-      "stars": 384,
+      "stars": 397,
       "stars_gained": 0,
-      "forks": 47,
+      "forks": 49,
       "topics": [
         "ai-agents",
         "grok",
@@ -133,7 +133,7 @@
         "windows"
       ],
       "created_at": "2026-08-27T18:30:44Z",
-      "updated_at": "2026-08-31T00:47:25Z",
+      "updated_at": "2026-09-01T01:46:14Z",
       "rank": 6
     },
     {
@@ -142,9 +142,9 @@
       "description": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
       "full_description": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
       "language": "TypeScript",
-      "stars": 304,
+      "stars": 314,
       "stars_gained": 0,
-      "forks": 50,
+      "forks": 49,
       "topics": [
         "ai-agent",
         "anthropic-api",
@@ -159,7 +159,7 @@
         "security-tools"
       ],
       "created_at": "2026-08-26T04:57:19Z",
-      "updated_at": "2026-08-31T04:50:30Z",
+      "updated_at": "2026-09-01T05:02:27Z",
       "rank": 7
     },
     {
@@ -168,9 +168,9 @@
       "description": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
       "full_description": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
       "language": "",
-      "stars": 266,
+      "stars": 291,
       "stars_gained": 0,
-      "forks": 17,
+      "forks": 19,
       "topics": [
         "agent",
         "ai-coding",
@@ -179,27 +179,8 @@
         "take-home-assignment"
       ],
       "created_at": "2026-08-26T02:22:48Z",
-      "updated_at": "2026-08-31T05:36:19Z",
+      "updated_at": "2026-09-01T04:03:34Z",
       "rank": 8
-    },
-    {
-      "name": "Merit-Systems/OpenInstinct",
-      "url": "https://github.com/Merit-Systems/OpenInstinct",
-      "description": "iMessage personal assistant + password vault",
-      "full_description": "iMessage personal assistant + password vault",
-      "language": "TypeScript",
-      "stars": 219,
-      "stars_gained": 0,
-      "forks": 28,
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agents",
-        "imessage"
-      ],
-      "created_at": "2026-08-25T14:42:47Z",
-      "updated_at": "2026-08-31T03:44:17Z",
-      "rank": 9
     },
     {
       "name": "JordyZomer/lemmalog",
@@ -207,9 +188,9 @@
       "description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
       "full_description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
       "language": "Rust",
-      "stars": 211,
+      "stars": 240,
       "stars_gained": 0,
-      "forks": 15,
+      "forks": 17,
       "topics": [
         "agent-memory",
         "datalog",
@@ -220,67 +201,18 @@
         "neurosymbolic"
       ],
       "created_at": "2026-08-27T07:06:55Z",
-      "updated_at": "2026-08-31T05:11:13Z",
-      "rank": 10
-    },
-    {
-      "name": "Vuk97/forward-implementation-first",
-      "url": "https://github.com/Vuk97/forward-implementation-first",
-      "description": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
-      "full_description": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
-      "language": "Shell",
-      "stars": 140,
-      "stars_gained": 0,
-      "forks": 4,
-      "topics": [
-        "agent-skills",
-        "agents",
-        "agentskills",
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "codex",
-        "codex-cli",
-        "developer-tools",
-        "llm",
-        "llm-agents",
-        "openai",
-        "prompt-engineering"
-      ],
-      "created_at": "2026-08-29T23:16:12Z",
-      "updated_at": "2026-08-31T05:52:43Z",
-      "rank": 11
-    },
-    {
-      "name": "MariusOTB/OpenTrade-Agent",
-      "url": "https://github.com/MariusOTB/OpenTrade-Agent",
-      "description": "The open-source trading harness for agents",
-      "full_description": "The open-source trading harness for agents",
-      "language": "TypeScript",
-      "stars": 130,
-      "stars_gained": 0,
-      "forks": 199,
-      "topics": [
-        "agent",
-        "claude-code",
-        "codex",
-        "robinhood",
-        "robinhood-chain"
-      ],
-      "created_at": "2026-08-25T06:51:42Z",
-      "updated_at": "2026-08-30T22:51:42Z",
-      "rank": 12
+      "updated_at": "2026-09-01T03:06:43Z",
+      "rank": 9
     },
     {
       "name": "useagenthq/useagent",
       "url": "https://github.com/useagenthq/useagent",
-      "description": "Hand off the work. Get back the result. The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work - websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "full_description": "Hand off the work. Get back the result. The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work - websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+      "full_description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
       "language": "TypeScript",
-      "stars": 129,
+      "stars": 225,
       "stars_gained": 0,
-      "forks": 2,
+      "forks": 28,
       "topics": [
         "agents",
         "ai",
@@ -304,41 +236,104 @@
         "typescript"
       ],
       "created_at": "2026-08-29T21:14:31Z",
-      "updated_at": "2026-08-30T22:52:36Z",
+      "updated_at": "2026-09-01T05:25:01Z",
+      "rank": 10
+    },
+    {
+      "name": "Merit-Systems/OpenInstinct",
+      "url": "https://github.com/Merit-Systems/OpenInstinct",
+      "description": "iMessage personal assistant + password vault",
+      "full_description": "iMessage personal assistant + password vault",
+      "language": "TypeScript",
+      "stars": 222,
+      "stars_gained": 0,
+      "forks": 29,
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agents",
+        "imessage"
+      ],
+      "created_at": "2026-08-25T14:42:47Z",
+      "updated_at": "2026-09-01T00:35:24Z",
+      "rank": 11
+    },
+    {
+      "name": "Ryze-AI-Adgent/open-seo-mcp-skills",
+      "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+      "description": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
+      "full_description": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
+      "language": "Shell",
+      "stars": 200,
+      "stars_gained": 0,
+      "forks": 2,
+      "topics": [
+        "ai-seo",
+        "backlinks",
+        "claude",
+        "claude-skills",
+        "dataforseo",
+        "generative-engine-optimization",
+        "geo",
+        "keyword-research",
+        "mcp",
+        "mcp-server",
+        "open-source-seo",
+        "rank-tracking",
+        "seo",
+        "seo-audit"
+      ],
+      "created_at": "2026-08-29T23:37:01Z",
+      "updated_at": "2026-09-01T05:14:05Z",
+      "rank": 12
+    },
+    {
+      "name": "Vuk97/forward-implementation-first",
+      "url": "https://github.com/Vuk97/forward-implementation-first",
+      "description": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
+      "full_description": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
+      "language": "Shell",
+      "stars": 157,
+      "stars_gained": 0,
+      "forks": 4,
+      "topics": [
+        "agent-skills",
+        "agents",
+        "agentskills",
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "codex",
+        "codex-cli",
+        "developer-tools",
+        "llm",
+        "llm-agents",
+        "openai",
+        "prompt-engineering"
+      ],
+      "created_at": "2026-08-29T23:16:12Z",
+      "updated_at": "2026-09-01T03:55:41Z",
       "rank": 13
     },
     {
-      "name": "omaekumiko2-create/kru",
-      "url": "https://github.com/omaekumiko2-create/kru",
-      "description": "Local-first MCP password and credential manager for AI agents. Use passwords, API keys, SSH identities, and TOTP without exposing hidden plaintext to the model.",
-      "full_description": "Local-first MCP password and credential manager for AI agents. Use passwords, API keys, SSH identities, and TOTP without exposing hidden plaintext to the model.",
-      "language": "Rust",
-      "stars": 126,
+      "name": "MariusOTB/OpenTrade-Agent",
+      "url": "https://github.com/MariusOTB/OpenTrade-Agent",
+      "description": "The open-source trading harness for agents",
+      "full_description": "The open-source trading harness for agents",
+      "language": "TypeScript",
+      "stars": 131,
       "stars_gained": 0,
-      "forks": 6,
+      "forks": 199,
       "topics": [
-        "ai-agents",
-        "ai-security",
-        "api-key-management",
+        "agent",
         "claude-code",
         "codex",
-        "credential-manager",
-        "cross-platform",
-        "cursor",
-        "llm-security",
-        "local-first",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "open-source",
-        "password-manager",
-        "rust",
-        "secrets-management",
-        "ssh",
-        "tauri"
+        "robinhood",
+        "robinhood-chain"
       ],
-      "created_at": "2026-08-24T21:23:11Z",
-      "updated_at": "2026-08-31T04:55:10Z",
+      "created_at": "2026-08-25T06:51:42Z",
+      "updated_at": "2026-09-01T02:18:29Z",
       "rank": 14
     },
     {
@@ -347,7 +342,7 @@
       "description": "CDAF (Cached Descriptive Asset Files) - open sidecar format for video so AI agents stop re-analyzing the same footage. Spec, CLI, agent skill, reproducible benchmark.",
       "full_description": "CDAF (Cached Descriptive Asset Files) - open sidecar format for video so AI agents stop re-analyzing the same footage. Spec, CLI, agent skill, reproducible benchmark.",
       "language": "Python",
-      "stars": 101,
+      "stars": 103,
       "stars_gained": 0,
       "forks": 6,
       "topics": [
@@ -363,7 +358,7 @@
         "video-understanding"
       ],
       "created_at": "2026-08-26T09:12:41Z",
-      "updated_at": "2026-08-30T21:05:01Z",
+      "updated_at": "2026-08-31T20:52:13Z",
       "rank": 15
     },
     {
@@ -394,101 +389,36 @@
       "rank": 16
     },
     {
-      "name": "Stupidoodle/swissdevjobs-cli",
-      "url": "https://github.com/Stupidoodle/swissdevjobs-cli",
-      "description": "Search & apply to ~4,700 salary-transparent tech jobs across 7 countries (🇨🇭🇩🇪🇬🇧🇺🇸🇨🇦🇳🇱🇫🇷) from your terminal or AI agent — zero-dependency Python CLI + MCP server + Claude Code plugin",
-      "full_description": "Search & apply to ~4,700 salary-transparent tech jobs across 7 countries (🇨🇭🇩🇪🇬🇧🇺🇸🇨🇦🇳🇱🇫🇷) from your terminal or AI agent — zero-dependency Python CLI + MCP server + Claude Code plugin",
+      "name": "ZJU-REAL/Easel",
+      "url": "https://github.com/ZJU-REAL/Easel",
+      "description": "An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.",
+      "full_description": "An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.",
       "language": "Python",
-      "stars": 94,
+      "stars": 97,
       "stars_gained": 0,
-      "forks": 10,
+      "forks": 5,
       "topics": [
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "cli",
-        "developer-jobs",
-        "france",
-        "germany",
-        "job-application",
-        "job-board",
-        "job-search",
-        "jobs",
+        "agent",
+        "agent-skill",
+        "content-automation",
+        "content-creation",
+        "content-generation",
         "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "netherlands",
-        "python",
-        "salary-transparency",
-        "switzerland",
-        "uk",
-        "zero-dependencies"
+        "openclaw",
+        "social-media",
+        "social-media-management"
       ],
-      "created_at": "2026-08-24T19:59:58Z",
-      "updated_at": "2026-08-31T04:29:47Z",
+      "created_at": "2026-08-28T02:22:27Z",
+      "updated_at": "2026-09-01T05:11:13Z",
       "rank": 17
-    },
-    {
-      "name": "zidniryi/unbagrnd",
-      "url": "https://github.com/zidniryi/unbagrnd",
-      "description": "Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, and Linux.",
-      "full_description": "Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, and Linux.",
-      "language": "Rust",
-      "stars": 85,
-      "stars_gained": 0,
-      "forks": 10,
-      "topics": [
-        "ai",
-        "ai-tools",
-        "background-removal",
-        "computer-vision",
-        "cross-platform",
-        "free-software",
-        "image-editing",
-        "image-processing",
-        "linux",
-        "machine-learning",
-        "macos",
-        "onnx",
-        "onnxruntime",
-        "open-source",
-        "u2net",
-        "windows"
-      ],
-      "created_at": "2026-08-24T14:30:32Z",
-      "updated_at": "2026-08-31T05:19:09Z",
-      "rank": 18
-    },
-    {
-      "name": "usedotai/dot-reflex",
-      "url": "https://github.com/usedotai/dot-reflex",
-      "description": "Open-source agent execution-recovery controller for coding and tool-using AI agents.",
-      "full_description": "Open-source agent execution-recovery controller for coding and tool-using AI agents.",
-      "language": "Python",
-      "stars": 80,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "agent-supervision",
-        "ai-agents",
-        "coding-agents",
-        "llm",
-        "open-source",
-        "qlora",
-        "qwen3",
-        "recovery-controller"
-      ],
-      "created_at": "2026-08-28T14:00:16Z",
-      "updated_at": "2026-08-30T09:51:01Z",
-      "rank": 19
     },
     {
       "name": "rokbenko/quackd",
       "url": "https://github.com/rokbenko/quackd",
-      "description": "🦆🧠 Give your Microduck a brain. Tell a small robot with two legs what you want in plain language. An LLM (Claude, OpenAI, Gemini, Grok, or a local model via Ollama, vLLM or llama.cpp) uses the skills it already has to do it. Includes a simulator, .duck task files and MCP. Apache 2.0 license.",
-      "full_description": "🦆🧠 Give your Microduck a brain. Tell a small robot with two legs what you want in plain language. An LLM (Claude, OpenAI, Gemini, Grok, or a local model via Ollama, vLLM or llama.cpp) uses the skills it already has to do it. Includes a simulator, .duck task files and MCP. Apache 2.0 license.",
+      "description": "🦆🧠 Give your Microduck a brain. Tell a small robot with two legs what you want in plain language. An LLM (Claude, OpenAI, Gemini, Grok, or a local model via Ollama, vLLM or llama.cpp) uses the skills it already has to do it. Includes a simulator, .duck task files, MCP and a flock mode where multiple simulated ducks cooperate. Apache 2.0 license.",
+      "full_description": "🦆🧠 Give your Microduck a brain. Tell a small robot with two legs what you want in plain language. An LLM (Claude, OpenAI, Gemini, Grok, or a local model via Ollama, vLLM or llama.cpp) uses the skills it already has to do it. Includes a simulator, .duck task files, MCP and a flock mode where multiple simulated ducks cooperate. Apache 2.0 license.",
       "language": "Python",
-      "stars": 61,
+      "stars": 91,
       "stars_gained": 0,
       "forks": 7,
       "topics": [
@@ -502,48 +432,87 @@
         "mcp",
         "microduck",
         "model-context-protocol",
+        "multi-agent",
         "ollama",
         "openai",
         "physical-ai",
         "pollen-robotics",
         "python",
-        "reinforcement-learning",
         "robot",
         "robotics",
         "sim2real",
         "vllm"
       ],
       "created_at": "2026-08-28T09:09:16Z",
-      "updated_at": "2026-08-31T05:49:06Z",
-      "rank": 20
+      "updated_at": "2026-09-01T04:23:09Z",
+      "rank": 18
     },
     {
-      "name": "Ryze-AI-Adgent/open-seo-mcp-skills",
-      "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
-      "description": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
-      "full_description": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
-      "language": "Shell",
-      "stars": 60,
+      "name": "usedotai/dot-reflex",
+      "url": "https://github.com/usedotai/dot-reflex",
+      "description": "Open-source agent execution-recovery controller for coding and tool-using AI agents.",
+      "full_description": "Open-source agent execution-recovery controller for coding and tool-using AI agents.",
+      "language": "Python",
+      "stars": 81,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
-        "ai-seo",
-        "backlinks",
-        "claude",
-        "claude-skills",
-        "dataforseo",
-        "generative-engine-optimization",
-        "geo",
-        "keyword-research",
-        "mcp",
-        "mcp-server",
-        "open-source-seo",
-        "rank-tracking",
-        "seo",
-        "seo-audit"
+        "agent-supervision",
+        "ai-agents",
+        "coding-agents",
+        "llm",
+        "open-source",
+        "qlora",
+        "qwen3",
+        "recovery-controller"
       ],
-      "created_at": "2026-08-29T23:37:01Z",
-      "updated_at": "2026-08-31T05:52:07Z",
+      "created_at": "2026-08-28T14:00:16Z",
+      "updated_at": "2026-09-01T03:29:13Z",
+      "rank": 19
+    },
+    {
+      "name": "sunyuzheng/lizheng-open-context",
+      "url": "https://github.com/sunyuzheng/lizheng-open-context",
+      "description": "Source-grounded public context for 立正: Superlinear posts, selected comments, YouTube, Public Axioms V1, and 《真本事》.",
+      "full_description": "Source-grounded public context for 立正: Superlinear posts, selected comments, YouTube, Public Axioms V1, and 《真本事》.",
+      "language": "Python",
+      "stars": 72,
+      "stars_gained": 0,
+      "forks": 22,
+      "topics": [
+        "ai-agent",
+        "ai-skill",
+        "chinese",
+        "context-engineering",
+        "knowledge-base",
+        "lizheng",
+        "rag",
+        "superlinear",
+        "youtube-transcripts"
+      ],
+      "created_at": "2026-08-29T21:50:20Z",
+      "updated_at": "2026-09-01T04:08:07Z",
+      "rank": 20
+    },
+    {
+      "name": "AMAP-ML/LoopArena",
+      "url": "https://github.com/AMAP-ML/LoopArena",
+      "description": "Benchmarking models as runtime Controllers for Loop Engineering",
+      "full_description": "Benchmarking models as runtime Controllers for Loop Engineering",
+      "language": "Python",
+      "stars": 72,
+      "stars_gained": 0,
+      "forks": 2,
+      "topics": [
+        "benchmark",
+        "coding-agents",
+        "evaluation",
+        "llm",
+        "loop-engineering",
+        "software-engineering"
+      ],
+      "created_at": "2026-08-31T02:47:02Z",
+      "updated_at": "2026-09-01T02:51:11Z",
       "rank": 21
     },
     {
@@ -568,33 +537,8 @@
         "tuner"
       ],
       "created_at": "2026-08-25T09:30:13Z",
-      "updated_at": "2026-08-31T04:02:30Z",
+      "updated_at": "2026-09-01T01:38:06Z",
       "rank": 22
-    },
-    {
-      "name": "jsdhwfmax/EvalForge",
-      "url": "https://github.com/jsdhwfmax/EvalForge",
-      "description": "Evaluator-neutral AI evaluation evidence, baseline regression gates, and JSON, JUnit, and SARIF reports for CI.",
-      "full_description": "Evaluator-neutral AI evaluation evidence, baseline regression gates, and JSON, JUnit, and SARIF reports for CI.",
-      "language": "Python",
-      "stars": 55,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai-evaluation",
-        "github-actions",
-        "junit",
-        "llm-evaluation",
-        "mlops",
-        "python",
-        "quality-gates",
-        "rag",
-        "sarif",
-        "testing"
-      ],
-      "created_at": "2026-08-24T09:20:10Z",
-      "updated_at": "2026-08-31T04:18:35Z",
-      "rank": 23
     },
     {
       "name": "narvaezluz111-debug/bert-domain-adaptation-playbook",
@@ -614,7 +558,7 @@
       ],
       "created_at": "2026-08-25T09:18:48Z",
       "updated_at": "2026-08-29T19:09:06Z",
-      "rank": 24
+      "rank": 23
     },
     {
       "name": "Leb947/modernbert-multi-task-studio",
@@ -647,8 +591,8 @@
         "trainer"
       ],
       "created_at": "2026-08-25T10:35:22Z",
-      "updated_at": "2026-08-31T04:03:38Z",
-      "rank": 25
+      "updated_at": "2026-09-01T02:10:32Z",
+      "rank": 24
     },
     {
       "name": "MuhammadAhsan7866/edge-vision-forge",
@@ -669,7 +613,27 @@
         "trainer"
       ],
       "created_at": "2026-08-25T10:07:08Z",
-      "updated_at": "2026-08-31T01:23:18Z",
+      "updated_at": "2026-09-01T01:05:52Z",
+      "rank": 25
+    },
+    {
+      "name": "amirmushichge/machine-vision",
+      "url": "https://github.com/amirmushichge/machine-vision",
+      "description": "Browser-based procedural machine-vision graphics for local video.",
+      "full_description": "Browser-based procedural machine-vision graphics for local video.",
+      "language": "TypeScript",
+      "stars": 55,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "computer-vision",
+        "creative-coding",
+        "generative-art",
+        "react",
+        "video"
+      ],
+      "created_at": "2026-08-28T20:29:57Z",
+      "updated_at": "2026-09-01T05:11:55Z",
       "rank": 26
     },
     {
@@ -694,7 +658,7 @@
         "transformer"
       ],
       "created_at": "2026-08-25T09:48:39Z",
-      "updated_at": "2026-08-31T04:24:21Z",
+      "updated_at": "2026-09-01T01:58:10Z",
       "rank": 27
     },
     {
@@ -705,7 +669,7 @@
       "language": "HTML",
       "stars": 55,
       "stars_gained": 0,
-      "forks": 0,
+      "forks": 1,
       "topics": [
         "agent",
         "ai",
@@ -774,7 +738,7 @@
         "trainer"
       ],
       "created_at": "2026-08-25T10:08:49Z",
-      "updated_at": "2026-08-31T01:21:12Z",
+      "updated_at": "2026-09-01T01:22:10Z",
       "rank": 30
     }
   ]
