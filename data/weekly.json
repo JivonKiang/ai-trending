@@ -1,18 +1,38 @@
 {
-  "updated": "2026-09-06T04:55:55.994368+00:00",
+  "updated": "2026-09-07T05:00:19.093576+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
   "projects": [
+    {
+      "name": "pierrenade/short-video-generator-AI",
+      "url": "https://github.com/pierrenade/short-video-generator-AI",
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "full_description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "language": "Python",
+      "stars": 1004,
+      "stars_gained": 0,
+      "forks": 155,
+      "topics": [
+        "ai",
+        "ai-video",
+        "python",
+        "short-video-maker",
+        "video-generation"
+      ],
+      "created_at": "2026-09-05T11:55:18Z",
+      "updated_at": "2026-09-07T04:56:30Z",
+      "rank": 1
+    },
     {
       "name": "2akouwu/reverify",
       "url": "https://github.com/2akouwu/reverify",
       "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
       "full_description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
       "language": "Python",
-      "stars": 924,
+      "stars": 973,
       "stars_gained": 0,
-      "forks": 200,
+      "forks": 208,
       "topics": [
         "ai",
         "ai-agents",
@@ -36,8 +56,8 @@
         "verification"
       ],
       "created_at": "2026-08-31T01:02:18Z",
-      "updated_at": "2026-09-06T02:54:18Z",
-      "rank": 1
+      "updated_at": "2026-09-07T04:09:28Z",
+      "rank": 2
     },
     {
       "name": "Human-Agent-Society/reef",
@@ -45,9 +65,9 @@
       "description": "Continual learning infra for self-improving agents",
       "full_description": "Continual learning infra for self-improving agents",
       "language": "Python",
-      "stars": 497,
+      "stars": 584,
       "stars_gained": 0,
-      "forks": 38,
+      "forks": 43,
       "topics": [
         "agent-infrastructure",
         "ai-agents",
@@ -59,18 +79,18 @@
         "self-improving-agents"
       ],
       "created_at": "2026-08-31T01:39:18Z",
-      "updated_at": "2026-09-06T04:47:15Z",
-      "rank": 2
+      "updated_at": "2026-09-07T04:58:31Z",
+      "rank": 3
     },
     {
       "name": "kydlikebtc/awesome-grokbot",
       "url": "https://github.com/kydlikebtc/awesome-grokbot",
-      "description": "532 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
-      "full_description": "532 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
+      "description": "598 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
+      "full_description": "598 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
       "language": "Python",
-      "stars": 325,
+      "stars": 331,
       "stars_gained": 0,
-      "forks": 16,
+      "forks": 17,
       "topics": [
         "agents",
         "ai-agents",
@@ -89,28 +109,30 @@
         "xai"
       ],
       "created_at": "2026-09-01T02:30:25Z",
-      "updated_at": "2026-09-06T00:19:29Z",
-      "rank": 3
+      "updated_at": "2026-09-07T01:26:00Z",
+      "rank": 4
     },
     {
-      "name": "pierrenade/short-video-generator-AI",
-      "url": "https://github.com/pierrenade/short-video-generator-AI",
-      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "full_description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "language": "Python",
-      "stars": 314,
+      "name": "adtexterry-lgtm/unigit-ecosystem",
+      "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
+      "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
+      "full_description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
+      "language": "JavaScript",
+      "stars": 307,
       "stars_gained": 0,
-      "forks": 109,
+      "forks": 10,
       "topics": [
-        "ai",
-        "ai-video",
-        "python",
-        "short-video-maker",
-        "video-generation"
+        "agentic-ai",
+        "ai-tools",
+        "ai-workbench",
+        "ecosystem",
+        "mcp",
+        "productivity",
+        "unigit"
       ],
-      "created_at": "2026-09-05T11:55:18Z",
-      "updated_at": "2026-09-06T04:54:00Z",
-      "rank": 4
+      "created_at": "2026-09-02T10:08:01Z",
+      "updated_at": "2026-09-07T04:58:13Z",
+      "rank": 5
     },
     {
       "name": "Agenta-AI/awesome-ai-agent-platforms",
@@ -118,7 +140,7 @@
       "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
       "full_description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
       "language": "Astro",
-      "stars": 207,
+      "stars": 234,
       "stars_gained": 0,
       "forks": 4,
       "topics": [
@@ -136,8 +158,8 @@
         "workflow-automation"
       ],
       "created_at": "2026-09-02T16:32:59Z",
-      "updated_at": "2026-09-06T03:30:03Z",
-      "rank": 5
+      "updated_at": "2026-09-07T04:17:08Z",
+      "rank": 6
     },
     {
       "name": "fitchmultz/pi-posthorse",
@@ -145,9 +167,9 @@
       "description": "Posthorse: fresh context, same journey. Native no-summary context windows for the fitchmultz/pi fork of the Pi coding agent, with rollover tools, durable notes, and history recovery.",
       "full_description": "Posthorse: fresh context, same journey. Native no-summary context windows for the fitchmultz/pi fork of the Pi coding agent, with rollover tools, durable notes, and history recovery.",
       "language": "TypeScript",
-      "stars": 191,
+      "stars": 222,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 5,
       "topics": [
         "coding-agent",
         "context-window",
@@ -157,29 +179,7 @@
         "pi-package"
       ],
       "created_at": "2026-08-31T15:06:23Z",
-      "updated_at": "2026-09-06T04:43:41Z",
-      "rank": 6
-    },
-    {
-      "name": "adtexterry-lgtm/unigit-ecosystem",
-      "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
-      "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
-      "full_description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
-      "language": "JavaScript",
-      "stars": 143,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "agentic-ai",
-        "ai-tools",
-        "ai-workbench",
-        "ecosystem",
-        "mcp",
-        "productivity",
-        "unigit"
-      ],
-      "created_at": "2026-09-02T10:08:01Z",
-      "updated_at": "2026-09-06T02:18:18Z",
+      "updated_at": "2026-09-07T03:25:23Z",
       "rank": 7
     },
     {
@@ -188,7 +188,7 @@
       "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.",
       "full_description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.",
       "language": "",
-      "stars": 108,
+      "stars": 116,
       "stars_gained": 0,
       "forks": 10,
       "topics": [
@@ -205,7 +205,7 @@
         "skills-sh"
       ],
       "created_at": "2026-08-31T17:04:57Z",
-      "updated_at": "2026-09-05T21:32:27Z",
+      "updated_at": "2026-09-07T03:32:38Z",
       "rank": 8
     },
     {
@@ -230,89 +230,25 @@
       "rank": 9
     },
     {
-      "name": "nickname21kmr/gameops-investigator",
-      "url": "https://github.com/nickname21kmr/gameops-investigator",
-      "description": "Evidence-first game operations incident investigation agent with read-only MCP tools and reproducible evaluations.",
-      "full_description": "Evidence-first game operations incident investigation agent with read-only MCP tools and reproducible evaluations.",
-      "language": "Python",
-      "stars": 99,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "anomaly-detection",
-        "claude-code",
-        "game-analytics",
-        "llm-evaluation",
-        "mcp",
-        "sqlite",
-        "streamlit",
-        "text-to-sql"
-      ],
-      "created_at": "2026-08-30T17:28:16Z",
-      "updated_at": "2026-09-05T01:07:46Z",
-      "rank": 10
-    },
-    {
       "name": "icodesign/remote-installer",
       "url": "https://github.com/icodesign/remote-installer",
       "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
       "full_description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
       "language": "Rust",
-      "stars": 91,
+      "stars": 95,
       "stars_gained": 0,
       "forks": 4,
       "topics": [
         "ai",
         "android",
+        "cloudflare",
         "ios",
+        "tailscale",
         "vibecoding"
       ],
       "created_at": "2026-09-02T10:47:41Z",
-      "updated_at": "2026-09-06T01:34:59Z",
-      "rank": 11
-    },
-    {
-      "name": "AMAP-ML/LoopArena",
-      "url": "https://github.com/AMAP-ML/LoopArena",
-      "description": "Benchmarking models as runtime Controllers for Loop Engineering",
-      "full_description": "Benchmarking models as runtime Controllers for Loop Engineering",
-      "language": "Python",
-      "stars": 87,
-      "stars_gained": 0,
-      "forks": 3,
-      "topics": [
-        "benchmark",
-        "coding-agents",
-        "evaluation",
-        "llm",
-        "loop-engineering",
-        "software-engineering"
-      ],
-      "created_at": "2026-08-31T02:47:02Z",
-      "updated_at": "2026-09-03T12:06:11Z",
-      "rank": 12
-    },
-    {
-      "name": "AbuZar-Ansarii/Needle",
-      "url": "https://github.com/AbuZar-Ansarii/Needle",
-      "description": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
-      "full_description": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
-      "language": "Python",
-      "stars": 85,
-      "stars_gained": 0,
-      "forks": 24,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-tools",
-        "cactus-needle",
-        "llm",
-        "llm-agents",
-        "llm-tools"
-      ],
-      "created_at": "2026-08-30T06:43:48Z",
-      "updated_at": "2026-09-06T03:03:12Z",
-      "rank": 13
+      "updated_at": "2026-09-07T02:23:15Z",
+      "rank": 10
     },
     {
       "name": "lotchuazzz-crypto/papergraph-mcp",
@@ -320,7 +256,7 @@
       "description": "Turn arXiv and LaTeX mathematical papers into theorem dependency graphs for AI agents through MCP.",
       "full_description": "Turn arXiv and LaTeX mathematical papers into theorem dependency graphs for AI agents through MCP.",
       "language": "Python",
-      "stars": 80,
+      "stars": 91,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
@@ -336,43 +272,81 @@
         "skills"
       ],
       "created_at": "2026-09-02T05:59:46Z",
-      "updated_at": "2026-09-06T03:13:14Z",
-      "rank": 14
+      "updated_at": "2026-09-07T04:51:19Z",
+      "rank": 11
     },
     {
-      "name": "sharith45/atlas-Assistant",
-      "url": "https://github.com/sharith45/atlas-Assistant",
-      "description": "Tu asistente personal, directamente en tu ordenador. Habla contigo por voz, gestiona WhatsApp, atiende llamadas, consulta la web y recuerda lo importante. Una inteligencia artificial diseñada para trabajar de forma local, privada y autónoma, sin depender de la nube.",
-      "full_description": "Tu asistente personal, directamente en tu ordenador. Habla contigo por voz, gestiona WhatsApp, atiende llamadas, consulta la web y recuerda lo importante. Una inteligencia artificial diseñada para trabajar de forma local, privada y autónoma, sin depender de la nube.",
+      "name": "AMAP-ML/LoopArena",
+      "url": "https://github.com/AMAP-ML/LoopArena",
+      "description": "Benchmarking models as runtime Controllers for Loop Engineering",
+      "full_description": "Benchmarking models as runtime Controllers for Loop Engineering",
       "language": "Python",
-      "stars": 71,
+      "stars": 88,
       "stars_gained": 0,
-      "forks": 14,
+      "forks": 3,
       "topics": [
-        "agent",
-        "agent-skill",
-        "agent-skills",
-        "agentic",
-        "agentic-ai",
-        "agentic-workflow",
-        "agents",
-        "asistente",
-        "claude",
-        "claude-code",
-        "ia",
-        "jarvis",
-        "jarvis-ai-assistant",
-        "local-ai",
-        "personal-assistant",
-        "privacy",
-        "python",
-        "voice-assistant",
-        "whatsapp-bot",
-        "windows-desktop-app"
+        "benchmark",
+        "coding-agents",
+        "evaluation",
+        "llm",
+        "loop-engineering",
+        "software-engineering"
       ],
-      "created_at": "2026-08-30T20:17:29Z",
-      "updated_at": "2026-09-06T02:42:15Z",
-      "rank": 15
+      "created_at": "2026-08-31T02:47:02Z",
+      "updated_at": "2026-09-06T09:05:01Z",
+      "rank": 12
+    },
+    {
+      "name": "RankSpotAI/awesome-seo-mcp",
+      "url": "https://github.com/RankSpotAI/awesome-seo-mcp",
+      "description": "A curated list of MCP servers for SEO. Search Console, keywords, backlinks, crawling, SERPs and AI search visibility, verified with install details and auth requirements.",
+      "full_description": "A curated list of MCP servers for SEO. Search Console, keywords, backlinks, crawling, SERPs and AI search visibility, verified with install details and auth requirements.",
+      "language": "Python",
+      "stars": 85,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "aeo",
+        "ai-seo",
+        "awesome",
+        "awesome-list",
+        "claude",
+        "generative-engine-optimization",
+        "geo",
+        "mcp",
+        "mcp-servers",
+        "model-context-protocol",
+        "seo",
+        "seo-tools"
+      ],
+      "created_at": "2026-09-06T12:32:34Z",
+      "updated_at": "2026-09-07T03:40:03Z",
+      "rank": 13
+    },
+    {
+      "name": "Sven233333/Atlas-geoguessr-bot",
+      "url": "https://github.com/Sven233333/Atlas-geoguessr-bot",
+      "description": "GeoGuessr cheat, hack and auto guess bot. ATLAS reads the street view on your screen and names the location in about three seconds. Around 81 percent country accuracy in real games, 111 countries. Windows, Steam, Chrome, Firefox, macOS, iPhone and Android on one licence key.",
+      "full_description": "GeoGuessr cheat, hack and auto guess bot. ATLAS reads the street view on your screen and names the location in about three seconds. Around 81 percent country accuracy in real games, 111 countries. Windows, Steam, Chrome, Firefox, macOS, iPhone and Android on one licence key.",
+      "language": "JavaScript",
+      "stars": 76,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai",
+        "auto-guess",
+        "geoguessr",
+        "geoguessr-bot",
+        "geoguessr-cheat",
+        "geoguessr-hack",
+        "geoguessr-script",
+        "geoguessr-solver",
+        "geolocation",
+        "street-view"
+      ],
+      "created_at": "2026-08-31T15:11:23Z",
+      "updated_at": "2026-09-06T14:01:48Z",
+      "rank": 14
     },
     {
       "name": "bsab/italia-mcp-servers",
@@ -395,28 +369,8 @@
         "open-data"
       ],
       "created_at": "2026-09-01T10:22:02Z",
-      "updated_at": "2026-09-05T22:30:30Z",
-      "rank": 16
-    },
-    {
-      "name": "alesha-pro/atlas",
-      "url": "https://github.com/alesha-pro/atlas",
-      "description": "Interactive canvas for taking an LLM apart tensor by tensor: measured INT8/INT4/FP8 error, distributions, spectra and outlier channels for every weight tensor",
-      "full_description": "Interactive canvas for taking an LLM apart tensor by tensor: measured INT8/INT4/FP8 error, distributions, spectra and outlier channels for every weight tensor",
-      "language": "TypeScript",
-      "stars": 66,
-      "stars_gained": 0,
-      "forks": 7,
-      "topics": [
-        "dataviz",
-        "interpretability",
-        "llm",
-        "quantization",
-        "visualization"
-      ],
-      "created_at": "2026-08-30T09:10:21Z",
-      "updated_at": "2026-09-04T22:36:22Z",
-      "rank": 17
+      "updated_at": "2026-09-06T16:37:59Z",
+      "rank": 15
     },
     {
       "name": "gesta-run/subpool",
@@ -424,7 +378,7 @@
       "description": "  A lightweight, self-hosted AI subscription pool for teams.",
       "full_description": "  A lightweight, self-hosted AI subscription pool for teams.",
       "language": "Go",
-      "stars": 65,
+      "stars": 67,
       "stars_gained": 0,
       "forks": 7,
       "topics": [
@@ -438,8 +392,32 @@
         "pooling"
       ],
       "created_at": "2026-09-02T08:27:21Z",
-      "updated_at": "2026-09-05T20:01:29Z",
-      "rank": 18
+      "updated_at": "2026-09-07T03:14:24Z",
+      "rank": 16
+    },
+    {
+      "name": "zeroa234/ryza-ai-revive",
+      "url": "https://github.com/zeroa234/ryza-ai-revive",
+      "description": "Ryza AI companion. Bring your own LLM/TTS. 莱莎 AI 陪伴，自填大模型与语音。",
+      "full_description": "Ryza AI companion. Bring your own LLM/TTS. 莱莎 AI 陪伴，自填大模型与语音。",
+      "language": "JavaScript",
+      "stars": 61,
+      "stars_gained": 0,
+      "forks": 12,
+      "topics": [
+        "android",
+        "chatbot",
+        "electron",
+        "html",
+        "javascript",
+        "llm",
+        "spine",
+        "tts",
+        "webgl"
+      ],
+      "created_at": "2026-09-02T00:52:18Z",
+      "updated_at": "2026-09-06T20:28:50Z",
+      "rank": 17
     },
     {
       "name": "stevibe/SparklingKit",
@@ -464,31 +442,7 @@
       ],
       "created_at": "2026-08-31T09:17:38Z",
       "updated_at": "2026-09-05T09:17:18Z",
-      "rank": 19
-    },
-    {
-      "name": "zeroa234/ryza-ai-revive",
-      "url": "https://github.com/zeroa234/ryza-ai-revive",
-      "description": "Ryza AI companion. Bring your own LLM/TTS. 莱莎 AI 陪伴，自填大模型与语音。",
-      "full_description": "Ryza AI companion. Bring your own LLM/TTS. 莱莎 AI 陪伴，自填大模型与语音。",
-      "language": "JavaScript",
-      "stars": 58,
-      "stars_gained": 0,
-      "forks": 12,
-      "topics": [
-        "android",
-        "chatbot",
-        "electron",
-        "html",
-        "javascript",
-        "llm",
-        "spine",
-        "tts",
-        "webgl"
-      ],
-      "created_at": "2026-09-02T00:52:18Z",
-      "updated_at": "2026-09-05T18:49:50Z",
-      "rank": 20
+      "rank": 18
     },
     {
       "name": "1Panel-dev/1Panel-Gateway",
@@ -512,7 +466,34 @@
       ],
       "created_at": "2026-08-31T01:56:02Z",
       "updated_at": "2026-09-05T17:34:10Z",
-      "rank": 21
+      "rank": 19
+    },
+    {
+      "name": "vaelkeep/hermes-paper-agent",
+      "url": "https://github.com/vaelkeep/hermes-paper-agent",
+      "description": "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it.",
+      "full_description": "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it.",
+      "language": "Python",
+      "stars": 56,
+      "stars_gained": 0,
+      "forks": 6,
+      "topics": [
+        "agent",
+        "cron",
+        "daily-briefing",
+        "hermes",
+        "llm",
+        "local-llm",
+        "newspaper",
+        "personal-dashboard",
+        "python",
+        "self-hosted",
+        "static-site",
+        "typography"
+      ],
+      "created_at": "2026-09-03T02:15:43Z",
+      "updated_at": "2026-09-06T18:00:39Z",
+      "rank": 20
     },
     {
       "name": "san3ncrypt3d/vulnometry",
@@ -539,7 +520,7 @@
       ],
       "created_at": "2026-09-03T01:04:32Z",
       "updated_at": "2026-09-06T02:56:45Z",
-      "rank": 22
+      "rank": 21
     },
     {
       "name": "neuronto/agentic-resource-discovery",
@@ -573,80 +554,8 @@
         "openapi"
       ],
       "created_at": "2026-08-31T13:53:20Z",
-      "updated_at": "2026-09-05T01:30:47Z",
-      "rank": 23
-    },
-    {
-      "name": "vaelkeep/hermes-paper-agent",
-      "url": "https://github.com/vaelkeep/hermes-paper-agent",
-      "description": "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it.",
-      "full_description": "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it.",
-      "language": "Python",
-      "stars": 51,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "agent",
-        "cron",
-        "daily-briefing",
-        "hermes",
-        "llm",
-        "local-llm",
-        "newspaper",
-        "personal-dashboard",
-        "python",
-        "self-hosted",
-        "static-site",
-        "typography"
-      ],
-      "created_at": "2026-09-03T02:15:43Z",
-      "updated_at": "2026-09-05T22:58:32Z",
-      "rank": 24
-    },
-    {
-      "name": "aadithyanr/yname",
-      "url": "https://github.com/aadithyanr/yname",
-      "description": "Generate a YC startup name before someone else does.",
-      "full_description": "Generate a YC startup name before someone else does.",
-      "language": "Python",
-      "stars": 51,
-      "stars_gained": 0,
-      "forks": 9,
-      "topics": [
-        "machine-learning",
-        "name-generator",
-        "react",
-        "vite",
-        "y-combinator"
-      ],
-      "created_at": "2026-08-30T07:45:52Z",
-      "updated_at": "2026-09-05T15:39:29Z",
-      "rank": 25
-    },
-    {
-      "name": "justadityaraj/shim-mcp",
-      "url": "https://github.com/justadityaraj/shim-mcp",
-      "description": "WordPress MCP server plugin, live on WordPress.org. Connect Claude Code, Cursor, or any MCP client to WordPress over stdio (WP-CLI) or HTTP. 56 abilities, self-contained, no cloud.",
-      "full_description": "WordPress MCP server plugin, live on WordPress.org. Connect Claude Code, Cursor, or any MCP client to WordPress over stdio (WP-CLI) or HTTP. 56 abilities, self-contained, no cloud.",
-      "language": "PHP",
-      "stars": 47,
-      "stars_gained": 0,
-      "forks": 1,
-      "topics": [
-        "ai",
-        "anthropic",
-        "claude",
-        "cursor",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "wordpress",
-        "wordpress-plugin",
-        "wp-cli"
-      ],
-      "created_at": "2026-08-30T15:26:23Z",
-      "updated_at": "2026-09-05T17:02:41Z",
-      "rank": 26
+      "updated_at": "2026-09-06T22:55:15Z",
+      "rank": 22
     },
     {
       "name": "binghe1980/PromptLens",
@@ -654,9 +563,9 @@
       "description": "一款把任意图片转换为专业生图提示词的 Chrome / Edge 浏览器插件。支持网页右键识图、本地上传与剪贴板粘贴，生成中文、英文和 JSON 提示词，并提供历史记录与收藏。",
       "full_description": "一款把任意图片转换为专业生图提示词的 Chrome / Edge 浏览器插件。支持网页右键识图、本地上传与剪贴板粘贴，生成中文、英文和 JSON 提示词，并提供历史记录与收藏。",
       "language": "",
-      "stars": 46,
+      "stars": 51,
       "stars_gained": 0,
-      "forks": 9,
+      "forks": 11,
       "topics": [
         "chrome-extension",
         "computer-vision",
@@ -665,8 +574,30 @@
         "prompt-engineering"
       ],
       "created_at": "2026-09-03T23:43:17Z",
-      "updated_at": "2026-09-06T03:11:08Z",
-      "rank": 27
+      "updated_at": "2026-09-07T02:35:45Z",
+      "rank": 23
+    },
+    {
+      "name": "fidetolabs/qanat",
+      "url": "https://github.com/fidetolabs/qanat",
+      "description": "Agent-native workflow engine for building and backtesting alphas as DAGs.",
+      "full_description": "Agent-native workflow engine for building and backtesting alphas as DAGs.",
+      "language": "Python",
+      "stars": 51,
+      "stars_gained": 0,
+      "forks": 8,
+      "topics": [
+        "alpha-research",
+        "backtesting",
+        "dag",
+        "duckdb",
+        "mcp",
+        "quantitative-finance",
+        "trading-toolkit"
+      ],
+      "created_at": "2026-09-05T14:43:40Z",
+      "updated_at": "2026-09-07T04:31:09Z",
+      "rank": 24
     },
     {
       "name": "truespar/paddock",
@@ -674,7 +605,7 @@
       "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
       "full_description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
       "language": "Rust",
-      "stars": 46,
+      "stars": 50,
       "stars_gained": 0,
       "forks": 5,
       "topics": [
@@ -690,30 +621,34 @@
         "rust"
       ],
       "created_at": "2026-09-03T19:52:35Z",
-      "updated_at": "2026-09-06T01:24:24Z",
-      "rank": 28
+      "updated_at": "2026-09-07T04:10:24Z",
+      "rank": 25
     },
     {
-      "name": "Yuchen-zh/Multimodal-Fake-News-Datasets",
-      "url": "https://github.com/Yuchen-zh/Multimodal-Fake-News-Datasets",
-      "description": "A collection and analysis of multimodal fake news datasets across languages, domains, platforms, and modalities.",
-      "full_description": "A collection and analysis of multimodal fake news datasets across languages, domains, platforms, and modalities.",
-      "language": "Python",
+      "name": "dengyie/cnb2api",
+      "url": "https://github.com/dengyie/cnb2api",
+      "description": "Expose a CNB cloud-workspace in-network AI endpoint as an OpenAI-compatible API. Zero dependencies, self-healing fixed domain.",
+      "full_description": "Expose a CNB cloud-workspace in-network AI endpoint as an OpenAI-compatible API. Zero dependencies, self-healing fixed domain.",
+      "language": "JavaScript",
       "stars": 43,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 26,
       "topics": [
-        "datasets",
-        "deep-learning",
-        "fake-news",
-        "fake-news-detection",
-        "multimodal",
-        "multimodal-learning",
-        "natural-language-processing"
+        "api-gateway",
+        "cli",
+        "cnb",
+        "llm",
+        "openai",
+        "openai-compatible",
+        "proxy",
+        "quota",
+        "self-healing",
+        "sse",
+        "zero-dependencies"
       ],
-      "created_at": "2026-08-30T07:04:50Z",
-      "updated_at": "2026-09-05T21:09:24Z",
-      "rank": 29
+      "created_at": "2026-09-04T14:47:11Z",
+      "updated_at": "2026-09-07T02:12:37Z",
+      "rank": 26
     },
     {
       "name": "cyptnpassira/PromptLedger",
@@ -743,6 +678,87 @@
       ],
       "created_at": "2026-09-03T04:26:04Z",
       "updated_at": "2026-09-04T08:18:19Z",
+      "rank": 27
+    },
+    {
+      "name": "mpaymenremora/CacheCraft",
+      "url": "https://github.com/mpaymenremora/CacheCraft",
+      "description": "Semantic cache strategy bench: replay recorded request traces through candidate caching policies and measure which one actually pays off.",
+      "full_description": "Semantic cache strategy bench: replay recorded request traces through candidate caching policies and measure which one actually pays off.",
+      "language": "Python",
+      "stars": 38,
+      "stars_gained": 0,
+      "forks": 4,
+      "topics": [
+        "ai-infrastructure",
+        "benchmarking",
+        "cache",
+        "cli",
+        "devtools",
+        "evaluation",
+        "go",
+        "jaccard",
+        "latency",
+        "llm",
+        "observability",
+        "optimization",
+        "python",
+        "quality",
+        "replay",
+        "semantic-caching",
+        "tokenization",
+        "tracing"
+      ],
+      "created_at": "2026-09-03T13:34:21Z",
+      "updated_at": "2026-09-05T10:57:04Z",
+      "rank": 28
+    },
+    {
+      "name": "jangtrinh/design-os-3d-blender",
+      "url": "https://github.com/jangtrinh/design-os-3d-blender",
+      "description": "AI-agent operating system for Blender 5.2: skills, verified bpy knowledge base, AGENT_OK/AGENT_FAIL execution contract, production gate for 3D-printable parts, robot-arm demo",
+      "full_description": "AI-agent operating system for Blender 5.2: skills, verified bpy knowledge base, AGENT_OK/AGENT_FAIL execution contract, production gate for 3D-printable parts, robot-arm demo",
+      "language": "Python",
+      "stars": 37,
+      "stars_gained": 0,
+      "forks": 11,
+      "topics": [
+        "3d-printing",
+        "ai-agent",
+        "blender",
+        "bpy",
+        "claude-code",
+        "codex",
+        "mcp",
+        "robotics"
+      ],
+      "created_at": "2026-09-06T00:18:05Z",
+      "updated_at": "2026-09-07T04:45:29Z",
+      "rank": 29
+    },
+    {
+      "name": "xiaojumaoaihuaban/grok-unleashed",
+      "url": "https://github.com/xiaojumaoaihuaban/grok-unleashed",
+      "description": "grok-build with the leash off — one binary, any OpenAI-compatible endpoint, zero phone-home. No x.ai account.",
+      "full_description": "grok-build with the leash off — one binary, any OpenAI-compatible endpoint, zero phone-home. No x.ai account.",
+      "language": "Shell",
+      "stars": 36,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai-agent",
+        "cli",
+        "deepseek",
+        "grok",
+        "llm",
+        "no-telemetry",
+        "ollama",
+        "openai-compatible",
+        "privacy",
+        "terminal"
+      ],
+      "created_at": "2026-09-02T09:45:35Z",
+      "updated_at": "2026-09-07T03:08:39Z",
       "rank": 30
     }
   ]
