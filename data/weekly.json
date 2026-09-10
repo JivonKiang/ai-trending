@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T04:57:50.651130+00:00",
+  "updated": "2026-09-10T05:01:18.666881+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
       "full_description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
       "language": "Go",
-      "stars": 498,
+      "stars": 523,
       "stars_gained": 0,
-      "forks": 29,
+      "forks": 32,
       "topics": [
         "agent-memory",
         "ai-agents",
@@ -34,57 +34,33 @@
         "persistent-memory"
       ],
       "created_at": "2026-09-05T21:26:04Z",
-      "updated_at": "2026-09-09T04:19:16Z",
+      "updated_at": "2026-09-10T03:08:22Z",
       "rank": 1
     },
     {
-      "name": "adtexterry-lgtm/unigit-ecosystem",
-      "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
-      "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
-      "full_description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
+      "name": "yudaprasetya007/routeVSCODE",
+      "url": "https://github.com/yudaprasetya007/routeVSCODE",
+      "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "full_description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
       "language": "JavaScript",
-      "stars": 423,
+      "stars": 326,
       "stars_gained": 0,
-      "forks": 46,
+      "forks": 0,
       "topics": [
-        "agentic-ai",
-        "ai-tools",
-        "ai-workbench",
-        "ecosystem",
-        "mcp",
-        "productivity",
-        "unigit"
+        "9router",
+        "ai",
+        "chatgpt",
+        "claude",
+        "copilot",
+        "deepseek",
+        "local-proxy",
+        "model-switcher",
+        "vscode",
+        "vscode-extension"
       ],
-      "created_at": "2026-09-02T10:08:01Z",
-      "updated_at": "2026-09-09T04:18:57Z",
+      "created_at": "2026-09-10T01:25:00Z",
+      "updated_at": "2026-09-10T01:40:38Z",
       "rank": 2
-    },
-    {
-      "name": "Agenta-AI/awesome-ai-agent-platforms",
-      "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
-      "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
-      "full_description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
-      "language": "Astro",
-      "stars": 195,
-      "stars_gained": 0,
-      "forks": 6,
-      "topics": [
-        "agent-frameworks",
-        "ai-agent-platforms",
-        "ai-agents",
-        "ai-coworker",
-        "awesome",
-        "awesome-list",
-        "browser-agents",
-        "coding-agents",
-        "llm",
-        "open-source",
-        "self-hosted",
-        "workflow-automation"
-      ],
-      "created_at": "2026-09-02T16:32:59Z",
-      "updated_at": "2026-09-09T03:31:22Z",
-      "rank": 3
     },
     {
       "name": "noskillish/bankmcp",
@@ -92,9 +68,9 @@
       "description": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
       "full_description": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
       "language": "TypeScript",
-      "stars": 164,
+      "stars": 173,
       "stars_gained": 0,
-      "forks": 32,
+      "forks": 33,
       "topics": [
         "chatgpt",
         "claude",
@@ -108,33 +84,130 @@
         "self-hosted"
       ],
       "created_at": "2026-09-07T09:06:03Z",
-      "updated_at": "2026-09-09T03:55:13Z",
+      "updated_at": "2026-09-09T21:01:26Z",
+      "rank": 3
+    },
+    {
+      "name": "Colafornia/short-video-generator-AI",
+      "url": "https://github.com/Colafornia/short-video-generator-AI",
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "full_description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "language": "Python",
+      "stars": 119,
+      "stars_gained": 0,
+      "forks": 48,
+      "topics": [
+        "ai",
+        "ai-generation",
+        "short-video",
+        "short-video-maker"
+      ],
+      "created_at": "2026-09-08T14:55:47Z",
+      "updated_at": "2026-09-10T04:44:43Z",
       "rank": 4
     },
     {
-      "name": "lotchuazzz-crypto/papergraph-mcp",
-      "url": "https://github.com/lotchuazzz-crypto/papergraph-mcp",
-      "description": "Turn arXiv and LaTeX mathematical papers into theorem dependency graphs for AI agents through MCP.",
-      "full_description": "Turn arXiv and LaTeX mathematical papers into theorem dependency graphs for AI agents through MCP.",
+      "name": "fidetolabs/qanat",
+      "url": "https://github.com/fidetolabs/qanat",
+      "description": "Agent-native workflow engine for building and backtesting alphas as DAGs.",
+      "full_description": "Agent-native workflow engine for building and backtesting alphas as DAGs.",
       "language": "Python",
-      "stars": 115,
+      "stars": 107,
       "stars_gained": 0,
-      "forks": 2,
+      "forks": 23,
       "topics": [
-        "ai-agents",
-        "arxiv",
-        "knowledge-graph",
-        "latex",
-        "mathematics",
+        "alpha-research",
+        "backtesting",
+        "dag",
+        "duckdb",
         "mcp",
-        "model-context-protocol",
-        "python",
-        "research-tools",
-        "skills"
+        "quantitative-finance",
+        "trading-toolkit"
       ],
-      "created_at": "2026-09-02T05:59:46Z",
-      "updated_at": "2026-09-09T03:51:56Z",
+      "created_at": "2026-09-05T14:43:40Z",
+      "updated_at": "2026-09-10T02:30:47Z",
       "rank": 5
+    },
+    {
+      "name": "punkpeye/awesome-remote-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-remote-mcp-servers",
+      "description": "A collection of remote MCP servers.",
+      "full_description": "A collection of remote MCP servers.",
+      "language": "",
+      "stars": 102,
+      "stars_gained": 0,
+      "forks": 168,
+      "topics": [
+        "mcp"
+      ],
+      "created_at": "2026-09-08T00:43:30Z",
+      "updated_at": "2026-09-10T04:49:09Z",
+      "rank": 6
+    },
+    {
+      "name": "TokenRhythm/NeoHorse",
+      "url": "https://github.com/TokenRhythm/NeoHorse",
+      "description": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness.",
+      "full_description": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness.",
+      "language": "",
+      "stars": 95,
+      "stars_gained": 0,
+      "forks": 1,
+      "topics": [
+        "agent",
+        "large-language-models",
+        "llm",
+        "post-training",
+        "recursive-self-improvement",
+        "rsi"
+      ],
+      "created_at": "2026-09-04T08:34:54Z",
+      "updated_at": "2026-09-10T02:54:19Z",
+      "rank": 7
+    },
+    {
+      "name": "Innei/lody-ios",
+      "url": "https://github.com/Innei/lody-ios",
+      "description": "Independent iOS client for Lody — native chat, sessions, and coding-agent collaboration on iPhone",
+      "full_description": "Independent iOS client for Lody — native chat, sessions, and coding-agent collaboration on iPhone",
+      "language": "TypeScript",
+      "stars": 88,
+      "stars_gained": 0,
+      "forks": 7,
+      "topics": [
+        "agent",
+        "coding-agent",
+        "collaboration",
+        "expo",
+        "ios",
+        "iphone",
+        "local-first",
+        "react-native",
+        "swift"
+      ],
+      "created_at": "2026-09-05T18:37:43Z",
+      "updated_at": "2026-09-10T03:35:37Z",
+      "rank": 8
+    },
+    {
+      "name": "crwdla/tokentab",
+      "url": "https://github.com/crwdla/tokentab",
+      "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "full_description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "language": "Python",
+      "stars": 87,
+      "stars_gained": 0,
+      "forks": 33,
+      "topics": [
+        "ai",
+        "ai-token-monitor",
+        "claude-code",
+        "token-optimization",
+        "token-usage"
+      ],
+      "created_at": "2026-09-07T17:18:31Z",
+      "updated_at": "2026-09-10T04:35:11Z",
+      "rank": 9
     },
     {
       "name": "Albertchamberlain/Awesome-OKF",
@@ -142,7 +215,7 @@
       "description": "OKF (Open Knowledge Format) — curated catalog of tools, plugins, skills, proposals, and docs for agent-friendly knowledge. YAML-driven, agent-searchable, MCP-ready.",
       "full_description": "OKF (Open Knowledge Format) — curated catalog of tools, plugins, skills, proposals, and docs for agent-friendly knowledge. YAML-driven, agent-searchable, MCP-ready.",
       "language": "Python",
-      "stars": 102,
+      "stars": 86,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
@@ -166,51 +239,8 @@
         "yaml"
       ],
       "created_at": "2026-09-07T06:12:39Z",
-      "updated_at": "2026-09-08T08:35:16Z",
-      "rank": 6
-    },
-    {
-      "name": "icodesign/remote-installer",
-      "url": "https://github.com/icodesign/remote-installer",
-      "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
-      "full_description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
-      "language": "Rust",
-      "stars": 99,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "ai",
-        "android",
-        "cloudflare",
-        "ios",
-        "tailscale",
-        "vibecoding"
-      ],
-      "created_at": "2026-09-02T10:47:41Z",
-      "updated_at": "2026-09-08T19:38:27Z",
-      "rank": 7
-    },
-    {
-      "name": "fidetolabs/qanat",
-      "url": "https://github.com/fidetolabs/qanat",
-      "description": "Agent-native workflow engine for building and backtesting alphas as DAGs.",
-      "full_description": "Agent-native workflow engine for building and backtesting alphas as DAGs.",
-      "language": "Python",
-      "stars": 93,
-      "stars_gained": 0,
-      "forks": 19,
-      "topics": [
-        "alpha-research",
-        "backtesting",
-        "dag",
-        "duckdb",
-        "mcp",
-        "quantitative-finance",
-        "trading-toolkit"
-      ],
-      "created_at": "2026-09-05T14:43:40Z",
-      "updated_at": "2026-09-09T04:41:21Z",
-      "rank": 8
+      "updated_at": "2026-09-10T04:58:18Z",
+      "rank": 10
     },
     {
       "name": "bsab/france-mcp-servers",
@@ -230,31 +260,33 @@
       ],
       "created_at": "2026-09-06T17:30:00Z",
       "updated_at": "2026-09-08T13:08:32Z",
-      "rank": 9
+      "rank": 11
     },
     {
-      "name": "Innei/lody-ios",
-      "url": "https://github.com/Innei/lody-ios",
-      "description": "Independent iOS client for Lody — native chat, sessions, and coding-agent collaboration on iPhone",
-      "full_description": "Independent iOS client for Lody — native chat, sessions, and coding-agent collaboration on iPhone",
-      "language": "TypeScript",
-      "stars": 78,
+      "name": "Atomburstofficial/geiger",
+      "url": "https://github.com/Atomburstofficial/geiger",
+      "description": "A Geiger counter for AI agents — one read-only command that inventories every agent, MCP server, plugin, and AI extension on a machine",
+      "full_description": "A Geiger counter for AI agents — one read-only command that inventories every agent, MCP server, plugin, and AI extension on a machine",
+      "language": "JavaScript",
+      "stars": 81,
       "stars_gained": 0,
-      "forks": 7,
+      "forks": 1,
       "topics": [
-        "agent",
-        "coding-agent",
-        "collaboration",
-        "expo",
-        "ios",
-        "iphone",
-        "local-first",
-        "react-native",
-        "swift"
+        "ai-agents",
+        "ai-governance",
+        "ai-safety",
+        "ai-security",
+        "claude-code",
+        "governance",
+        "mcp",
+        "mcp-server",
+        "npx",
+        "scanner",
+        "security-tools"
       ],
-      "created_at": "2026-09-05T18:37:43Z",
-      "updated_at": "2026-09-09T03:53:24Z",
-      "rank": 10
+      "created_at": "2026-09-06T17:45:50Z",
+      "updated_at": "2026-09-10T04:47:48Z",
+      "rank": 12
     },
     {
       "name": "truespar/paddock",
@@ -262,9 +294,9 @@
       "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
       "full_description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
       "language": "Rust",
-      "stars": 73,
+      "stars": 75,
       "stars_gained": 0,
-      "forks": 6,
+      "forks": 8,
       "topics": [
         "ai",
         "aimodels",
@@ -278,92 +310,31 @@
         "rust"
       ],
       "created_at": "2026-09-03T19:52:35Z",
-      "updated_at": "2026-09-09T03:24:55Z",
-      "rank": 11
-    },
-    {
-      "name": "gesta-run/subpool",
-      "url": "https://github.com/gesta-run/subpool",
-      "description": "  A lightweight, self-hosted AI subscription pool for teams.",
-      "full_description": "  A lightweight, self-hosted AI subscription pool for teams.",
-      "language": "Go",
-      "stars": 71,
-      "stars_gained": 0,
-      "forks": 7,
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "gateway",
-        "pooling"
-      ],
-      "created_at": "2026-09-02T08:27:21Z",
-      "updated_at": "2026-09-09T01:08:04Z",
-      "rank": 12
-    },
-    {
-      "name": "punkpeye/awesome-remote-mcp-servers",
-      "url": "https://github.com/punkpeye/awesome-remote-mcp-servers",
-      "description": "A collection of remote MCP servers.",
-      "full_description": "A collection of remote MCP servers.",
-      "language": "",
-      "stars": 67,
-      "stars_gained": 0,
-      "forks": 120,
-      "topics": [
-        "mcp"
-      ],
-      "created_at": "2026-09-08T00:43:30Z",
-      "updated_at": "2026-09-09T04:48:22Z",
+      "updated_at": "2026-09-09T15:25:49Z",
       "rank": 13
     },
     {
-      "name": "ZekunCheng/novoweave",
-      "url": "https://github.com/ZekunCheng/novoweave",
-      "description": "NovoWeave — a conceptual generative protein-design framework (non-functional pseudocode).",
-      "full_description": "NovoWeave — a conceptual generative protein-design framework (non-functional pseudocode).",
-      "language": "Python",
-      "stars": 65,
+      "name": "paveldevyatov/refund-anything-ai-prompt",
+      "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
+      "description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
+      "full_description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
+      "language": "",
+      "stars": 68,
       "stars_gained": 0,
-      "forks": 2,
+      "forks": 3,
       "topics": [
-        "deep-learning",
-        "diffusion-models",
-        "protein-design",
-        "pseudocode",
-        "research-software",
-        "structural-biology"
+        "ai",
+        "chargeback",
+        "chatgpt",
+        "claude",
+        "consumer-rights",
+        "prompt",
+        "refund",
+        "subscription"
       ],
-      "created_at": "2026-09-02T09:36:42Z",
-      "updated_at": "2026-09-08T21:57:21Z",
+      "created_at": "2026-09-08T10:20:24Z",
+      "updated_at": "2026-09-09T19:51:17Z",
       "rank": 14
-    },
-    {
-      "name": "zeroa234/ryza-ai-revive",
-      "url": "https://github.com/zeroa234/ryza-ai-revive",
-      "description": "Ryza AI companion. Bring your own LLM/TTS. 莱莎 AI 陪伴，自填大模型与语音。",
-      "full_description": "Ryza AI companion. Bring your own LLM/TTS. 莱莎 AI 陪伴，自填大模型与语音。",
-      "language": "JavaScript",
-      "stars": 64,
-      "stars_gained": 0,
-      "forks": 12,
-      "topics": [
-        "android",
-        "chatbot",
-        "electron",
-        "html",
-        "javascript",
-        "llm",
-        "spine",
-        "tts",
-        "webgl"
-      ],
-      "created_at": "2026-09-02T00:52:18Z",
-      "updated_at": "2026-09-08T05:23:14Z",
-      "rank": 15
     },
     {
       "name": "vaelkeep/hermes-paper-agent",
@@ -371,7 +342,7 @@
       "description": "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it.",
       "full_description": "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it.",
       "language": "Python",
-      "stars": 60,
+      "stars": 64,
       "stars_gained": 0,
       "forks": 6,
       "topics": [
@@ -389,8 +360,8 @@
         "typography"
       ],
       "created_at": "2026-09-03T02:15:43Z",
-      "updated_at": "2026-09-08T17:41:04Z",
-      "rank": 16
+      "updated_at": "2026-09-10T04:05:38Z",
+      "rank": 15
     },
     {
       "name": "jangtrinh/design-os-3d-blender",
@@ -398,7 +369,7 @@
       "description": "AI-agent operating system for Blender 5.2: skills, verified bpy knowledge base, AGENT_OK/AGENT_FAIL execution contract, production gate for 3D-printable parts, robot-arm demo",
       "full_description": "AI-agent operating system for Blender 5.2: skills, verified bpy knowledge base, AGENT_OK/AGENT_FAIL execution contract, production gate for 3D-printable parts, robot-arm demo",
       "language": "Python",
-      "stars": 59,
+      "stars": 62,
       "stars_gained": 0,
       "forks": 15,
       "topics": [
@@ -412,7 +383,32 @@
         "robotics"
       ],
       "created_at": "2026-09-06T00:18:05Z",
-      "updated_at": "2026-09-09T01:46:14Z",
+      "updated_at": "2026-09-09T19:47:30Z",
+      "rank": 16
+    },
+    {
+      "name": "aimeoa/hanshuang-codex",
+      "url": "https://github.com/aimeoa/hanshuang-codex",
+      "description": "针对GPT 5.6,V4flash的破甲实验项目",
+      "full_description": "针对GPT 5.6,V4flash的破甲实验项目",
+      "language": "Python",
+      "stars": 62,
+      "stars_gained": 0,
+      "forks": 14,
+      "topics": [
+        "ai",
+        "codex",
+        "codex-cli",
+        "desktop-app",
+        "jailbreak",
+        "llm",
+        "openai-codex",
+        "prompt-injection",
+        "pyside6",
+        "python"
+      ],
+      "created_at": "2026-09-06T08:42:57Z",
+      "updated_at": "2026-09-10T04:41:14Z",
       "rank": 17
     },
     {
@@ -439,7 +435,7 @@
         "vulnerability-scanner"
       ],
       "created_at": "2026-09-03T01:04:32Z",
-      "updated_at": "2026-09-06T02:56:45Z",
+      "updated_at": "2026-09-10T03:10:43Z",
       "rank": 18
     },
     {
@@ -463,52 +459,26 @@
       "rank": 19
     },
     {
-      "name": "xiaojumaoaihuaban/grok-unleashed",
-      "url": "https://github.com/xiaojumaoaihuaban/grok-unleashed",
-      "description": "grok-build with the leash off — one binary, any OpenAI-compatible endpoint, zero phone-home. No x.ai account.",
-      "full_description": "grok-build with the leash off — one binary, any OpenAI-compatible endpoint, zero phone-home. No x.ai account.",
-      "language": "Shell",
-      "stars": 55,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai-agent",
-        "cli",
-        "deepseek",
-        "grok",
-        "llm",
-        "no-telemetry",
-        "ollama",
-        "openai-compatible",
-        "privacy",
-        "terminal"
-      ],
-      "created_at": "2026-09-02T09:45:35Z",
-      "updated_at": "2026-09-09T00:20:20Z",
-      "rank": 20
-    },
-    {
-      "name": "paveldevyatov/refund-anything-ai-prompt",
-      "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
-      "description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
-      "full_description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
+      "name": "songs-aaa/shared-memory-vault",
+      "url": "https://github.com/songs-aaa/shared-memory-vault",
+      "description": "A memory governance engine for multi-agent cloud knowledge bases — one knowledge base shared by every agent and every device, with consistency guaranteed. Pure Markdown, nine governance automations, zero dependencies.",
+      "full_description": "A memory governance engine for multi-agent cloud knowledge bases — one knowledge base shared by every agent and every device, with consistency guaranteed. Pure Markdown, nine governance automations, zero dependencies.",
       "language": "",
       "stars": 53,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 0,
       "topics": [
-        "ai",
-        "chargeback",
-        "chatgpt",
-        "claude",
-        "consumer-rights",
-        "prompt",
-        "refund",
-        "subscription"
+        "agent-memory",
+        "knowledge-base",
+        "llm",
+        "memory",
+        "multi-agent",
+        "skills",
+        "vault"
       ],
-      "created_at": "2026-09-08T10:20:24Z",
-      "updated_at": "2026-09-09T03:57:53Z",
-      "rank": 21
+      "created_at": "2026-09-05T05:15:51Z",
+      "updated_at": "2026-09-10T03:49:00Z",
+      "rank": 20
     },
     {
       "name": "dengyie/cnb2api",
@@ -518,7 +488,7 @@
       "language": "JavaScript",
       "stars": 51,
       "stars_gained": 0,
-      "forks": 26,
+      "forks": 28,
       "topics": [
         "api-gateway",
         "cli",
@@ -533,95 +503,36 @@
         "zero-dependencies"
       ],
       "created_at": "2026-09-04T14:47:11Z",
-      "updated_at": "2026-09-09T03:37:23Z",
-      "rank": 22
+      "updated_at": "2026-09-09T22:57:03Z",
+      "rank": 21
     },
     {
-      "name": "Colafornia/short-video-generator-AI",
-      "url": "https://github.com/Colafornia/short-video-generator-AI",
-      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "full_description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "name": "arnsri33/embedflow",
+      "url": "https://github.com/arnsri33/embedflow",
+      "description": "Zero downtime embedding upgrades",
+      "full_description": "Zero downtime embedding upgrades",
       "language": "Python",
-      "stars": 45,
-      "stars_gained": 0,
-      "forks": 24,
-      "topics": [
-        "ai",
-        "ai-generation",
-        "short-video",
-        "short-video-maker"
-      ],
-      "created_at": "2026-09-08T14:55:47Z",
-      "updated_at": "2026-09-09T03:57:03Z",
-      "rank": 23
-    },
-    {
-      "name": "aimeoa/hanshuang-codex",
-      "url": "https://github.com/aimeoa/hanshuang-codex",
-      "description": "针对GPT 5.6,V4flash的破甲实验项目",
-      "full_description": "针对GPT 5.6,V4flash的破甲实验项目",
-      "language": "Python",
-      "stars": 44,
-      "stars_gained": 0,
-      "forks": 11,
-      "topics": [
-        "ai",
-        "codex",
-        "codex-cli",
-        "desktop-app",
-        "jailbreak",
-        "llm",
-        "openai-codex",
-        "prompt-injection",
-        "pyside6",
-        "python"
-      ],
-      "created_at": "2026-09-06T08:42:57Z",
-      "updated_at": "2026-09-09T04:32:28Z",
-      "rank": 24
-    },
-    {
-      "name": "TokenRhythm/NeoHorse",
-      "url": "https://github.com/TokenRhythm/NeoHorse",
-      "description": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness.",
-      "full_description": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness.",
-      "language": "",
-      "stars": 41,
+      "stars": 43,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
-        "agent",
-        "large-language-models",
-        "llm",
-        "post-training",
-        "recursive-self-improvement",
-        "rsi"
+        "embedding",
+        "embedding-models",
+        "embedding-vectors",
+        "embeddings-similarity",
+        "faiss",
+        "information-retrieval",
+        "machine-learning",
+        "qdrant",
+        "rag",
+        "rag-pipeline",
+        "semantic-search",
+        "vector-database",
+        "vector-search"
       ],
-      "created_at": "2026-09-04T08:34:54Z",
-      "updated_at": "2026-09-09T04:42:55Z",
-      "rank": 25
-    },
-    {
-      "name": "songs-aaa/shared-memory-vault",
-      "url": "https://github.com/songs-aaa/shared-memory-vault",
-      "description": "A memory governance engine for multi-agent cloud knowledge bases — one knowledge base shared by every agent and every device, with consistency guaranteed. Pure Markdown, nine governance automations, zero dependencies.",
-      "full_description": "A memory governance engine for multi-agent cloud knowledge bases — one knowledge base shared by every agent and every device, with consistency guaranteed. Pure Markdown, nine governance automations, zero dependencies.",
-      "language": "",
-      "stars": 39,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "agent-memory",
-        "knowledge-base",
-        "llm",
-        "memory",
-        "multi-agent",
-        "skills",
-        "vault"
-      ],
-      "created_at": "2026-09-05T05:15:51Z",
-      "updated_at": "2026-09-09T02:51:07Z",
-      "rank": 26
+      "created_at": "2026-09-07T20:10:13Z",
+      "updated_at": "2026-09-10T04:18:54Z",
+      "rank": 22
     },
     {
       "name": "cyptnpassira/PromptLedger",
@@ -650,8 +561,8 @@
         "versioning"
       ],
       "created_at": "2026-09-03T04:26:04Z",
-      "updated_at": "2026-09-08T21:57:16Z",
-      "rank": 27
+      "updated_at": "2026-09-09T17:34:06Z",
+      "rank": 23
     },
     {
       "name": "RankSpotAI/awesome-seo-mcp",
@@ -678,7 +589,59 @@
       ],
       "created_at": "2026-09-06T12:32:34Z",
       "updated_at": "2026-09-08T20:51:37Z",
-      "rank": 28
+      "rank": 24
+    },
+    {
+      "name": "tshemsedinov/reslop",
+      "url": "https://github.com/tshemsedinov/reslop",
+      "description": "Interactive terminal code review git diff with intra-line highlighting",
+      "full_description": "Interactive terminal code review git diff with intra-line highlighting",
+      "language": "JavaScript",
+      "stars": 32,
+      "stars_gained": 0,
+      "forks": 2,
+      "topics": [
+        "agent",
+        "ai",
+        "code-review",
+        "diff",
+        "llm",
+        "neuroslop",
+        "planning",
+        "refactoring",
+        "repair",
+        "sdd"
+      ],
+      "created_at": "2026-09-06T21:28:21Z",
+      "updated_at": "2026-09-09T23:28:52Z",
+      "rank": 25
+    },
+    {
+      "name": "krmisystems/fantasy-football-manager",
+      "url": "https://github.com/krmisystems/fantasy-football-manager",
+      "description": "ESPN draft and lineup tools for Codex and other MCP clients, with browser sign-in, approval modes, per-team limits, and server monitoring.",
+      "full_description": "ESPN draft and lineup tools for Codex and other MCP clients, with browser sign-in, approval modes, per-team limits, and server monitoring.",
+      "language": "Python",
+      "stars": 32,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "browser-automation",
+        "codex",
+        "codex-plugin",
+        "espn",
+        "fantasy-draft",
+        "fantasy-football",
+        "lineup-optimization",
+        "mcp",
+        "mcp-server",
+        "monte-carlo",
+        "python",
+        "self-hosted"
+      ],
+      "created_at": "2026-09-08T02:55:36Z",
+      "updated_at": "2026-09-10T03:32:14Z",
+      "rank": 26
     },
     {
       "name": "mpaymenremora/CacheCraft",
@@ -686,7 +649,7 @@
       "description": "Semantic cache strategy bench: replay recorded request traces through candidate caching policies and measure which one actually pays off.",
       "full_description": "Semantic cache strategy bench: replay recorded request traces through candidate caching policies and measure which one actually pays off.",
       "language": "Python",
-      "stars": 33,
+      "stars": 30,
       "stars_gained": 0,
       "forks": 4,
       "topics": [
@@ -710,30 +673,86 @@
         "tracing"
       ],
       "created_at": "2026-09-03T13:34:21Z",
-      "updated_at": "2026-09-08T21:56:47Z",
-      "rank": 29
+      "updated_at": "2026-09-09T17:58:45Z",
+      "rank": 27
     },
     {
-      "name": "lotvulture/lotvulture",
-      "url": "https://github.com/lotvulture/lotvulture",
-      "description": "Real-time parking lot occupancy detection using existing security cameras and on-device computer vision.",
-      "full_description": "Real-time parking lot occupancy detection using existing security cameras and on-device computer vision.",
+      "name": "sreenidhbonagiri/remedi",
+      "url": "https://github.com/sreenidhbonagiri/remedi",
+      "description": "Find affordable prescription alternatives and patient assistance programs in seconds using FDA data and income eligibility checks.",
+      "full_description": "Find affordable prescription alternatives and patient assistance programs in seconds using FDA data and income eligibility checks.",
       "language": "Python",
-      "stars": 32,
+      "stars": 29,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
-        "computer-vision",
-        "edge-ai",
-        "ip-camera",
-        "object-detection",
-        "occupancy-detection",
-        "parking-management",
-        "rtsp",
-        "smart-parking"
+        "ai",
+        "ai-agent",
+        "css",
+        "digital-health",
+        "fastapi",
+        "health",
+        "health-data",
+        "health-tech",
+        "healthcare",
+        "healthcare-ai",
+        "html",
+        "javascript",
+        "langgraph",
+        "medicine",
+        "open-source",
+        "openfda",
+        "pytest",
+        "python",
+        "python3",
+        "reportlab"
       ],
-      "created_at": "2026-09-02T20:36:31Z",
-      "updated_at": "2026-09-08T20:51:13Z",
+      "created_at": "2026-09-06T04:46:45Z",
+      "updated_at": "2026-09-09T20:11:51Z",
+      "rank": 28
+    },
+    {
+      "name": "EverlastingAI-Official/LifeContextOS",
+      "url": "https://github.com/EverlastingAI-Official/LifeContextOS",
+      "description": "It is a \"LifeContext\" operating system designed to run entirely on-device, transforming personal data—such as chat logs, documents, and oral histories—into digital memories and personality structures that are traceable, editable, and portable. We aim to establish a standardized LifeContext format, creating an open foundation for personalized agents",
+      "full_description": "It is a \"LifeContext\" operating system designed to run entirely on-device, transforming personal data—such as chat logs, documents, and oral histories—into digital memories and personality structures that are traceable, editable, and portable. We aim to establish a standardized LifeContext format, creating an open foundation for personalized agents",
+      "language": "Python",
+      "stars": 29,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai",
+        "context-engineering",
+        "memory",
+        "mindupload"
+      ],
+      "created_at": "2026-09-04T11:12:47Z",
+      "updated_at": "2026-09-10T03:45:58Z",
+      "rank": 29
+    },
+    {
+      "name": "codejunkie99/agentic-stack-desktop",
+      "url": "https://github.com/codejunkie99/agentic-stack-desktop",
+      "description": "Native macOS workspace with one local knowledge graph across Claude Code, Codex, OpenCode, and Cursor.",
+      "full_description": "Native macOS workspace with one local knowledge graph across Claude Code, Codex, OpenCode, and Cursor.",
+      "language": "Python",
+      "stars": 28,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "cursor",
+        "knowledge-graph",
+        "local-first",
+        "macos",
+        "mcp",
+        "opencode",
+        "swiftui"
+      ],
+      "created_at": "2026-09-08T09:48:30Z",
+      "updated_at": "2026-09-10T04:18:01Z",
       "rank": 30
     }
   ]
