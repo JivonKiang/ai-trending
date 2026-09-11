@@ -1,48 +1,18 @@
 {
-  "updated": "2026-09-10T05:01:19.636824+00:00",
+  "updated": "2026-09-11T04:57:42.642986+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
   "projects": [
-    {
-      "name": "guillaumemeyer/watermarks-remover",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "description": "A privacy-first app that strips AI watermarks from content you own.",
-      "full_description": "A privacy-first app that strips AI watermarks from content you own.",
-      "language": "Python",
-      "stars": 21556,
-      "stars_gained": 0,
-      "forks": 2479,
-      "topics": [
-        "agent-skill",
-        "ai",
-        "anthropic",
-        "c2pa",
-        "chatgpt",
-        "claude",
-        "gemini",
-        "openai",
-        "provenance",
-        "synthid",
-        "watermark",
-        "watermark-detection",
-        "watermark-tools",
-        "watermarking",
-        "watermarks"
-      ],
-      "created_at": "2026-08-11T16:32:38Z",
-      "updated_at": "2026-09-10T04:49:26Z",
-      "rank": 1
-    },
     {
       "name": "dataelement/dsh-desktop",
       "url": "https://github.com/dataelement/dsh-desktop",
       "description": "DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版",
       "full_description": "DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版",
       "language": "TypeScript",
-      "stars": 4756,
+      "stars": 5029,
       "stars_gained": 0,
-      "forks": 249,
+      "forks": 259,
       "topics": [
         "agent",
         "apps",
@@ -55,8 +25,8 @@
         "harness"
       ],
       "created_at": "2026-08-13T13:45:50Z",
-      "updated_at": "2026-09-10T04:45:37Z",
-      "rank": 2
+      "updated_at": "2026-09-11T04:56:23Z",
+      "rank": 1
     },
     {
       "name": "CopilotKit/OpenBot",
@@ -64,9 +34,9 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "full_description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "language": "TypeScript",
-      "stars": 4574,
+      "stars": 4638,
       "stars_gained": 0,
-      "forks": 565,
+      "forks": 582,
       "topics": [
         "ag-ui",
         "agent-governance",
@@ -77,8 +47,8 @@
         "mcp"
       ],
       "created_at": "2026-08-17T00:44:59Z",
-      "updated_at": "2026-09-10T04:41:21Z",
-      "rank": 3
+      "updated_at": "2026-09-11T04:46:26Z",
+      "rank": 2
     },
     {
       "name": "XiaoDuoYa/codex-with-chatgpt",
@@ -86,9 +56,9 @@
       "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
       "full_description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
       "language": "TypeScript",
-      "stars": 3829,
+      "stars": 3966,
       "stars_gained": 0,
-      "forks": 393,
+      "forks": 415,
       "topics": [
         "ai-agents",
         "chatgpt",
@@ -98,7 +68,30 @@
         "oauth"
       ],
       "created_at": "2026-08-28T12:57:24Z",
-      "updated_at": "2026-09-10T04:49:01Z",
+      "updated_at": "2026-09-11T04:41:17Z",
+      "rank": 3
+    },
+    {
+      "name": "Player-YN/PawWork_ZhuaZhua",
+      "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+      "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+      "full_description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+      "language": "JavaScript",
+      "stars": 2546,
+      "stars_gained": 0,
+      "forks": 7,
+      "topics": [
+        "ai-agent",
+        "browser-agent",
+        "byok",
+        "chrome-extension",
+        "llm",
+        "pptx",
+        "tldraw",
+        "univer"
+      ],
+      "created_at": "2026-08-28T10:56:56Z",
+      "updated_at": "2026-09-11T01:32:05Z",
       "rank": 4
     },
     {
@@ -107,9 +100,9 @@
       "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "full_description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "language": "Python",
-      "stars": 2509,
+      "stars": 2533,
       "stars_gained": 0,
-      "forks": 160,
+      "forks": 162,
       "topics": [
         "agent-skills",
         "ai-writing",
@@ -125,31 +118,8 @@
         "writing-tools"
       ],
       "created_at": "2026-08-28T05:56:49Z",
-      "updated_at": "2026-09-10T04:58:18Z",
+      "updated_at": "2026-09-11T04:50:58Z",
       "rank": 5
-    },
-    {
-      "name": "Player-YN/PawWork_ZhuaZhua",
-      "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
-      "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
-      "full_description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
-      "language": "JavaScript",
-      "stars": 2421,
-      "stars_gained": 0,
-      "forks": 7,
-      "topics": [
-        "ai-agent",
-        "browser-agent",
-        "byok",
-        "chrome-extension",
-        "llm",
-        "pptx",
-        "tldraw",
-        "univer"
-      ],
-      "created_at": "2026-08-28T10:56:56Z",
-      "updated_at": "2026-09-10T04:24:26Z",
-      "rank": 6
     },
     {
       "name": "elie222/rakazo",
@@ -157,9 +127,9 @@
       "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
       "full_description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
       "language": "TypeScript",
-      "stars": 2201,
+      "stars": 2240,
       "stars_gained": 0,
-      "forks": 378,
+      "forks": 388,
       "topics": [
         "ai-agents",
         "chatgpt",
@@ -172,8 +142,8 @@
         "typescript"
       ],
       "created_at": "2026-08-13T06:28:56Z",
-      "updated_at": "2026-09-10T04:55:54Z",
-      "rank": 7
+      "updated_at": "2026-09-11T04:04:22Z",
+      "rank": 6
     },
     {
       "name": "duty1g/x64dbg-mcp-server",
@@ -181,9 +151,9 @@
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "full_description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "language": "Zig",
-      "stars": 1924,
+      "stars": 1928,
       "stars_gained": 0,
-      "forks": 193,
+      "forks": 194,
       "topics": [
         "ai-agents",
         "ai-debugging",
@@ -206,8 +176,8 @@
         "ziglang"
       ],
       "created_at": "2026-08-22T14:28:41Z",
-      "updated_at": "2026-09-10T04:18:47Z",
-      "rank": 8
+      "updated_at": "2026-09-11T03:34:53Z",
+      "rank": 7
     },
     {
       "name": "totec448-spec/chat-on-steroids",
@@ -215,9 +185,9 @@
       "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
       "full_description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
       "language": "TypeScript",
-      "stars": 1674,
+      "stars": 1706,
       "stars_gained": 0,
-      "forks": 229,
+      "forks": 237,
       "topics": [
         "automation",
         "chatgpt",
@@ -231,29 +201,8 @@
         "windows"
       ],
       "created_at": "2026-08-22T14:16:24Z",
-      "updated_at": "2026-09-10T03:49:39Z",
-      "rank": 9
-    },
-    {
-      "name": "cbrock84/headcount",
-      "url": "https://github.com/cbrock84/headcount",
-      "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
-      "full_description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
-      "language": "Markdown",
-      "stars": 1343,
-      "stars_gained": 0,
-      "forks": 206,
-      "topics": [
-        "agent-marketplace",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-plugin",
-        "claude-skills",
-        "mcp"
-      ],
-      "created_at": "2026-08-28T18:03:04Z",
-      "updated_at": "2026-09-10T04:50:55Z",
-      "rank": 10
+      "updated_at": "2026-09-11T02:16:55Z",
+      "rank": 8
     },
     {
       "name": "Appllama/appllama-skills",
@@ -261,9 +210,9 @@
       "description": "A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.",
       "full_description": "A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.",
       "language": "",
-      "stars": 1248,
+      "stars": 1376,
       "stars_gained": 0,
-      "forks": 71,
+      "forks": 74,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -286,33 +235,29 @@
         "ui-design"
       ],
       "created_at": "2026-08-13T07:19:54Z",
-      "updated_at": "2026-09-10T03:26:35Z",
-      "rank": 11
+      "updated_at": "2026-09-11T04:56:22Z",
+      "rank": 9
     },
     {
-      "name": "cinderline/northcinder",
-      "url": "https://github.com/cinderline/northcinder",
-      "description": "Open-source MCP server for comparing products and asking the buyer before purchase.",
-      "full_description": "Open-source MCP server for comparing products and asking the buyer before purchase.",
-      "language": "JavaScript",
-      "stars": 1213,
+      "name": "cbrock84/headcount",
+      "url": "https://github.com/cbrock84/headcount",
+      "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+      "full_description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+      "language": "Markdown",
+      "stars": 1355,
       "stars_gained": 0,
-      "forks": 8,
+      "forks": 209,
       "topics": [
-        "agentic-commerce",
-        "human-in-the-loop",
-        "local-first",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "privacy",
-        "self-hosted",
-        "shopping-agent",
-        "typescript"
+        "agent-marketplace",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-plugin",
+        "claude-skills",
+        "mcp"
       ],
-      "created_at": "2026-08-17T11:42:31Z",
-      "updated_at": "2026-09-09T02:19:53Z",
-      "rank": 12
+      "created_at": "2026-08-28T18:03:04Z",
+      "updated_at": "2026-09-11T02:20:54Z",
+      "rank": 10
     },
     {
       "name": "xzf-thu/VoiceMem",
@@ -320,9 +265,9 @@
       "description": "Infrastructure for the next generation of voice agents, designed to provide universal memory. It is divided into a left brain and a right brain, storing information and emotions respectively, while a fully streaming architecture eliminates latency at the fundamental level.",
       "full_description": "Infrastructure for the next generation of voice agents, designed to provide universal memory. It is divided into a left brain and a right brain, storing information and emotions respectively, while a fully streaming architecture eliminates latency at the fundamental level.",
       "language": "Python",
-      "stars": 1160,
+      "stars": 1277,
       "stars_gained": 0,
-      "forks": 90,
+      "forks": 96,
       "topics": [
         "ai",
         "ai-agents",
@@ -339,8 +284,33 @@
         "voice-assistant"
       ],
       "created_at": "2026-08-17T09:49:10Z",
-      "updated_at": "2026-09-10T04:42:33Z",
-      "rank": 13
+      "updated_at": "2026-09-11T04:49:47Z",
+      "rank": 11
+    },
+    {
+      "name": "cinderline/northcinder",
+      "url": "https://github.com/cinderline/northcinder",
+      "description": "Open-source MCP server for comparing products and asking the buyer before purchase.",
+      "full_description": "Open-source MCP server for comparing products and asking the buyer before purchase.",
+      "language": "JavaScript",
+      "stars": 1212,
+      "stars_gained": 0,
+      "forks": 8,
+      "topics": [
+        "agentic-commerce",
+        "human-in-the-loop",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "privacy",
+        "self-hosted",
+        "shopping-agent",
+        "typescript"
+      ],
+      "created_at": "2026-08-17T11:42:31Z",
+      "updated_at": "2026-09-10T20:23:57Z",
+      "rank": 12
     },
     {
       "name": "vercel-labs/eve-software-factory-template",
@@ -348,9 +318,9 @@
       "description": "Meet Foreman, an eve Software Factory.",
       "full_description": "Meet Foreman, an eve Software Factory.",
       "language": "TypeScript",
-      "stars": 1116,
+      "stars": 1117,
       "stars_gained": 0,
-      "forks": 61,
+      "forks": 62,
       "topics": [
         "agent",
         "ai",
@@ -358,8 +328,8 @@
         "vercel"
       ],
       "created_at": "2026-08-12T12:34:43Z",
-      "updated_at": "2026-09-10T02:52:30Z",
-      "rank": 14
+      "updated_at": "2026-09-10T18:25:19Z",
+      "rank": 13
     },
     {
       "name": "2akouwu/reverify",
@@ -367,9 +337,9 @@
       "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
       "full_description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
       "language": "Python",
-      "stars": 1069,
+      "stars": 1109,
       "stars_gained": 0,
-      "forks": 221,
+      "forks": 225,
       "topics": [
         "ai",
         "ai-agents",
@@ -393,85 +363,8 @@
         "verification"
       ],
       "created_at": "2026-08-31T01:02:18Z",
-      "updated_at": "2026-09-10T03:48:01Z",
-      "rank": 15
-    },
-    {
-      "name": "pgrundev/pgbot",
-      "url": "https://github.com/pgrundev/pgbot",
-      "description": "Postgres intelligence for ai agents & apps",
-      "full_description": "Postgres intelligence for ai agents & apps",
-      "language": "Go",
-      "stars": 1051,
-      "stars_gained": 0,
-      "forks": 50,
-      "topics": [
-        "ai",
-        "data-analysis",
-        "database",
-        "postgres",
-        "postgresql",
-        "postgresql-database"
-      ],
-      "created_at": "2026-08-11T23:41:52Z",
-      "updated_at": "2026-09-10T04:59:56Z",
-      "rank": 16
-    },
-    {
-      "name": "0xsline/awesome-deepseek-harness",
-      "url": "https://github.com/0xsline/awesome-deepseek-harness",
-      "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "full_description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "language": "Python",
-      "stars": 1036,
-      "stars_gained": 0,
-      "forks": 380,
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agents",
-        "ai-tools",
-        "awesome",
-        "awesome-list",
-        "coding-assistant",
-        "curated-list",
-        "deepseek",
-        "deepseek-harness",
-        "developer-tools",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "harness",
-        "llm",
-        "mcp",
-        "plugins"
-      ],
-      "created_at": "2026-08-11T13:14:49Z",
-      "updated_at": "2026-09-10T03:48:58Z",
-      "rank": 17
-    },
-    {
-      "name": "NxcoreAI/EverRoom",
-      "url": "https://github.com/NxcoreAI/EverRoom",
-      "description": "EverRoom - A workspace that remembers your projects, decisions, and sources.",
-      "full_description": "EverRoom - A workspace that remembers your projects, decisions, and sources.",
-      "language": "TypeScript",
-      "stars": 1031,
-      "stars_gained": 0,
-      "forks": 134,
-      "topics": [
-        "ai",
-        "editor",
-        "electron",
-        "knowledge",
-        "memory",
-        "notion",
-        "obisidian",
-        "typescript"
-      ],
-      "created_at": "2026-08-14T13:13:51Z",
-      "updated_at": "2026-09-10T02:31:56Z",
-      "rank": 18
+      "updated_at": "2026-09-11T02:49:28Z",
+      "rank": 14
     },
     {
       "name": "aminkheddache-dotcom/Ptero",
@@ -479,7 +372,7 @@
       "description": "AI Chat with powerful models for free",
       "full_description": "AI Chat with powerful models for free",
       "language": "PHP",
-      "stars": 1017,
+      "stars": 1076,
       "stars_gained": 0,
       "forks": 8,
       "topics": [
@@ -494,8 +387,31 @@
         "php"
       ],
       "created_at": "2026-08-18T13:28:19Z",
-      "updated_at": "2026-09-10T04:45:00Z",
-      "rank": 19
+      "updated_at": "2026-09-11T04:01:16Z",
+      "rank": 15
+    },
+    {
+      "name": "NxcoreAI/EverRoom",
+      "url": "https://github.com/NxcoreAI/EverRoom",
+      "description": "EverRoom - A workspace that remembers your projects, decisions, and sources.",
+      "full_description": "EverRoom - A workspace that remembers your projects, decisions, and sources.",
+      "language": "TypeScript",
+      "stars": 1038,
+      "stars_gained": 0,
+      "forks": 135,
+      "topics": [
+        "ai",
+        "editor",
+        "electron",
+        "knowledge",
+        "memory",
+        "notion",
+        "obisidian",
+        "typescript"
+      ],
+      "created_at": "2026-08-14T13:13:51Z",
+      "updated_at": "2026-09-11T02:41:20Z",
+      "rank": 16
     },
     {
       "name": "Human-Agent-Society/reef",
@@ -503,9 +419,9 @@
       "description": "Continual learning infra for self-improving agents",
       "full_description": "Continual learning infra for self-improving agents",
       "language": "Python",
-      "stars": 899,
+      "stars": 932,
       "stars_gained": 0,
-      "forks": 56,
+      "forks": 63,
       "topics": [
         "agent-infrastructure",
         "ai-agents",
@@ -517,8 +433,35 @@
         "self-improving-agents"
       ],
       "created_at": "2026-08-31T01:39:18Z",
-      "updated_at": "2026-09-10T04:00:52Z",
-      "rank": 20
+      "updated_at": "2026-09-11T04:44:01Z",
+      "rank": 17
+    },
+    {
+      "name": "tigerless-labs/agent-memory",
+      "url": "https://github.com/tigerless-labs/agent-memory",
+      "description": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
+      "full_description": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
+      "language": "Python",
+      "stars": 903,
+      "stars_gained": 0,
+      "forks": 54,
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "llm",
+        "local-first",
+        "long-term-memory",
+        "markdown",
+        "mcp",
+        "python",
+        "retrieval",
+        "sqlite"
+      ],
+      "created_at": "2026-09-01T21:52:29Z",
+      "updated_at": "2026-09-11T04:42:17Z",
+      "rank": 18
     },
     {
       "name": "Anionex/dsh-vision-toolkit",
@@ -549,8 +492,8 @@
         "vision-tools"
       ],
       "created_at": "2026-08-13T12:36:34Z",
-      "updated_at": "2026-09-10T04:49:54Z",
-      "rank": 21
+      "updated_at": "2026-09-11T01:15:59Z",
+      "rank": 19
     },
     {
       "name": "browser-use/macos-harness",
@@ -558,7 +501,7 @@
       "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
       "full_description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
       "language": "Python",
-      "stars": 839,
+      "stars": 841,
       "stars_gained": 0,
       "forks": 58,
       "topics": [
@@ -571,27 +514,32 @@
         "python"
       ],
       "created_at": "2026-08-17T00:22:20Z",
-      "updated_at": "2026-09-09T17:39:26Z",
-      "rank": 22
+      "updated_at": "2026-09-11T00:40:31Z",
+      "rank": 20
     },
     {
-      "name": "furkankly/zoetrope",
-      "url": "https://github.com/furkankly/zoetrope",
-      "description": "Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
-      "full_description": "Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
-      "language": "Rust",
-      "stars": 812,
+      "name": "ZJU-REAL/Easel",
+      "url": "https://github.com/ZJU-REAL/Easel",
+      "description": "An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。",
+      "full_description": "An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。",
+      "language": "Python",
+      "stars": 807,
       "stars_gained": 0,
-      "forks": 51,
+      "forks": 107,
       "topics": [
         "agent",
-        "agent-visualization",
-        "claude-code",
-        "flow"
+        "agent-skill",
+        "content-automation",
+        "content-creation",
+        "content-generation",
+        "mcp",
+        "openclaw",
+        "social-media",
+        "social-media-management"
       ],
-      "created_at": "2026-08-18T10:48:39Z",
-      "updated_at": "2026-09-09T22:31:49Z",
-      "rank": 23
+      "created_at": "2026-08-28T02:22:27Z",
+      "updated_at": "2026-09-11T04:41:44Z",
+      "rank": 21
     },
     {
       "name": "Electricitysheep/dsh-handbook",
@@ -599,9 +547,9 @@
       "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
       "full_description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
       "language": "HTML",
-      "stars": 763,
+      "stars": 764,
       "stars_gained": 0,
-      "forks": 42,
+      "forks": 41,
       "topics": [
         "agent",
         "agent-framework",
@@ -617,59 +565,8 @@
         "tutorial"
       ],
       "created_at": "2026-08-13T15:22:29Z",
-      "updated_at": "2026-09-10T03:20:16Z",
-      "rank": 24
-    },
-    {
-      "name": "tigerless-labs/agent-memory",
-      "url": "https://github.com/tigerless-labs/agent-memory",
-      "description": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
-      "full_description": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
-      "language": "Python",
-      "stars": 736,
-      "stars_gained": 0,
-      "forks": 42,
-      "topics": [
-        "agent-memory",
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "llm",
-        "local-first",
-        "long-term-memory",
-        "markdown",
-        "mcp",
-        "python",
-        "retrieval",
-        "sqlite"
-      ],
-      "created_at": "2026-09-01T21:52:29Z",
-      "updated_at": "2026-09-10T04:49:53Z",
-      "rank": 25
-    },
-    {
-      "name": "ZJU-REAL/Easel",
-      "url": "https://github.com/ZJU-REAL/Easel",
-      "description": "An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。",
-      "full_description": "An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。",
-      "language": "Python",
-      "stars": 731,
-      "stars_gained": 0,
-      "forks": 90,
-      "topics": [
-        "agent",
-        "agent-skill",
-        "content-automation",
-        "content-creation",
-        "content-generation",
-        "mcp",
-        "openclaw",
-        "social-media",
-        "social-media-management"
-      ],
-      "created_at": "2026-08-28T02:22:27Z",
-      "updated_at": "2026-09-10T04:23:48Z",
-      "rank": 26
+      "updated_at": "2026-09-10T08:05:09Z",
+      "rank": 22
     },
     {
       "name": "Ryze-AI-Adgent/open-seo-mcp-skills",
@@ -677,9 +574,9 @@
       "description": "Open-source SEO + GEO skills for Claude on your real GSC/GA4/ads data. Free MCP: claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
       "full_description": "Open-source SEO + GEO skills for Claude on your real GSC/GA4/ads data. Free MCP: claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
       "language": "Shell",
-      "stars": 716,
+      "stars": 754,
       "stars_gained": 0,
-      "forks": 11,
+      "forks": 10,
       "topics": [
         "ai-seo",
         "backlinks",
@@ -697,8 +594,30 @@
         "seo-audit"
       ],
       "created_at": "2026-08-29T23:37:01Z",
-      "updated_at": "2026-09-10T04:55:07Z",
-      "rank": 27
+      "updated_at": "2026-09-11T02:35:16Z",
+      "rank": 23
+    },
+    {
+      "name": "adtexterry-lgtm/unigit-ecosystem",
+      "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
+      "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
+      "full_description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
+      "language": "JavaScript",
+      "stars": 746,
+      "stars_gained": 0,
+      "forks": 45,
+      "topics": [
+        "agentic-ai",
+        "ai-tools",
+        "ai-workbench",
+        "ecosystem",
+        "mcp",
+        "productivity",
+        "unigit"
+      ],
+      "created_at": "2026-09-02T10:08:01Z",
+      "updated_at": "2026-09-11T04:57:13Z",
+      "rank": 24
     },
     {
       "name": "whitelonng/dshcode",
@@ -706,7 +625,7 @@
       "description": "Community desktop companion for DeepSeek Harness — one-click Electron app for macOS and Windows",
       "full_description": "Community desktop companion for DeepSeek Harness — one-click Electron app for macOS and Windows",
       "language": "TypeScript",
-      "stars": 714,
+      "stars": 715,
       "stars_gained": 0,
       "forks": 29,
       "topics": [
@@ -717,8 +636,8 @@
         "harness"
       ],
       "created_at": "2026-08-13T13:23:11Z",
-      "updated_at": "2026-09-09T04:58:16Z",
-      "rank": 28
+      "updated_at": "2026-09-10T06:36:30Z",
+      "rank": 25
     },
     {
       "name": "datawhalechina/zero-to-sglang",
@@ -726,9 +645,9 @@
       "description": "Official SGLang × Datawhale course on LLM inference (中英双语): understand inference, build a mini-sglang from scratch, then read the real SGLang source and land your first PR. 《从零手搓SGLang》：读懂推理，手搓 mini-sglang，吃透 SGLang 源码。",
       "full_description": "Official SGLang × Datawhale course on LLM inference (中英双语): understand inference, build a mini-sglang from scratch, then read the real SGLang source and land your first PR. 《从零手搓SGLang》：读懂推理，手搓 mini-sglang，吃透 SGLang 源码。",
       "language": "Python",
-      "stars": 640,
+      "stars": 701,
       "stars_gained": 0,
-      "forks": 48,
+      "forks": 54,
       "topics": [
         "cuda",
         "datawhale",
@@ -741,8 +660,58 @@
         "tutorial"
       ],
       "created_at": "2026-08-27T02:24:12Z",
-      "updated_at": "2026-09-10T04:47:46Z",
-      "rank": 29
+      "updated_at": "2026-09-11T04:42:40Z",
+      "rank": 26
+    },
+    {
+      "name": "kgoedecke/doop",
+      "url": "https://github.com/kgoedecke/doop",
+      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "full_description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "language": "TypeScript",
+      "stars": 646,
+      "stars_gained": 0,
+      "forks": 82,
+      "topics": [
+        "ai-agents",
+        "canvas",
+        "claude",
+        "claude-code",
+        "claude-design",
+        "codex",
+        "design",
+        "design-tool",
+        "mcp",
+        "multiplayer"
+      ],
+      "created_at": "2026-08-22T15:40:51Z",
+      "updated_at": "2026-09-10T22:25:51Z",
+      "rank": 27
+    },
+    {
+      "name": "panxunying/ai-coding-welfare",
+      "url": "https://github.com/panxunying/ai-coding-welfare",
+      "description": "AI Coding 福利站导航：免费白嫖 Claude Code / Codex 的中转站与公益站合集，含额度、模型、价格自动更新与一键配置脚本",
+      "full_description": "AI Coding 福利站导航：免费白嫖 Claude Code / Codex 的中转站与公益站合集，含额度、模型、价格自动更新与一键配置脚本",
+      "language": "JavaScript",
+      "stars": 634,
+      "stars_gained": 0,
+      "forks": 45,
+      "topics": [
+        "ai-coding",
+        "anthropic",
+        "api-proxy",
+        "claude-code",
+        "codex",
+        "free-api",
+        "free-quota",
+        "llm",
+        "new-api",
+        "openai"
+      ],
+      "created_at": "2026-08-21T08:59:30Z",
+      "updated_at": "2026-09-11T04:43:29Z",
+      "rank": 28
     },
     {
       "name": "hkqr/my-free-code",
@@ -750,7 +719,7 @@
       "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
       "full_description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
       "language": "Python",
-      "stars": 633,
+      "stars": 634,
       "stars_gained": 0,
       "forks": 211,
       "topics": [
@@ -761,7 +730,35 @@
         "multi-provider-llm"
       ],
       "created_at": "2026-08-27T17:59:23Z",
-      "updated_at": "2026-09-09T17:55:20Z",
+      "updated_at": "2026-09-10T21:27:33Z",
+      "rank": 29
+    },
+    {
+      "name": "lencx/Minke",
+      "url": "https://github.com/lencx/Minke",
+      "description": "🐳 DeepSeek Harness Desktop",
+      "full_description": "🐳 DeepSeek Harness Desktop",
+      "language": "TypeScript",
+      "stars": 633,
+      "stars_gained": 0,
+      "forks": 69,
+      "topics": [
+        "agent",
+        "ai-agents",
+        "codex",
+        "cordis",
+        "deekseek",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "harness",
+        "linux",
+        "macos",
+        "skills",
+        "windows"
+      ],
+      "created_at": "2026-08-15T01:49:38Z",
+      "updated_at": "2026-09-10T15:19:14Z",
       "rank": 30
     }
   ]
