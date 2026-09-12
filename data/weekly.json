@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T04:57:41.682515+00:00",
+  "updated": "2026-09-12T04:50:25.766283+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
       "full_description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
       "language": "Go",
-      "stars": 551,
+      "stars": 579,
       "stars_gained": 0,
-      "forks": 35,
+      "forks": 38,
       "topics": [
         "agent-memory",
         "ai-agents",
@@ -34,8 +34,47 @@
         "persistent-memory"
       ],
       "created_at": "2026-09-05T21:26:04Z",
-      "updated_at": "2026-09-11T04:28:56Z",
+      "updated_at": "2026-09-12T04:50:22Z",
       "rank": 1
+    },
+    {
+      "name": "Colafornia/short-video-generator-AI",
+      "url": "https://github.com/Colafornia/short-video-generator-AI",
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "full_description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "language": "Python",
+      "stars": 482,
+      "stars_gained": 0,
+      "forks": 110,
+      "topics": [
+        "ai",
+        "ai-generation",
+        "short-video",
+        "short-video-maker"
+      ],
+      "created_at": "2026-09-08T14:55:47Z",
+      "updated_at": "2026-09-12T04:17:10Z",
+      "rank": 2
+    },
+    {
+      "name": "crwdla/tokentab",
+      "url": "https://github.com/crwdla/tokentab",
+      "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "full_description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "language": "Python",
+      "stars": 445,
+      "stars_gained": 0,
+      "forks": 170,
+      "topics": [
+        "ai",
+        "ai-token-monitor",
+        "claude-code",
+        "token-optimization",
+        "token-usage"
+      ],
+      "created_at": "2026-09-07T17:18:31Z",
+      "updated_at": "2026-09-12T04:37:31Z",
+      "rank": 3
     },
     {
       "name": "yudaprasetya007/routeVSCODE",
@@ -43,7 +82,7 @@
       "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
       "full_description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
       "language": "JavaScript",
-      "stars": 326,
+      "stars": 327,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -59,47 +98,38 @@
         "vscode-extension"
       ],
       "created_at": "2026-09-10T01:25:00Z",
-      "updated_at": "2026-09-10T01:40:38Z",
-      "rank": 2
-    },
-    {
-      "name": "Colafornia/short-video-generator-AI",
-      "url": "https://github.com/Colafornia/short-video-generator-AI",
-      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "full_description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "language": "Python",
-      "stars": 293,
-      "stars_gained": 0,
-      "forks": 109,
-      "topics": [
-        "ai",
-        "ai-generation",
-        "short-video",
-        "short-video-maker"
-      ],
-      "created_at": "2026-09-08T14:55:47Z",
-      "updated_at": "2026-09-11T04:45:25Z",
-      "rank": 3
-    },
-    {
-      "name": "crwdla/tokentab",
-      "url": "https://github.com/crwdla/tokentab",
-      "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-      "full_description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-      "language": "Python",
-      "stars": 278,
-      "stars_gained": 0,
-      "forks": 101,
-      "topics": [
-        "ai",
-        "ai-token-monitor",
-        "claude-code",
-        "token-optimization",
-        "token-usage"
-      ],
-      "created_at": "2026-09-07T17:18:31Z",
-      "updated_at": "2026-09-11T04:31:17Z",
+      "updated_at": "2026-09-11T05:40:46Z",
       "rank": 4
+    },
+    {
+      "name": "unstablebuild/rune",
+      "url": "https://github.com/unstablebuild/rune",
+      "description": "the development environment for pros",
+      "full_description": "the development environment for pros",
+      "language": "Go",
+      "stars": 242,
+      "stars_gained": 0,
+      "forks": 15,
+      "topics": [
+        "agent-orchestration",
+        "ai",
+        "cli",
+        "coding-agents",
+        "developer-tool",
+        "devtools",
+        "go",
+        "golang",
+        "ide",
+        "rune",
+        "terminal-multiplexer",
+        "text-editor",
+        "tmux",
+        "tui",
+        "workspace-manager"
+      ],
+      "created_at": "2026-09-10T10:50:03Z",
+      "updated_at": "2026-09-12T04:45:06Z",
+      "rank": 5
     },
     {
       "name": "noskillish/bankmcp",
@@ -107,7 +137,7 @@
       "description": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
       "full_description": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
       "language": "TypeScript",
-      "stars": 178,
+      "stars": 190,
       "stars_gained": 0,
       "forks": 33,
       "topics": [
@@ -123,8 +153,8 @@
         "self-hosted"
       ],
       "created_at": "2026-09-07T09:06:03Z",
-      "updated_at": "2026-09-10T20:55:50Z",
-      "rank": 5
+      "updated_at": "2026-09-12T04:50:19Z",
+      "rank": 6
     },
     {
       "name": "punkpeye/awesome-remote-mcp-servers",
@@ -132,36 +162,42 @@
       "description": "A collection of remote MCP servers.",
       "full_description": "A collection of remote MCP servers.",
       "language": "",
-      "stars": 131,
+      "stars": 164,
       "stars_gained": 0,
-      "forks": 208,
+      "forks": 242,
       "topics": [
         "mcp"
       ],
       "created_at": "2026-09-08T00:43:30Z",
-      "updated_at": "2026-09-11T04:43:58Z",
-      "rank": 6
+      "updated_at": "2026-09-12T02:11:57Z",
+      "rank": 7
     },
     {
-      "name": "TokenRhythm/NeoHorse",
-      "url": "https://github.com/TokenRhythm/NeoHorse",
-      "description": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness.",
-      "full_description": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness.",
-      "language": "",
-      "stars": 123,
+      "name": "xiaYuTian11/maskit",
+      "url": "https://github.com/xiaYuTian11/maskit",
+      "description": "数据面具 Data Maskit — 专为大模型打造的本地隐私脱敏网关（请求自动打码，回复流式还原；支持 Cursor / Claude Code / Codex / Pi 等任意可配 Base URL 工具）",
+      "full_description": "数据面具 Data Maskit — 专为大模型打造的本地隐私脱敏网关（请求自动打码，回复流式还原；支持 Cursor / Claude Code / Codex / Pi 等任意可配 Base URL 工具）",
+      "language": "Python",
+      "stars": 155,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 31,
       "topics": [
-        "agent",
-        "large-language-models",
+        "anthropic",
+        "claude-code",
+        "cursor",
+        "data-masking",
         "llm",
-        "post-training",
-        "recursive-self-improvement",
-        "rsi"
+        "mitmproxy",
+        "openai",
+        "pii",
+        "privacy",
+        "proxy",
+        "security",
+        "tauri"
       ],
-      "created_at": "2026-09-04T08:34:54Z",
-      "updated_at": "2026-09-11T03:42:55Z",
-      "rank": 7
+      "created_at": "2026-09-09T12:36:06Z",
+      "updated_at": "2026-09-12T04:45:13Z",
+      "rank": 8
     },
     {
       "name": "fidetolabs/qanat",
@@ -169,9 +205,9 @@
       "description": "Agent-native workflow engine for building and backtesting alphas as DAGs.",
       "full_description": "Agent-native workflow engine for building and backtesting alphas as DAGs.",
       "language": "Python",
-      "stars": 123,
+      "stars": 137,
       "stars_gained": 0,
-      "forks": 25,
+      "forks": 26,
       "topics": [
         "alpha-research",
         "backtesting",
@@ -182,8 +218,8 @@
         "trading-toolkit"
       ],
       "created_at": "2026-09-05T14:43:40Z",
-      "updated_at": "2026-09-11T04:33:49Z",
-      "rank": 8
+      "updated_at": "2026-09-12T00:47:13Z",
+      "rank": 9
     },
     {
       "name": "Atomburstofficial/geiger",
@@ -191,7 +227,7 @@
       "description": "A Geiger counter for AI agents — one read-only command that inventories every agent, MCP server, plugin, and AI extension on a machine",
       "full_description": "A Geiger counter for AI agents — one read-only command that inventories every agent, MCP server, plugin, and AI extension on a machine",
       "language": "JavaScript",
-      "stars": 105,
+      "stars": 112,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
@@ -208,8 +244,59 @@
         "security-tools"
       ],
       "created_at": "2026-09-06T17:45:50Z",
-      "updated_at": "2026-09-11T04:26:33Z",
-      "rank": 9
+      "updated_at": "2026-09-12T04:16:37Z",
+      "rank": 10
+    },
+    {
+      "name": "aimeoa/hanshuang-codex",
+      "url": "https://github.com/aimeoa/hanshuang-codex",
+      "description": "针对GPT 6.0,V4flash的破甲实验项目",
+      "full_description": "针对GPT 6.0,V4flash的破甲实验项目",
+      "language": "Python",
+      "stars": 107,
+      "stars_gained": 0,
+      "forks": 21,
+      "topics": [
+        "ai",
+        "codex",
+        "codex-cli",
+        "desktop-app",
+        "jailbreak",
+        "llm",
+        "openai-codex",
+        "prompt-injection",
+        "pyside6",
+        "python"
+      ],
+      "created_at": "2026-09-06T08:42:57Z",
+      "updated_at": "2026-09-12T03:25:39Z",
+      "rank": 11
+    },
+    {
+      "name": "FankChen/tracecrate",
+      "url": "https://github.com/FankChen/tracecrate",
+      "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
+      "full_description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
+      "language": "TypeScript",
+      "stars": 105,
+      "stars_gained": 0,
+      "forks": 2,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "local-first",
+        "observability",
+        "opentelemetry",
+        "privacy",
+        "react",
+        "typescript"
+      ],
+      "created_at": "2026-09-10T09:27:41Z",
+      "updated_at": "2026-09-12T04:43:41Z",
+      "rank": 12
     },
     {
       "name": "Albertchamberlain/Awesome-OKF",
@@ -217,7 +304,7 @@
       "description": "OKF (Open Knowledge Format) — curated catalog of tools, plugins, skills, proposals, and docs for agent-friendly knowledge. YAML-driven, agent-searchable, MCP-ready.",
       "full_description": "OKF (Open Knowledge Format) — curated catalog of tools, plugins, skills, proposals, and docs for agent-friendly knowledge. YAML-driven, agent-searchable, MCP-ready.",
       "language": "Python",
-      "stars": 101,
+      "stars": 102,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
@@ -241,8 +328,8 @@
         "yaml"
       ],
       "created_at": "2026-09-07T06:12:39Z",
-      "updated_at": "2026-09-10T10:38:52Z",
-      "rank": 10
+      "updated_at": "2026-09-11T13:37:13Z",
+      "rank": 13
     },
     {
       "name": "Innei/lody-ios",
@@ -250,9 +337,9 @@
       "description": "Independent iOS client for Lody — native chat, sessions, and coding-agent collaboration on iPhone",
       "full_description": "Independent iOS client for Lody — native chat, sessions, and coding-agent collaboration on iPhone",
       "language": "TypeScript",
-      "stars": 89,
+      "stars": 91,
       "stars_gained": 0,
-      "forks": 7,
+      "forks": 8,
       "topics": [
         "agent",
         "coding-agent",
@@ -265,33 +352,8 @@
         "swift"
       ],
       "created_at": "2026-09-05T18:37:43Z",
-      "updated_at": "2026-09-10T19:14:38Z",
-      "rank": 11
-    },
-    {
-      "name": "aimeoa/hanshuang-codex",
-      "url": "https://github.com/aimeoa/hanshuang-codex",
-      "description": "针对GPT 6.0,V4flash的破甲实验项目",
-      "full_description": "针对GPT 6.0,V4flash的破甲实验项目",
-      "language": "Python",
-      "stars": 89,
-      "stars_gained": 0,
-      "forks": 17,
-      "topics": [
-        "ai",
-        "codex",
-        "codex-cli",
-        "desktop-app",
-        "jailbreak",
-        "llm",
-        "openai-codex",
-        "prompt-injection",
-        "pyside6",
-        "python"
-      ],
-      "created_at": "2026-09-06T08:42:57Z",
-      "updated_at": "2026-09-11T04:50:29Z",
-      "rank": 12
+      "updated_at": "2026-09-12T01:49:24Z",
+      "rank": 14
     },
     {
       "name": "bsab/france-mcp-servers",
@@ -299,7 +361,7 @@
       "description": "A curated catalog of Model Context Protocol servers for French data, laws, and services.",
       "full_description": "A curated catalog of Model Context Protocol servers for French data, laws, and services.",
       "language": "Python",
-      "stars": 82,
+      "stars": 83,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -310,57 +372,7 @@
         "open-data"
       ],
       "created_at": "2026-09-06T17:30:00Z",
-      "updated_at": "2026-09-08T13:08:32Z",
-      "rank": 13
-    },
-    {
-      "name": "xiaYuTian11/maskit",
-      "url": "https://github.com/xiaYuTian11/maskit",
-      "description": "数据面具 Data Maskit — 专为大模型打造的本地隐私脱敏网关（请求自动打码，回复流式还原；支持 Cursor / Claude Code / Codex / Pi 等任意可配 Base URL 工具）",
-      "full_description": "数据面具 Data Maskit — 专为大模型打造的本地隐私脱敏网关（请求自动打码，回复流式还原；支持 Cursor / Claude Code / Codex / Pi 等任意可配 Base URL 工具）",
-      "language": "Python",
-      "stars": 79,
-      "stars_gained": 0,
-      "forks": 10,
-      "topics": [
-        "anthropic",
-        "claude-code",
-        "cursor",
-        "data-masking",
-        "llm",
-        "mitmproxy",
-        "openai",
-        "pii",
-        "privacy",
-        "proxy",
-        "security",
-        "tauri"
-      ],
-      "created_at": "2026-09-09T12:36:06Z",
-      "updated_at": "2026-09-11T04:49:32Z",
-      "rank": 14
-    },
-    {
-      "name": "paveldevyatov/refund-anything-ai-prompt",
-      "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
-      "description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
-      "full_description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
-      "language": "",
-      "stars": 70,
-      "stars_gained": 0,
-      "forks": 3,
-      "topics": [
-        "ai",
-        "chargeback",
-        "chatgpt",
-        "claude",
-        "consumer-rights",
-        "prompt",
-        "refund",
-        "subscription"
-      ],
-      "created_at": "2026-09-08T10:20:24Z",
-      "updated_at": "2026-09-10T16:25:22Z",
+      "updated_at": "2026-09-11T14:00:16Z",
       "rank": 15
     },
     {
@@ -369,7 +381,7 @@
       "description": "A memory governance engine for multi-agent cloud knowledge bases — one knowledge base shared by every agent and every device, with consistency guaranteed. Pure Markdown, nine governance automations, zero dependencies.",
       "full_description": "A memory governance engine for multi-agent cloud knowledge bases — one knowledge base shared by every agent and every device, with consistency guaranteed. Pure Markdown, nine governance automations, zero dependencies.",
       "language": "",
-      "stars": 64,
+      "stars": 83,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -382,30 +394,25 @@
         "vault"
       ],
       "created_at": "2026-09-05T05:15:51Z",
-      "updated_at": "2026-09-11T03:26:17Z",
+      "updated_at": "2026-09-12T03:06:13Z",
       "rank": 16
     },
     {
-      "name": "jangtrinh/design-os-3d-blender",
-      "url": "https://github.com/jangtrinh/design-os-3d-blender",
-      "description": "AI-agent operating system for Blender 5.2: skills, verified bpy knowledge base, AGENT_OK/AGENT_FAIL execution contract, production gate for 3D-printable parts, robot-arm demo",
-      "full_description": "AI-agent operating system for Blender 5.2: skills, verified bpy knowledge base, AGENT_OK/AGENT_FAIL execution contract, production gate for 3D-printable parts, robot-arm demo",
-      "language": "Python",
-      "stars": 63,
+      "name": "Loopera-ai/loopera",
+      "url": "https://github.com/Loopera-ai/loopera",
+      "description": "面向基本面因子研究的智能体-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
+      "full_description": "面向基本面因子研究的智能体-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
+      "language": "",
+      "stars": 82,
       "stars_gained": 0,
-      "forks": 15,
+      "forks": 9,
       "topics": [
-        "3d-printing",
+        "ai",
         "ai-agent",
-        "blender",
-        "bpy",
-        "claude-code",
-        "codex",
-        "mcp",
-        "robotics"
+        "quant"
       ],
-      "created_at": "2026-09-06T00:18:05Z",
-      "updated_at": "2026-09-11T02:58:36Z",
+      "created_at": "2026-09-08T13:46:05Z",
+      "updated_at": "2026-09-12T03:45:32Z",
       "rank": 17
     },
     {
@@ -414,7 +421,7 @@
       "description": "Interactive terminal code review git diff with intra-line highlighting",
       "full_description": "Interactive terminal code review git diff with intra-line highlighting",
       "language": "JavaScript",
-      "stars": 57,
+      "stars": 74,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
@@ -430,108 +437,73 @@
         "sdd"
       ],
       "created_at": "2026-09-06T21:28:21Z",
-      "updated_at": "2026-09-11T01:45:22Z",
+      "updated_at": "2026-09-12T02:15:45Z",
       "rank": 18
     },
     {
-      "name": "dengyie/cnb2api",
-      "url": "https://github.com/dengyie/cnb2api",
-      "description": "Expose a CNB cloud-workspace in-network AI endpoint as an OpenAI-compatible API. Zero dependencies, self-healing fixed domain.",
-      "full_description": "Expose a CNB cloud-workspace in-network AI endpoint as an OpenAI-compatible API. Zero dependencies, self-healing fixed domain.",
-      "language": "JavaScript",
-      "stars": 56,
+      "name": "Noisyxl/brier",
+      "url": "https://github.com/Noisyxl/brier",
+      "description": "Anyone can predict the future. Almost nobody keeps the receipt. A hash-chained prediction ledger for LLMs — sealed before the answer exists, graded with proper scoring rules.",
+      "full_description": "Anyone can predict the future. Almost nobody keeps the receipt. A hash-chained prediction ledger for LLMs — sealed before the answer exists, graded with proper scoring rules.",
+      "language": "HTML",
+      "stars": 74,
       "stars_gained": 0,
-      "forks": 29,
+      "forks": 5,
       "topics": [
-        "api-gateway",
-        "cli",
-        "cnb",
+        "ai",
+        "ai-agents",
         "llm",
-        "openai",
-        "openai-compatible",
-        "proxy",
-        "quota",
-        "self-healing",
-        "sse",
-        "zero-dependencies"
+        "robinhood-chain"
       ],
-      "created_at": "2026-09-04T14:47:11Z",
-      "updated_at": "2026-09-11T04:08:56Z",
+      "created_at": "2026-09-06T13:42:25Z",
+      "updated_at": "2026-09-12T04:10:36Z",
       "rank": 19
     },
     {
-      "name": "codejunkie99/agentic-stack-desktop",
-      "url": "https://github.com/codejunkie99/agentic-stack-desktop",
-      "description": "Native macOS workspace with one local knowledge graph across Claude Code, Codex, OpenCode, and Cursor.",
-      "full_description": "Native macOS workspace with one local knowledge graph across Claude Code, Codex, OpenCode, and Cursor.",
-      "language": "Python",
-      "stars": 52,
-      "stars_gained": 0,
-      "forks": 8,
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "cursor",
-        "knowledge-graph",
-        "local-first",
-        "macos",
-        "mcp",
-        "opencode",
-        "swiftui"
-      ],
-      "created_at": "2026-09-08T09:48:30Z",
-      "updated_at": "2026-09-11T02:59:28Z",
-      "rank": 20
-    },
-    {
-      "name": "arnsri33/embedflow",
-      "url": "https://github.com/arnsri33/embedflow",
-      "description": "Zero downtime embedding upgrades",
-      "full_description": "Zero downtime embedding upgrades",
-      "language": "Python",
-      "stars": 46,
-      "stars_gained": 0,
-      "forks": 1,
-      "topics": [
-        "embedding",
-        "embedding-models",
-        "embedding-vectors",
-        "embeddings-similarity",
-        "faiss",
-        "information-retrieval",
-        "machine-learning",
-        "pgvector",
-        "qdrant",
-        "rag",
-        "rag-pipeline",
-        "semantic-search",
-        "vector-database",
-        "vector-search"
-      ],
-      "created_at": "2026-09-07T20:10:13Z",
-      "updated_at": "2026-09-10T22:14:02Z",
-      "rank": 21
-    },
-    {
-      "name": "Raymondhou0917/ai-level-check",
-      "url": "https://github.com/Raymondhou0917/ai-level-check",
-      "description": "AI 幾級了 — What level is your AI usage? Reads local agent logs and writes an LV0–LV5 report. No ranking.",
-      "full_description": "AI 幾級了 — What level is your AI usage? Reads local agent logs and writes an LV0–LV5 report. No ranking.",
-      "language": "Python",
-      "stars": 36,
+      "name": "paveldevyatov/refund-anything-ai-prompt",
+      "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
+      "description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
+      "full_description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
+      "language": "",
+      "stars": 74,
       "stars_gained": 0,
       "forks": 3,
       "topics": [
         "ai",
-        "claude-code",
-        "productivity",
-        "skill",
-        "traditional-chinese"
+        "chargeback",
+        "chatgpt",
+        "claude",
+        "consumer-rights",
+        "prompt",
+        "refund",
+        "subscription"
       ],
-      "created_at": "2026-09-08T04:59:51Z",
-      "updated_at": "2026-09-10T16:11:18Z",
-      "rank": 22
+      "created_at": "2026-09-08T10:20:24Z",
+      "updated_at": "2026-09-12T01:45:09Z",
+      "rank": 20
+    },
+    {
+      "name": "jangtrinh/design-os-3d-blender",
+      "url": "https://github.com/jangtrinh/design-os-3d-blender",
+      "description": "AI-agent operating system for Blender 5.2: skills, verified bpy knowledge base, AGENT_OK/AGENT_FAIL execution contract, production gate for 3D-printable parts, robot-arm demo",
+      "full_description": "AI-agent operating system for Blender 5.2: skills, verified bpy knowledge base, AGENT_OK/AGENT_FAIL execution contract, production gate for 3D-printable parts, robot-arm demo",
+      "language": "Python",
+      "stars": 67,
+      "stars_gained": 0,
+      "forks": 17,
+      "topics": [
+        "3d-printing",
+        "ai-agent",
+        "blender",
+        "bpy",
+        "claude-code",
+        "codex",
+        "mcp",
+        "robotics"
+      ],
+      "created_at": "2026-09-06T00:18:05Z",
+      "updated_at": "2026-09-11T13:48:40Z",
+      "rank": 21
     },
     {
       "name": "undefined-ui/second-brain-os",
@@ -539,9 +511,9 @@
       "description": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.",
       "full_description": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.",
       "language": "HTML",
-      "stars": 34,
+      "stars": 57,
       "stars_gained": 0,
-      "forks": 7,
+      "forks": 8,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -558,8 +530,52 @@
         "second-brain"
       ],
       "created_at": "2026-09-07T15:08:13Z",
-      "updated_at": "2026-09-11T04:33:37Z",
+      "updated_at": "2026-09-12T00:09:28Z",
+      "rank": 22
+    },
+    {
+      "name": "codejunkie99/agentic-stack-desktop",
+      "url": "https://github.com/codejunkie99/agentic-stack-desktop",
+      "description": "Native macOS workspace with one local knowledge graph across Claude Code, Codex, OpenCode, and Cursor.",
+      "full_description": "Native macOS workspace with one local knowledge graph across Claude Code, Codex, OpenCode, and Cursor.",
+      "language": "Python",
+      "stars": 55,
+      "stars_gained": 0,
+      "forks": 9,
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "cursor",
+        "knowledge-graph",
+        "local-first",
+        "macos",
+        "mcp",
+        "opencode",
+        "swiftui"
+      ],
+      "created_at": "2026-09-08T09:48:30Z",
+      "updated_at": "2026-09-11T10:15:25Z",
       "rank": 23
+    },
+    {
+      "name": "kruzovic7/ai-data-extractor",
+      "url": "https://github.com/kruzovic7/ai-data-extractor",
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "full_description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "language": "Python",
+      "stars": 54,
+      "stars_gained": 0,
+      "forks": 15,
+      "topics": [
+        "ai",
+        "ai-data-extraction",
+        "claude-code",
+        "cursor"
+      ],
+      "created_at": "2026-09-11T18:12:58Z",
+      "updated_at": "2026-09-12T04:45:00Z",
+      "rank": 24
     },
     {
       "name": "RankSpotAI/awesome-seo-mcp",
@@ -567,7 +583,7 @@
       "description": "A curated list of MCP servers for SEO. Search Console, keywords, backlinks, crawling, SERPs and AI search visibility, verified with install details and auth requirements.",
       "full_description": "A curated list of MCP servers for SEO. Search Console, keywords, backlinks, crawling, SERPs and AI search visibility, verified with install details and auth requirements.",
       "language": "Python",
-      "stars": 33,
+      "stars": 50,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
@@ -585,8 +601,106 @@
         "seo-tools"
       ],
       "created_at": "2026-09-06T12:32:34Z",
-      "updated_at": "2026-09-08T20:51:37Z",
-      "rank": 24
+      "updated_at": "2026-09-12T04:19:49Z",
+      "rank": 25
+    },
+    {
+      "name": "arnsri33/embedflow",
+      "url": "https://github.com/arnsri33/embedflow",
+      "description": "Zero downtime embedding upgrades",
+      "full_description": "Zero downtime embedding upgrades",
+      "language": "Python",
+      "stars": 49,
+      "stars_gained": 0,
+      "forks": 1,
+      "topics": [
+        "embedding",
+        "embedding-models",
+        "embedding-vectors",
+        "embeddings-similarity",
+        "faiss",
+        "information-retrieval",
+        "machine-learning",
+        "pgvector",
+        "pinecone",
+        "qdrant",
+        "rag",
+        "rag-pipeline",
+        "semantic-search",
+        "vector-database",
+        "vector-search"
+      ],
+      "created_at": "2026-09-07T20:10:13Z",
+      "updated_at": "2026-09-11T22:56:45Z",
+      "rank": 26
+    },
+    {
+      "name": "tudoumashu/ai-memory-skillpack",
+      "url": "https://github.com/tudoumashu/ai-memory-skillpack",
+      "description": "Bounded project-memory skills for Codex CLI and Claude Code.",
+      "full_description": "Bounded project-memory skills for Codex CLI and Claude Code.",
+      "language": "Python",
+      "stars": 41,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "agent-memory",
+        "claude-code",
+        "codex",
+        "llm",
+        "skills"
+      ],
+      "created_at": "2026-09-08T05:07:25Z",
+      "updated_at": "2026-09-12T02:09:16Z",
+      "rank": 27
+    },
+    {
+      "name": "gcjordi/aigraphstudio",
+      "url": "https://github.com/gcjordi/aigraphstudio",
+      "description": "Dissenyador visual de workflows i graphs d’IA agentiva · Diseñador visual de workflows y graphs de IA agéntica · Visual designer for agentic AI workflows and graphs",
+      "full_description": "Dissenyador visual de workflows i graphs d’IA agentiva · Diseñador visual de workflows y graphs de IA agéntica · Visual designer for agentic AI workflows and graphs",
+      "language": "JavaScript",
+      "stars": 38,
+      "stars_gained": 0,
+      "forks": 4,
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "ai-architecture",
+        "ai-engineering",
+        "ai-workflows",
+        "context-engineering",
+        "graph-editor",
+        "human-in-the-loop",
+        "llm",
+        "multi-agent-systems",
+        "open-source",
+        "rag",
+        "workflow-editor"
+      ],
+      "created_at": "2026-09-07T08:47:20Z",
+      "updated_at": "2026-09-12T00:27:52Z",
+      "rank": 28
+    },
+    {
+      "name": "Raymondhou0917/ai-level-check",
+      "url": "https://github.com/Raymondhou0917/ai-level-check",
+      "description": "AI 幾級了 — What level is your AI usage? Reads local agent logs and writes an LV0–LV5 report. No ranking.",
+      "full_description": "AI 幾級了 — What level is your AI usage? Reads local agent logs and writes an LV0–LV5 report. No ranking.",
+      "language": "Python",
+      "stars": 38,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "ai",
+        "claude-code",
+        "productivity",
+        "skill",
+        "traditional-chinese"
+      ],
+      "created_at": "2026-09-08T04:59:51Z",
+      "updated_at": "2026-09-11T14:34:51Z",
+      "rank": 29
     },
     {
       "name": "krmisystems/fantasy-football-manager",
@@ -613,132 +727,6 @@
       ],
       "created_at": "2026-09-08T02:55:36Z",
       "updated_at": "2026-09-11T04:33:17Z",
-      "rank": 25
-    },
-    {
-      "name": "sreenidhbonagiri/remedi",
-      "url": "https://github.com/sreenidhbonagiri/remedi",
-      "description": "Find affordable prescription alternatives and patient assistance programs in seconds using FDA data and income eligibility checks.",
-      "full_description": "Find affordable prescription alternatives and patient assistance programs in seconds using FDA data and income eligibility checks.",
-      "language": "Python",
-      "stars": 32,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai",
-        "ai-agent",
-        "css",
-        "digital-health",
-        "fastapi",
-        "health",
-        "health-data",
-        "health-tech",
-        "healthcare",
-        "healthcare-ai",
-        "html",
-        "javascript",
-        "langgraph",
-        "medicine",
-        "open-source",
-        "openfda",
-        "pytest",
-        "python",
-        "python3",
-        "reportlab"
-      ],
-      "created_at": "2026-09-06T04:46:45Z",
-      "updated_at": "2026-09-11T01:43:16Z",
-      "rank": 26
-    },
-    {
-      "name": "gcjordi/aigraphstudio",
-      "url": "https://github.com/gcjordi/aigraphstudio",
-      "description": "Dissenyador visual de workflows i graphs d’IA agentiva · Diseñador visual de workflows y graphs de IA agéntica · Visual designer for agentic AI workflows and graphs",
-      "full_description": "Dissenyador visual de workflows i graphs d’IA agentiva · Diseñador visual de workflows y graphs de IA agéntica · Visual designer for agentic AI workflows and graphs",
-      "language": "JavaScript",
-      "stars": 31,
-      "stars_gained": 0,
-      "forks": 4,
-      "topics": [
-        "agentic-ai",
-        "ai-agents",
-        "ai-architecture",
-        "ai-engineering",
-        "ai-workflows",
-        "context-engineering",
-        "graph-editor",
-        "human-in-the-loop",
-        "llm",
-        "multi-agent-systems",
-        "open-source",
-        "rag",
-        "workflow-editor"
-      ],
-      "created_at": "2026-09-07T08:47:20Z",
-      "updated_at": "2026-09-11T04:15:04Z",
-      "rank": 27
-    },
-    {
-      "name": "EverlastingAI-Official/LifeContextOS",
-      "url": "https://github.com/EverlastingAI-Official/LifeContextOS",
-      "description": "It is a \"LifeContext\" operating system designed to run entirely on-device, transforming personal data—such as chat logs, documents, and oral histories—into digital memories and personality structures that are traceable, editable, and portable. We aim to establish a standardized LifeContext format, creating an open foundation for personalized agents",
-      "full_description": "It is a \"LifeContext\" operating system designed to run entirely on-device, transforming personal data—such as chat logs, documents, and oral histories—into digital memories and personality structures that are traceable, editable, and portable. We aim to establish a standardized LifeContext format, creating an open foundation for personalized agents",
-      "language": "Python",
-      "stars": 31,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai",
-        "context-engineering",
-        "memory",
-        "mindupload"
-      ],
-      "created_at": "2026-09-04T11:12:47Z",
-      "updated_at": "2026-09-10T10:25:29Z",
-      "rank": 28
-    },
-    {
-      "name": "jackispm/nausicaa-harness",
-      "url": "https://github.com/jackispm/nausicaa-harness",
-      "description": "Nausicaa treats an Agent run as a dynamic topology of Lanes rather than one fixed linear loop. The model can decide when to observe, fan out, delegate, or collaborate across Runs; the Host keeps identity, permissions, durability, and recovery as explicit facts.",
-      "full_description": "Nausicaa treats an Agent run as a dynamic topology of Lanes rather than one fixed linear loop. The model can decide when to observe, fan out, delegate, or collaborate across Runs; the Host keeps identity, permissions, durability, and recovery as explicit facts.",
-      "language": "TypeScript",
-      "stars": 30,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "agent",
-        "agent-framework",
-        "agent-harness",
-        "agentic",
-        "agents",
-        "harness",
-        "harness-ai",
-        "harness-engineering",
-        "harness-framework"
-      ],
-      "created_at": "2026-09-05T18:06:24Z",
-      "updated_at": "2026-09-11T03:54:26Z",
-      "rank": 29
-    },
-    {
-      "name": "tudoumashu/ai-memory-skillpack",
-      "url": "https://github.com/tudoumashu/ai-memory-skillpack",
-      "description": "Bounded project-memory skills for Codex CLI and Claude Code.",
-      "full_description": "Bounded project-memory skills for Codex CLI and Claude Code.",
-      "language": "Python",
-      "stars": 29,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "agent-memory",
-        "claude-code",
-        "codex",
-        "llm",
-        "skills"
-      ],
-      "created_at": "2026-09-08T05:07:25Z",
-      "updated_at": "2026-09-11T02:51:57Z",
       "rank": 30
     }
   ]
