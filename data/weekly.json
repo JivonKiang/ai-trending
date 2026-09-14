@@ -1,37 +1,18 @@
 {
-  "updated": "2026-09-13T05:07:56.365148+00:00",
+  "updated": "2026-09-14T05:15:34.495904+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
   "projects": [
-    {
-      "name": "Colafornia/short-video-generator-AI",
-      "url": "https://github.com/Colafornia/short-video-generator-AI",
-      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "full_description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "language": "Python",
-      "stars": 679,
-      "stars_gained": 0,
-      "forks": 111,
-      "topics": [
-        "ai",
-        "ai-generation",
-        "short-video",
-        "short-video-maker"
-      ],
-      "created_at": "2026-09-08T14:55:47Z",
-      "updated_at": "2026-09-13T05:03:56Z",
-      "rank": 1
-    },
     {
       "name": "crwdla/tokentab",
       "url": "https://github.com/crwdla/tokentab",
       "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
       "full_description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
       "language": "Python",
-      "stars": 597,
+      "stars": 905,
       "stars_gained": 0,
-      "forks": 210,
+      "forks": 212,
       "topics": [
         "ai",
         "ai-token-monitor",
@@ -40,7 +21,26 @@
         "token-usage"
       ],
       "created_at": "2026-09-07T17:18:31Z",
-      "updated_at": "2026-09-13T05:04:04Z",
+      "updated_at": "2026-09-14T05:08:23Z",
+      "rank": 1
+    },
+    {
+      "name": "Colafornia/short-video-generator-AI",
+      "url": "https://github.com/Colafornia/short-video-generator-AI",
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "full_description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "language": "Python",
+      "stars": 723,
+      "stars_gained": 0,
+      "forks": 112,
+      "topics": [
+        "ai",
+        "ai-generation",
+        "short-video",
+        "short-video-maker"
+      ],
+      "created_at": "2026-09-08T14:55:47Z",
+      "updated_at": "2026-09-14T04:37:45Z",
       "rank": 2
     },
     {
@@ -49,9 +49,9 @@
       "description": "the development environment for pros",
       "full_description": "the development environment for pros",
       "language": "Go",
-      "stars": 397,
+      "stars": 478,
       "stars_gained": 0,
-      "forks": 22,
+      "forks": 27,
       "topics": [
         "agent-orchestration",
         "ai",
@@ -70,8 +70,27 @@
         "workspace-manager"
       ],
       "created_at": "2026-09-10T10:50:03Z",
-      "updated_at": "2026-09-13T04:37:44Z",
+      "updated_at": "2026-09-14T04:55:53Z",
       "rank": 3
+    },
+    {
+      "name": "kruzovic7/ai-data-extractor",
+      "url": "https://github.com/kruzovic7/ai-data-extractor",
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "full_description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "language": "Python",
+      "stars": 446,
+      "stars_gained": 0,
+      "forks": 132,
+      "topics": [
+        "ai",
+        "ai-data-extraction",
+        "claude-code",
+        "cursor"
+      ],
+      "created_at": "2026-09-11T18:12:58Z",
+      "updated_at": "2026-09-14T05:15:28Z",
+      "rank": 4
     },
     {
       "name": "yudaprasetya007/routeVSCODE",
@@ -96,7 +115,7 @@
       ],
       "created_at": "2026-09-10T01:25:00Z",
       "updated_at": "2026-09-13T01:47:30Z",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "noskillish/bankmcp",
@@ -104,7 +123,7 @@
       "description": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
       "full_description": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
       "language": "TypeScript",
-      "stars": 202,
+      "stars": 215,
       "stars_gained": 0,
       "forks": 34,
       "topics": [
@@ -120,26 +139,7 @@
         "self-hosted"
       ],
       "created_at": "2026-09-07T09:06:03Z",
-      "updated_at": "2026-09-13T02:05:33Z",
-      "rank": 5
-    },
-    {
-      "name": "kruzovic7/ai-data-extractor",
-      "url": "https://github.com/kruzovic7/ai-data-extractor",
-      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "full_description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "language": "Python",
-      "stars": 198,
-      "stars_gained": 0,
-      "forks": 68,
-      "topics": [
-        "ai",
-        "ai-data-extraction",
-        "claude-code",
-        "cursor"
-      ],
-      "created_at": "2026-09-11T18:12:58Z",
-      "updated_at": "2026-09-13T04:43:10Z",
+      "updated_at": "2026-09-14T02:08:50Z",
       "rank": 6
     },
     {
@@ -148,9 +148,9 @@
       "description": "数据面具 Data Maskit — 专为大模型打造的本地隐私脱敏网关（请求自动打码，回复流式还原；支持 Cursor / Claude Code / Codex / Pi 等任意可配 Base URL 工具）",
       "full_description": "数据面具 Data Maskit — 专为大模型打造的本地隐私脱敏网关（请求自动打码，回复流式还原；支持 Cursor / Claude Code / Codex / Pi 等任意可配 Base URL 工具）",
       "language": "Python",
-      "stars": 195,
+      "stars": 205,
       "stars_gained": 0,
-      "forks": 37,
+      "forks": 38,
       "topics": [
         "anthropic",
         "claude-code",
@@ -166,7 +166,7 @@
         "tauri"
       ],
       "created_at": "2026-09-09T12:36:06Z",
-      "updated_at": "2026-09-13T04:08:11Z",
+      "updated_at": "2026-09-14T04:07:04Z",
       "rank": 7
     },
     {
@@ -175,40 +175,15 @@
       "description": "A collection of remote MCP servers.",
       "full_description": "A collection of remote MCP servers.",
       "language": "",
-      "stars": 179,
+      "stars": 192,
       "stars_gained": 0,
-      "forks": 265,
+      "forks": 284,
       "topics": [
         "mcp"
       ],
       "created_at": "2026-09-08T00:43:30Z",
-      "updated_at": "2026-09-13T05:05:02Z",
+      "updated_at": "2026-09-13T22:53:14Z",
       "rank": 8
-    },
-    {
-      "name": "aimeoa/hanshuang-codex",
-      "url": "https://github.com/aimeoa/hanshuang-codex",
-      "description": "针对GPT 6.0,V4flash的破甲实验项目",
-      "full_description": "针对GPT 6.0,V4flash的破甲实验项目",
-      "language": "Python",
-      "stars": 129,
-      "stars_gained": 0,
-      "forks": 22,
-      "topics": [
-        "ai",
-        "codex",
-        "codex-cli",
-        "desktop-app",
-        "jailbreak",
-        "llm",
-        "openai-codex",
-        "prompt-injection",
-        "pyside6",
-        "python"
-      ],
-      "created_at": "2026-09-06T08:42:57Z",
-      "updated_at": "2026-09-13T04:27:31Z",
-      "rank": 9
     },
     {
       "name": "Loopera-ai/loopera",
@@ -216,43 +191,17 @@
       "description": "面向基本面因子研究的智能体-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
       "full_description": "面向基本面因子研究的智能体-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
       "language": "",
-      "stars": 119,
+      "stars": 151,
       "stars_gained": 0,
-      "forks": 10,
+      "forks": 21,
       "topics": [
         "ai",
         "ai-agent",
         "quant"
       ],
       "created_at": "2026-09-08T13:46:05Z",
-      "updated_at": "2026-09-13T04:46:51Z",
-      "rank": 10
-    },
-    {
-      "name": "Atomburstofficial/geiger",
-      "url": "https://github.com/Atomburstofficial/geiger",
-      "description": "A Geiger counter for AI agents — one read-only command that inventories every agent, MCP server, plugin, and AI extension on a machine",
-      "full_description": "A Geiger counter for AI agents — one read-only command that inventories every agent, MCP server, plugin, and AI extension on a machine",
-      "language": "JavaScript",
-      "stars": 116,
-      "stars_gained": 0,
-      "forks": 3,
-      "topics": [
-        "ai-agents",
-        "ai-governance",
-        "ai-safety",
-        "ai-security",
-        "claude-code",
-        "governance",
-        "mcp",
-        "mcp-server",
-        "npx",
-        "scanner",
-        "security-tools"
-      ],
-      "created_at": "2026-09-06T17:45:50Z",
-      "updated_at": "2026-09-13T01:48:46Z",
-      "rank": 11
+      "updated_at": "2026-09-14T02:43:10Z",
+      "rank": 9
     },
     {
       "name": "FankChen/tracecrate",
@@ -260,9 +209,9 @@
       "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
       "full_description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
       "language": "TypeScript",
-      "stars": 111,
+      "stars": 116,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 4,
       "topics": [
         "ai",
         "ai-agents",
@@ -277,8 +226,8 @@
         "typescript"
       ],
       "created_at": "2026-09-10T09:27:41Z",
-      "updated_at": "2026-09-12T21:18:33Z",
-      "rank": 12
+      "updated_at": "2026-09-13T16:51:08Z",
+      "rank": 10
     },
     {
       "name": "Albertchamberlain/Awesome-OKF",
@@ -286,7 +235,7 @@
       "description": "OKF (Open Knowledge Format) — curated catalog of tools, plugins, skills, proposals, and docs for agent-friendly knowledge. YAML-driven, agent-searchable, MCP-ready.",
       "full_description": "OKF (Open Knowledge Format) — curated catalog of tools, plugins, skills, proposals, and docs for agent-friendly knowledge. YAML-driven, agent-searchable, MCP-ready.",
       "language": "Python",
-      "stars": 103,
+      "stars": 104,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
@@ -310,99 +259,8 @@
         "yaml"
       ],
       "created_at": "2026-09-07T06:12:39Z",
-      "updated_at": "2026-09-12T05:51:24Z",
-      "rank": 13
-    },
-    {
-      "name": "Noisyxl/brier",
-      "url": "https://github.com/Noisyxl/brier",
-      "description": "Anyone can predict the future. Almost nobody keeps the receipt. A hash-chained prediction ledger for LLMs — sealed before the answer exists, graded with proper scoring rules.",
-      "full_description": "Anyone can predict the future. Almost nobody keeps the receipt. A hash-chained prediction ledger for LLMs — sealed before the answer exists, graded with proper scoring rules.",
-      "language": "HTML",
-      "stars": 94,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "llm",
-        "robinhood-chain"
-      ],
-      "created_at": "2026-09-06T13:42:25Z",
-      "updated_at": "2026-09-13T02:39:40Z",
-      "rank": 14
-    },
-    {
-      "name": "tshemsedinov/reslop",
-      "url": "https://github.com/tshemsedinov/reslop",
-      "description": "👁️ Review AI generated code and plan changes",
-      "full_description": "👁️ Review AI generated code and plan changes",
-      "language": "JavaScript",
-      "stars": 86,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "agent",
-        "ai",
-        "code-review",
-        "diff",
-        "llm",
-        "neuroslop",
-        "planning",
-        "refactoring",
-        "repair",
-        "sdd"
-      ],
-      "created_at": "2026-09-06T21:28:21Z",
-      "updated_at": "2026-09-12T22:12:00Z",
-      "rank": 15
-    },
-    {
-      "name": "bsab/france-mcp-servers",
-      "url": "https://github.com/bsab/france-mcp-servers",
-      "description": "A curated catalog of Model Context Protocol servers for French data, laws, and services.",
-      "full_description": "A curated catalog of Model Context Protocol servers for French data, laws, and services.",
-      "language": "Python",
-      "stars": 83,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "france",
-        "mcp",
-        "mcp-servers",
-        "model-context-protocol",
-        "open-data"
-      ],
-      "created_at": "2026-09-06T17:30:00Z",
-      "updated_at": "2026-09-11T14:00:16Z",
-      "rank": 16
-    },
-    {
-      "name": "RankSpotAI/awesome-seo-mcp",
-      "url": "https://github.com/RankSpotAI/awesome-seo-mcp",
-      "description": "A curated list of MCP servers for SEO. Search Console, keywords, backlinks, crawling, SERPs and AI search visibility, verified with install details and auth requirements.",
-      "full_description": "A curated list of MCP servers for SEO. Search Console, keywords, backlinks, crawling, SERPs and AI search visibility, verified with install details and auth requirements.",
-      "language": "Python",
-      "stars": 79,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "aeo",
-        "ai-seo",
-        "awesome",
-        "awesome-list",
-        "claude",
-        "generative-engine-optimization",
-        "geo",
-        "mcp",
-        "mcp-servers",
-        "model-context-protocol",
-        "seo",
-        "seo-tools"
-      ],
-      "created_at": "2026-09-06T12:32:34Z",
-      "updated_at": "2026-09-12T23:20:11Z",
-      "rank": 17
+      "updated_at": "2026-09-13T11:40:14Z",
+      "rank": 11
     },
     {
       "name": "paveldevyatov/refund-anything-ai-prompt",
@@ -410,9 +268,9 @@
       "description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
       "full_description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
       "language": "",
-      "stars": 76,
+      "stars": 78,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 4,
       "topics": [
         "ai",
         "chargeback",
@@ -424,31 +282,34 @@
         "subscription"
       ],
       "created_at": "2026-09-08T10:20:24Z",
-      "updated_at": "2026-09-12T13:13:33Z",
-      "rank": 18
+      "updated_at": "2026-09-13T15:27:04Z",
+      "rank": 12
     },
     {
-      "name": "jangtrinh/design-os-3d-blender",
-      "url": "https://github.com/jangtrinh/design-os-3d-blender",
-      "description": "AI-agent operating system for Blender 5.2: skills, verified bpy knowledge base, AGENT_OK/AGENT_FAIL execution contract, production gate for 3D-printable parts, robot-arm demo",
-      "full_description": "AI-agent operating system for Blender 5.2: skills, verified bpy knowledge base, AGENT_OK/AGENT_FAIL execution contract, production gate for 3D-printable parts, robot-arm demo",
+      "name": "oguzhankayan/turkish-native",
+      "url": "https://github.com/oguzhankayan/turkish-native",
+      "description": "Agent skill for writing native Turkish and removing translationese from AI and localized copy.",
+      "full_description": "Agent skill for writing native Turkish and removing translationese from AI and localized copy.",
       "language": "Python",
-      "stars": 68,
+      "stars": 70,
       "stars_gained": 0,
-      "forks": 17,
+      "forks": 4,
       "topics": [
-        "3d-printing",
-        "ai-agent",
-        "blender",
-        "bpy",
-        "claude-code",
+        "agent-skill",
+        "chatgpt",
+        "claude",
         "codex",
-        "mcp",
-        "robotics"
+        "copywriting",
+        "llm",
+        "localization",
+        "translation",
+        "translationese",
+        "turkish",
+        "writing"
       ],
-      "created_at": "2026-09-06T00:18:05Z",
-      "updated_at": "2026-09-12T11:00:12Z",
-      "rank": 19
+      "created_at": "2026-09-11T23:47:40Z",
+      "updated_at": "2026-09-13T19:51:07Z",
+      "rank": 13
     },
     {
       "name": "Xu123-Bob/Baize",
@@ -456,7 +317,7 @@
       "description": "白泽 —— 中国古代神话中通晓万物的瑞兽，如今化身为 Vibe Coding 助手。  一个开源的 AI Coding Agent CLI，支持多后端（DeepSeek / OpenAI 兼容 / Ollama 本地），具备工具调用、技能加载、子代理委派、上下文压缩、安全沙箱等完整能力。在终端即可与 AI 结对编程。",
       "full_description": "白泽 —— 中国古代神话中通晓万物的瑞兽，如今化身为 Vibe Coding 助手。  一个开源的 AI Coding Agent CLI，支持多后端（DeepSeek / OpenAI 兼容 / Ollama 本地），具备工具调用、技能加载、子代理委派、上下文压缩、安全沙箱等完整能力。在终端即可与 AI 结对编程。",
       "language": "JavaScript",
-      "stars": 67,
+      "stars": 69,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -466,8 +327,8 @@
         "ai-coding"
       ],
       "created_at": "2026-09-12T05:17:38Z",
-      "updated_at": "2026-09-12T17:44:11Z",
-      "rank": 20
+      "updated_at": "2026-09-13T15:57:10Z",
+      "rank": 14
     },
     {
       "name": "krmisystems/fantasy-football-manager",
@@ -493,8 +354,78 @@
         "self-hosted"
       ],
       "created_at": "2026-09-08T02:55:36Z",
-      "updated_at": "2026-09-12T22:05:33Z",
-      "rank": 21
+      "updated_at": "2026-09-14T00:24:11Z",
+      "rank": 15
+    },
+    {
+      "name": "tudoumashu/ai-memory-skillpack",
+      "url": "https://github.com/tudoumashu/ai-memory-skillpack",
+      "description": "Bounded project-memory skills for Codex CLI and Claude Code.",
+      "full_description": "Bounded project-memory skills for Codex CLI and Claude Code.",
+      "language": "Python",
+      "stars": 66,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "agent-memory",
+        "claude-code",
+        "codex",
+        "llm",
+        "skills"
+      ],
+      "created_at": "2026-09-08T05:07:25Z",
+      "updated_at": "2026-09-14T04:34:58Z",
+      "rank": 16
+    },
+    {
+      "name": "LuxUmbra697/DSH-Desktop",
+      "url": "https://github.com/LuxUmbra697/DSH-Desktop",
+      "description": "把 DeepSeek Harness 装进一个独立窗口：双击即用、免终端、免浏览器，支持插件改造，载荷可裁到 210 MB（便携包 74.8 MB），内置运行环境探测与 DSH 就地更新。",
+      "full_description": "把 DeepSeek Harness 装进一个独立窗口：双击即用、免终端、免浏览器，支持插件改造，载荷可裁到 210 MB（便携包 74.8 MB），内置运行环境探测与 DSH 就地更新。",
+      "language": "C#",
+      "stars": 61,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "agent",
+        "cordis",
+        "deepseek",
+        "deepseek-harness",
+        "desktop-app",
+        "dsh",
+        "plugin",
+        "portable",
+        "webview2",
+        "windows"
+      ],
+      "created_at": "2026-09-11T09:44:39Z",
+      "updated_at": "2026-09-13T17:56:20Z",
+      "rank": 17
+    },
+    {
+      "name": "codejunkie99/agentic-stack-desktop",
+      "url": "https://github.com/codejunkie99/agentic-stack-desktop",
+      "description": "Native macOS workspace with one local knowledge graph across Claude Code, Codex, OpenCode, and Cursor.",
+      "full_description": "Native macOS workspace with one local knowledge graph across Claude Code, Codex, OpenCode, and Cursor.",
+      "language": "Python",
+      "stars": 59,
+      "stars_gained": 0,
+      "forks": 9,
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "cursor",
+        "knowledge-graph",
+        "local-first",
+        "macos",
+        "mcp",
+        "opencode",
+        "swiftui"
+      ],
+      "created_at": "2026-09-08T09:48:30Z",
+      "updated_at": "2026-09-13T18:07:55Z",
+      "rank": 18
     },
     {
       "name": "undefined-ui/second-brain-os",
@@ -522,77 +453,30 @@
       ],
       "created_at": "2026-09-07T15:08:13Z",
       "updated_at": "2026-09-12T07:28:12Z",
-      "rank": 22
+      "rank": 19
     },
     {
-      "name": "codejunkie99/agentic-stack-desktop",
-      "url": "https://github.com/codejunkie99/agentic-stack-desktop",
-      "description": "Native macOS workspace with one local knowledge graph across Claude Code, Codex, OpenCode, and Cursor.",
-      "full_description": "Native macOS workspace with one local knowledge graph across Claude Code, Codex, OpenCode, and Cursor.",
+      "name": "ivyfan-toowell/IvyClaw",
+      "url": "https://github.com/ivyfan-toowell/IvyClaw",
+      "description": "A production-oriented multi-agent AI Agent system for software engineering.  |   面向软件研发任务的多智能体 AI Agent 工程系统",
+      "full_description": "A production-oriented multi-agent AI Agent system for software engineering.  |   面向软件研发任务的多智能体 AI Agent 工程系统",
       "language": "Python",
-      "stars": 56,
+      "stars": 53,
       "stars_gained": 0,
-      "forks": 9,
+      "forks": 3,
       "topics": [
         "ai-agents",
-        "claude-code",
-        "codex",
-        "cursor",
-        "knowledge-graph",
-        "local-first",
-        "macos",
-        "mcp",
-        "opencode",
-        "swiftui"
-      ],
-      "created_at": "2026-09-08T09:48:30Z",
-      "updated_at": "2026-09-12T18:40:16Z",
-      "rank": 23
-    },
-    {
-      "name": "tudoumashu/ai-memory-skillpack",
-      "url": "https://github.com/tudoumashu/ai-memory-skillpack",
-      "description": "Bounded project-memory skills for Codex CLI and Claude Code.",
-      "full_description": "Bounded project-memory skills for Codex CLI and Claude Code.",
-      "language": "Python",
-      "stars": 56,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "agent-memory",
-        "claude-code",
-        "codex",
+        "deepagents",
+        "deepagents-langgraph",
         "llm",
-        "skills"
+        "llm-agent",
+        "llm-agents",
+        "multi-agent",
+        "multi-agent-systems"
       ],
-      "created_at": "2026-09-08T05:07:25Z",
-      "updated_at": "2026-09-13T04:57:12Z",
-      "rank": 24
-    },
-    {
-      "name": "LuxUmbra697/DSH-Desktop",
-      "url": "https://github.com/LuxUmbra697/DSH-Desktop",
-      "description": "把 DeepSeek Harness 装进一个独立窗口：双击即用、免终端、免浏览器，支持插件改造，载荷可裁到 210 MB（便携包 74.8 MB），内置运行环境探测与 DSH 就地更新。",
-      "full_description": "把 DeepSeek Harness 装进一个独立窗口：双击即用、免终端、免浏览器，支持插件改造，载荷可裁到 210 MB（便携包 74.8 MB），内置运行环境探测与 DSH 就地更新。",
-      "language": "C#",
-      "stars": 51,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "agent",
-        "cordis",
-        "deepseek",
-        "deepseek-harness",
-        "desktop-app",
-        "dsh",
-        "plugin",
-        "portable",
-        "webview2",
-        "windows"
-      ],
-      "created_at": "2026-09-11T09:44:39Z",
-      "updated_at": "2026-09-12T14:52:23Z",
-      "rank": 25
+      "created_at": "2026-09-13T03:14:36Z",
+      "updated_at": "2026-09-14T03:33:59Z",
+      "rank": 20
     },
     {
       "name": "arnsri33/embedflow",
@@ -611,6 +495,7 @@
         "faiss",
         "information-retrieval",
         "machine-learning",
+        "milvus",
         "pgvector",
         "pinecone",
         "qdrant",
@@ -618,11 +503,12 @@
         "rag-pipeline",
         "semantic-search",
         "vector-database",
-        "vector-search"
+        "vector-search",
+        "weaviate"
       ],
       "created_at": "2026-09-07T20:10:13Z",
-      "updated_at": "2026-09-13T00:37:48Z",
-      "rank": 26
+      "updated_at": "2026-09-14T04:59:11Z",
+      "rank": 21
     },
     {
       "name": "saihhold-zhao/polox_ai",
@@ -655,8 +541,31 @@
         "vue"
       ],
       "created_at": "2026-09-09T01:16:40Z",
-      "updated_at": "2026-09-13T04:46:57Z",
-      "rank": 27
+      "updated_at": "2026-09-13T20:02:10Z",
+      "rank": 22
+    },
+    {
+      "name": "thedhruvhegde/nadir-core",
+      "url": "https://github.com/thedhruvhegde/nadir-core",
+      "description": "Open-core ADAS drift scoring and a free local dashcam mount-health agent (Pulse). Shadow mode. Apache-2.0.",
+      "full_description": "Open-core ADAS drift scoring and a free local dashcam mount-health agent (Pulse). Shadow mode. Apache-2.0.",
+      "language": "Python",
+      "stars": 46,
+      "stars_gained": 0,
+      "forks": 8,
+      "topics": [
+        "adas",
+        "calibration",
+        "computer-vision",
+        "fleet",
+        "open-source",
+        "python",
+        "sensor-fusion",
+        "telematics"
+      ],
+      "created_at": "2026-09-10T22:06:02Z",
+      "updated_at": "2026-09-14T04:39:02Z",
+      "rank": 23
     },
     {
       "name": "Raymondhou0917/ai-level-check",
@@ -666,7 +575,7 @@
       "language": "Python",
       "stars": 39,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 4,
       "topics": [
         "ai",
         "claude-code",
@@ -676,7 +585,7 @@
       ],
       "created_at": "2026-09-08T04:59:51Z",
       "updated_at": "2026-09-13T03:45:41Z",
-      "rank": 28
+      "rank": 24
     },
     {
       "name": "gcjordi/aigraphstudio",
@@ -704,31 +613,146 @@
       ],
       "created_at": "2026-09-07T08:47:20Z",
       "updated_at": "2026-09-12T14:54:54Z",
+      "rank": 25
+    },
+    {
+      "name": "karacca/moodstone",
+      "url": "https://github.com/karacca/moodstone",
+      "description": "Animated, procedurally generated agent avatars for React Native.",
+      "full_description": "Animated, procedurally generated agent avatars for React Native.",
+      "language": "TypeScript",
+      "stars": 36,
+      "stars_gained": 0,
+      "forks": 6,
+      "topics": [
+        "agent-ui",
+        "ai-agent",
+        "ai-agents",
+        "android",
+        "animated-svg",
+        "animation",
+        "avatar",
+        "avatars",
+        "expo",
+        "generative-art",
+        "ios",
+        "llm",
+        "procedural-generation",
+        "react",
+        "react-native",
+        "react-native-skia",
+        "reanimated",
+        "skia",
+        "svg",
+        "typescript"
+      ],
+      "created_at": "2026-09-12T10:34:11Z",
+      "updated_at": "2026-09-13T23:24:47Z",
+      "rank": 26
+    },
+    {
+      "name": "Akxan/google-seo-mcp",
+      "url": "https://github.com/Akxan/google-seo-mcp",
+      "description": "SEO & GEO MCP server for Claude, Codex, Cursor and any MCP client: Search Console, GA4, PageSpeed, Core Web Vitals, structured data, llms.txt, AI crawler checks, WordPress (Yoast, WP-CLI over SSH), GitHub, Gmail — 83 tools for technical SEO and generative engine optimization; optional hosted mode with Google sign-in",
+      "full_description": "SEO & GEO MCP server for Claude, Codex, Cursor and any MCP client: Search Console, GA4, PageSpeed, Core Web Vitals, structured data, llms.txt, AI crawler checks, WordPress (Yoast, WP-CLI over SSH), GitHub, Gmail — 83 tools for technical SEO and generative engine optimization; optional hosted mode with Google sign-in",
+      "language": "TypeScript",
+      "stars": 34,
+      "stars_gained": 0,
+      "forks": 5,
+      "topics": [
+        "ai-agents",
+        "claude",
+        "core-web-vitals",
+        "ga4",
+        "generative-engine-optimization",
+        "geo",
+        "google-analytics",
+        "google-search-console",
+        "llms-txt",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "pagespeed-insights",
+        "seo",
+        "seo-tools",
+        "structured-data",
+        "technical-seo",
+        "typescript",
+        "wordpress",
+        "yoast"
+      ],
+      "created_at": "2026-09-09T02:00:34Z",
+      "updated_at": "2026-09-14T01:43:10Z",
+      "rank": 27
+    },
+    {
+      "name": "vigorlee/eidra-agent",
+      "url": "https://github.com/vigorlee/eidra-agent",
+      "description": "Persona agents with explicit memory, retrieval, adversarial smoke tests and a practical post-training roadmap.",
+      "full_description": "Persona agents with explicit memory, retrieval, adversarial smoke tests and a practical post-training roadmap.",
+      "language": "JavaScript",
+      "stars": 33,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "adversarial-evaluation",
+        "agent",
+        "llm",
+        "preference-learning",
+        "rag",
+        "role-playing"
+      ],
+      "created_at": "2026-09-09T05:21:18Z",
+      "updated_at": "2026-09-14T03:42:13Z",
+      "rank": 28
+    },
+    {
+      "name": "gonzalo-cordova-pou/voice-ai-benchmarks",
+      "url": "https://github.com/gonzalo-cordova-pou/voice-ai-benchmarks",
+      "description": "A directory of benchmarks for the components and complete systems used to build voice agents.",
+      "full_description": "A directory of benchmarks for the components and complete systems used to build voice agents.",
+      "language": "TypeScript",
+      "stars": 33,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "ai",
+        "benchmarks",
+        "speech-to-speech",
+        "speech-to-text",
+        "stt",
+        "text-to-speech",
+        "tts",
+        "voice",
+        "voice-agent",
+        "voice-assistant"
+      ],
+      "created_at": "2026-09-07T02:01:00Z",
+      "updated_at": "2026-09-13T18:55:21Z",
       "rank": 29
     },
     {
-      "name": "ruc-datalab/SkillAdam",
-      "url": "https://github.com/ruc-datalab/SkillAdam",
-      "description": "SkillAdam: Better Skills for Your AI Agent🚀 Claude Code/Codex/Cursor 插件，一键进化你的skill",
-      "full_description": "SkillAdam: Better Skills for Your AI Agent🚀 Claude Code/Codex/Cursor 插件，一键进化你的skill",
-      "language": "Python",
-      "stars": 36,
+      "name": "jolo-build/jolo",
+      "url": "https://github.com/jolo-build/jolo",
+      "description": "A coding workspace for AI agents, with a desktop app, terminal CLI, and shared tasks.",
+      "full_description": "A coding workspace for AI agents, with a desktop app, terminal CLI, and shared tasks.",
+      "language": "JavaScript",
+      "stars": 30,
       "stars_gained": 0,
-      "forks": 2,
+      "forks": 0,
       "topics": [
-        "agent",
-        "agent-skills",
-        "agentic",
-        "ai",
+        "agentic-coding",
+        "ai-agents",
+        "bun",
         "claude-code",
-        "codex",
-        "codex-skill",
-        "llm",
-        "llm-agent",
-        "skills"
+        "codex-cli",
+        "coding-agents",
+        "developer-tools",
+        "electron",
+        "llm"
       ],
-      "created_at": "2026-09-06T15:42:45Z",
-      "updated_at": "2026-09-13T02:01:14Z",
+      "created_at": "2026-09-10T09:07:35Z",
+      "updated_at": "2026-09-13T21:55:51Z",
       "rank": 30
     }
   ]
