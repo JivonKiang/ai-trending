@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T05:07:10.414733+00:00",
+  "updated": "2026-09-16T05:03:08.091373+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,7 +10,7 @@
       "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
       "full_description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
       "language": "Python",
-      "stars": 813,
+      "stars": 823,
       "stars_gained": 0,
       "forks": 132,
       "topics": [
@@ -20,27 +20,8 @@
         "cursor"
       ],
       "created_at": "2026-09-11T18:12:58Z",
-      "updated_at": "2026-09-15T04:43:46Z",
+      "updated_at": "2026-09-16T02:52:12Z",
       "rank": 1
-    },
-    {
-      "name": "Colafornia/short-video-generator-AI",
-      "url": "https://github.com/Colafornia/short-video-generator-AI",
-      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "full_description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "language": "Python",
-      "stars": 738,
-      "stars_gained": 0,
-      "forks": 112,
-      "topics": [
-        "ai",
-        "ai-generation",
-        "short-video",
-        "short-video-maker"
-      ],
-      "created_at": "2026-09-08T14:55:47Z",
-      "updated_at": "2026-09-15T03:14:02Z",
-      "rank": 2
     },
     {
       "name": "unstablebuild/rune",
@@ -48,9 +29,9 @@
       "description": "the development environment for pros",
       "full_description": "the development environment for pros",
       "language": "Go",
-      "stars": 537,
+      "stars": 649,
       "stars_gained": 0,
-      "forks": 29,
+      "forks": 36,
       "topics": [
         "agent-orchestration",
         "ai",
@@ -69,8 +50,46 @@
         "workspace-manager"
       ],
       "created_at": "2026-09-10T10:50:03Z",
-      "updated_at": "2026-09-15T04:55:41Z",
+      "updated_at": "2026-09-16T04:58:58Z",
+      "rank": 2
+    },
+    {
+      "name": "youngyangyang04/llm-master",
+      "url": "https://github.com/youngyangyang04/llm-master",
+      "description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+      "full_description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+      "language": "",
+      "stars": 501,
+      "stars_gained": 0,
+      "forks": 45,
+      "topics": [
+        "agent",
+        "large-language-models",
+        "llm",
+        "llm-learning",
+        "llm-tutorial",
+        "rag"
+      ],
+      "created_at": "2026-09-12T07:33:31Z",
+      "updated_at": "2026-09-16T04:51:45Z",
       "rank": 3
+    },
+    {
+      "name": "atria-asi/Atria-Dawn-Preview",
+      "url": "https://github.com/atria-asi/Atria-Dawn-Preview",
+      "description": "",
+      "full_description": "",
+      "language": "",
+      "stars": 346,
+      "stars_gained": 0,
+      "forks": 16,
+      "topics": [
+        "llm",
+        "llm-agent"
+      ],
+      "created_at": "2026-09-12T10:32:29Z",
+      "updated_at": "2026-09-16T04:28:25Z",
+      "rank": 4
     },
     {
       "name": "yudaprasetya007/routeVSCODE",
@@ -95,22 +114,6 @@
       ],
       "created_at": "2026-09-10T01:25:00Z",
       "updated_at": "2026-09-14T07:30:58Z",
-      "rank": 4
-    },
-    {
-      "name": "punkpeye/awesome-remote-mcp-servers",
-      "url": "https://github.com/punkpeye/awesome-remote-mcp-servers",
-      "description": "A collection of remote MCP servers.",
-      "full_description": "A collection of remote MCP servers.",
-      "language": "",
-      "stars": 216,
-      "stars_gained": 0,
-      "forks": 311,
-      "topics": [
-        "mcp"
-      ],
-      "created_at": "2026-09-08T00:43:30Z",
-      "updated_at": "2026-09-15T04:37:25Z",
       "rank": 5
     },
     {
@@ -119,7 +122,7 @@
       "description": "数据面具 Data Maskit — 专为大模型打造的本地隐私脱敏网关（请求自动打码，回复流式还原；支持 Cursor / Claude Code / Codex / Pi 等任意可配 Base URL 工具）",
       "full_description": "数据面具 Data Maskit — 专为大模型打造的本地隐私脱敏网关（请求自动打码，回复流式还原；支持 Cursor / Claude Code / Codex / Pi 等任意可配 Base URL 工具）",
       "language": "Python",
-      "stars": 216,
+      "stars": 222,
       "stars_gained": 0,
       "forks": 38,
       "topics": [
@@ -137,64 +140,66 @@
         "tauri"
       ],
       "created_at": "2026-09-09T12:36:06Z",
-      "updated_at": "2026-09-15T02:23:19Z",
+      "updated_at": "2026-09-15T14:13:56Z",
       "rank": 6
     },
     {
-      "name": "youngyangyang04/llm-master",
-      "url": "https://github.com/youngyangyang04/llm-master",
-      "description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
-      "full_description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
-      "language": "",
-      "stars": 166,
+      "name": "pliablepixels/gap-trap",
+      "url": "https://github.com/pliablepixels/gap-trap",
+      "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
+      "full_description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
+      "language": "JavaScript",
+      "stars": 150,
       "stars_gained": 0,
-      "forks": 8,
+      "forks": 6,
       "topics": [
-        "agent",
-        "large-language-models",
+        "agent-skills",
+        "agentic-coding",
+        "agents-md",
+        "ai-agents",
+        "ai-coding",
+        "ci-cd",
+        "claude-code",
+        "claude-skills",
+        "code-quality",
+        "codex",
+        "coding-agents",
+        "cursor",
+        "developer-tools",
+        "github-actions",
         "llm",
-        "llm-learning",
-        "llm-tutorial",
-        "rag"
+        "mutation-testing",
+        "quality-gates",
+        "tdd",
+        "testing",
+        "vibe-coding"
       ],
-      "created_at": "2026-09-12T07:33:31Z",
-      "updated_at": "2026-09-15T05:06:37Z",
+      "created_at": "2026-09-13T20:29:08Z",
+      "updated_at": "2026-09-16T04:21:04Z",
       "rank": 7
     },
     {
-      "name": "Loopera-ai/loopera",
-      "url": "https://github.com/Loopera-ai/loopera",
-      "description": "面向基本面因子研究的智能体-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
-      "full_description": "面向基本面因子研究的智能体-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
-      "language": "",
-      "stars": 154,
+      "name": "Frankweb33/flybrain-robot-bridge",
+      "url": "https://github.com/Frankweb33/flybrain-robot-bridge",
+      "description": "Experimental Drosophila-inspired camera-to-robot bridge. Working mock neural backend, optical flow, IMU feedback and UDP motor control. MaleCNS integration planned.",
+      "full_description": "Experimental Drosophila-inspired camera-to-robot bridge. Working mock neural backend, optical flow, IMU feedback and UDP motor control. MaleCNS integration planned.",
+      "language": "Python",
+      "stars": 142,
       "stars_gained": 0,
-      "forks": 22,
+      "forks": 19,
       "topics": [
-        "ai",
-        "ai-agent",
-        "quant"
+        "biomimetic-robotics",
+        "brain-simulation",
+        "computer-vision",
+        "connectome",
+        "drosophila",
+        "esp32",
+        "neuroscience",
+        "robotics"
       ],
-      "created_at": "2026-09-08T13:46:05Z",
-      "updated_at": "2026-09-15T01:52:23Z",
+      "created_at": "2026-09-14T11:21:32Z",
+      "updated_at": "2026-09-16T04:48:09Z",
       "rank": 8
-    },
-    {
-      "name": "atria-asi/Atria-Dawn-Preview",
-      "url": "https://github.com/atria-asi/Atria-Dawn-Preview",
-      "description": "",
-      "full_description": "",
-      "language": "",
-      "stars": 132,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "llm",
-        "llm-agent"
-      ],
-      "created_at": "2026-09-12T10:32:29Z",
-      "updated_at": "2026-09-15T05:07:07Z",
-      "rank": 9
     },
     {
       "name": "FankChen/tracecrate",
@@ -202,7 +207,7 @@
       "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
       "full_description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
       "language": "TypeScript",
-      "stars": 122,
+      "stars": 130,
       "stars_gained": 0,
       "forks": 4,
       "topics": [
@@ -219,55 +224,55 @@
         "typescript"
       ],
       "created_at": "2026-09-10T09:27:41Z",
-      "updated_at": "2026-09-15T00:14:42Z",
+      "updated_at": "2026-09-15T22:31:48Z",
+      "rank": 9
+    },
+    {
+      "name": "DataFabric-Academy/ms-fabric-data-science",
+      "url": "https://github.com/DataFabric-Academy/ms-fabric-data-science",
+      "description": "Hands-on Microsoft Fabric Data Science labs (FreshMart churn) with Thai study notes, PySpark/MLflow, and DP-604-aligned learning path.",
+      "full_description": "Hands-on Microsoft Fabric Data Science labs (FreshMart churn) with Thai study notes, PySpark/MLflow, and DP-604-aligned learning path.",
+      "language": "Jupyter Notebook",
+      "stars": 95,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "churn-prediction",
+        "data-science",
+        "machine-learning",
+        "medallion-architecture",
+        "microsoft-fabric",
+        "microsoft-learn",
+        "mlflow",
+        "pyspark"
+      ],
+      "created_at": "2026-09-12T00:38:16Z",
+      "updated_at": "2026-09-16T04:44:05Z",
       "rank": 10
     },
     {
-      "name": "krmisystems/fantasy-football-manager",
-      "url": "https://github.com/krmisystems/fantasy-football-manager",
-      "description": "ESPN draft and lineup tools for Codex and other MCP clients, with browser sign-in, approval modes, per-team limits, and server monitoring.",
-      "full_description": "ESPN draft and lineup tools for Codex and other MCP clients, with browser sign-in, approval modes, per-team limits, and server monitoring.",
+      "name": "emma-sue/AegisOps",
+      "url": "https://github.com/emma-sue/AegisOps",
+      "description": "AegisOps企业信息系统智能运维平台：自动巡检、Agent 故障排查、证据工单与审批处置。LangGraph · Deep Agents · MCP；附可复现实测记录。",
+      "full_description": "AegisOps企业信息系统智能运维平台：自动巡检、Agent 故障排查、证据工单与审批处置。LangGraph · Deep Agents · MCP；附可复现实测记录。",
       "language": "Python",
-      "stars": 94,
+      "stars": 88,
       "stars_gained": 0,
-      "forks": 61,
+      "forks": 14,
       "topics": [
-        "browser-automation",
-        "codex",
-        "codex-plugin",
-        "espn",
-        "fantasy-draft",
-        "fantasy-football",
-        "lineup-optimization",
+        "ai-agent",
+        "aiops",
+        "deepagents",
+        "langgraph",
         "mcp",
-        "mcp-server",
-        "monte-carlo",
-        "python",
-        "self-hosted"
+        "observability",
+        "pgvector",
+        "spring-boot",
+        "vue3"
       ],
-      "created_at": "2026-09-08T02:55:36Z",
-      "updated_at": "2026-09-14T08:40:05Z",
+      "created_at": "2026-09-10T13:08:41Z",
+      "updated_at": "2026-09-16T04:55:13Z",
       "rank": 11
-    },
-    {
-      "name": "tudoumashu/ai-memory-skillpack",
-      "url": "https://github.com/tudoumashu/ai-memory-skillpack",
-      "description": "Bounded project-memory skills for Codex CLI and Claude Code.",
-      "full_description": "Bounded project-memory skills for Codex CLI and Claude Code.",
-      "language": "Python",
-      "stars": 78,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "agent-memory",
-        "claude-code",
-        "codex",
-        "llm",
-        "skills"
-      ],
-      "created_at": "2026-09-08T05:07:25Z",
-      "updated_at": "2026-09-15T02:11:21Z",
-      "rank": 12
     },
     {
       "name": "oguzhankayan/turkish-native",
@@ -275,7 +280,7 @@
       "description": "Agent skill for writing native Turkish and removing translationese from AI and localized copy.",
       "full_description": "Agent skill for writing native Turkish and removing translationese from AI and localized copy.",
       "language": "Python",
-      "stars": 78,
+      "stars": 82,
       "stars_gained": 0,
       "forks": 6,
       "topics": [
@@ -292,31 +297,27 @@
         "writing"
       ],
       "created_at": "2026-09-11T23:47:40Z",
-      "updated_at": "2026-09-14T23:01:57Z",
-      "rank": 13
+      "updated_at": "2026-09-16T03:27:11Z",
+      "rank": 12
     },
     {
-      "name": "paveldevyatov/refund-anything-ai-prompt",
-      "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
-      "description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
-      "full_description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
+      "name": "onmyway133/claude-code-tips-tricks",
+      "url": "https://github.com/onmyway133/claude-code-tips-tricks",
+      "description": "My favorite Claude Code tips & tricks",
+      "full_description": "My favorite Claude Code tips & tricks",
       "language": "",
-      "stars": 78,
+      "stars": 79,
       "stars_gained": 0,
-      "forks": 4,
+      "forks": 7,
       "topics": [
-        "ai",
-        "chargeback",
-        "chatgpt",
-        "claude",
-        "consumer-rights",
-        "prompt",
-        "refund",
-        "subscription"
+        "claude-code",
+        "mcp",
+        "skills",
+        "tips"
       ],
-      "created_at": "2026-09-08T10:20:24Z",
-      "updated_at": "2026-09-13T15:27:04Z",
-      "rank": 14
+      "created_at": "2026-09-13T12:38:38Z",
+      "updated_at": "2026-09-16T04:47:21Z",
+      "rank": 13
     },
     {
       "name": "bsab/sweden-mcp-servers",
@@ -337,30 +338,7 @@
       ],
       "created_at": "2026-09-14T09:25:33Z",
       "updated_at": "2026-09-14T18:46:31Z",
-      "rank": 15
-    },
-    {
-      "name": "Frankweb33/flybrain-robot-bridge",
-      "url": "https://github.com/Frankweb33/flybrain-robot-bridge",
-      "description": "Experimental Drosophila-inspired camera-to-robot bridge. Working mock neural backend, optical flow, IMU feedback and UDP motor control. MaleCNS integration planned.",
-      "full_description": "Experimental Drosophila-inspired camera-to-robot bridge. Working mock neural backend, optical flow, IMU feedback and UDP motor control. MaleCNS integration planned.",
-      "language": "Python",
-      "stars": 70,
-      "stars_gained": 0,
-      "forks": 10,
-      "topics": [
-        "biomimetic-robotics",
-        "brain-simulation",
-        "computer-vision",
-        "connectome",
-        "drosophila",
-        "esp32",
-        "neuroscience",
-        "robotics"
-      ],
-      "created_at": "2026-09-14T11:21:32Z",
-      "updated_at": "2026-09-15T04:55:51Z",
-      "rank": 16
+      "rank": 14
     },
     {
       "name": "Xu123-Bob/Baize",
@@ -370,7 +348,7 @@
       "language": "JavaScript",
       "stars": 70,
       "stars_gained": 0,
-      "forks": 0,
+      "forks": 1,
       "topics": [
         "ai",
         "ai-agent",
@@ -378,8 +356,8 @@
         "ai-coding"
       ],
       "created_at": "2026-09-12T05:17:38Z",
-      "updated_at": "2026-09-14T23:44:00Z",
-      "rank": 17
+      "updated_at": "2026-09-16T03:13:23Z",
+      "rank": 15
     },
     {
       "name": "LuxUmbra697/DSH-Desktop",
@@ -404,32 +382,7 @@
       ],
       "created_at": "2026-09-11T09:44:39Z",
       "updated_at": "2026-09-14T20:13:03Z",
-      "rank": 18
-    },
-    {
-      "name": "codejunkie99/agentic-stack-desktop",
-      "url": "https://github.com/codejunkie99/agentic-stack-desktop",
-      "description": "Native macOS workspace with one local knowledge graph across Claude Code, Codex, OpenCode, and Cursor.",
-      "full_description": "Native macOS workspace with one local knowledge graph across Claude Code, Codex, OpenCode, and Cursor.",
-      "language": "Python",
-      "stars": 60,
-      "stars_gained": 0,
-      "forks": 9,
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "cursor",
-        "knowledge-graph",
-        "local-first",
-        "macos",
-        "mcp",
-        "opencode",
-        "swiftui"
-      ],
-      "created_at": "2026-09-08T09:48:30Z",
-      "updated_at": "2026-09-14T06:05:48Z",
-      "rank": 19
+      "rank": 16
     },
     {
       "name": "ivyfan-toowell/IvyClaw",
@@ -452,7 +405,27 @@
       ],
       "created_at": "2026-09-13T03:14:36Z",
       "updated_at": "2026-09-14T23:03:54Z",
-      "rank": 20
+      "rank": 17
+    },
+    {
+      "name": "kkakkkka/awesome-code-as-x",
+      "url": "https://github.com/kkakkkka/awesome-code-as-x",
+      "description": "A Curated List of Coding-agent that treat a program as the intermediate representation for Policy/World/Editor and beyond",
+      "full_description": "A Curated List of Coding-agent that treat a program as the intermediate representation for Policy/World/Editor and beyond",
+      "language": "",
+      "stars": 56,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "coding-agents",
+        "editing",
+        "world-models"
+      ],
+      "created_at": "2026-09-13T14:47:07Z",
+      "updated_at": "2026-09-16T03:29:54Z",
+      "rank": 18
     },
     {
       "name": "nadirnet/nadir-core",
@@ -460,7 +433,7 @@
       "description": "Open-core ADAS drift scoring and a free local dashcam mount-health agent (Pulse). Shadow mode. Apache-2.0.",
       "full_description": "Open-core ADAS drift scoring and a free local dashcam mount-health agent (Pulse). Shadow mode. Apache-2.0.",
       "language": "Python",
-      "stars": 49,
+      "stars": 54,
       "stars_gained": 0,
       "forks": 9,
       "topics": [
@@ -474,8 +447,8 @@
         "telematics"
       ],
       "created_at": "2026-09-10T22:06:02Z",
-      "updated_at": "2026-09-15T04:47:24Z",
-      "rank": 21
+      "updated_at": "2026-09-15T22:47:22Z",
+      "rank": 19
     },
     {
       "name": "saihhold-zhao/polox_ai",
@@ -483,7 +456,7 @@
       "description": "An open-source, agent-native platform for multimodal AI generation, built on DeepSeek Harness. Every interaction lives in agent conversations and an infinite canvas, unifying creation, generation, and editing.",
       "full_description": "An open-source, agent-native platform for multimodal AI generation, built on DeepSeek Harness. Every interaction lives in agent conversations and an infinite canvas, unifying creation, generation, and editing.",
       "language": "TypeScript",
-      "stars": 48,
+      "stars": 50,
       "stars_gained": 0,
       "forks": 5,
       "topics": [
@@ -508,43 +481,8 @@
         "vue"
       ],
       "created_at": "2026-09-09T01:16:40Z",
-      "updated_at": "2026-09-15T02:40:00Z",
-      "rank": 22
-    },
-    {
-      "name": "pliablepixels/gap-trap",
-      "url": "https://github.com/pliablepixels/gap-trap",
-      "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
-      "full_description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
-      "language": "JavaScript",
-      "stars": 48,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "agent-skills",
-        "agentic-coding",
-        "agents-md",
-        "ai-agents",
-        "ai-coding",
-        "ci-cd",
-        "claude-code",
-        "claude-skills",
-        "code-quality",
-        "codex",
-        "coding-agents",
-        "cursor",
-        "developer-tools",
-        "github-actions",
-        "llm",
-        "mutation-testing",
-        "quality-gates",
-        "tdd",
-        "testing",
-        "vibe-coding"
-      ],
-      "created_at": "2026-09-13T20:29:08Z",
-      "updated_at": "2026-09-15T04:56:44Z",
-      "rank": 23
+      "updated_at": "2026-09-16T04:55:08Z",
+      "rank": 20
     },
     {
       "name": "vigorlee/eidra-agent",
@@ -552,7 +490,7 @@
       "description": "Persona agents with explicit memory, retrieval, adversarial smoke tests and a practical post-training roadmap.",
       "full_description": "Persona agents with explicit memory, retrieval, adversarial smoke tests and a practical post-training roadmap.",
       "language": "JavaScript",
-      "stars": 43,
+      "stars": 49,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -564,61 +502,48 @@
         "role-playing"
       ],
       "created_at": "2026-09-09T05:21:18Z",
-      "updated_at": "2026-09-15T04:50:52Z",
-      "rank": 24
+      "updated_at": "2026-09-16T04:08:58Z",
+      "rank": 21
     },
     {
-      "name": "emma-sue/AegisOps",
-      "url": "https://github.com/emma-sue/AegisOps",
-      "description": "AegisOps企业信息系统智能运维平台：自动巡检、Agent 故障排查、证据工单与审批处置。LangGraph · Deep Agents · MCP；附可复现实测记录。",
-      "full_description": "AegisOps企业信息系统智能运维平台：自动巡检、Agent 故障排查、证据工单与审批处置。LangGraph · Deep Agents · MCP；附可复现实测记录。",
+      "name": "agents-universe/agents-universe",
+      "url": "https://github.com/agents-universe/agents-universe",
+      "description": "共享智能体，共享项目上下文，让项目所有成员一起协同工作。同时智能体会像人一样通过资料或者工作抽象和总结经验到项目上下文中",
+      "full_description": "共享智能体，共享项目上下文，让项目所有成员一起协同工作。同时智能体会像人一样通过资料或者工作抽象和总结经验到项目上下文中",
       "language": "Python",
-      "stars": 40,
+      "stars": 45,
       "stars_gained": 0,
-      "forks": 8,
+      "forks": 1,
       "topics": [
-        "ai-agent",
-        "aiops",
-        "deepagents",
-        "langgraph",
-        "mcp",
-        "observability",
-        "pgvector",
-        "spring-boot",
-        "vue3"
+        "agent",
+        "agent-framework",
+        "agent-orchestration",
+        "agent-skill",
+        "agentic-ai",
+        "ai-agents",
+        "ai-governance",
+        "ai-tools",
+        "harness",
+        "harness-engineering",
+        "harness-framework",
+        "python",
+        "python3",
+        "vue3",
+        "vuejs"
       ],
-      "created_at": "2026-09-10T13:08:41Z",
-      "updated_at": "2026-09-15T04:51:45Z",
-      "rank": 25
-    },
-    {
-      "name": "onmyway133/claude-code-tips-tricks",
-      "url": "https://github.com/onmyway133/claude-code-tips-tricks",
-      "description": "My favorite Claude Code tips & tricks",
-      "full_description": "My favorite Claude Code tips & tricks",
-      "language": "",
-      "stars": 39,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "claude-code",
-        "mcp",
-        "skills",
-        "tips"
-      ],
-      "created_at": "2026-09-13T12:38:38Z",
-      "updated_at": "2026-09-15T04:56:51Z",
-      "rank": 26
+      "created_at": "2026-09-10T12:45:40Z",
+      "updated_at": "2026-09-16T03:13:42Z",
+      "rank": 22
     },
     {
       "name": "WestFox-AwA/dsh-prompt-optimizer",
       "url": "https://github.com/WestFox-AwA/dsh-prompt-optimizer",
-      "description": "DSH Web 插件：在输入框按回车时，先由『传话 AI』把你的话改写成一条可直接发给工作 AI 的命令——档位/权限/上下文可调，并按任务难度自行决定编排强度，确认后再发送",
-      "full_description": "DSH Web 插件：在输入框按回车时，先由『传话 AI』把你的话改写成一条可直接发给工作 AI 的命令——档位/权限/上下文可调，并按任务难度自行决定编排强度，确认后再发送",
-      "language": "JavaScript",
-      "stars": 39,
+      "description": "DSH Web 输入框接管（v0.3.9-beta.1 · 优化策略回退到 0.1.1 · 针对 PTC 模式优化，建议在 PTC 模式下使用 · 适用于 dsh-0.1.6-alpha.1）：发送前用独立 AI（传话者）把提示词优化成可直接发给工作 AI 的命令",
+      "full_description": "DSH Web 输入框接管（v0.3.9-beta.1 · 优化策略回退到 0.1.1 · 针对 PTC 模式优化，建议在 PTC 模式下使用 · 适用于 dsh-0.1.6-alpha.1）：发送前用独立 AI（传话者）把提示词优化成可直接发给工作 AI 的命令",
+      "language": "HTML",
+      "stars": 44,
       "stars_gained": 0,
-      "forks": 6,
+      "forks": 7,
       "topics": [
         "agent-workflow",
         "ai-agent",
@@ -632,8 +557,77 @@
         "web-plugin"
       ],
       "created_at": "2026-09-11T10:42:22Z",
-      "updated_at": "2026-09-15T04:47:56Z",
-      "rank": 27
+      "updated_at": "2026-09-16T04:53:31Z",
+      "rank": 23
+    },
+    {
+      "name": "sam-v-hq99v4/deepseek-bypass-2026",
+      "url": "https://github.com/sam-v-hq99v4/deepseek-bypass-2026",
+      "description": "Unlock DeepSeek V3 and R1 Pro APIs with an OpenAI-compatible wrapper and rotating shared keys. Access powerful DeepSeek models with a simple API setup, flexible integration, and streamlined access for development, testing, and AI-powered applications.",
+      "full_description": "Unlock DeepSeek V3 and R1 Pro APIs with an OpenAI-compatible wrapper and rotating shared keys. Access powerful DeepSeek models with a simple API setup, flexible integration, and streamlined access for development, testing, and AI-powered applications.",
+      "language": "HTML",
+      "stars": 44,
+      "stars_gained": 0,
+      "forks": 12,
+      "topics": [
+        "2026",
+        "ai",
+        "deepseek",
+        "deepseek-uncensored",
+        "deepseek-v4",
+        "prompt-injection",
+        "proxy",
+        "rate-limited",
+        "v4",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-09-15T15:01:21Z",
+      "updated_at": "2026-09-15T20:26:57Z",
+      "rank": 24
+    },
+    {
+      "name": "lucidrains/RLT",
+      "url": "https://github.com/lucidrains/RLT",
+      "description": "Implementation of the recurrent looped transformer proposed by Yifan Zhang of Princeton ",
+      "full_description": "Implementation of the recurrent looped transformer proposed by Yifan Zhang of Princeton ",
+      "language": "Python",
+      "stars": 43,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "artificial-intelligence",
+        "deep-learning",
+        "recurrence",
+        "transformers",
+        "yoco"
+      ],
+      "created_at": "2026-09-13T23:00:33Z",
+      "updated_at": "2026-09-15T23:03:03Z",
+      "rank": 25
+    },
+    {
+      "name": "LEO001020/pi-loop-studio-orchestra",
+      "url": "https://github.com/LEO001020/pi-loop-studio-orchestra",
+      "description": "pi-loop-studio/orchestra — evidence-driven, recoverable multi-agent engineering runtime with XState, SQLite WAL, isolated worktrees, independent review, and single-writer publication.",
+      "full_description": "pi-loop-studio/orchestra — evidence-driven, recoverable multi-agent engineering runtime with XState, SQLite WAL, isolated worktrees, independent review, and single-writer publication.",
+      "language": "JavaScript",
+      "stars": 39,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "agentic-workflow",
+        "coding-agents",
+        "llm",
+        "multi-agent-systems",
+        "react-flow",
+        "software-engineering",
+        "sqlite",
+        "xstate"
+      ],
+      "created_at": "2026-09-11T09:47:30Z",
+      "updated_at": "2026-09-15T20:40:00Z",
+      "rank": 26
     },
     {
       "name": "karacca/moodstone",
@@ -668,46 +662,94 @@
       ],
       "created_at": "2026-09-12T10:34:11Z",
       "updated_at": "2026-09-14T14:16:21Z",
-      "rank": 28
+      "rank": 27
     },
     {
-      "name": "Raymondhou0917/ai-level-check",
-      "url": "https://github.com/Raymondhou0917/ai-level-check",
-      "description": "AI 幾級了 — What level is your AI usage? Reads local agent logs and writes an LV0–LV5 report. No ranking.",
-      "full_description": "AI 幾級了 — What level is your AI usage? Reads local agent logs and writes an LV0–LV5 report. No ranking.",
-      "language": "Python",
-      "stars": 39,
-      "stars_gained": 0,
-      "forks": 4,
-      "topics": [
-        "ai",
-        "claude-code",
-        "productivity",
-        "skill",
-        "traditional-chinese"
-      ],
-      "created_at": "2026-09-08T04:59:51Z",
-      "updated_at": "2026-09-13T03:45:41Z",
-      "rank": 29
-    },
-    {
-      "name": "lucidrains/RLT",
-      "url": "https://github.com/lucidrains/RLT",
-      "description": "Implementation of the recurrent looped transformer proposed by Yifan Zhang of Princeton ",
-      "full_description": "Implementation of the recurrent looped transformer proposed by Yifan Zhang of Princeton ",
-      "language": "Python",
-      "stars": 35,
+      "name": "agentscope-java/agentscope-java",
+      "url": "https://github.com/agentscope-java/agentscope-java",
+      "description": "Build distributed, production-grade, long-running agents.",
+      "full_description": "Build distributed, production-grade, long-running agents.",
+      "language": "Java",
+      "stars": 38,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
-        "artificial-intelligence",
-        "deep-learning",
-        "recurrence",
-        "transformers",
-        "yoco"
+        "adk",
+        "agent",
+        "agent-framework",
+        "agentic",
+        "agentic-ai",
+        "agentscope",
+        "ai",
+        "harness",
+        "llm"
       ],
-      "created_at": "2026-09-13T23:00:33Z",
-      "updated_at": "2026-09-15T02:28:55Z",
+      "created_at": "2026-09-14T10:55:50Z",
+      "updated_at": "2026-09-16T04:10:20Z",
+      "rank": 28
+    },
+    {
+      "name": "CassiopeiaCode/CosyRedactGateway",
+      "url": "https://github.com/CassiopeiaCode/CosyRedactGateway",
+      "description": "Lightweight, stateless privacy gateway for LLM APIs — redact secrets before OpenAI/Anthropic upstreams and restore them transparently in SSE and tool calls.",
+      "full_description": "Lightweight, stateless privacy gateway for LLM APIs — redact secrets before OpenAI/Anthropic upstreams and restore them transparently in SSE and tool calls.",
+      "language": "JavaScript",
+      "stars": 38,
+      "stars_gained": 0,
+      "forks": 6,
+      "topics": [
+        "anthropic",
+        "cloudflare-workers",
+        "data-masking",
+        "deno",
+        "gitleaks",
+        "llm",
+        "llm-proxy",
+        "openai",
+        "pii",
+        "privacy",
+        "proxy",
+        "redaction",
+        "security",
+        "sse"
+      ],
+      "created_at": "2026-09-11T07:43:28Z",
+      "updated_at": "2026-09-15T14:47:22Z",
+      "rank": 29
+    },
+    {
+      "name": "Akxan/google-seo-mcp",
+      "url": "https://github.com/Akxan/google-seo-mcp",
+      "description": "SEO & GEO MCP server for Claude, Codex, Cursor and any MCP client: Search Console, GA4, PageSpeed, Core Web Vitals, structured data, llms.txt, AI crawler checks, WordPress (Yoast, WP-CLI over SSH), GitHub, Gmail — 83 tools for technical SEO and generative engine optimization; optional hosted mode with Google sign-in",
+      "full_description": "SEO & GEO MCP server for Claude, Codex, Cursor and any MCP client: Search Console, GA4, PageSpeed, Core Web Vitals, structured data, llms.txt, AI crawler checks, WordPress (Yoast, WP-CLI over SSH), GitHub, Gmail — 83 tools for technical SEO and generative engine optimization; optional hosted mode with Google sign-in",
+      "language": "TypeScript",
+      "stars": 36,
+      "stars_gained": 0,
+      "forks": 5,
+      "topics": [
+        "ai-agents",
+        "claude",
+        "core-web-vitals",
+        "ga4",
+        "generative-engine-optimization",
+        "geo",
+        "google-analytics",
+        "google-search-console",
+        "llms-txt",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "pagespeed-insights",
+        "seo",
+        "seo-tools",
+        "structured-data",
+        "technical-seo",
+        "typescript",
+        "wordpress",
+        "yoast"
+      ],
+      "created_at": "2026-09-09T02:00:34Z",
+      "updated_at": "2026-09-15T06:09:13Z",
       "rank": 30
     }
   ]
