@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T05:10:54.299071+00:00",
+  "updated": "2026-09-26T05:16:29.654270+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "full_description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "language": "Python",
-      "stars": 23350,
+      "stars": 24858,
       "stars_gained": 0,
-      "forks": 2019,
+      "forks": 2147,
       "topics": [
         "calibration",
         "classification",
@@ -29,7 +29,7 @@
         "zero-shot"
       ],
       "created_at": "2026-09-18T04:46:33Z",
-      "updated_at": "2026-09-25T05:10:36Z",
+      "updated_at": "2026-09-26T05:15:54Z",
       "rank": 1
     },
     {
@@ -38,9 +38,9 @@
       "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
       "full_description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
       "language": "TypeScript",
-      "stars": 6622,
+      "stars": 6677,
       "stars_gained": 0,
-      "forks": 600,
+      "forks": 602,
       "topics": [
         "ai-agents",
         "chatgpt",
@@ -50,8 +50,28 @@
         "oauth"
       ],
       "created_at": "2026-08-28T12:57:24Z",
-      "updated_at": "2026-09-25T04:47:13Z",
+      "updated_at": "2026-09-26T04:45:27Z",
       "rank": 2
+    },
+    {
+      "name": "jev-chat/jev-chat-jarvis",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "full_description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "language": "Kotlin",
+      "stars": 6538,
+      "stars_gained": 0,
+      "forks": 1136,
+      "topics": [
+        "accessibility-service",
+        "android",
+        "chat-assistant",
+        "llm",
+        "qq"
+      ],
+      "created_at": "2026-09-21T11:12:53Z",
+      "updated_at": "2026-09-26T05:15:03Z",
+      "rank": 3
     },
     {
       "name": "mizorewww/laya-mlx",
@@ -59,9 +79,9 @@
       "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
       "full_description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
       "language": "Python",
-      "stars": 6243,
+      "stars": 6357,
       "stars_gained": 0,
-      "forks": 482,
+      "forks": 496,
       "topics": [
         "apple-silicon",
         "decision-model",
@@ -75,38 +95,18 @@
         "typed-decisions"
       ],
       "created_at": "2026-09-19T13:50:26Z",
-      "updated_at": "2026-09-25T05:09:21Z",
-      "rank": 3
-    },
-    {
-      "name": "jev-chat/jev-chat-jarvis",
-      "url": "https://github.com/jev-chat/jev-chat-jarvis",
-      "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "full_description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "language": "Kotlin",
-      "stars": 6227,
-      "stars_gained": 0,
-      "forks": 1109,
-      "topics": [
-        "accessibility-service",
-        "android",
-        "chat-assistant",
-        "llm",
-        "qq"
-      ],
-      "created_at": "2026-09-21T11:12:53Z",
-      "updated_at": "2026-09-25T05:10:47Z",
+      "updated_at": "2026-09-26T05:03:34Z",
       "rank": 4
     },
     {
       "name": "Human-Agent-Society/reef",
       "url": "https://github.com/Human-Agent-Society/reef",
-      "description": "Continual learning infra for self-improving agents",
-      "full_description": "Continual learning infra for self-improving agents",
+      "description": "Infrastructure for continually self‑improving agents",
+      "full_description": "Infrastructure for continually self‑improving agents",
       "language": "Python",
-      "stars": 5130,
+      "stars": 5463,
       "stars_gained": 0,
-      "forks": 436,
+      "forks": 474,
       "topics": [
         "agent-infrastructure",
         "ai-agents",
@@ -118,7 +118,7 @@
         "self-improving-agents"
       ],
       "created_at": "2026-08-31T01:39:18Z",
-      "updated_at": "2026-09-25T05:04:40Z",
+      "updated_at": "2026-09-26T05:15:26Z",
       "rank": 5
     },
     {
@@ -127,7 +127,7 @@
       "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
       "full_description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
       "language": "JavaScript",
-      "stars": 2857,
+      "stars": 2856,
       "stars_gained": 0,
       "forks": 10,
       "topics": [
@@ -141,7 +141,7 @@
         "univer"
       ],
       "created_at": "2026-08-28T10:56:56Z",
-      "updated_at": "2026-09-24T15:08:26Z",
+      "updated_at": "2026-09-25T13:10:44Z",
       "rank": 6
     },
     {
@@ -150,7 +150,7 @@
       "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "full_description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "language": "Python",
-      "stars": 2836,
+      "stars": 2846,
       "stars_gained": 0,
       "forks": 185,
       "topics": [
@@ -168,7 +168,7 @@
         "writing-tools"
       ],
       "created_at": "2026-08-28T05:56:49Z",
-      "updated_at": "2026-09-25T05:05:54Z",
+      "updated_at": "2026-09-26T00:05:37Z",
       "rank": 7
     },
     {
@@ -177,7 +177,7 @@
       "description": "An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
       "full_description": "An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
       "language": "TypeScript",
-      "stars": 2761,
+      "stars": 2806,
       "stars_gained": 0,
       "forks": 53,
       "topics": [
@@ -191,51 +191,8 @@
         "tailwindcss"
       ],
       "created_at": "2026-09-02T11:51:38Z",
-      "updated_at": "2026-09-25T04:19:41Z",
+      "updated_at": "2026-09-26T05:07:03Z",
       "rank": 8
-    },
-    {
-      "name": "cbrock84/headcount",
-      "url": "https://github.com/cbrock84/headcount",
-      "description": "An agent organization structured as a company — 15+ departments, 125+ skills, each independently installable, citing the standards and regulators that settle the question. Runs in Claude Code and ChatGPT.",
-      "full_description": "An agent organization structured as a company — 15+ departments, 125+ skills, each independently installable, citing the standards and regulators that settle the question. Runs in Claude Code and ChatGPT.",
-      "language": "Markdown",
-      "stars": 1665,
-      "stars_gained": 0,
-      "forks": 247,
-      "topics": [
-        "agent-marketplace",
-        "chatgpt-plugin",
-        "chatgpt-skills",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-plugin",
-        "claude-skills",
-        "mcp",
-        "organization"
-      ],
-      "created_at": "2026-08-28T18:03:04Z",
-      "updated_at": "2026-09-25T02:35:06Z",
-      "rank": 9
-    },
-    {
-      "name": "yibie/awesome-jev",
-      "url": "https://github.com/yibie/awesome-jev",
-      "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
-      "full_description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
-      "language": "Python",
-      "stars": 1632,
-      "stars_gained": 0,
-      "forks": 235,
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "jev",
-        "llm"
-      ],
-      "created_at": "2026-09-17T14:23:21Z",
-      "updated_at": "2026-09-25T04:59:32Z",
-      "rank": 10
     },
     {
       "name": "Ryze-AI-Adgent/open-seo-mcp-skills",
@@ -243,9 +200,9 @@
       "description": "Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
       "full_description": "Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
       "language": "Shell",
-      "stars": 1570,
+      "stars": 1796,
       "stars_gained": 0,
-      "forks": 350,
+      "forks": 352,
       "topics": [
         "ai-seo",
         "ai-visibility",
@@ -269,25 +226,51 @@
         "seo-mcp-server"
       ],
       "created_at": "2026-08-29T23:37:01Z",
-      "updated_at": "2026-09-25T05:00:21Z",
-      "rank": 11
+      "updated_at": "2026-09-26T05:13:43Z",
+      "rank": 9
     },
     {
-      "name": "jtydhr88/screenwriting-skills",
-      "url": "https://github.com/jtydhr88/screenwriting-skills",
-      "description": "Professional agent skills for screenwriting, television writing and dramaturgy",
-      "full_description": "Professional agent skills for screenwriting, television writing and dramaturgy",
+      "name": "yibie/awesome-jev",
+      "url": "https://github.com/yibie/awesome-jev",
+      "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+      "full_description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
       "language": "Python",
-      "stars": 1384,
+      "stars": 1690,
       "stars_gained": 0,
-      "forks": 156,
+      "forks": 244,
       "topics": [
-        "ai",
-        "skills"
+        "awesome",
+        "awesome-list",
+        "jev",
+        "llm"
       ],
-      "created_at": "2026-09-06T12:28:23Z",
-      "updated_at": "2026-09-25T04:59:08Z",
-      "rank": 12
+      "created_at": "2026-09-17T14:23:21Z",
+      "updated_at": "2026-09-26T05:14:20Z",
+      "rank": 10
+    },
+    {
+      "name": "cbrock84/headcount",
+      "url": "https://github.com/cbrock84/headcount",
+      "description": "An agent organization structured as a company — 15+ departments, 125+ skills, each independently installable, citing the standards and regulators that settle the question. Runs in Claude Code and ChatGPT.",
+      "full_description": "An agent organization structured as a company — 15+ departments, 125+ skills, each independently installable, citing the standards and regulators that settle the question. Runs in Claude Code and ChatGPT.",
+      "language": "Markdown",
+      "stars": 1670,
+      "stars_gained": 0,
+      "forks": 250,
+      "topics": [
+        "agent-marketplace",
+        "chatgpt-plugin",
+        "chatgpt-skills",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-plugin",
+        "claude-skills",
+        "mcp",
+        "organization"
+      ],
+      "created_at": "2026-08-28T18:03:04Z",
+      "updated_at": "2026-09-26T04:34:54Z",
+      "rank": 11
     },
     {
       "name": "ZJU-REAL/Easel",
@@ -295,9 +278,9 @@
       "description": "An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。",
       "full_description": "An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。",
       "language": "Python",
-      "stars": 1326,
+      "stars": 1476,
       "stars_gained": 0,
-      "forks": 193,
+      "forks": 211,
       "topics": [
         "agent",
         "agent-skill",
@@ -310,7 +293,24 @@
         "social-media-management"
       ],
       "created_at": "2026-08-28T02:22:27Z",
-      "updated_at": "2026-09-25T04:49:41Z",
+      "updated_at": "2026-09-26T05:13:17Z",
+      "rank": 12
+    },
+    {
+      "name": "jtydhr88/screenwriting-skills",
+      "url": "https://github.com/jtydhr88/screenwriting-skills",
+      "description": "Professional agent skills for screenwriting, television writing and dramaturgy",
+      "full_description": "Professional agent skills for screenwriting, television writing and dramaturgy",
+      "language": "Python",
+      "stars": 1395,
+      "stars_gained": 0,
+      "forks": 155,
+      "topics": [
+        "ai",
+        "skills"
+      ],
+      "created_at": "2026-09-06T12:28:23Z",
+      "updated_at": "2026-09-26T04:17:42Z",
       "rank": 13
     },
     {
@@ -319,7 +319,7 @@
       "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
       "full_description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
       "language": "JavaScript",
-      "stars": 1319,
+      "stars": 1318,
       "stars_gained": 0,
       "forks": 45,
       "topics": [
@@ -332,7 +332,7 @@
         "unigit"
       ],
       "created_at": "2026-09-02T10:08:01Z",
-      "updated_at": "2026-09-24T15:08:27Z",
+      "updated_at": "2026-09-25T13:10:46Z",
       "rank": 14
     },
     {
@@ -341,7 +341,7 @@
       "description": "Official SGLang x Datawhale course on LLM inference: understand inference, build a mini-sglang from scratch, then read the real SGLang source and land your first PR. Available in English and Chinese.",
       "full_description": "Official SGLang x Datawhale course on LLM inference: understand inference, build a mini-sglang from scratch, then read the real SGLang source and land your first PR. Available in English and Chinese.",
       "language": "Python",
-      "stars": 1279,
+      "stars": 1291,
       "stars_gained": 0,
       "forks": 102,
       "topics": [
@@ -356,7 +356,7 @@
         "tutorial"
       ],
       "created_at": "2026-08-27T02:24:12Z",
-      "updated_at": "2026-09-25T01:19:44Z",
+      "updated_at": "2026-09-26T04:35:18Z",
       "rank": 15
     },
     {
@@ -365,7 +365,7 @@
       "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
       "full_description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
       "language": "Python",
-      "stars": 1245,
+      "stars": 1246,
       "stars_gained": 0,
       "forks": 238,
       "topics": [
@@ -391,8 +391,33 @@
         "verification"
       ],
       "created_at": "2026-08-31T01:02:18Z",
-      "updated_at": "2026-09-24T19:24:09Z",
+      "updated_at": "2026-09-26T00:14:55Z",
       "rank": 16
+    },
+    {
+      "name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+      "full_description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+      "language": "Markdown",
+      "stars": 1194,
+      "stars_gained": 0,
+      "forks": 108,
+      "topics": [
+        "ai",
+        "ai-engineering",
+        "ai-engineering-interview",
+        "ai-interview",
+        "ai-interview-questions",
+        "company-wise-prep",
+        "company-wise-questions",
+        "interview-questions",
+        "llm-inference",
+        "questions-and-answers"
+      ],
+      "created_at": "2026-09-19T04:14:43Z",
+      "updated_at": "2026-09-26T05:03:09Z",
+      "rank": 17
     },
     {
       "name": "unstablebuild/rune",
@@ -400,9 +425,9 @@
       "description": "the development environment for pros",
       "full_description": "the development environment for pros",
       "language": "Go",
-      "stars": 1151,
+      "stars": 1177,
       "stars_gained": 0,
-      "forks": 88,
+      "forks": 87,
       "topics": [
         "agent-orchestration",
         "ai",
@@ -421,8 +446,29 @@
         "workspace-manager"
       ],
       "created_at": "2026-09-10T10:50:03Z",
-      "updated_at": "2026-09-25T05:05:42Z",
-      "rank": 17
+      "updated_at": "2026-09-26T04:32:39Z",
+      "rank": 18
+    },
+    {
+      "name": "TokenRhythm/NeoHorse",
+      "url": "https://github.com/TokenRhythm/NeoHorse",
+      "description": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness.",
+      "full_description": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness.",
+      "language": "Python",
+      "stars": 1018,
+      "stars_gained": 0,
+      "forks": 12,
+      "topics": [
+        "agent",
+        "large-language-models",
+        "llm",
+        "post-training",
+        "recursive-self-improvement",
+        "rsi"
+      ],
+      "created_at": "2026-09-04T08:34:54Z",
+      "updated_at": "2026-09-26T05:06:48Z",
+      "rank": 19
     },
     {
       "name": "tigerless-labs/agent-memory",
@@ -430,9 +476,9 @@
       "description": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
       "full_description": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
       "language": "Python",
-      "stars": 965,
+      "stars": 962,
       "stars_gained": 0,
-      "forks": 65,
+      "forks": 62,
       "topics": [
         "agent-memory",
         "ai-agents",
@@ -448,29 +494,8 @@
         "sqlite"
       ],
       "created_at": "2026-09-01T21:52:29Z",
-      "updated_at": "2026-09-24T15:35:07Z",
-      "rank": 18
-    },
-    {
-      "name": "TokenRhythm/NeoHorse",
-      "url": "https://github.com/TokenRhythm/NeoHorse",
-      "description": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness.",
-      "full_description": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness.",
-      "language": "Python",
-      "stars": 960,
-      "stars_gained": 0,
-      "forks": 11,
-      "topics": [
-        "agent",
-        "large-language-models",
-        "llm",
-        "post-training",
-        "recursive-self-improvement",
-        "rsi"
-      ],
-      "created_at": "2026-09-04T08:34:54Z",
-      "updated_at": "2026-09-25T05:04:13Z",
-      "rank": 19
+      "updated_at": "2026-09-26T05:02:12Z",
+      "rank": 20
     },
     {
       "name": "youngyangyang04/llm-master",
@@ -478,7 +503,7 @@
       "description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
       "full_description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
       "language": "",
-      "stars": 947,
+      "stars": 951,
       "stars_gained": 0,
       "forks": 93,
       "topics": [
@@ -490,8 +515,8 @@
         "rag"
       ],
       "created_at": "2026-09-12T07:33:31Z",
-      "updated_at": "2026-09-25T03:16:42Z",
-      "rank": 20
+      "updated_at": "2026-09-26T03:35:06Z",
+      "rank": 21
     },
     {
       "name": "kruzovic7/ai-data-extractor",
@@ -501,7 +526,7 @@
       "language": "Python",
       "stars": 844,
       "stars_gained": 0,
-      "forks": 137,
+      "forks": 136,
       "topics": [
         "ai",
         "ai-data-extraction",
@@ -509,8 +534,52 @@
         "cursor"
       ],
       "created_at": "2026-09-11T18:12:58Z",
-      "updated_at": "2026-09-25T01:18:39Z",
-      "rank": 21
+      "updated_at": "2026-09-25T17:21:43Z",
+      "rank": 22
+    },
+    {
+      "name": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "full_description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "language": "Go",
+      "stars": 814,
+      "stars_gained": 0,
+      "forks": 49,
+      "topics": [
+        "claude-code",
+        "codex",
+        "deepseek",
+        "gemini-cli",
+        "llm",
+        "macos"
+      ],
+      "created_at": "2026-09-23T16:22:35Z",
+      "updated_at": "2026-09-26T05:09:28Z",
+      "rank": 23
+    },
+    {
+      "name": "nokia-applied-research/AnyJev",
+      "url": "https://github.com/nokia-applied-research/AnyJev",
+      "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)",
+      "full_description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)",
+      "language": "Python",
+      "stars": 730,
+      "stars_gained": 0,
+      "forks": 96,
+      "topics": [
+        "calibration",
+        "decision-model",
+        "jev",
+        "jev-model",
+        "llm",
+        "system-one",
+        "transformers",
+        "vllm"
+      ],
+      "created_at": "2026-09-21T05:55:40Z",
+      "updated_at": "2026-09-26T05:13:56Z",
+      "rank": 24
     },
     {
       "name": "okf-memory/okf-agent-memory",
@@ -520,7 +589,7 @@
       "language": "Go",
       "stars": 723,
       "stars_gained": 0,
-      "forks": 55,
+      "forks": 54,
       "topics": [
         "agent-memory",
         "ai-agents",
@@ -542,43 +611,8 @@
         "persistent-memory"
       ],
       "created_at": "2026-09-05T21:26:04Z",
-      "updated_at": "2026-09-25T01:33:45Z",
-      "rank": 22
-    },
-    {
-      "name": "whitecircle/halo",
-      "url": "https://github.com/whitecircle/halo",
-      "description": "Halo is an open-source framework built by White Circle for training large language and multimodal models",
-      "full_description": "Halo is an open-source framework built by White Circle for training large language and multimodal models",
-      "language": "Python",
-      "stars": 720,
-      "stars_gained": 0,
-      "forks": 35,
-      "topics": [
-        "agent",
-        "async-rl",
-        "distributed-training",
-        "fine-tuning",
-        "grpo",
-        "large-language-models",
-        "llm",
-        "lora",
-        "model-parallelism",
-        "moe",
-        "multimodal",
-        "peft",
-        "post-training",
-        "pytorch",
-        "qlora",
-        "quantization",
-        "reinforcement-learning",
-        "rlhf",
-        "transformers",
-        "vllm"
-      ],
-      "created_at": "2026-08-26T13:49:24Z",
-      "updated_at": "2026-09-25T03:45:56Z",
-      "rank": 23
+      "updated_at": "2026-09-25T11:30:24Z",
+      "rank": 25
     },
     {
       "name": "v-modal/awesome-jev-tools",
@@ -586,9 +620,9 @@
       "description": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
       "full_description": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
       "language": "",
-      "stars": 714,
+      "stars": 720,
       "stars_gained": 0,
-      "forks": 29,
+      "forks": 32,
       "topics": [
         "awesome",
         "awesome-list",
@@ -601,86 +635,31 @@
         "robotics-simulation"
       ],
       "created_at": "2026-09-19T16:48:59Z",
-      "updated_at": "2026-09-25T05:05:39Z",
-      "rank": 24
-    },
-    {
-      "name": "peonist-ai/halogen-flash-server",
-      "url": "https://github.com/peonist-ai/halogen-flash-server",
-      "description": "The fastest way to run Qwen3.8-Flash-Next on Strix Halo (gfx1151)",
-      "full_description": "The fastest way to run Qwen3.8-Flash-Next on Strix Halo (gfx1151)",
-      "language": "Shell",
-      "stars": 693,
-      "stars_gained": 0,
-      "forks": 42,
-      "topics": [
-        "amd",
-        "gfx1151",
-        "gpu-inference",
-        "hip",
-        "inference-engine",
-        "llm",
-        "llm-serving",
-        "local-llm",
-        "long-context",
-        "mixture-of-experts",
-        "openai-api",
-        "qwen",
-        "qwen3",
-        "radeon",
-        "rocm",
-        "ryzen-ai",
-        "speculative-decoding",
-        "strix-halo"
-      ],
-      "created_at": "2026-08-26T12:41:30Z",
-      "updated_at": "2026-09-25T01:02:56Z",
-      "rank": 25
-    },
-    {
-      "name": "yetone/magpie",
-      "url": "https://github.com/yetone/magpie",
-      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "full_description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "language": "Go",
-      "stars": 684,
-      "stars_gained": 0,
-      "forks": 38,
-      "topics": [
-        "claude-code",
-        "codex",
-        "deepseek",
-        "gemini-cli",
-        "llm",
-        "macos"
-      ],
-      "created_at": "2026-09-23T16:22:35Z",
-      "updated_at": "2026-09-25T05:09:12Z",
+      "updated_at": "2026-09-25T19:31:24Z",
       "rank": 26
     },
     {
-      "name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-      "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-      "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
-      "full_description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
-      "language": "Markdown",
-      "stars": 667,
+      "name": "yukitorido/short-video-generator-AI",
+      "url": "https://github.com/yukitorido/short-video-generator-AI",
+      "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+      "full_description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+      "language": "Python",
+      "stars": 693,
       "stars_gained": 0,
-      "forks": 44,
+      "forks": 82,
       "topics": [
         "ai",
-        "ai-engineering",
-        "ai-engineering-interview",
-        "ai-interview",
-        "ai-interview-questions",
-        "company-wise-prep",
-        "company-wise-questions",
-        "interview-questions",
-        "llm-inference",
-        "questions-and-answers"
+        "llm",
+        "llm-tools",
+        "opus-clip",
+        "opus-clip-alternative",
+        "short-video",
+        "short-video-automation",
+        "short-video-generator",
+        "short-video-maker"
       ],
-      "created_at": "2026-09-19T04:14:43Z",
-      "updated_at": "2026-09-25T05:05:09Z",
+      "created_at": "2026-09-23T18:11:57Z",
+      "updated_at": "2026-09-26T05:14:36Z",
       "rank": 27
     },
     {
@@ -689,9 +668,9 @@
       "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
       "full_description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
       "language": "Python",
-      "stars": 644,
+      "stars": 685,
       "stars_gained": 0,
-      "forks": 48,
+      "forks": 51,
       "topics": [
         "decision-model",
         "jev",
@@ -702,8 +681,27 @@
         "typesafe"
       ],
       "created_at": "2026-09-18T05:03:47Z",
-      "updated_at": "2026-09-25T05:03:32Z",
+      "updated_at": "2026-09-26T04:01:11Z",
       "rank": 28
+    },
+    {
+      "name": "TypeLLM/TypeLLM",
+      "url": "https://github.com/TypeLLM/TypeLLM",
+      "description": "TypeLLM: LLMs with type-safe generation",
+      "full_description": "TypeLLM: LLMs with type-safe generation",
+      "language": "Python",
+      "stars": 653,
+      "stars_gained": 0,
+      "forks": 38,
+      "topics": [
+        "ai",
+        "jev",
+        "llms",
+        "types"
+      ],
+      "created_at": "2026-09-17T12:41:27Z",
+      "updated_at": "2026-09-26T05:15:33Z",
+      "rank": 29
     },
     {
       "name": "hkqr/my-free-code",
@@ -713,7 +711,7 @@
       "language": "Python",
       "stars": 639,
       "stars_gained": 0,
-      "forks": 212,
+      "forks": 211,
       "topics": [
         "ai",
         "claude-code",
@@ -723,26 +721,6 @@
       ],
       "created_at": "2026-08-27T17:59:23Z",
       "updated_at": "2026-09-24T15:08:26Z",
-      "rank": 29
-    },
-    {
-      "name": "devagrawal09/jev-review",
-      "url": "https://github.com/devagrawal09/jev-review",
-      "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
-      "full_description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
-      "language": "TypeScript",
-      "stars": 602,
-      "stars_gained": 0,
-      "forks": 37,
-      "topics": [
-        "ai",
-        "code-review",
-        "jev",
-        "typesafe-ai",
-        "typescript"
-      ],
-      "created_at": "2026-09-16T21:45:36Z",
-      "updated_at": "2026-09-25T04:10:51Z",
       "rank": 30
     }
   ]
