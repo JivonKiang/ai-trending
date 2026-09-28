@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T05:31:46.936882+00:00",
+  "updated": "2026-09-28T05:41:09.447179+00:00",
   "period": "halfyearly",
   "label": "半年",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "full_description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars": 146593,
+      "stars": 147023,
       "stars_gained": 0,
-      "forks": 7877,
+      "forks": 7899,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -26,7 +26,7 @@
         "yagni"
       ],
       "created_at": "2026-06-12T00:52:37Z",
-      "updated_at": "2026-09-27T05:31:27Z",
+      "updated_at": "2026-09-28T05:40:26Z",
       "rank": 1
     },
     {
@@ -35,9 +35,9 @@
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "full_description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
-      "stars": 121698,
+      "stars": 121928,
       "stars_gained": 0,
-      "forks": 11716,
+      "forks": 11745,
       "topics": [
         "ai-agents",
         "antigravity",
@@ -60,7 +60,7 @@
         "tree-sitter"
       ],
       "created_at": "2026-04-03T15:49:07Z",
-      "updated_at": "2026-09-27T05:13:53Z",
+      "updated_at": "2026-09-28T05:40:04Z",
       "rank": 2
     },
     {
@@ -69,9 +69,9 @@
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "full_description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "language": "Go",
-      "stars": 107973,
+      "stars": 108096,
       "stars_gained": 0,
-      "forks": 6260,
+      "forks": 6266,
       "topics": [
         "ai",
         "anthropic",
@@ -85,7 +85,7 @@
         "tokens"
       ],
       "created_at": "2026-04-04T10:03:00Z",
-      "updated_at": "2026-09-27T05:17:36Z",
+      "updated_at": "2026-09-28T05:31:58Z",
       "rank": 3
     },
     {
@@ -94,9 +94,9 @@
       "description": "The best-benchmarked open-source AI memory system. And it's free.",
       "full_description": "The best-benchmarked open-source AI memory system. And it's free.",
       "language": "Python",
-      "stars": 59299,
+      "stars": 59326,
       "stars_gained": 0,
-      "forks": 7564,
+      "forks": 7563,
       "topics": [
         "ai",
         "chromadb",
@@ -106,7 +106,7 @@
         "python"
       ],
       "created_at": "2026-04-05T01:12:07Z",
-      "updated_at": "2026-09-27T04:51:48Z",
+      "updated_at": "2026-09-28T04:58:10Z",
       "rank": 4
     },
     {
@@ -115,9 +115,9 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "full_description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars": 41665,
+      "stars": 42014,
       "stars_gained": 0,
-      "forks": 2997,
+      "forks": 3015,
       "topics": [
         "agent",
         "agent-skills",
@@ -127,7 +127,7 @@
         "repository-level-context"
       ],
       "created_at": "2026-05-18T02:16:36Z",
-      "updated_at": "2026-09-27T05:25:15Z",
+      "updated_at": "2026-09-28T05:41:02Z",
       "rank": 5
     },
     {
@@ -136,9 +136,9 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "full_description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars": 37526,
+      "stars": 40742,
       "stars_gained": 0,
-      "forks": 4435,
+      "forks": 4833,
       "topics": [
         "ai",
         "audiobook",
@@ -162,7 +162,7 @@
         "workflow"
       ],
       "created_at": "2026-04-09T21:40:26Z",
-      "updated_at": "2026-09-27T05:31:44Z",
+      "updated_at": "2026-09-28T05:41:07Z",
       "rank": 6
     },
     {
@@ -171,9 +171,9 @@
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "full_description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "language": "Go",
-      "stars": 35719,
+      "stars": 35706,
       "stars_gained": 0,
-      "forks": 2421,
+      "forks": 2422,
       "topics": [
         "agent",
         "agent-framework",
@@ -195,7 +195,7 @@
         "typescript"
       ],
       "created_at": "2026-04-21T08:27:02Z",
-      "updated_at": "2026-09-27T05:23:11Z",
+      "updated_at": "2026-09-28T05:39:33Z",
       "rank": 7
     },
     {
@@ -204,9 +204,9 @@
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "full_description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars": 34090,
+      "stars": 34178,
       "stars_gained": 0,
-      "forks": 5552,
+      "forks": 5558,
       "topics": [
         "ai-agent",
         "algorithmic-trading",
@@ -220,7 +220,7 @@
         "trading"
       ],
       "created_at": "2026-04-01T09:52:20Z",
-      "updated_at": "2026-09-27T05:13:41Z",
+      "updated_at": "2026-09-28T05:26:14Z",
       "rank": 8
     },
     {
@@ -229,7 +229,7 @@
       "description": "runs anywhere. uses anything",
       "full_description": "runs anywhere. uses anything",
       "language": "TypeScript",
-      "stars": 33542,
+      "stars": 33554,
       "stars_gained": 0,
       "forks": 9107,
       "topics": [
@@ -240,7 +240,7 @@
         "coding"
       ],
       "created_at": "2026-04-01T03:15:49Z",
-      "updated_at": "2026-09-27T05:31:00Z",
+      "updated_at": "2026-09-28T03:34:51Z",
       "rank": 9
     },
     {
@@ -249,9 +249,9 @@
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "full_description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars": 32615,
+      "stars": 32783,
       "stars_gained": 0,
-      "forks": 3398,
+      "forks": 3425,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -268,7 +268,7 @@
         "study-tools"
       ],
       "created_at": "2026-05-01T02:09:39Z",
-      "updated_at": "2026-09-27T05:23:59Z",
+      "updated_at": "2026-09-28T05:36:37Z",
       "rank": 10
     },
     {
@@ -277,9 +277,9 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "full_description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
-      "stars": 27299,
+      "stars": 27367,
       "stars_gained": 0,
-      "forks": 2626,
+      "forks": 2638,
       "topics": [
         "agent",
         "ai-agent",
@@ -292,7 +292,7 @@
         "vector-search"
       ],
       "created_at": "2026-04-07T06:34:26Z",
-      "updated_at": "2026-09-27T05:29:08Z",
+      "updated_at": "2026-09-28T05:32:36Z",
       "rank": 11
     },
     {
@@ -301,9 +301,9 @@
       "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "full_description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "language": "Python",
-      "stars": 26000,
+      "stars": 26931,
       "stars_gained": 0,
-      "forks": 2262,
+      "forks": 2351,
       "topics": [
         "calibration",
         "classification",
@@ -320,7 +320,7 @@
         "zero-shot"
       ],
       "created_at": "2026-09-18T04:46:33Z",
-      "updated_at": "2026-09-27T05:30:50Z",
+      "updated_at": "2026-09-28T05:40:51Z",
       "rank": 12
     },
     {
@@ -329,9 +329,9 @@
       "description": "A privacy-first app that strips AI watermarks from content you own.",
       "full_description": "A privacy-first app that strips AI watermarks from content you own.",
       "language": "Python",
-      "stars": 22900,
+      "stars": 22964,
       "stars_gained": 0,
-      "forks": 2634,
+      "forks": 2636,
       "topics": [
         "agent-skill",
         "ai",
@@ -350,32 +350,8 @@
         "watermarks"
       ],
       "created_at": "2026-08-11T16:32:38Z",
-      "updated_at": "2026-09-27T05:30:32Z",
+      "updated_at": "2026-09-28T05:27:10Z",
       "rank": 13
-    },
-    {
-      "name": "KKKKhazix/khazix-skills",
-      "url": "https://github.com/KKKKhazix/khazix-skills",
-      "description": "数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents",
-      "full_description": "数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents",
-      "language": "Python",
-      "stars": 20950,
-      "stars_gained": 0,
-      "forks": 2216,
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "codex",
-        "developer-tools",
-        "llm",
-        "skills",
-        "vibe-coding"
-      ],
-      "created_at": "2026-04-06T07:37:02Z",
-      "updated_at": "2026-09-27T04:12:56Z",
-      "rank": 14
     },
     {
       "name": "t8y2/dbx",
@@ -383,9 +359,9 @@
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "full_description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "language": "Rust",
-      "stars": 20794,
+      "stars": 21250,
       "stars_gained": 0,
-      "forks": 2014,
+      "forks": 2040,
       "topics": [
         "ai",
         "cli",
@@ -407,7 +383,31 @@
         "vue"
       ],
       "created_at": "2026-04-29T03:00:36Z",
-      "updated_at": "2026-09-27T05:20:18Z",
+      "updated_at": "2026-09-28T05:38:46Z",
+      "rank": 14
+    },
+    {
+      "name": "KKKKhazix/khazix-skills",
+      "url": "https://github.com/KKKKhazix/khazix-skills",
+      "description": "数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents",
+      "full_description": "数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents",
+      "language": "Python",
+      "stars": 20962,
+      "stars_gained": 0,
+      "forks": 2216,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "llm",
+        "skills",
+        "vibe-coding"
+      ],
+      "created_at": "2026-04-06T07:37:02Z",
+      "updated_at": "2026-09-28T03:52:26Z",
       "rank": 15
     },
     {
@@ -416,9 +416,9 @@
       "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
       "full_description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
       "language": "Python",
-      "stars": 18139,
+      "stars": 18165,
       "stars_gained": 0,
-      "forks": 1767,
+      "forks": 1768,
       "topics": [
         "ai-agent",
         "browser-agent",
@@ -436,7 +436,7 @@
         "web-automation"
       ],
       "created_at": "2026-04-17T01:56:15Z",
-      "updated_at": "2026-09-27T05:10:43Z",
+      "updated_at": "2026-09-28T04:58:04Z",
       "rank": 16
     },
     {
@@ -445,9 +445,9 @@
       "description": "GPT-Image-2 API and Prompts",
       "full_description": "GPT-Image-2 API and Prompts",
       "language": "Python",
-      "stars": 17250,
+      "stars": 17253,
       "stars_gained": 0,
-      "forks": 1738,
+      "forks": 1737,
       "topics": [
         "ai-art",
         "api",
@@ -471,43 +471,8 @@
         "visual-ai"
       ],
       "created_at": "2026-04-18T11:22:14Z",
-      "updated_at": "2026-09-27T04:29:41Z",
+      "updated_at": "2026-09-28T05:16:29Z",
       "rank": 17
-    },
-    {
-      "name": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "full_description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "language": "HTML",
-      "stars": 16554,
-      "stars_gained": 0,
-      "forks": 2475,
-      "topics": [
-        "ai",
-        "ai-agent",
-        "anthropic",
-        "berkshire-hathaway",
-        "charlie-munger",
-        "china-stock",
-        "claude",
-        "claude-code",
-        "financial-analysis",
-        "fintech",
-        "fundamental-analysis",
-        "investment",
-        "investment-research",
-        "llm",
-        "mcp",
-        "portfolio-management",
-        "stock-analysis",
-        "stock-market",
-        "value-investing",
-        "warren-buffett"
-      ],
-      "created_at": "2026-04-07T11:19:51Z",
-      "updated_at": "2026-09-27T04:46:28Z",
-      "rank": 18
     },
     {
       "name": "hypit-ai/hypit",
@@ -515,9 +480,9 @@
       "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
       "full_description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
       "language": "TypeScript",
-      "stars": 16411,
+      "stars": 16870,
       "stars_gained": 0,
-      "forks": 1984,
+      "forks": 2023,
       "topics": [
         "agentic-ai",
         "ai",
@@ -541,7 +506,42 @@
         "video-generation"
       ],
       "created_at": "2026-07-29T18:49:19Z",
-      "updated_at": "2026-09-27T05:31:26Z",
+      "updated_at": "2026-09-28T05:39:54Z",
+      "rank": 18
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "full_description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "HTML",
+      "stars": 16563,
+      "stars_gained": 0,
+      "forks": 2476,
+      "topics": [
+        "ai",
+        "ai-agent",
+        "anthropic",
+        "berkshire-hathaway",
+        "charlie-munger",
+        "china-stock",
+        "claude",
+        "claude-code",
+        "financial-analysis",
+        "fintech",
+        "fundamental-analysis",
+        "investment",
+        "investment-research",
+        "llm",
+        "mcp",
+        "portfolio-management",
+        "stock-analysis",
+        "stock-market",
+        "value-investing",
+        "warren-buffett"
+      ],
+      "created_at": "2026-04-07T11:19:51Z",
+      "updated_at": "2026-09-28T04:57:39Z",
       "rank": 19
     },
     {
@@ -550,9 +550,9 @@
       "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
       "full_description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
       "language": "TypeScript",
-      "stars": 16360,
+      "stars": 16504,
       "stars_gained": 0,
-      "forks": 1232,
+      "forks": 1238,
       "topics": [
         "ai-gateway",
         "ai-tools",
@@ -576,7 +576,7 @@
         "typescript"
       ],
       "created_at": "2026-06-18T23:03:18Z",
-      "updated_at": "2026-09-27T05:22:11Z",
+      "updated_at": "2026-09-28T05:34:59Z",
       "rank": 20
     },
     {
@@ -585,9 +585,9 @@
       "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
       "full_description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
       "language": "Python",
-      "stars": 15702,
+      "stars": 16011,
       "stars_gained": 0,
-      "forks": 1334,
+      "forks": 1339,
       "topics": [
         "agent-evaluation",
         "ai",
@@ -611,7 +611,7 @@
         "risk-management"
       ],
       "created_at": "2026-04-27T13:02:34Z",
-      "updated_at": "2026-09-26T23:16:03Z",
+      "updated_at": "2026-09-28T05:40:08Z",
       "rank": 21
     },
     {
@@ -620,9 +620,9 @@
       "description": "Multiplayer agent harness for work.",
       "full_description": "Multiplayer agent harness for work.",
       "language": "TypeScript",
-      "stars": 15259,
+      "stars": 15267,
       "stars_gained": 0,
-      "forks": 1866,
+      "forks": 1881,
       "topics": [
         "ai",
         "assistant",
@@ -630,7 +630,7 @@
         "qm"
       ],
       "created_at": "2026-07-29T20:03:08Z",
-      "updated_at": "2026-09-27T04:29:13Z",
+      "updated_at": "2026-09-28T05:21:26Z",
       "rank": 22
     },
     {
@@ -639,9 +639,9 @@
       "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
       "full_description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
       "language": "Python",
-      "stars": 14904,
+      "stars": 14907,
       "stars_gained": 0,
-      "forks": 3293,
+      "forks": 3294,
       "topics": [
         "ai",
         "anthropic",
@@ -663,37 +663,8 @@
         "torch"
       ],
       "created_at": "2026-04-18T12:57:52Z",
-      "updated_at": "2026-09-26T15:23:32Z",
+      "updated_at": "2026-09-28T02:33:11Z",
       "rank": 23
-    },
-    {
-      "name": "NanmiCoder/cc-haha",
-      "url": "https://github.com/NanmiCoder/cc-haha",
-      "description": "Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access.",
-      "full_description": "Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access.",
-      "language": "TypeScript",
-      "stars": 14727,
-      "stars_gained": 0,
-      "forks": 8585,
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agent",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "coding-agent",
-        "computer-use",
-        "desktop-app",
-        "electron",
-        "llm",
-        "mcp",
-        "react",
-        "typescript"
-      ],
-      "created_at": "2026-03-31T17:30:14Z",
-      "updated_at": "2026-09-27T03:32:37Z",
-      "rank": 24
     },
     {
       "name": "palmier-io/palmier-pro",
@@ -701,9 +672,9 @@
       "description": "macOS video editor built for AI",
       "full_description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars": 14473,
+      "stars": 14480,
       "stars_gained": 0,
-      "forks": 1125,
+      "forks": 1128,
       "topics": [
         "ai-video",
         "claude",
@@ -714,8 +685,8 @@
         "video-editor"
       ],
       "created_at": "2026-04-07T04:15:51Z",
-      "updated_at": "2026-09-27T05:02:10Z",
-      "rank": 25
+      "updated_at": "2026-09-28T05:37:19Z",
+      "rank": 24
     },
     {
       "name": "fathah/hermes-desktop",
@@ -723,9 +694,9 @@
       "description": "Desktop Companion for Hermes Agent",
       "full_description": "Desktop Companion for Hermes Agent",
       "language": "TypeScript",
-      "stars": 14315,
+      "stars": 14320,
       "stars_gained": 0,
-      "forks": 1618,
+      "forks": 1619,
       "topics": [
         "ai",
         "ai-agent",
@@ -735,8 +706,8 @@
         "llm"
       ],
       "created_at": "2026-04-02T15:26:49Z",
-      "updated_at": "2026-09-26T18:24:20Z",
-      "rank": 26
+      "updated_at": "2026-09-28T03:06:33Z",
+      "rank": 25
     },
     {
       "name": "XiaomiMiMo/MiMo-Code",
@@ -744,9 +715,9 @@
       "description": "MiMo Code: Where Models and Agents Co-Evolve",
       "full_description": "MiMo Code: Where Models and Agents Co-Evolve",
       "language": "TypeScript",
-      "stars": 13505,
+      "stars": 13524,
       "stars_gained": 0,
-      "forks": 1400,
+      "forks": 1403,
       "topics": [
         "ai",
         "ai-agents",
@@ -755,8 +726,8 @@
         "mimo-code"
       ],
       "created_at": "2026-06-10T11:52:41Z",
-      "updated_at": "2026-09-27T03:41:32Z",
-      "rank": 27
+      "updated_at": "2026-09-28T05:35:42Z",
+      "rank": 26
     },
     {
       "name": "ConardLi/garden-skills",
@@ -764,9 +735,9 @@
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "full_description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "language": "CSS",
-      "stars": 12637,
+      "stars": 12649,
       "stars_gained": 0,
-      "forks": 1518,
+      "forks": 1519,
       "topics": [
         "agent",
         "claude",
@@ -776,8 +747,8 @@
         "web-design"
       ],
       "created_at": "2026-04-21T11:56:17Z",
-      "updated_at": "2026-09-27T03:23:06Z",
-      "rank": 28
+      "updated_at": "2026-09-28T05:40:36Z",
+      "rank": 27
     },
     {
       "name": "miuuyy/codex-chatgpt-web",
@@ -785,9 +756,9 @@
       "description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
       "full_description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
       "language": "TypeScript",
-      "stars": 11846,
+      "stars": 12201,
       "stars_gained": 0,
-      "forks": 942,
+      "forks": 965,
       "topics": [
         "chatgpt",
         "chatgpt-pro",
@@ -801,8 +772,8 @@
         "typescript"
       ],
       "created_at": "2026-07-26T13:04:44Z",
-      "updated_at": "2026-09-27T05:31:41Z",
-      "rank": 29
+      "updated_at": "2026-09-28T05:39:09Z",
+      "rank": 28
     },
     {
       "name": "yizhiyanhua-ai/fireworks-tech-graph",
@@ -810,9 +781,9 @@
       "description": "Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.",
       "full_description": "Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.",
       "language": "Python",
-      "stars": 11559,
+      "stars": 11568,
       "stars_gained": 0,
-      "forks": 918,
+      "forks": 919,
       "topics": [
         "agent-workflows",
         "ai",
@@ -822,7 +793,39 @@
         "svg"
       ],
       "created_at": "2026-04-10T15:07:10Z",
-      "updated_at": "2026-09-27T03:47:09Z",
+      "updated_at": "2026-09-28T04:16:16Z",
+      "rank": 29
+    },
+    {
+      "name": "cobusgreyling/loop-engineering",
+      "url": "https://github.com/cobusgreyling/loop-engineering",
+      "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+      "full_description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+      "language": "TypeScript",
+      "stars": 11325,
+      "stars_gained": 0,
+      "forks": 1518,
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "ai-coding",
+        "anthropic",
+        "automation",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding-agents",
+        "devops-automation",
+        "devtools",
+        "github-actions",
+        "grok",
+        "llm",
+        "loop-engineering",
+        "mcp",
+        "prompt-engineering"
+      ],
+      "created_at": "2026-06-09T06:28:20Z",
+      "updated_at": "2026-09-28T02:45:33Z",
       "rank": 30
     }
   ]
