@@ -1,38 +1,18 @@
 {
-  "updated": "2026-09-28T05:41:07.597108+00:00",
+  "updated": "2026-09-29T05:58:24.285314+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
   "projects": [
-    {
-      "name": "jev-chat/jev-chat-jarvis",
-      "url": "https://github.com/jev-chat/jev-chat-jarvis",
-      "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "full_description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "language": "Kotlin",
-      "stars": 6807,
-      "stars_gained": 0,
-      "forks": 1171,
-      "topics": [
-        "accessibility-service",
-        "android",
-        "chat-assistant",
-        "llm",
-        "qq"
-      ],
-      "created_at": "2026-09-21T11:12:53Z",
-      "updated_at": "2026-09-28T05:14:47Z",
-      "rank": 1
-    },
     {
       "name": "yetone/magpie",
       "url": "https://github.com/yetone/magpie",
       "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "full_description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "language": "Go",
-      "stars": 1321,
+      "stars": 1714,
       "stars_gained": 0,
-      "forks": 76,
+      "forks": 102,
       "topics": [
         "claude-code",
         "codex",
@@ -42,31 +22,29 @@
         "macos"
       ],
       "created_at": "2026-09-23T16:22:35Z",
-      "updated_at": "2026-09-28T05:35:47Z",
-      "rank": 2
+      "updated_at": "2026-09-29T05:56:39Z",
+      "rank": 1
     },
     {
-      "name": "nokia-applied-research/AnyJev",
-      "url": "https://github.com/nokia-applied-research/AnyJev",
-      "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
-      "full_description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
-      "language": "Python",
-      "stars": 849,
+      "name": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "full_description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "language": "TypeScript",
+      "stars": 1533,
       "stars_gained": 0,
-      "forks": 110,
+      "forks": 457,
       "topics": [
-        "calibration",
-        "decision-model",
-        "jev",
-        "jev-model",
+        "ai",
         "llm",
-        "system-one",
-        "transformers",
-        "vllm"
+        "mcp",
+        "news-aggregator",
+        "rss",
+        "self-hosted"
       ],
-      "created_at": "2026-09-21T05:55:40Z",
-      "updated_at": "2026-09-28T05:21:23Z",
-      "rank": 3
+      "created_at": "2026-09-28T23:40:05Z",
+      "updated_at": "2026-09-29T05:58:12Z",
+      "rank": 2
     },
     {
       "name": "yukitorido/short-video-generator-AI",
@@ -74,9 +52,9 @@
       "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
       "full_description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
       "language": "Python",
-      "stars": 725,
+      "stars": 734,
       "stars_gained": 0,
-      "forks": 83,
+      "forks": 86,
       "topics": [
         "ai",
         "llm",
@@ -89,33 +67,8 @@
         "short-video-maker"
       ],
       "created_at": "2026-09-23T18:11:57Z",
-      "updated_at": "2026-09-28T03:28:55Z",
-      "rank": 4
-    },
-    {
-      "name": "jev-chat/jev-chat-windows",
-      "url": "https://github.com/jev-chat/jev-chat-windows",
-      "description": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
-      "full_description": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
-      "language": "Python",
-      "stars": 621,
-      "stars_gained": 0,
-      "forks": 140,
-      "topics": [
-        "chat-assistant",
-        "jev",
-        "llm",
-        "local-first",
-        "ocr",
-        "privacy",
-        "pyqt",
-        "python",
-        "wechat",
-        "windows"
-      ],
-      "created_at": "2026-09-21T14:37:14Z",
-      "updated_at": "2026-09-28T05:25:27Z",
-      "rank": 5
+      "updated_at": "2026-09-29T05:48:42Z",
+      "rank": 3
     },
     {
       "name": "kydlikebtc/awesome-jev",
@@ -123,7 +76,7 @@
       "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
       "full_description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
       "language": "Python",
-      "stars": 580,
+      "stars": 582,
       "stars_gained": 0,
       "forks": 13,
       "topics": [
@@ -144,8 +97,8 @@
         "typesafe-ai"
       ],
       "created_at": "2026-09-22T02:22:54Z",
-      "updated_at": "2026-09-28T04:53:16Z",
-      "rank": 6
+      "updated_at": "2026-09-28T23:40:04Z",
+      "rank": 4
     },
     {
       "name": "amitshekhariitbhu/ai-system-design",
@@ -153,7 +106,7 @@
       "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
       "full_description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
       "language": "Markdown",
-      "stars": 452,
+      "stars": 466,
       "stars_gained": 0,
       "forks": 55,
       "topics": [
@@ -169,48 +122,8 @@
         "system-design-interview"
       ],
       "created_at": "2026-09-25T04:50:06Z",
-      "updated_at": "2026-09-28T05:40:01Z",
-      "rank": 7
-    },
-    {
-      "name": "Alex314618-create/JevRev",
-      "url": "https://github.com/Alex314618-create/JevRev",
-      "description": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
-      "full_description": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
-      "language": "TypeScript",
-      "stars": 436,
-      "stars_gained": 0,
-      "forks": 16,
-      "topics": [
-        "jev",
-        "llm",
-        "workflow"
-      ],
-      "created_at": "2026-09-21T01:53:13Z",
-      "updated_at": "2026-09-28T05:40:12Z",
-      "rank": 8
-    },
-    {
-      "name": "jev-chat/jev-chat-jarvis-mac",
-      "url": "https://github.com/jev-chat/jev-chat-jarvis-mac",
-      "description": "聊天悬浮窗助手（macOS）：屏幕感知 + 本地小模型判断意图与风险，按话术生成回复候选。纯只读。",
-      "full_description": "聊天悬浮窗助手（macOS）：屏幕感知 + 本地小模型判断意图与风险，按话术生成回复候选。纯只读。",
-      "language": "Python",
-      "stars": 423,
-      "stars_gained": 0,
-      "forks": 122,
-      "topics": [
-        "llm",
-        "local-first",
-        "macos",
-        "ocr",
-        "privacy",
-        "pyobjc",
-        "python"
-      ],
-      "created_at": "2026-09-21T11:39:32Z",
-      "updated_at": "2026-09-28T04:45:30Z",
-      "rank": 9
+      "updated_at": "2026-09-29T05:39:39Z",
+      "rank": 5
     },
     {
       "name": "zouyuxuan122/dsh-our-free-model",
@@ -218,9 +131,9 @@
       "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
       "full_description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
       "language": "JavaScript",
-      "stars": 320,
+      "stars": 363,
       "stars_gained": 0,
-      "forks": 19,
+      "forks": 21,
       "topics": [
         "ai-agents",
         "deepseek",
@@ -234,32 +147,8 @@
         "openai-compatible"
       ],
       "created_at": "2026-09-24T16:17:19Z",
-      "updated_at": "2026-09-28T05:03:12Z",
-      "rank": 10
-    },
-    {
-      "name": "Michael-Jiahao-Zhang/game-the-llm-reviewer",
-      "url": "https://github.com/Michael-Jiahao-Zhang/game-the-llm-reviewer",
-      "description": "Defend sound research against LLM reviewer bias through meaning-preserving rewrites.",
-      "full_description": "Defend sound research against LLM reviewer bias through meaning-preserving rewrites.",
-      "language": "",
-      "stars": 193,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "academic-writing",
-        "agent-skills",
-        "ai-research",
-        "llm",
-        "llm-reviewer",
-        "paper-writing",
-        "peer-review",
-        "prompt-engineering",
-        "scientific-writing"
-      ],
-      "created_at": "2026-09-21T23:11:47Z",
-      "updated_at": "2026-09-28T01:18:09Z",
-      "rank": 11
+      "updated_at": "2026-09-29T05:55:20Z",
+      "rank": 6
     },
     {
       "name": "XiaoPuOuO/openchatx-mcp",
@@ -267,9 +156,9 @@
       "description": "Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection.",
       "full_description": "Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection.",
       "language": "TypeScript",
-      "stars": 172,
+      "stars": 208,
       "stars_gained": 0,
-      "forks": 10,
+      "forks": 13,
       "topics": [
         "agent-runtime",
         "ai-agents",
@@ -281,37 +170,8 @@
         "windows"
       ],
       "created_at": "2026-09-23T14:25:56Z",
-      "updated_at": "2026-09-28T05:33:11Z",
-      "rank": 12
-    },
-    {
-      "name": "Simreal-AI/Simreal-MLBench",
-      "url": "https://github.com/Simreal-AI/Simreal-MLBench",
-      "description": "[Public preview] Externally scored agentic ML research benchmark: 60 tasks, real competition ground truth. Open protocol, operated evaluation.",
-      "full_description": "[Public preview] Externally scored agentic ML research benchmark: 60 tasks, real competition ground truth. Open protocol, operated evaluation.",
-      "language": "Python",
-      "stars": 149,
-      "stars_gained": 0,
-      "forks": 17,
-      "topics": [
-        "agentic",
-        "ai-evaluation",
-        "benchmark",
-        "benchmarking",
-        "calibration",
-        "llm",
-        "llm-agents",
-        "llms",
-        "machine-learning",
-        "metacognition-in-llms",
-        "public-preview",
-        "rl-environment",
-        "rsi",
-        "simreal"
-      ],
-      "created_at": "2026-09-21T11:29:47Z",
-      "updated_at": "2026-09-28T05:21:26Z",
-      "rank": 13
+      "updated_at": "2026-09-29T05:58:06Z",
+      "rank": 7
     },
     {
       "name": "tswawa/WechatVibe",
@@ -319,9 +179,9 @@
       "description": "微信聊天分析工具，支持本地 Laya 与 API 模型，提供意图识别、情绪感知、人物画像、群聊画像、好感度分析和 MBTI 聊天推测。",
       "full_description": "微信聊天分析工具，支持本地 Laya 与 API 模型，提供意图识别、情绪感知、人物画像、群聊画像、好感度分析和 MBTI 聊天推测。",
       "language": "Python",
-      "stars": 127,
+      "stars": 146,
       "stars_gained": 0,
-      "forks": 21,
+      "forks": 27,
       "topics": [
         "chat-analysis",
         "electron",
@@ -337,33 +197,43 @@
         "windows"
       ],
       "created_at": "2026-09-23T09:59:24Z",
-      "updated_at": "2026-09-28T04:56:32Z",
-      "rank": 14
+      "updated_at": "2026-09-29T05:58:16Z",
+      "rank": 8
     },
     {
-      "name": "georgeding/Relate",
-      "url": "https://github.com/georgeding/Relate",
-      "description": "记得她说过的每一句话，也记得你答应过的每一件事。A self-hosted AI chief of staff for your chats — remembers what they said and what you promised.",
-      "full_description": "记得她说过的每一句话，也记得你答应过的每一件事。A self-hosted AI chief of staff for your chats — remembers what they said and what you promised.",
-      "language": "JavaScript",
-      "stars": 116,
+      "name": "scarletkc/seiso",
+      "url": "https://github.com/scarletkc/seiso",
+      "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+      "full_description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+      "language": "Rust",
+      "stars": 128,
       "stars_gained": 0,
-      "forks": 0,
+      "forks": 5,
       "topics": [
-        "ai-assistant",
+        "ai",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "coding-agents",
+        "commonmark",
+        "conventions",
+        "developer-tools",
+        "docs-as-code",
+        "documentation",
+        "documentation-tool",
+        "gfm",
+        "lint",
+        "linter",
         "llm",
-        "mcp",
-        "memory",
-        "ollama",
-        "openai-compatible",
-        "personal-knowledge",
-        "privacy",
-        "self-hosted",
-        "telegram"
+        "markdown",
+        "markdown-linter",
+        "rust",
+        "static-analysis",
+        "technical-writing"
       ],
-      "created_at": "2026-09-23T16:20:10Z",
-      "updated_at": "2026-09-28T00:34:18Z",
-      "rank": 15
+      "created_at": "2026-09-27T13:27:28Z",
+      "updated_at": "2026-09-29T05:43:48Z",
+      "rank": 9
     },
     {
       "name": "breakstageaxe61/genspark-claw",
@@ -371,7 +241,7 @@
       "description": "🦀⚡ Community skill pack & CLI for Genspark Claw, OpenClaw & Hermes agents — 5 production-ready SKILL.md skills (deep research, reports, slides, browser automation, AI call prep), zero-dependency Node.js installer, MCP server, one-line install",
       "full_description": "🦀⚡ Community skill pack & CLI for Genspark Claw, OpenClaw & Hermes agents — 5 production-ready SKILL.md skills (deep research, reports, slides, browser automation, AI call prep), zero-dependency Node.js installer, MCP server, one-line install",
       "language": "JavaScript",
-      "stars": 111,
+      "stars": 127,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
@@ -397,8 +267,8 @@
         "zero-dependency"
       ],
       "created_at": "2026-09-26T02:18:05Z",
-      "updated_at": "2026-09-28T05:33:08Z",
-      "rank": 16
+      "updated_at": "2026-09-29T05:28:43Z",
+      "rank": 10
     },
     {
       "name": "graygnatconsole/mcp-audit-tool",
@@ -406,7 +276,7 @@
       "description": "🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + CI ready.",
       "full_description": "🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + CI ready.",
       "language": "Python",
-      "stars": 110,
+      "stars": 126,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
@@ -431,8 +301,33 @@
         "vulnerability-scanner"
       ],
       "created_at": "2026-09-26T02:42:57Z",
-      "updated_at": "2026-09-28T05:34:42Z",
-      "rank": 17
+      "updated_at": "2026-09-29T05:56:17Z",
+      "rank": 11
+    },
+    {
+      "name": "georgeding/Relate",
+      "url": "https://github.com/georgeding/Relate",
+      "description": "记得她说过的每一句话，也记得你答应过的每一件事。A self-hosted AI chief of staff for your chats — remembers what they said and what you promised.",
+      "full_description": "记得她说过的每一句话，也记得你答应过的每一件事。A self-hosted AI chief of staff for your chats — remembers what they said and what you promised.",
+      "language": "JavaScript",
+      "stars": 117,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai-assistant",
+        "llm",
+        "mcp",
+        "memory",
+        "ollama",
+        "openai-compatible",
+        "personal-knowledge",
+        "privacy",
+        "self-hosted",
+        "telegram"
+      ],
+      "created_at": "2026-09-23T16:20:10Z",
+      "updated_at": "2026-09-28T05:50:47Z",
+      "rank": 12
     },
     {
       "name": "chelinho139/wow-ai",
@@ -440,73 +335,17 @@
       "description": "Addon to use AI (Claude, Codex, Grok, Antigravity and Hermes) inside World of Warcraft  (WoW)",
       "full_description": "Addon to use AI (Claude, Codex, Grok, Antigravity and Hermes) inside World of Warcraft  (WoW)",
       "language": "JavaScript",
-      "stars": 109,
+      "stars": 117,
       "stars_gained": 0,
-      "forks": 21,
+      "forks": 24,
       "topics": [
         "ai",
         "claude-code",
         "wow"
       ],
       "created_at": "2026-09-23T04:57:34Z",
-      "updated_at": "2026-09-27T22:09:47Z",
-      "rank": 18
-    },
-    {
-      "name": "wildminder/awesome-qwen-image",
-      "url": "https://github.com/wildminder/awesome-qwen-image",
-      "description": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
-      "full_description": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
-      "language": "",
-      "stars": 100,
-      "stars_gained": 0,
-      "forks": 9,
-      "topics": [
-        "ai",
-        "comfyui",
-        "comfyui-nodes",
-        "i2i",
-        "image",
-        "image-generation",
-        "t2i"
-      ],
-      "created_at": "2026-09-24T10:15:43Z",
-      "updated_at": "2026-09-28T04:09:39Z",
-      "rank": 19
-    },
-    {
-      "name": "mrtinkz/ai-charter",
-      "url": "https://github.com/mrtinkz/ai-charter",
-      "description": "Universal AI Charter: plain-language governance principles and a public certification registry for AI models, built on disclosure instead of a development slowdown.",
-      "full_description": "Universal AI Charter: plain-language governance principles and a public certification registry for AI models, built on disclosure instead of a development slowdown.",
-      "language": "TypeScript",
-      "stars": 94,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "ai-coding",
-        "ai-data",
-        "ai-detection",
-        "ai-development",
-        "ai-directory",
-        "ai-discovery",
-        "ai-driven",
-        "ai-ethics",
-        "ai-evaluation",
-        "ai-governance",
-        "ai-model",
-        "ai-safety",
-        "ai-security",
-        "ai-tools",
-        "artificial-intelligence",
-        "certification"
-      ],
-      "created_at": "2026-09-22T03:47:52Z",
-      "updated_at": "2026-09-28T05:38:42Z",
-      "rank": 20
+      "updated_at": "2026-09-29T01:31:32Z",
+      "rank": 13
     },
     {
       "name": "aaddrick/building-with-typesafe-jev",
@@ -514,9 +353,9 @@
       "description": "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and prior art from 150+ community projects.",
       "full_description": "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and prior art from 150+ community projects.",
       "language": "Python",
-      "stars": 93,
+      "stars": 114,
       "stars_gained": 0,
-      "forks": 5,
+      "forks": 7,
       "topics": [
         "agent-skill",
         "agent-skills",
@@ -540,54 +379,64 @@
         "typesafe-ai"
       ],
       "created_at": "2026-09-26T00:01:19Z",
-      "updated_at": "2026-09-28T04:55:52Z",
-      "rank": 21
+      "updated_at": "2026-09-29T02:50:45Z",
+      "rank": 14
     },
     {
-      "name": "Avinash-jetwani/jevmem",
-      "url": "https://github.com/Avinash-jetwani/jevmem",
-      "description": "Automatic project memory for Claude Code. Also works with Cursor and Codex.",
-      "full_description": "Automatic project memory for Claude Code. Also works with Cursor and Codex.",
+      "name": "mrtinkz/ai-charter",
+      "url": "https://github.com/mrtinkz/ai-charter",
+      "description": "Universal AI Charter: plain-language governance principles and a public certification registry for AI models, built on disclosure instead of a development slowdown.",
+      "full_description": "Universal AI Charter: plain-language governance principles and a public certification registry for AI models, built on disclosure instead of a development slowdown.",
       "language": "TypeScript",
-      "stars": 92,
+      "stars": 108,
       "stars_gained": 0,
-      "forks": 5,
+      "forks": 15,
       "topics": [
-        "ai-memory",
-        "claude-code",
-        "codex",
-        "cursor",
-        "developer-tools",
-        "jev",
-        "mcp",
-        "typesafe"
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "ai-coding",
+        "ai-data",
+        "ai-detection",
+        "ai-development",
+        "ai-directory",
+        "ai-discovery",
+        "ai-driven",
+        "ai-ethics",
+        "ai-evaluation",
+        "ai-governance",
+        "ai-model",
+        "ai-safety",
+        "ai-security",
+        "ai-tools",
+        "artificial-intelligence",
+        "certification"
       ],
-      "created_at": "2026-09-22T11:47:24Z",
-      "updated_at": "2026-09-27T22:49:35Z",
-      "rank": 22
+      "created_at": "2026-09-22T03:47:52Z",
+      "updated_at": "2026-09-28T14:01:04Z",
+      "rank": 15
     },
     {
-      "name": "architectds/collabosm",
-      "url": "https://github.com/architectds/collabosm",
-      "description": "A local app that rents a GPU in your own Colab account and serves Qwen3.8 on it: 27B on an A100-40G, or Flash-Next (125B-A6B MoE) on an A100-80G. The cost is shown before it starts; chat with images; Codex or any OpenAI client uses a fixed local /v1. Auto-stop, CU ledger, live prefill/decode. Windows, macOS, Linux.",
-      "full_description": "A local app that rents a GPU in your own Colab account and serves Qwen3.8 on it: 27B on an A100-40G, or Flash-Next (125B-A6B MoE) on an A100-80G. The cost is shown before it starts; chat with images; Codex or any OpenAI client uses a fixed local /v1. Auto-stop, CU ledger, live prefill/decode. Windows, macOS, Linux.",
-      "language": "Python",
-      "stars": 88,
+      "name": "wildminder/awesome-qwen-image",
+      "url": "https://github.com/wildminder/awesome-qwen-image",
+      "description": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
+      "full_description": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
+      "language": "",
+      "stars": 104,
       "stars_gained": 0,
-      "forks": 2,
+      "forks": 9,
       "topics": [
-        "colab",
-        "exllamav3",
-        "google-colab",
-        "gpu",
-        "llm",
-        "llm-inference",
-        "openai-api",
-        "qwen"
+        "ai",
+        "comfyui",
+        "comfyui-nodes",
+        "i2i",
+        "image",
+        "image-generation",
+        "t2i"
       ],
-      "created_at": "2026-09-25T00:46:02Z",
-      "updated_at": "2026-09-28T04:20:47Z",
-      "rank": 23
+      "created_at": "2026-09-24T10:15:43Z",
+      "updated_at": "2026-09-29T02:52:13Z",
+      "rank": 16
     },
     {
       "name": "Finderchangchang/brewreel",
@@ -595,9 +444,9 @@
       "description": "精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。",
       "full_description": "精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。",
       "language": "TypeScript",
-      "stars": 82,
+      "stars": 103,
       "stars_gained": 0,
-      "forks": 13,
+      "forks": 17,
       "topics": [
         "agent-skills",
         "claude-code",
@@ -611,8 +460,61 @@
         "video-generation"
       ],
       "created_at": "2026-09-26T01:52:24Z",
-      "updated_at": "2026-09-28T05:19:24Z",
-      "rank": 24
+      "updated_at": "2026-09-29T02:23:42Z",
+      "rank": 17
+    },
+    {
+      "name": "Avinash-jetwani/jevmem",
+      "url": "https://github.com/Avinash-jetwani/jevmem",
+      "description": "Automatic project memory for Claude Code. Also works with Cursor and Codex.",
+      "full_description": "Automatic project memory for Claude Code. Also works with Cursor and Codex.",
+      "language": "TypeScript",
+      "stars": 92,
+      "stars_gained": 0,
+      "forks": 5,
+      "topics": [
+        "agent-memory",
+        "ai-memory",
+        "claude-code",
+        "claude-code-hooks",
+        "claude-code-plugin",
+        "claude-code-plugins",
+        "claude-code-plugins-marketplace",
+        "codex",
+        "coding-agents",
+        "cursor",
+        "developer-tools",
+        "jev",
+        "mcp",
+        "mcp-server",
+        "typesafe"
+      ],
+      "created_at": "2026-09-22T11:47:24Z",
+      "updated_at": "2026-09-29T02:56:56Z",
+      "rank": 18
+    },
+    {
+      "name": "architectds/collabosm",
+      "url": "https://github.com/architectds/collabosm",
+      "description": "A local app that rents a GPU in your own Colab account and serves Qwen3.8 on it: 27B on an A100-40G, or Flash-Next (125B-A6B MoE) on an A100-80G. The cost is shown before it starts; chat with images; Codex or any OpenAI client uses a fixed local /v1. Auto-stop, CU ledger, live prefill/decode. Windows, macOS, Linux.",
+      "full_description": "A local app that rents a GPU in your own Colab account and serves Qwen3.8 on it: 27B on an A100-40G, or Flash-Next (125B-A6B MoE) on an A100-80G. The cost is shown before it starts; chat with images; Codex or any OpenAI client uses a fixed local /v1. Auto-stop, CU ledger, live prefill/decode. Windows, macOS, Linux.",
+      "language": "Python",
+      "stars": 89,
+      "stars_gained": 0,
+      "forks": 2,
+      "topics": [
+        "colab",
+        "exllamav3",
+        "google-colab",
+        "gpu",
+        "llm",
+        "llm-inference",
+        "openai-api",
+        "qwen"
+      ],
+      "created_at": "2026-09-25T00:46:02Z",
+      "updated_at": "2026-09-29T05:45:18Z",
+      "rank": 19
     },
     {
       "name": "UditAkhourii/quicksilver",
@@ -620,7 +522,7 @@
       "description": "Claude Code skill: hand bulk judgment calls to Jev. 86% fewer Claude tokens on a 12-task benchmark, up to 20x faster. One-line npx install.",
       "full_description": "Claude Code skill: hand bulk judgment calls to Jev. 86% fewer Claude tokens on a 12-task benchmark, up to 20x faster. One-line npx install.",
       "language": "JavaScript",
-      "stars": 75,
+      "stars": 86,
       "stars_gained": 0,
       "forks": 4,
       "topics": [
@@ -635,59 +537,8 @@
         "typesafe"
       ],
       "created_at": "2026-09-25T15:20:46Z",
-      "updated_at": "2026-09-28T05:09:29Z",
-      "rank": 25
-    },
-    {
-      "name": "VictorButoi/FleXray",
-      "url": "https://github.com/VictorButoi/FleXray",
-      "description": "FleXray: Universal Clinical X-ray Segmentation",
-      "full_description": "FleXray: Universal Clinical X-ray Segmentation",
-      "language": "Python",
-      "stars": 64,
-      "stars_gained": 0,
-      "forks": 10,
-      "topics": [
-        "ai",
-        "computer-vision",
-        "machine-learning",
-        "medical-imaging",
-        "segmentation"
-      ],
-      "created_at": "2026-09-22T23:12:51Z",
-      "updated_at": "2026-09-28T03:21:13Z",
-      "rank": 26
-    },
-    {
-      "name": "andududu/jeview",
-      "url": "https://github.com/andududu/jeview",
-      "description": "An unofficial local visualizer for Jev (TypeSafe): a live view of every call your code makes. Not affiliated with TypeSafe AI.",
-      "full_description": "An unofficial local visualizer for Jev (TypeSafe): a live view of every call your code makes. Not affiliated with TypeSafe AI.",
-      "language": "JavaScript",
-      "stars": 59,
-      "stars_gained": 0,
-      "forks": 7,
-      "topics": [
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "debugging",
-        "developer-tools",
-        "jev",
-        "jev-ai",
-        "llm",
-        "local-first",
-        "observability",
-        "sqlite",
-        "typesafe",
-        "typesafe-ai",
-        "typesafe-jev",
-        "visualization",
-        "visualizer"
-      ],
-      "created_at": "2026-09-21T14:03:13Z",
-      "updated_at": "2026-09-27T19:54:33Z",
-      "rank": 27
+      "updated_at": "2026-09-29T05:35:32Z",
+      "rank": 20
     },
     {
       "name": "sqt2x8cri89r/glm5.3flash-glm-5.3-flash-api",
@@ -695,7 +546,7 @@
       "description": "glm-5.3-flash API (glm5.3flash / glm 5.3 flash): input $0.06; cached_input $0.012; output $0.2. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway, ",
       "full_description": "glm-5.3-flash API (glm5.3flash / glm 5.3 flash): input $0.06; cached_input $0.012; output $0.2. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway, ",
       "language": "Shell",
-      "stars": 56,
+      "stars": 85,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -713,36 +564,8 @@
         "pay-as-you-go"
       ],
       "created_at": "2026-09-24T18:57:03Z",
-      "updated_at": "2026-09-27T04:55:20Z",
-      "rank": 28
-    },
-    {
-      "name": "janishar/qwen-image-2.1-studio",
-      "url": "https://github.com/janishar/qwen-image-2.1-studio",
-      "description": "Local Qwen-Image-2.1 studio for Apple Silicon: text-to-image, multi-image editing and prompt enhancing, with a CLI and a helmstudio web UI.",
-      "full_description": "Local Qwen-Image-2.1 studio for Apple Silicon: text-to-image, multi-image editing and prompt enhancing, with a CLI and a helmstudio web UI.",
-      "language": "Python",
-      "stars": 55,
-      "stars_gained": 0,
-      "forks": 7,
-      "topics": [
-        "apple-silicon",
-        "diffusion",
-        "generative-ai",
-        "helmstudio",
-        "image-editing",
-        "local-ai",
-        "macos",
-        "mps",
-        "prompt-enhancement",
-        "pytorch",
-        "qwen-image",
-        "text-to-image",
-        "web-ui"
-      ],
-      "created_at": "2026-09-23T00:47:22Z",
-      "updated_at": "2026-09-27T03:26:44Z",
-      "rank": 29
+      "updated_at": "2026-09-29T05:34:10Z",
+      "rank": 21
     },
     {
       "name": "u7n3fubt/gemini3pro-gemini-3-pro-api",
@@ -750,7 +573,7 @@
       "description": "gemini-3-pro API (gemini3pro / gemini 3 pro): input $1.6; output $9.6. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
       "full_description": "gemini-3-pro API (gemini3pro / gemini 3 pro): input $1.6; output $9.6. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
       "language": "Shell",
-      "stars": 55,
+      "stars": 85,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -768,7 +591,233 @@
         "pay-as-you-go"
       ],
       "created_at": "2026-09-24T18:56:57Z",
-      "updated_at": "2026-09-27T04:18:37Z",
+      "updated_at": "2026-09-29T05:33:37Z",
+      "rank": 22
+    },
+    {
+      "name": "itsfz98v7ln/gpt5.6luna-gpt-5.6-luna-api",
+      "url": "https://github.com/itsfz98v7ln/gpt5.6luna-gpt-5.6-luna-api",
+      "description": "gpt-5.6-luna API (gpt5.6luna / gpt 5.6 luna): input $0.16; cached_input $0.016; cache_write $0.2. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway",
+      "full_description": "gpt-5.6-luna API (gpt5.6luna / gpt 5.6 luna): input $0.16; cached_input $0.016; cache_write $0.2. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway",
+      "language": "Shell",
+      "stars": 83,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "api-docs",
+        "apimart",
+        "gpt-5-6-luna",
+        "gpt-5-6-luna-api",
+        "gpt-5-6-luna-llm",
+        "gpt5-6luna",
+        "gpt5-6luna-api",
+        "llm",
+        "llm-api",
+        "llm-api-pricing",
+        "openai-compatible",
+        "pay-as-you-go"
+      ],
+      "created_at": "2026-09-24T18:52:02Z",
+      "updated_at": "2026-09-29T05:32:27Z",
+      "rank": 23
+    },
+    {
+      "name": "eceuisg0a0l6p7q/deepseekv4pro-deepseek-v4-pro-api",
+      "url": "https://github.com/eceuisg0a0l6p7q/deepseekv4pro-deepseek-v4-pro-api",
+      "description": "deepseek-v4-pro API (deepseekv4pro / deepseek v4 pro): input $1.0286; cached_input $0.2057; output $3.0857. Model id, llm settings, curl and Python examples over an OpenAI-compatib",
+      "full_description": "deepseek-v4-pro API (deepseekv4pro / deepseek v4 pro): input $1.0286; cached_input $0.2057; output $3.0857. Model id, llm settings, curl and Python examples over an OpenAI-compatib",
+      "language": "Shell",
+      "stars": 83,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "api-docs",
+        "apimart",
+        "deepseek-v4-pro",
+        "deepseek-v4-pro-api",
+        "deepseek-v4-pro-llm",
+        "deepseekv4pro",
+        "deepseekv4pro-api",
+        "llm",
+        "llm-api",
+        "llm-api-pricing",
+        "openai-compatible",
+        "pay-as-you-go"
+      ],
+      "created_at": "2026-09-24T18:59:34Z",
+      "updated_at": "2026-09-29T05:34:38Z",
+      "rank": 24
+    },
+    {
+      "name": "pye8505i0c5cw9/claudesonnet5-claude-sonnet-5-api",
+      "url": "https://github.com/pye8505i0c5cw9/claudesonnet5-claude-sonnet-5-api",
+      "description": "claude-sonnet-5 API (claudesonnet5 / claude sonnet 5): input $1.6; cached_input $0.16; cache_write_5m $2. Model id, llm settings, curl and Python examples over an OpenAI-compatible",
+      "full_description": "claude-sonnet-5 API (claudesonnet5 / claude sonnet 5): input $1.6; cached_input $0.16; cache_write_5m $2. Model id, llm settings, curl and Python examples over an OpenAI-compatible",
+      "language": "Shell",
+      "stars": 82,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "api-docs",
+        "apimart",
+        "claude-sonnet-5",
+        "claude-sonnet-5-api",
+        "claude-sonnet-5-llm",
+        "claudesonnet5",
+        "claudesonnet5-api",
+        "llm",
+        "llm-api",
+        "llm-api-pricing",
+        "openai-compatible",
+        "pay-as-you-go"
+      ],
+      "created_at": "2026-09-24T18:54:27Z",
+      "updated_at": "2026-09-29T05:33:02Z",
+      "rank": 25
+    },
+    {
+      "name": "cwn9n3vo3kno8/gpt5.6terra-gpt-5.6-terra-api",
+      "url": "https://github.com/cwn9n3vo3kno8/gpt5.6terra-gpt-5.6-terra-api",
+      "description": "gpt-5.6-terra API (gpt5.6terra / gpt 5.6 terra): input $1.6; cached_input $0.16; cache_write $2. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway,",
+      "full_description": "gpt-5.6-terra API (gpt5.6terra / gpt 5.6 terra): input $1.6; cached_input $0.16; cache_write $2. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway,",
+      "language": "Shell",
+      "stars": 82,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "api-docs",
+        "apimart",
+        "gpt-5-6-terra",
+        "gpt-5-6-terra-api",
+        "gpt-5-6-terra-llm",
+        "gpt5-6terra",
+        "gpt5-6terra-api",
+        "llm",
+        "llm-api",
+        "llm-api-pricing",
+        "openai-compatible",
+        "pay-as-you-go"
+      ],
+      "created_at": "2026-09-24T18:52:02Z",
+      "updated_at": "2026-09-29T05:32:06Z",
+      "rank": 26
+    },
+    {
+      "name": "hub6l18gx/grok4.5-grok-4.5-api",
+      "url": "https://github.com/hub6l18gx/grok4.5-grok-4.5-api",
+      "description": "grok-4.5 API (grok4.5 / grok 4.5): input $1.6; output $3.2. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+      "full_description": "grok-4.5 API (grok4.5 / grok 4.5): input $1.6; output $3.2. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+      "language": "Shell",
+      "stars": 82,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "api-docs",
+        "apimart",
+        "grok-4-5",
+        "grok-4-5-api",
+        "grok-4-5-llm",
+        "grok4-5",
+        "grok4-5-api",
+        "llm",
+        "llm-api",
+        "llm-api-pricing",
+        "openai-compatible",
+        "pay-as-you-go"
+      ],
+      "created_at": "2026-09-24T18:54:32Z",
+      "updated_at": "2026-09-29T05:33:33Z",
+      "rank": 27
+    },
+    {
+      "name": "ufo-ai/ufo-core",
+      "url": "https://github.com/ufo-ai/ufo-core",
+      "description": "Business agent operating system",
+      "full_description": "Business agent operating system",
+      "language": "Python",
+      "stars": 82,
+      "stars_gained": 0,
+      "forks": 11,
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "hermes",
+        "hermes-agent",
+        "llm",
+        "openai",
+        "openclaw"
+      ],
+      "created_at": "2026-09-27T07:25:44Z",
+      "updated_at": "2026-09-29T02:46:31Z",
+      "rank": 28
+    },
+    {
+      "name": "matank001/clodfarm",
+      "url": "https://github.com/matank001/clodfarm",
+      "description": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app.",
+      "full_description": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app.",
+      "language": "Python",
+      "stars": 79,
+      "stars_gained": 0,
+      "forks": 44,
+      "topics": [
+        "agent-orchestration",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "automation",
+        "autonomous-agents",
+        "aws",
+        "claude",
+        "claude-code",
+        "coding-agent",
+        "devtools",
+        "docker",
+        "dynamodb",
+        "llm",
+        "multi-agent",
+        "python",
+        "rate-limiting",
+        "remote-control",
+        "self-hosted",
+        "subagents"
+      ],
+      "created_at": "2026-09-25T00:48:32Z",
+      "updated_at": "2026-09-29T05:49:13Z",
+      "rank": 29
+    },
+    {
+      "name": "h8lblor/qwen3.8flash-qwen3.8-flash-api",
+      "url": "https://github.com/h8lblor/qwen3.8flash-qwen3.8-flash-api",
+      "description": "qwen3.8-flash API (qwen3.8flash / qwen3.8 flash): input $0.0914; cached_input $0.0114; explicit_cached_input $0.0114. Model id, llm settings, curl and Python examples over an OpenA",
+      "full_description": "qwen3.8-flash API (qwen3.8flash / qwen3.8 flash): input $0.0914; cached_input $0.0114; explicit_cached_input $0.0114. Model id, llm settings, curl and Python examples over an OpenA",
+      "language": "Shell",
+      "stars": 78,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "api-docs",
+        "apimart",
+        "llm",
+        "llm-api",
+        "llm-api-pricing",
+        "openai-compatible",
+        "pay-as-you-go",
+        "qwen3-8-flash",
+        "qwen3-8-flash-api",
+        "qwen3-8-flash-llm",
+        "qwen3-8flash",
+        "qwen3-8flash-api"
+      ],
+      "created_at": "2026-09-24T18:57:00Z",
+      "updated_at": "2026-09-29T05:34:02Z",
       "rank": 30
     }
   ]
