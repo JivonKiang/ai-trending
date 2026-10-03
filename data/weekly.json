@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T05:58:32.411360+00:00",
+  "updated": "2026-10-03T05:33:23.458873+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "full_description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "language": "TypeScript",
-      "stars": 4756,
+      "stars": 5012,
       "stars_gained": 0,
-      "forks": 1308,
+      "forks": 1367,
       "topics": [
         "ai",
         "content-curation",
@@ -24,7 +24,7 @@
         "typescript"
       ],
       "created_at": "2026-09-28T23:40:05Z",
-      "updated_at": "2026-10-02T05:57:25Z",
+      "updated_at": "2026-10-03T05:29:33Z",
       "rank": 1
     },
     {
@@ -33,9 +33,9 @@
       "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
       "full_description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
       "language": "Python",
-      "stars": 2403,
+      "stars": 2538,
       "stars_gained": 0,
-      "forks": 420,
+      "forks": 434,
       "topics": [
         "ai-agent",
         "ai-agents",
@@ -59,7 +59,7 @@
         "web-automation"
       ],
       "created_at": "2026-09-29T23:06:00Z",
-      "updated_at": "2026-10-02T05:20:47Z",
+      "updated_at": "2026-10-03T05:29:47Z",
       "rank": 2
     },
     {
@@ -68,9 +68,9 @@
       "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "full_description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "language": "Python",
-      "stars": 1651,
+      "stars": 2229,
       "stars_gained": 0,
-      "forks": 122,
+      "forks": 173,
       "topics": [
         "age-of-empires",
         "claude-code",
@@ -84,7 +84,7 @@
         "tmodloader"
       ],
       "created_at": "2026-09-30T05:00:35Z",
-      "updated_at": "2026-10-02T05:58:26Z",
+      "updated_at": "2026-10-03T05:33:22Z",
       "rank": 3
     },
     {
@@ -93,9 +93,9 @@
       "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
       "full_description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
       "language": "Python",
-      "stars": 1041,
+      "stars": 1214,
       "stars_gained": 0,
-      "forks": 22,
+      "forks": 27,
       "topics": [
         "agent-skills",
         "ai-writing",
@@ -113,43 +113,18 @@
         "writing-tool"
       ],
       "created_at": "2026-09-30T11:49:32Z",
-      "updated_at": "2026-10-02T05:53:34Z",
+      "updated_at": "2026-10-03T05:31:27Z",
       "rank": 4
-    },
-    {
-      "name": "amitshekhariitbhu/ai-system-design",
-      "url": "https://github.com/amitshekhariitbhu/ai-system-design",
-      "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
-      "full_description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
-      "language": "Markdown",
-      "stars": 551,
-      "stars_gained": 0,
-      "forks": 73,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-engineering",
-        "ai-system",
-        "ai-system-design",
-        "ai-systems",
-        "ai-systems-design",
-        "llm",
-        "system-design",
-        "system-design-interview"
-      ],
-      "created_at": "2026-09-25T04:50:06Z",
-      "updated_at": "2026-10-02T05:46:57Z",
-      "rank": 5
     },
     {
       "name": "Edwardxlai/easyread",
       "url": "https://github.com/Edwardxlai/easyread",
       "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
       "full_description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "language": "JavaScript",
-      "stars": 536,
+      "language": "Python",
+      "stars": 622,
       "stars_gained": 0,
-      "forks": 40,
+      "forks": 47,
       "topics": [
         "academic",
         "arxiv",
@@ -165,8 +140,8 @@
         "translation"
       ],
       "created_at": "2026-09-30T12:52:24Z",
-      "updated_at": "2026-10-02T05:57:14Z",
-      "rank": 6
+      "updated_at": "2026-10-03T05:13:06Z",
+      "rank": 5
     },
     {
       "name": "PSRben/VisionHOPE",
@@ -174,9 +149,9 @@
       "description": "Official PyTorch implementation of VisionHOPE: Visual Backbones as Self-Modifying Learning Systems.",
       "full_description": "Official PyTorch implementation of VisionHOPE: Visual Backbones as Self-Modifying Learning Systems.",
       "language": "Python",
-      "stars": 422,
+      "stars": 477,
       "stars_gained": 0,
-      "forks": 8,
+      "forks": 10,
       "topics": [
         "backbone",
         "backbone-networks",
@@ -185,8 +160,66 @@
         "vision-framework"
       ],
       "created_at": "2026-09-27T06:56:59Z",
-      "updated_at": "2026-10-02T05:54:48Z",
+      "updated_at": "2026-10-03T05:27:50Z",
+      "rank": 6
+    },
+    {
+      "name": "emir/AIKON",
+      "url": "https://github.com/emir/AIKON",
+      "description": "A 2007 Nokia can't search Google anymore, so I gave it Claude, ChatGPT, Gemini and Grok. J2ME app for Nokia S40/S60 + tiny Go server.",
+      "full_description": "A 2007 Nokia can't search Google anymore, so I gave it Claude, ChatGPT, Gemini and Grok. J2ME app for Nokia S40/S60 + tiny Go server.",
+      "language": "Java",
+      "stars": 319,
+      "stars_gained": 0,
+      "forks": 29,
+      "topics": [
+        "ai-chat",
+        "chatbot",
+        "claude",
+        "cldc",
+        "dumbphone",
+        "feature-phone",
+        "gemini",
+        "golang",
+        "grok",
+        "j2me",
+        "java-me",
+        "llm",
+        "midp",
+        "nokia",
+        "openai",
+        "retro-computing",
+        "s60",
+        "series-40",
+        "symbian",
+        "tls"
+      ],
+      "created_at": "2026-09-26T03:40:08Z",
+      "updated_at": "2026-10-03T01:07:16Z",
       "rank": 7
+    },
+    {
+      "name": "strands-labs/strands-decider",
+      "url": "https://github.com/strands-labs/strands-decider",
+      "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
+      "full_description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
+      "language": "Python",
+      "stars": 224,
+      "stars_gained": 0,
+      "forks": 38,
+      "topics": [
+        "ai",
+        "machine-learning",
+        "natural-language-understanding",
+        "python",
+        "strands-agents",
+        "strands-labs",
+        "system-one",
+        "system-one-models"
+      ],
+      "created_at": "2026-09-29T16:36:38Z",
+      "updated_at": "2026-10-03T05:20:48Z",
+      "rank": 8
     },
     {
       "name": "blendi-remade/dioramas",
@@ -194,9 +227,9 @@
       "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
       "full_description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
       "language": "JavaScript",
-      "stars": 190,
+      "stars": 206,
       "stars_gained": 0,
-      "forks": 20,
+      "forks": 21,
       "topics": [
         "3d",
         "creative-coding",
@@ -208,8 +241,36 @@
         "webgl"
       ],
       "created_at": "2026-09-30T00:07:56Z",
-      "updated_at": "2026-10-02T05:54:17Z",
-      "rank": 8
+      "updated_at": "2026-10-02T21:16:33Z",
+      "rank": 9
+    },
+    {
+      "name": "justxor/claude-code-pro-course",
+      "url": "https://github.com/justxor/claude-code-pro-course",
+      "description": "Claude Code PRO — полный курс и гайд на русском: CLAUDE.md, settings, skills, subagents, hooks, MCP, плагины, CI. 8 лабораторных, библиотека промптов и готовый starter-kit. Здесь бесплатные курсы  по chatgpt - ",
+      "full_description": "Claude Code PRO — полный курс и гайд на русском: CLAUDE.md, settings, skills, subagents, hooks, MCP, плагины, CI. 8 лабораторных, библиотека промптов и готовый starter-kit. Здесь бесплатные курсы  по chatgpt - ",
+      "language": "Shell",
+      "stars": 188,
+      "stars_gained": 0,
+      "forks": 33,
+      "topics": [
+        "ai-agents",
+        "ai-coding",
+        "anthropic",
+        "best-practices",
+        "claude",
+        "claude-code",
+        "claude-code-hooks",
+        "claude-code-skills",
+        "claude-code-subagents",
+        "mcp",
+        "prompt-engineering",
+        "russian",
+        "tutorial"
+      ],
+      "created_at": "2026-09-30T12:15:37Z",
+      "updated_at": "2026-10-03T05:04:02Z",
+      "rank": 10
     },
     {
       "name": "scarletkc/seiso",
@@ -217,7 +278,7 @@
       "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
       "full_description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
       "language": "Rust",
-      "stars": 165,
+      "stars": 170,
       "stars_gained": 0,
       "forks": 10,
       "topics": [
@@ -243,36 +304,8 @@
         "technical-writing"
       ],
       "created_at": "2026-09-27T13:27:28Z",
-      "updated_at": "2026-10-02T03:38:40Z",
-      "rank": 9
-    },
-    {
-      "name": "justxor/claude-code-pro-course",
-      "url": "https://github.com/justxor/claude-code-pro-course",
-      "description": "Claude Code PRO — полный курс и гайд на русском: CLAUDE.md, settings, skills, subagents, hooks, MCP, плагины, CI. 8 лабораторных, библиотека промптов и готовый starter-kit. Здесь бесплатные курсы  по chatgpt - ",
-      "full_description": "Claude Code PRO — полный курс и гайд на русском: CLAUDE.md, settings, skills, subagents, hooks, MCP, плагины, CI. 8 лабораторных, библиотека промптов и готовый starter-kit. Здесь бесплатные курсы  по chatgpt - ",
-      "language": "Shell",
-      "stars": 149,
-      "stars_gained": 0,
-      "forks": 26,
-      "topics": [
-        "ai-agents",
-        "ai-coding",
-        "anthropic",
-        "best-practices",
-        "claude",
-        "claude-code",
-        "claude-code-hooks",
-        "claude-code-skills",
-        "claude-code-subagents",
-        "mcp",
-        "prompt-engineering",
-        "russian",
-        "tutorial"
-      ],
-      "created_at": "2026-09-30T12:15:37Z",
-      "updated_at": "2026-10-02T05:43:18Z",
-      "rank": 10
+      "updated_at": "2026-10-03T05:19:41Z",
+      "rank": 11
     },
     {
       "name": "AFK-surf/Comma",
@@ -280,9 +313,9 @@
       "description": "The sessionless, relentless personal agent. Open source alternative to Muse, Dots, Instinct and Town.",
       "full_description": "The sessionless, relentless personal agent. Open source alternative to Muse, Dots, Instinct and Town.",
       "language": "Elixir",
-      "stars": 148,
+      "stars": 158,
       "stars_gained": 0,
-      "forks": 8,
+      "forks": 11,
       "topics": [
         "agent",
         "elixir-lang",
@@ -290,28 +323,57 @@
         "personal-ai"
       ],
       "created_at": "2026-09-30T08:39:30Z",
-      "updated_at": "2026-10-02T04:17:35Z",
-      "rank": 11
+      "updated_at": "2026-10-03T04:43:46Z",
+      "rank": 12
     },
     {
-      "name": "Xuanwo/cida",
-      "url": "https://github.com/Xuanwo/cida",
-      "description": "辞达：用你选择的大模型，在 Mac 的任何地方翻译和润色文字。Translate and polish text anywhere on your Mac.",
-      "full_description": "辞达：用你选择的大模型，在 Mac 的任何地方翻译和润色文字。Translate and polish text anywhere on your Mac.",
-      "language": "Swift",
-      "stars": 131,
+      "name": "CharlesFeng0314/JEV_sees",
+      "url": "https://github.com/CharlesFeng0314/JEV_sees",
+      "description": "Eyes are All JEV Needs - real time visual devisions from RGB, video and RGB-D cameras.",
+      "full_description": "Eyes are All JEV Needs - real time visual devisions from RGB, video and RGB-D cameras.",
+      "language": "Python",
+      "stars": 155,
       "stars_gained": 0,
-      "forks": 6,
+      "forks": 7,
       "topics": [
-        "llm",
-        "macos",
-        "menubar-app",
-        "swiftui",
-        "translation"
+        "computer-vision",
+        "jev",
+        "multimodal-ai",
+        "object-detection",
+        "object-tracking",
+        "python",
+        "real-time-ai",
+        "rgbd",
+        "robotics",
+        "typesafe-ai",
+        "visual-reasoning",
+        "yolo"
       ],
-      "created_at": "2026-09-25T08:20:35Z",
-      "updated_at": "2026-10-02T05:55:22Z",
-      "rank": 12
+      "created_at": "2026-09-30T05:22:15Z",
+      "updated_at": "2026-10-03T05:21:12Z",
+      "rank": 13
+    },
+    {
+      "name": "NuvexNetwork/nuvex-services",
+      "url": "https://github.com/NuvexNetwork/nuvex-services",
+      "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
+      "full_description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
+      "language": "TypeScript",
+      "stars": 149,
+      "stars_gained": 0,
+      "forks": 313,
+      "topics": [
+        "ai",
+        "api",
+        "indexer",
+        "infra",
+        "off-chai",
+        "postgresql",
+        "solana"
+      ],
+      "created_at": "2026-09-30T07:55:06Z",
+      "updated_at": "2026-10-03T05:11:44Z",
+      "rank": 14
     },
     {
       "name": "aaddrick/building-with-typesafe-jev",
@@ -346,42 +408,7 @@
       ],
       "created_at": "2026-09-26T00:01:19Z",
       "updated_at": "2026-10-02T03:56:50Z",
-      "rank": 13
-    },
-    {
-      "name": "matank001/clodfarm",
-      "url": "https://github.com/matank001/clodfarm",
-      "description": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app.",
-      "full_description": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app.",
-      "language": "Python",
-      "stars": 122,
-      "stars_gained": 0,
-      "forks": 48,
-      "topics": [
-        "agent-orchestration",
-        "ai",
-        "ai-agents",
-        "anthropic",
-        "automation",
-        "autonomous-agents",
-        "aws",
-        "claude",
-        "claude-code",
-        "coding-agent",
-        "devtools",
-        "docker",
-        "dynamodb",
-        "llm",
-        "multi-agent",
-        "python",
-        "rate-limiting",
-        "remote-control",
-        "self-hosted",
-        "subagents"
-      ],
-      "created_at": "2026-09-25T00:48:32Z",
-      "updated_at": "2026-10-02T03:36:00Z",
-      "rank": 14
+      "rank": 15
     },
     {
       "name": "Finderchangchang/brewreel",
@@ -389,9 +416,9 @@
       "description": "精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。",
       "full_description": "精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。",
       "language": "TypeScript",
-      "stars": 113,
+      "stars": 114,
       "stars_gained": 0,
-      "forks": 19,
+      "forks": 18,
       "topics": [
         "agent-skills",
         "claude-code",
@@ -405,8 +432,8 @@
         "video-generation"
       ],
       "created_at": "2026-09-26T01:52:24Z",
-      "updated_at": "2026-10-01T02:53:00Z",
-      "rank": 15
+      "updated_at": "2026-10-03T03:15:08Z",
+      "rank": 16
     },
     {
       "name": "OmniJev/OneJev",
@@ -414,7 +441,7 @@
       "description": "🚀🚀 A multimodal System One decision model that gives calibrated answers to typed questions about screens, photos, video and text in one forward pass.",
       "full_description": "🚀🚀 A multimodal System One decision model that gives calibrated answers to typed questions about screens, photos, video and text in one forward pass.",
       "language": "Python",
-      "stars": 108,
+      "stars": 112,
       "stars_gained": 0,
       "forks": 12,
       "topics": [
@@ -435,133 +462,26 @@
         "vlm"
       ],
       "created_at": "2026-09-27T14:27:14Z",
-      "updated_at": "2026-10-02T04:23:50Z",
-      "rank": 16
-    },
-    {
-      "name": "CharlesFeng0314/JEV_sees",
-      "url": "https://github.com/CharlesFeng0314/JEV_sees",
-      "description": "Eyes are All JEV Needs - real time visual devisions from RGB, video and RGB-D cameras.",
-      "full_description": "Eyes are All JEV Needs - real time visual devisions from RGB, video and RGB-D cameras.",
-      "language": "Python",
-      "stars": 103,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "computer-vision",
-        "jev",
-        "multimodal-ai",
-        "object-detection",
-        "object-tracking",
-        "python",
-        "real-time-ai",
-        "rgbd",
-        "robotics",
-        "typesafe-ai",
-        "visual-reasoning",
-        "yolo"
-      ],
-      "created_at": "2026-09-30T05:22:15Z",
-      "updated_at": "2026-10-02T05:39:02Z",
+      "updated_at": "2026-10-03T03:54:03Z",
       "rank": 17
     },
     {
-      "name": "kostja94/bricks",
-      "url": "https://github.com/kostja94/bricks",
-      "description": "Component layer for AI agents: implementation-aware contracts for building project-native interface components.",
-      "full_description": "Component layer for AI agents: implementation-aware contracts for building project-native interface components.",
-      "language": "JavaScript",
-      "stars": 102,
+      "name": "Remocn/remocn-studio",
+      "url": "https://github.com/Remocn/remocn-studio",
+      "description": "Agent-native video editor",
+      "full_description": "Agent-native video editor",
+      "language": "TypeScript",
+      "stars": 99,
       "stars_gained": 0,
-      "forks": 0,
+      "forks": 8,
       "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "coding-agents",
-        "cursor",
-        "design-systems",
-        "developer-tools",
-        "frontend",
-        "interface-components",
-        "llm",
-        "ui-components",
-        "web-development"
+        "agent",
+        "remotion",
+        "remotion-video"
       ],
-      "created_at": "2026-09-25T05:18:31Z",
-      "updated_at": "2026-10-02T05:34:19Z",
+      "created_at": "2026-10-01T15:26:45Z",
+      "updated_at": "2026-10-03T02:12:24Z",
       "rank": 18
-    },
-    {
-      "name": "UditAkhourii/quicksilver",
-      "url": "https://github.com/UditAkhourii/quicksilver",
-      "description": "Claude Code skill: hand bulk judgment calls to Jev. 86% fewer Claude tokens on a 12-task benchmark, up to 20x faster. One-line npx install.",
-      "full_description": "Claude Code skill: hand bulk judgment calls to Jev. 86% fewer Claude tokens on a 12-task benchmark, up to 20x faster. One-line npx install.",
-      "language": "JavaScript",
-      "stars": 97,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "jev",
-        "llm",
-        "skill",
-        "tokens",
-        "typesafe"
-      ],
-      "created_at": "2026-09-25T15:20:46Z",
-      "updated_at": "2026-10-02T03:35:34Z",
-      "rank": 19
-    },
-    {
-      "name": "architectds/collabosm",
-      "url": "https://github.com/architectds/collabosm",
-      "description": "A local app that rents a GPU in your own Colab account and serves Qwen3.8 on it: 27B on an A100-40G, or Flash-Next (125B-A6B MoE) on an A100-80G. The cost is shown before it starts; chat with images; Codex or any OpenAI client uses a fixed local /v1. Auto-stop, CU ledger, live prefill/decode. Windows, macOS, Linux.",
-      "full_description": "A local app that rents a GPU in your own Colab account and serves Qwen3.8 on it: 27B on an A100-40G, or Flash-Next (125B-A6B MoE) on an A100-80G. The cost is shown before it starts; chat with images; Codex or any OpenAI client uses a fixed local /v1. Auto-stop, CU ledger, live prefill/decode. Windows, macOS, Linux.",
-      "language": "Python",
-      "stars": 95,
-      "stars_gained": 0,
-      "forks": 3,
-      "topics": [
-        "colab",
-        "exllamav3",
-        "google-colab",
-        "gpu",
-        "llm",
-        "llm-inference",
-        "openai-api",
-        "qwen"
-      ],
-      "created_at": "2026-09-25T00:46:02Z",
-      "updated_at": "2026-10-01T14:32:23Z",
-      "rank": 20
-    },
-    {
-      "name": "strands-labs/strands-decider",
-      "url": "https://github.com/strands-labs/strands-decider",
-      "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
-      "full_description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
-      "language": "Python",
-      "stars": 89,
-      "stars_gained": 0,
-      "forks": 14,
-      "topics": [
-        "ai",
-        "machine-learning",
-        "natural-language-understanding",
-        "python",
-        "strands-agents",
-        "strands-labs",
-        "system-one",
-        "system-one-models"
-      ],
-      "created_at": "2026-09-29T16:36:38Z",
-      "updated_at": "2026-10-02T05:51:03Z",
-      "rank": 21
     },
     {
       "name": "ufo-ai/ufo-core",
@@ -569,7 +489,7 @@
       "description": "Agent operating system",
       "full_description": "Agent operating system",
       "language": "Python",
-      "stars": 87,
+      "stars": 88,
       "stars_gained": 0,
       "forks": 12,
       "topics": [
@@ -589,8 +509,8 @@
         "openclaw"
       ],
       "created_at": "2026-09-27T07:25:44Z",
-      "updated_at": "2026-10-02T04:52:14Z",
-      "rank": 22
+      "updated_at": "2026-10-03T01:27:19Z",
+      "rank": 19
     },
     {
       "name": "tunaarikaya/magaza-mcp",
@@ -617,7 +537,31 @@
       ],
       "created_at": "2026-09-28T17:25:16Z",
       "updated_at": "2026-10-02T05:45:00Z",
-      "rank": 23
+      "rank": 20
+    },
+    {
+      "name": "callstackincubator/codex-mobile-dev-plugin",
+      "url": "https://github.com/callstackincubator/codex-mobile-dev-plugin",
+      "description": "A Codex plugin for a better mobile development experience for android and iOS",
+      "full_description": "A Codex plugin for a better mobile development experience for android and iOS",
+      "language": "C++",
+      "stars": 75,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "agent",
+        "android",
+        "codex",
+        "codex-plugin",
+        "dev-tools",
+        "ios",
+        "mobile-dev",
+        "native",
+        "react-native"
+      ],
+      "created_at": "2026-09-30T13:30:00Z",
+      "updated_at": "2026-10-03T03:51:51Z",
+      "rank": 21
     },
     {
       "name": "ArtificialAnalysis/aa-agentperf-local",
@@ -625,7 +569,7 @@
       "description": "Benchmark local LLM serving by replaying real agent trajectories",
       "full_description": "Benchmark local LLM serving by replaying real agent trajectories",
       "language": "Python",
-      "stars": 72,
+      "stars": 74,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
@@ -637,53 +581,8 @@
         "local-llm"
       ],
       "created_at": "2026-09-26T03:11:59Z",
-      "updated_at": "2026-10-02T02:39:33Z",
-      "rank": 24
-    },
-    {
-      "name": "ceyyy427/financial-research-optimizer",
-      "url": "https://github.com/ceyyy427/financial-research-optimizer",
-      "description": "Auditable, point-in-time financial research workflow for data lineage, model validation, backtest diagnostics, and constrained portfolio analysis.",
-      "full_description": "Auditable, point-in-time financial research workflow for data lineage, model validation, backtest diagnostics, and constrained portfolio analysis.",
-      "language": "Python",
-      "stars": 71,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "backtesting",
-        "data-provenance",
-        "deep-learning",
-        "finance",
-        "financial-data",
-        "machine-learning",
-        "point-in-time-data",
-        "portfolio-optimization",
-        "python",
-        "quantitative-finance",
-        "research-workflow",
-        "time-series"
-      ],
-      "created_at": "2026-09-25T16:42:23Z",
-      "updated_at": "2026-10-02T03:03:26Z",
-      "rank": 25
-    },
-    {
-      "name": "Remocn/remocn-studio",
-      "url": "https://github.com/Remocn/remocn-studio",
-      "description": "Agent-native video editor",
-      "full_description": "Agent-native video editor",
-      "language": "TypeScript",
-      "stars": 61,
-      "stars_gained": 0,
-      "forks": 6,
-      "topics": [
-        "agent",
-        "remotion",
-        "remotion-video"
-      ],
-      "created_at": "2026-10-01T15:26:45Z",
-      "updated_at": "2026-10-02T05:47:34Z",
-      "rank": 26
+      "updated_at": "2026-10-02T15:28:54Z",
+      "rank": 22
     },
     {
       "name": "levy-street/pokemon-claude-red",
@@ -691,7 +590,7 @@
       "description": "Pokémon Red, rebuilt from raw pixels by Claude Opus 5.5. Every sprite, tile, battle effect and song is code: zero image files. Plays in the browser.",
       "full_description": "Pokémon Red, rebuilt from raw pixels by Claude Opus 5.5. Every sprite, tile, battle effect and song is code: zero image files. Plays in the browser.",
       "language": "JavaScript",
-      "stars": 59,
+      "stars": 61,
       "stars_gained": 0,
       "forks": 45,
       "topics": [
@@ -708,8 +607,77 @@
         "procedural-generation"
       ],
       "created_at": "2026-09-26T22:55:32Z",
-      "updated_at": "2026-10-01T18:13:29Z",
-      "rank": 27
+      "updated_at": "2026-10-03T02:08:59Z",
+      "rank": 23
+    },
+    {
+      "name": "graygnatconsole/mcp-audit-tool",
+      "url": "https://github.com/graygnatconsole/mcp-audit-tool",
+      "description": "🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + CI ready.",
+      "full_description": "🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + CI ready.",
+      "language": "Python",
+      "stars": 58,
+      "stars_gained": 0,
+      "forks": 2,
+      "topics": [
+        "agent-security",
+        "agentic-ai",
+        "ai-security",
+        "cursor",
+        "llm-guardrails",
+        "llm-security",
+        "mcp",
+        "mcp-audit",
+        "mcp-scanner",
+        "mcp-security",
+        "mcp-server",
+        "mcp-server-python",
+        "model-context-protocol",
+        "prompt-injection",
+        "security-scanner",
+        "supply-chain",
+        "supply-chain-security",
+        "tool-poisoning",
+        "vulnerability-scanner"
+      ],
+      "created_at": "2026-09-26T02:42:57Z",
+      "updated_at": "2026-10-03T05:23:53Z",
+      "rank": 24
+    },
+    {
+      "name": "breakstageaxe61/genspark-claw",
+      "url": "https://github.com/breakstageaxe61/genspark-claw",
+      "description": "🦀⚡ Community skill pack & CLI for Genspark Claw, OpenClaw & Hermes agents — 5 production-ready SKILL.md skills (deep research, reports, slides, browser automation, AI call prep), zero-dependency Node.js installer, MCP server, one-line install",
+      "full_description": "🦀⚡ Community skill pack & CLI for Genspark Claw, OpenClaw & Hermes agents — 5 production-ready SKILL.md skills (deep research, reports, slides, browser automation, AI call prep), zero-dependency Node.js installer, MCP server, one-line install",
+      "language": "JavaScript",
+      "stars": 58,
+      "stars_gained": 0,
+      "forks": 1,
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "ai-assistants",
+        "ai-tools",
+        "awesome-genspark",
+        "genspark-agent",
+        "genspark-claw",
+        "genspark-mcp",
+        "genspark-skills",
+        "hermes-agent",
+        "hermes-skill",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "open-genspark",
+        "openclaw",
+        "openclaw-skill",
+        "openclaw-skills",
+        "skills",
+        "zero-dependency"
+      ],
+      "created_at": "2026-09-26T02:18:05Z",
+      "updated_at": "2026-10-03T05:24:16Z",
+      "rank": 25
     },
     {
       "name": "Dreamer-Toby/STEPQuant",
@@ -717,7 +685,7 @@
       "description": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
       "full_description": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
       "language": "Python",
-      "stars": 52,
+      "stars": 55,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -727,8 +695,25 @@
         "quantization"
       ],
       "created_at": "2026-09-29T16:10:41Z",
-      "updated_at": "2026-10-02T05:41:49Z",
-      "rank": 28
+      "updated_at": "2026-10-03T02:39:28Z",
+      "rank": 26
+    },
+    {
+      "name": "VectifyAI/jev-doc-search",
+      "url": "https://github.com/VectifyAI/jev-doc-search",
+      "description": "Long-document search with Jev and PageIndex",
+      "full_description": "Long-document search with Jev and PageIndex",
+      "language": "Python",
+      "stars": 54,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "rag",
+        "search"
+      ],
+      "created_at": "2026-09-30T14:12:10Z",
+      "updated_at": "2026-10-03T05:20:59Z",
+      "rank": 27
     },
     {
       "name": "chenkangjie1123/VGGT-Diff",
@@ -736,7 +721,7 @@
       "description": "VGGT-Diff: Visual Geometry Meets Diffusion for Sparse-View Novel View Synthesis",
       "full_description": "VGGT-Diff: Visual Geometry Meets Diffusion for Sparse-View Novel View Synthesis",
       "language": "Python",
-      "stars": 50,
+      "stars": 51,
       "stars_gained": 0,
       "forks": 5,
       "topics": [
@@ -750,8 +735,8 @@
         "visual-geometry"
       ],
       "created_at": "2026-09-27T05:24:54Z",
-      "updated_at": "2026-10-01T20:30:05Z",
-      "rank": 29
+      "updated_at": "2026-10-03T02:47:08Z",
+      "rank": 28
     },
     {
       "name": "Moris-kr/ai-chatroom",
@@ -759,7 +744,7 @@
       "description": "A web group chat where Claude, ChatGPT, Grok and Gemini hang out and talk on their own, powered by your logged-in CLIs (no API keys). English / 한국어 / 日本語",
       "full_description": "A web group chat where Claude, ChatGPT, Grok and Gemini hang out and talk on their own, powered by your logged-in CLIs (no API keys). English / 한국어 / 日本語",
       "language": "JavaScript",
-      "stars": 47,
+      "stars": 48,
       "stars_gained": 0,
       "forks": 8,
       "topics": [
@@ -785,7 +770,30 @@
         "weeb"
       ],
       "created_at": "2026-09-29T03:42:10Z",
-      "updated_at": "2026-10-02T02:10:15Z",
+      "updated_at": "2026-10-02T09:44:46Z",
+      "rank": 29
+    },
+    {
+      "name": "arjunkshah12345-hash/openpages",
+      "url": "https://github.com/arjunkshah12345-hash/openpages",
+      "description": "Open-source AI workspace for humans and agents — SuperCompress as the core context layer.",
+      "full_description": "Open-source AI workspace for humans and agents — SuperCompress as the core context layer.",
+      "language": "TypeScript",
+      "stars": 48,
+      "stars_gained": 0,
+      "forks": 4,
+      "topics": [
+        "agents",
+        "ai",
+        "mcp",
+        "nextjs",
+        "open-source",
+        "supercompress",
+        "typescript",
+        "workspace"
+      ],
+      "created_at": "2026-09-30T03:06:43Z",
+      "updated_at": "2026-10-02T16:09:41Z",
       "rank": 30
     }
   ]
