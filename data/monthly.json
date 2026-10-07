@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T06:39:49.410492+00:00",
+  "updated": "2026-10-07T06:16:41.906245+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "full_description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "language": "Python",
-      "stars": 31034,
+      "stars": 31261,
       "stars_gained": 0,
-      "forks": 2732,
+      "forks": 2761,
       "topics": [
         "calibration",
         "classification",
@@ -29,18 +29,18 @@
         "zero-shot"
       ],
       "created_at": "2026-09-18T04:46:33Z",
-      "updated_at": "2026-10-06T06:36:11Z",
+      "updated_at": "2026-10-07T06:06:59Z",
       "rank": 1
     },
     {
       "name": "jev-chat/jev-chat-jarvis",
       "url": "https://github.com/jev-chat/jev-chat-jarvis",
-      "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "full_description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "description": "The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android · Windows · macOS · iOS | 聊天辅助决策工具：先看懂对方再回复，发不发由你。",
+      "full_description": "The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android · Windows · macOS · iOS | 聊天辅助决策工具：先看懂对方再回复，发不发由你。",
       "language": "Kotlin",
-      "stars": 7371,
+      "stars": 7410,
       "stars_gained": 0,
-      "forks": 1224,
+      "forks": 1225,
       "topics": [
         "accessibility-service",
         "ai-assistant",
@@ -49,10 +49,11 @@
         "chat-copilot",
         "llm",
         "ocr",
-        "qq"
+        "qq",
+        "whatsapp"
       ],
       "created_at": "2026-09-21T11:12:53Z",
-      "updated_at": "2026-10-06T06:36:50Z",
+      "updated_at": "2026-10-07T05:40:26Z",
       "rank": 2
     },
     {
@@ -61,9 +62,9 @@
       "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
       "full_description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
       "language": "Python",
-      "stars": 6785,
+      "stars": 6798,
       "stars_gained": 0,
-      "forks": 543,
+      "forks": 546,
       "topics": [
         "apple-silicon",
         "decision-model",
@@ -77,7 +78,7 @@
         "typed-decisions"
       ],
       "created_at": "2026-09-19T13:50:26Z",
-      "updated_at": "2026-10-06T03:52:03Z",
+      "updated_at": "2026-10-07T02:53:56Z",
       "rank": 3
     },
     {
@@ -86,9 +87,9 @@
       "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "full_description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "language": "TypeScript",
-      "stars": 6058,
+      "stars": 6246,
       "stars_gained": 0,
-      "forks": 1526,
+      "forks": 1557,
       "topics": [
         "ai",
         "chinese",
@@ -104,7 +105,7 @@
         "typescript"
       ],
       "created_at": "2026-09-28T23:40:05Z",
-      "updated_at": "2026-10-06T06:36:19Z",
+      "updated_at": "2026-10-07T06:12:08Z",
       "rank": 4
     },
     {
@@ -113,9 +114,9 @@
       "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "full_description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "language": "Go",
-      "stars": 5241,
+      "stars": 5557,
       "stars_gained": 0,
-      "forks": 373,
+      "forks": 401,
       "topics": [
         "claude-code",
         "codex",
@@ -125,7 +126,7 @@
         "macos"
       ],
       "created_at": "2026-09-23T16:22:35Z",
-      "updated_at": "2026-10-06T06:37:33Z",
+      "updated_at": "2026-10-07T06:15:20Z",
       "rank": 5
     },
     {
@@ -134,9 +135,9 @@
       "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "full_description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "language": "Python",
-      "stars": 3970,
+      "stars": 4754,
       "stars_gained": 0,
-      "forks": 354,
+      "forks": 425,
       "topics": [
         "age-of-empires",
         "claude-code",
@@ -150,7 +151,7 @@
         "tmodloader"
       ],
       "created_at": "2026-09-30T05:00:35Z",
-      "updated_at": "2026-10-06T06:33:58Z",
+      "updated_at": "2026-10-07T06:13:25Z",
       "rank": 6
     },
     {
@@ -159,9 +160,9 @@
       "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
       "full_description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
       "language": "Python",
-      "stars": 2621,
+      "stars": 2636,
       "stars_gained": 0,
-      "forks": 438,
+      "forks": 459,
       "topics": [
         "ai-agent",
         "ai-agents",
@@ -185,27 +186,8 @@
         "web-automation"
       ],
       "created_at": "2026-09-29T23:06:00Z",
-      "updated_at": "2026-10-06T06:03:09Z",
+      "updated_at": "2026-10-07T05:42:36Z",
       "rank": 7
-    },
-    {
-      "name": "yibie/awesome-jev",
-      "url": "https://github.com/yibie/awesome-jev",
-      "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
-      "full_description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
-      "language": "Python",
-      "stars": 2161,
-      "stars_gained": 0,
-      "forks": 326,
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "jev",
-        "llm"
-      ],
-      "created_at": "2026-09-17T14:23:21Z",
-      "updated_at": "2026-10-06T06:14:57Z",
-      "rank": 8
     },
     {
       "name": "Ebony-Vinyl/dsh-our-free-model",
@@ -213,9 +195,9 @@
       "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
       "full_description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
       "language": "JavaScript",
-      "stars": 1803,
+      "stars": 2602,
       "stars_gained": 0,
-      "forks": 48,
+      "forks": 58,
       "topics": [
         "ai-agents",
         "deepseek",
@@ -229,8 +211,54 @@
         "openai-compatible"
       ],
       "created_at": "2026-09-24T16:17:19Z",
-      "updated_at": "2026-10-06T06:35:20Z",
+      "updated_at": "2026-10-07T06:16:41Z",
+      "rank": 8
+    },
+    {
+      "name": "yibie/awesome-jev",
+      "url": "https://github.com/yibie/awesome-jev",
+      "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+      "full_description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+      "language": "Python",
+      "stars": 2187,
+      "stars_gained": 0,
+      "forks": 329,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "jev",
+        "llm"
+      ],
+      "created_at": "2026-09-17T14:23:21Z",
+      "updated_at": "2026-10-07T05:50:11Z",
       "rank": 9
+    },
+    {
+      "name": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "full_description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "language": "JavaScript",
+      "stars": 1846,
+      "stars_gained": 0,
+      "forks": 128,
+      "topics": [
+        "agent-skill",
+        "ai-agent",
+        "claude-code",
+        "claude-code-skill",
+        "claude-skill",
+        "claude-skills",
+        "cli",
+        "diagram",
+        "explainer",
+        "html",
+        "llm",
+        "ste100"
+      ],
+      "created_at": "2026-10-02T09:57:40Z",
+      "updated_at": "2026-10-07T06:11:15Z",
+      "rank": 10
     },
     {
       "name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
@@ -238,9 +266,9 @@
       "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
       "full_description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
       "language": "Markdown",
-      "stars": 1647,
+      "stars": 1686,
       "stars_gained": 0,
-      "forks": 164,
+      "forks": 167,
       "topics": [
         "ai",
         "ai-engineering",
@@ -254,24 +282,7 @@
         "questions-and-answers"
       ],
       "created_at": "2026-09-19T04:14:43Z",
-      "updated_at": "2026-10-06T06:34:48Z",
-      "rank": 10
-    },
-    {
-      "name": "jtydhr88/screenwriting-skills",
-      "url": "https://github.com/jtydhr88/screenwriting-skills",
-      "description": "Professional agent skills for screenwriting, television writing and dramaturgy",
-      "full_description": "Professional agent skills for screenwriting, television writing and dramaturgy",
-      "language": "Python",
-      "stars": 1571,
-      "stars_gained": 0,
-      "forks": 167,
-      "topics": [
-        "ai",
-        "skills"
-      ],
-      "created_at": "2026-09-06T12:28:23Z",
-      "updated_at": "2026-10-06T05:54:34Z",
+      "updated_at": "2026-10-07T06:11:44Z",
       "rank": 11
     },
     {
@@ -280,9 +291,9 @@
       "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
       "full_description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
       "language": "Python",
-      "stars": 1546,
+      "stars": 1655,
       "stars_gained": 0,
-      "forks": 34,
+      "forks": 37,
       "topics": [
         "agent-skills",
         "ai-writing",
@@ -300,31 +311,31 @@
         "writing-tool"
       ],
       "created_at": "2026-09-30T11:49:32Z",
-      "updated_at": "2026-10-06T06:33:20Z",
+      "updated_at": "2026-10-07T06:10:06Z",
       "rank": 12
     },
     {
-      "name": "QingYunA/answer-me-with-html",
-      "url": "https://github.com/QingYunA/answer-me-with-html",
-      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "full_description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "language": "JavaScript",
-      "stars": 1537,
+      "name": "shader-effects-inc/shaders",
+      "url": "https://github.com/shader-effects-inc/shaders",
+      "description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
+      "full_description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
+      "language": "TypeScript",
+      "stars": 1589,
       "stars_gained": 0,
-      "forks": 108,
+      "forks": 54,
       "topics": [
-        "agent-skill",
-        "ai-agent",
-        "claude-code",
         "cli",
-        "diagram",
-        "explainer",
-        "html",
-        "llm",
-        "ste100"
+        "javascript",
+        "mcp",
+        "react",
+        "shaders",
+        "solid",
+        "svelte",
+        "vue",
+        "webgpu-shaders"
       ],
-      "created_at": "2026-10-02T09:57:40Z",
-      "updated_at": "2026-10-06T06:36:58Z",
+      "created_at": "2026-09-29T16:36:26Z",
+      "updated_at": "2026-10-07T06:14:16Z",
       "rank": 13
     },
     {
@@ -333,9 +344,9 @@
       "description": "Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
       "full_description": "Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
       "language": "TypeScript",
-      "stars": 1395,
+      "stars": 1417,
       "stars_gained": 0,
-      "forks": 1426,
+      "forks": 1453,
       "topics": [
         "brand-identity",
         "cloudflare-workers",
@@ -345,7 +356,7 @@
         "typography"
       ],
       "created_at": "2026-09-20T07:54:30Z",
-      "updated_at": "2026-10-06T06:22:20Z",
+      "updated_at": "2026-10-07T05:17:50Z",
       "rank": 14
     },
     {
@@ -354,9 +365,9 @@
       "description": "the development environment for pros",
       "full_description": "the development environment for pros",
       "language": "Go",
-      "stars": 1231,
+      "stars": 1234,
       "stars_gained": 0,
-      "forks": 91,
+      "forks": 92,
       "topics": [
         "agent-orchestration",
         "ai",
@@ -375,7 +386,7 @@
         "workspace-manager"
       ],
       "created_at": "2026-09-10T10:50:03Z",
-      "updated_at": "2026-10-06T02:46:22Z",
+      "updated_at": "2026-10-07T02:14:59Z",
       "rank": 15
     },
     {
@@ -384,9 +395,9 @@
       "description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
       "full_description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
       "language": "",
-      "stars": 1087,
+      "stars": 1095,
       "stars_gained": 0,
-      "forks": 108,
+      "forks": 113,
       "topics": [
         "agent",
         "large-language-models",
@@ -396,7 +407,7 @@
         "rag"
       ],
       "created_at": "2026-09-12T07:33:31Z",
-      "updated_at": "2026-10-06T03:25:29Z",
+      "updated_at": "2026-10-07T03:48:42Z",
       "rank": 16
     },
     {
@@ -405,9 +416,9 @@
       "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
       "full_description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
       "language": "Python",
-      "stars": 1055,
+      "stars": 1088,
       "stars_gained": 0,
-      "forks": 135,
+      "forks": 136,
       "topics": [
         "calibration",
         "decision-model",
@@ -419,33 +430,8 @@
         "vllm"
       ],
       "created_at": "2026-09-21T05:55:40Z",
-      "updated_at": "2026-10-06T05:55:32Z",
+      "updated_at": "2026-10-07T05:56:27Z",
       "rank": 17
-    },
-    {
-      "name": "aimeoa/hanshuang-codex",
-      "url": "https://github.com/aimeoa/hanshuang-codex",
-      "description": "针对GPT 6.0,workbuddyV4.1flash的破甲实验项目",
-      "full_description": "针对GPT 6.0,workbuddyV4.1flash的破甲实验项目",
-      "language": "Python",
-      "stars": 1025,
-      "stars_gained": 0,
-      "forks": 149,
-      "topics": [
-        "ai",
-        "codex",
-        "codex-cli",
-        "desktop-app",
-        "jailbreak",
-        "llm",
-        "openai-codex",
-        "prompt-injection",
-        "pyside6",
-        "python"
-      ],
-      "created_at": "2026-09-06T08:42:57Z",
-      "updated_at": "2026-10-06T06:38:09Z",
-      "rank": 18
     },
     {
       "name": "qiz029/dscode",
@@ -453,7 +439,7 @@
       "description": "A DeepSeek coding agent harness: persistent shell, Ultra subagents, auto approval, Chrome MCP and session telemetry",
       "full_description": "A DeepSeek coding agent harness: persistent shell, Ultra subagents, auto approval, Chrome MCP and session telemetry",
       "language": "JavaScript",
-      "stars": 1019,
+      "stars": 1020,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
@@ -474,8 +460,8 @@
         "tui"
       ],
       "created_at": "2026-09-11T09:40:02Z",
-      "updated_at": "2026-10-05T22:22:11Z",
-      "rank": 19
+      "updated_at": "2026-10-06T13:50:49Z",
+      "rank": 18
     },
     {
       "name": "undefined-ui/second-brain-os",
@@ -483,9 +469,9 @@
       "description": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.",
       "full_description": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.",
       "language": "HTML",
-      "stars": 963,
+      "stars": 998,
       "stars_gained": 0,
-      "forks": 152,
+      "forks": 160,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -502,8 +488,8 @@
         "second-brain"
       ],
       "created_at": "2026-09-07T15:08:13Z",
-      "updated_at": "2026-10-06T05:58:15Z",
-      "rank": 20
+      "updated_at": "2026-10-07T04:09:05Z",
+      "rank": 19
     },
     {
       "name": "TypeLLM/TypeLLM",
@@ -511,7 +497,7 @@
       "description": "TypeLLM: LLMs with type-safe generation",
       "full_description": "TypeLLM: LLMs with type-safe generation",
       "language": "Python",
-      "stars": 930,
+      "stars": 933,
       "stars_gained": 0,
       "forks": 58,
       "topics": [
@@ -521,7 +507,24 @@
         "types"
       ],
       "created_at": "2026-09-17T12:41:27Z",
-      "updated_at": "2026-10-06T06:07:18Z",
+      "updated_at": "2026-10-07T06:03:55Z",
+      "rank": 20
+    },
+    {
+      "name": "bilibili/Index-Translate",
+      "url": "https://github.com/bilibili/Index-Translate",
+      "description": "A Multilingual Translation Model Family",
+      "full_description": "A Multilingual Translation Model Family",
+      "language": "Python",
+      "stars": 874,
+      "stars_gained": 0,
+      "forks": 19,
+      "topics": [
+        "llm",
+        "machine-translation"
+      ],
+      "created_at": "2026-09-15T13:03:42Z",
+      "updated_at": "2026-10-07T06:11:15Z",
       "rank": 21
     },
     {
@@ -530,9 +533,9 @@
       "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
       "full_description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
       "language": "Python",
-      "stars": 855,
+      "stars": 870,
       "stars_gained": 0,
-      "forks": 69,
+      "forks": 70,
       "topics": [
         "decision-model",
         "jev",
@@ -543,8 +546,28 @@
         "typesafe"
       ],
       "created_at": "2026-09-18T05:03:47Z",
-      "updated_at": "2026-10-06T05:25:49Z",
+      "updated_at": "2026-10-07T06:06:12Z",
       "rank": 22
+    },
+    {
+      "name": "PSRben/VisionHOPE",
+      "url": "https://github.com/PSRben/VisionHOPE",
+      "description": "Official PyTorch implementation of VisionHOPE: Visual Backbones as Self-Modifying Learning Systems.",
+      "full_description": "Official PyTorch implementation of VisionHOPE: Visual Backbones as Self-Modifying Learning Systems.",
+      "language": "Python",
+      "stars": 866,
+      "stars_gained": 0,
+      "forks": 12,
+      "topics": [
+        "backbone",
+        "backbone-networks",
+        "computer-vision",
+        "image-classification",
+        "vision-framework"
+      ],
+      "created_at": "2026-09-27T06:56:59Z",
+      "updated_at": "2026-10-07T05:55:40Z",
+      "rank": 23
     },
     {
       "name": "punkpeye/awesome-remote-mcp-servers",
@@ -552,41 +575,14 @@
       "description": "A collection of remote MCP servers.",
       "full_description": "A collection of remote MCP servers.",
       "language": "",
-      "stars": 814,
+      "stars": 861,
       "stars_gained": 0,
-      "forks": 1095,
+      "forks": 1143,
       "topics": [
         "mcp"
       ],
       "created_at": "2026-09-08T00:43:30Z",
-      "updated_at": "2026-10-06T06:25:12Z",
-      "rank": 23
-    },
-    {
-      "name": "Edwardxlai/easyread",
-      "url": "https://github.com/Edwardxlai/easyread",
-      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "full_description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "language": "Python",
-      "stars": 812,
-      "stars_gained": 0,
-      "forks": 57,
-      "topics": [
-        "academic",
-        "arxiv",
-        "chinese",
-        "claude-code",
-        "codex",
-        "electron",
-        "llm",
-        "paper-reading",
-        "pdf-translator",
-        "reference-manager",
-        "research-tool",
-        "translation"
-      ],
-      "created_at": "2026-09-30T12:52:24Z",
-      "updated_at": "2026-10-06T06:33:40Z",
+      "updated_at": "2026-10-07T06:01:05Z",
       "rank": 24
     },
     {
@@ -595,7 +591,7 @@
       "description": "3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting",
       "full_description": "3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting",
       "language": "HTML",
-      "stars": 805,
+      "stars": 826,
       "stars_gained": 0,
       "forks": 53,
       "topics": [
@@ -621,45 +617,35 @@
         "teaser"
       ],
       "created_at": "2026-09-17T15:40:52Z",
-      "updated_at": "2026-10-06T05:53:55Z",
+      "updated_at": "2026-10-07T06:15:04Z",
       "rank": 25
     },
     {
-      "name": "bilibili/Index-Translate",
-      "url": "https://github.com/bilibili/Index-Translate",
-      "description": "A Multilingual Translation Model Family",
-      "full_description": "A Multilingual Translation Model Family",
+      "name": "Edwardxlai/easyread",
+      "url": "https://github.com/Edwardxlai/easyread",
+      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "full_description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
       "language": "Python",
-      "stars": 770,
+      "stars": 825,
       "stars_gained": 0,
-      "forks": 18,
+      "forks": 59,
       "topics": [
+        "academic",
+        "arxiv",
+        "chinese",
+        "claude-code",
+        "codex",
+        "electron",
         "llm",
-        "machine-translation"
+        "paper-reading",
+        "pdf-translator",
+        "reference-manager",
+        "research-tool",
+        "translation"
       ],
-      "created_at": "2026-09-15T13:03:42Z",
-      "updated_at": "2026-10-06T06:18:42Z",
+      "created_at": "2026-09-30T12:52:24Z",
+      "updated_at": "2026-10-07T03:18:35Z",
       "rank": 26
-    },
-    {
-      "name": "PSRben/VisionHOPE",
-      "url": "https://github.com/PSRben/VisionHOPE",
-      "description": "Official PyTorch implementation of VisionHOPE: Visual Backbones as Self-Modifying Learning Systems.",
-      "full_description": "Official PyTorch implementation of VisionHOPE: Visual Backbones as Self-Modifying Learning Systems.",
-      "language": "Python",
-      "stars": 762,
-      "stars_gained": 0,
-      "forks": 12,
-      "topics": [
-        "backbone",
-        "backbone-networks",
-        "computer-vision",
-        "image-classification",
-        "vision-framework"
-      ],
-      "created_at": "2026-09-27T06:56:59Z",
-      "updated_at": "2026-10-06T06:30:45Z",
-      "rank": 27
     },
     {
       "name": "Oldcircle/geo-sleuth",
@@ -667,9 +653,9 @@
       "description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
       "full_description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
       "language": "Python",
-      "stars": 750,
+      "stars": 807,
       "stars_gained": 0,
-      "forks": 96,
+      "forks": 101,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -691,8 +677,8 @@
         "satellite-imagery"
       ],
       "created_at": "2026-09-18T08:51:34Z",
-      "updated_at": "2026-10-06T06:32:40Z",
-      "rank": 28
+      "updated_at": "2026-10-07T06:09:13Z",
+      "rank": 27
     },
     {
       "name": "v-modal/awesome-jev-tools",
@@ -700,7 +686,7 @@
       "description": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
       "full_description": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
       "language": "",
-      "stars": 750,
+      "stars": 756,
       "stars_gained": 0,
       "forks": 48,
       "topics": [
@@ -726,8 +712,8 @@
         "vmodal"
       ],
       "created_at": "2026-09-19T16:48:59Z",
-      "updated_at": "2026-10-06T05:04:43Z",
-      "rank": 29
+      "updated_at": "2026-10-07T00:08:06Z",
+      "rank": 28
     },
     {
       "name": "jev-chat/jev-chat-windows",
@@ -735,9 +721,9 @@
       "description": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
       "full_description": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
       "language": "Python",
-      "stars": 745,
+      "stars": 751,
       "stars_gained": 0,
-      "forks": 161,
+      "forks": 163,
       "topics": [
         "chat-assistant",
         "jev",
@@ -751,7 +737,31 @@
         "windows"
       ],
       "created_at": "2026-09-21T14:37:14Z",
-      "updated_at": "2026-10-06T06:21:55Z",
+      "updated_at": "2026-10-07T06:05:39Z",
+      "rank": 29
+    },
+    {
+      "name": "Jakeschincariol/replica-skill",
+      "url": "https://github.com/Jakeschincariol/replica-skill",
+      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "full_description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "language": "Python",
+      "stars": 725,
+      "stars_gained": 0,
+      "forks": 76,
+      "topics": [
+        "agent",
+        "agent-skills",
+        "app-clone",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "indie-hacker",
+        "reverse-engineering",
+        "saas"
+      ],
+      "created_at": "2026-10-03T12:07:49Z",
+      "updated_at": "2026-10-07T06:13:32Z",
       "rank": 30
     }
   ]

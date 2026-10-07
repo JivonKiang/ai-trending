@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T06:39:48.613525+00:00",
+  "updated": "2026-10-07T06:16:40.817947+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "full_description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "language": "Python",
-      "stars": 3970,
+      "stars": 4754,
       "stars_gained": 0,
-      "forks": 354,
+      "forks": 425,
       "topics": [
         "age-of-empires",
         "claude-code",
@@ -26,42 +26,34 @@
         "tmodloader"
       ],
       "created_at": "2026-09-30T05:00:35Z",
-      "updated_at": "2026-10-06T06:33:58Z",
+      "updated_at": "2026-10-07T06:13:25Z",
       "rank": 1
     },
     {
-      "name": "feder-cr/dots",
-      "url": "https://github.com/feder-cr/dots",
-      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-      "full_description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-      "language": "Python",
-      "stars": 2621,
+      "name": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "full_description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "language": "JavaScript",
+      "stars": 1846,
       "stars_gained": 0,
-      "forks": 438,
+      "forks": 128,
       "topics": [
+        "agent-skill",
         "ai-agent",
-        "ai-agents",
-        "ai-browser",
-        "anti-detect-browser",
-        "browser-agent",
-        "browser-automation",
-        "chatgpt",
-        "dotfiles",
-        "dots",
-        "firefox",
-        "llm-agent",
-        "mcp",
-        "open-source-alternative",
-        "openai",
-        "openai-dots",
-        "openrouter",
-        "playwright",
-        "stealth-browser",
-        "web-agent",
-        "web-automation"
+        "claude-code",
+        "claude-code-skill",
+        "claude-skill",
+        "claude-skills",
+        "cli",
+        "diagram",
+        "explainer",
+        "html",
+        "llm",
+        "ste100"
       ],
-      "created_at": "2026-09-29T23:06:00Z",
-      "updated_at": "2026-10-06T06:03:09Z",
+      "created_at": "2026-10-02T09:57:40Z",
+      "updated_at": "2026-10-07T06:11:15Z",
       "rank": 2
     },
     {
@@ -70,9 +62,9 @@
       "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
       "full_description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
       "language": "Python",
-      "stars": 1546,
+      "stars": 1655,
       "stars_gained": 0,
-      "forks": 34,
+      "forks": 37,
       "topics": [
         "agent-skills",
         "ai-writing",
@@ -90,32 +82,8 @@
         "writing-tool"
       ],
       "created_at": "2026-09-30T11:49:32Z",
-      "updated_at": "2026-10-06T06:33:20Z",
+      "updated_at": "2026-10-07T06:10:06Z",
       "rank": 3
-    },
-    {
-      "name": "QingYunA/answer-me-with-html",
-      "url": "https://github.com/QingYunA/answer-me-with-html",
-      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "full_description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "language": "JavaScript",
-      "stars": 1537,
-      "stars_gained": 0,
-      "forks": 108,
-      "topics": [
-        "agent-skill",
-        "ai-agent",
-        "claude-code",
-        "cli",
-        "diagram",
-        "explainer",
-        "html",
-        "llm",
-        "ste100"
-      ],
-      "created_at": "2026-10-02T09:57:40Z",
-      "updated_at": "2026-10-06T06:36:58Z",
-      "rank": 4
     },
     {
       "name": "Edwardxlai/easyread",
@@ -123,9 +91,9 @@
       "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
       "full_description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
       "language": "Python",
-      "stars": 812,
+      "stars": 825,
       "stars_gained": 0,
-      "forks": 57,
+      "forks": 59,
       "topics": [
         "academic",
         "arxiv",
@@ -141,8 +109,8 @@
         "translation"
       ],
       "created_at": "2026-09-30T12:52:24Z",
-      "updated_at": "2026-10-06T06:33:40Z",
-      "rank": 5
+      "updated_at": "2026-10-07T03:18:35Z",
+      "rank": 4
     },
     {
       "name": "Jakeschincariol/replica-skill",
@@ -150,9 +118,9 @@
       "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
       "full_description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
       "language": "Python",
-      "stars": 558,
+      "stars": 725,
       "stars_gained": 0,
-      "forks": 49,
+      "forks": 76,
       "topics": [
         "agent",
         "agent-skills",
@@ -165,8 +133,8 @@
         "saas"
       ],
       "created_at": "2026-10-03T12:07:49Z",
-      "updated_at": "2026-10-06T06:19:25Z",
-      "rank": 6
+      "updated_at": "2026-10-07T06:13:32Z",
+      "rank": 5
     },
     {
       "name": "whirlchat/whirl",
@@ -174,9 +142,9 @@
       "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
       "full_description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
       "language": "TypeScript",
-      "stars": 481,
+      "stars": 491,
       "stars_gained": 0,
-      "forks": 43,
+      "forks": 45,
       "topics": [
         "ai",
         "ai-chat",
@@ -190,31 +158,8 @@
         "typescript"
       ],
       "created_at": "2026-10-02T13:50:42Z",
-      "updated_at": "2026-10-06T03:20:42Z",
-      "rank": 7
-    },
-    {
-      "name": "strands-labs/strands-decider",
-      "url": "https://github.com/strands-labs/strands-decider",
-      "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
-      "full_description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
-      "language": "Python",
-      "stars": 407,
-      "stars_gained": 0,
-      "forks": 57,
-      "topics": [
-        "ai",
-        "machine-learning",
-        "natural-language-understanding",
-        "python",
-        "strands-agents",
-        "strands-labs",
-        "system-one",
-        "system-one-models"
-      ],
-      "created_at": "2026-09-29T16:36:38Z",
-      "updated_at": "2026-10-06T06:30:18Z",
-      "rank": 8
+      "updated_at": "2026-10-07T06:00:13Z",
+      "rank": 6
     },
     {
       "name": "CharlesFeng0314/JEV_sees",
@@ -222,7 +167,7 @@
       "description": "Eyes are All JEV Needs - real time visual devisions from RGB, video and RGB-D cameras.",
       "full_description": "Eyes are All JEV Needs - real time visual devisions from RGB, video and RGB-D cameras.",
       "language": "Python",
-      "stars": 303,
+      "stars": 304,
       "stars_gained": 0,
       "forks": 11,
       "topics": [
@@ -240,8 +185,8 @@
         "yolo"
       ],
       "created_at": "2026-09-30T05:22:15Z",
-      "updated_at": "2026-10-06T01:42:58Z",
-      "rank": 9
+      "updated_at": "2026-10-07T05:29:41Z",
+      "rank": 7
     },
     {
       "name": "justxor/claude-code-pro-course",
@@ -249,7 +194,7 @@
       "description": "Claude Code PRO — полный курс и гайд на русском: CLAUDE.md, settings, skills, subagents, hooks, MCP, плагины, CI. 8 лабораторных, библиотека промптов и готовый starter-kit. Здесь бесплатные курсы  по chatgpt - ",
       "full_description": "Claude Code PRO — полный курс и гайд на русском: CLAUDE.md, settings, skills, subagents, hooks, MCP, плагины, CI. 8 лабораторных, библиотека промптов и готовый starter-kit. Здесь бесплатные курсы  по chatgpt - ",
       "language": "Shell",
-      "stars": 237,
+      "stars": 245,
       "stars_gained": 0,
       "forks": 41,
       "topics": [
@@ -268,8 +213,8 @@
         "tutorial"
       ],
       "created_at": "2026-09-30T12:15:37Z",
-      "updated_at": "2026-10-06T05:35:10Z",
-      "rank": 10
+      "updated_at": "2026-10-07T00:16:59Z",
+      "rank": 8
     },
     {
       "name": "blendi-remade/dioramas",
@@ -277,9 +222,9 @@
       "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
       "full_description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
       "language": "JavaScript",
-      "stars": 229,
+      "stars": 232,
       "stars_gained": 0,
-      "forks": 25,
+      "forks": 26,
       "topics": [
         "3d",
         "creative-coding",
@@ -291,8 +236,8 @@
         "webgl"
       ],
       "created_at": "2026-09-30T00:07:56Z",
-      "updated_at": "2026-10-06T02:27:42Z",
-      "rank": 11
+      "updated_at": "2026-10-07T03:18:52Z",
+      "rank": 9
     },
     {
       "name": "AFK-surf/Comma",
@@ -300,7 +245,7 @@
       "description": "Best free & open source personal agent. Always-on, proactive, sessionless. Browser, computer use, files, remote control. Competiable with ChatGPT/codex and claude code. Selfhost your open source alternative to Muse, Dots, Instinct and Town. Built with Go/Elixir/Lean.",
       "full_description": "Best free & open source personal agent. Always-on, proactive, sessionless. Browser, computer use, files, remote control. Competiable with ChatGPT/codex and claude code. Selfhost your open source alternative to Muse, Dots, Instinct and Town. Built with Go/Elixir/Lean.",
       "language": "Elixir",
-      "stars": 190,
+      "stars": 198,
       "stars_gained": 0,
       "forks": 14,
       "topics": [
@@ -310,8 +255,33 @@
         "personal-ai"
       ],
       "created_at": "2026-09-30T08:39:30Z",
-      "updated_at": "2026-10-06T03:20:39Z",
-      "rank": 12
+      "updated_at": "2026-10-07T05:26:58Z",
+      "rank": 10
+    },
+    {
+      "name": "VoltAgent/official-mcp-servers",
+      "url": "https://github.com/VoltAgent/official-mcp-servers",
+      "description": "A curated directory of 280+ official MCP servers from the companies behind the products. No unofficial forks, no abandoned projects.",
+      "full_description": "A curated directory of 280+ official MCP servers from the companies behind the products. No unofficial forks, no abandoned projects.",
+      "language": "",
+      "stars": 191,
+      "stars_gained": 0,
+      "forks": 25,
+      "topics": [
+        "ai-tools",
+        "awesome-list",
+        "claude",
+        "claude-code",
+        "codex",
+        "cursor",
+        "mcp",
+        "mcp-server",
+        "mcp-servers",
+        "model-context-protocol"
+      ],
+      "created_at": "2026-10-01T07:30:34Z",
+      "updated_at": "2026-10-07T05:19:28Z",
+      "rank": 11
     },
     {
       "name": "NuvexNetwork/nuvex-services",
@@ -319,7 +289,7 @@
       "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
       "full_description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
       "language": "TypeScript",
-      "stars": 157,
+      "stars": 165,
       "stars_gained": 0,
       "forks": 313,
       "topics": [
@@ -332,8 +302,8 @@
         "solana"
       ],
       "created_at": "2026-09-30T07:55:06Z",
-      "updated_at": "2026-10-06T05:04:42Z",
-      "rank": 13
+      "updated_at": "2026-10-07T05:47:26Z",
+      "rank": 12
     },
     {
       "name": "Remocn/remocn-studio",
@@ -341,7 +311,7 @@
       "description": "Agent-native video editor",
       "full_description": "Agent-native video editor",
       "language": "TypeScript",
-      "stars": 141,
+      "stars": 149,
       "stars_gained": 0,
       "forks": 13,
       "topics": [
@@ -350,8 +320,8 @@
         "remotion-video"
       ],
       "created_at": "2026-10-01T15:26:45Z",
-      "updated_at": "2026-10-06T06:12:40Z",
-      "rank": 14
+      "updated_at": "2026-10-07T05:53:08Z",
+      "rank": 13
     },
     {
       "name": "callstackincubator/codex-mobile-dev-plugin",
@@ -359,7 +329,7 @@
       "description": "A Codex plugin for a better mobile development experience for android and iOS",
       "full_description": "A Codex plugin for a better mobile development experience for android and iOS",
       "language": "C++",
-      "stars": 128,
+      "stars": 138,
       "stars_gained": 0,
       "forks": 6,
       "topics": [
@@ -374,33 +344,36 @@
         "react-native"
       ],
       "created_at": "2026-09-30T13:30:00Z",
-      "updated_at": "2026-10-06T05:12:54Z",
-      "rank": 15
+      "updated_at": "2026-10-07T02:35:51Z",
+      "rank": 14
     },
     {
-      "name": "VoltAgent/official-mcp-servers",
-      "url": "https://github.com/VoltAgent/official-mcp-servers",
-      "description": "A curated directory of 280+ official MCP servers from the companies behind the products. No unofficial forks, no abandoned projects.",
-      "full_description": "A curated directory of 280+ official MCP servers from the companies behind the products. No unofficial forks, no abandoned projects.",
+      "name": "xop01/ai_goodpractice",
+      "url": "https://github.com/xop01/ai_goodpractice",
+      "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
+      "full_description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
       "language": "",
-      "stars": 125,
+      "stars": 127,
       "stars_gained": 0,
-      "forks": 13,
+      "forks": 0,
       "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "ai-coding",
+        "ai-model",
+        "ai-safety",
         "ai-tools",
-        "awesome-list",
-        "claude",
-        "claude-code",
-        "codex",
-        "cursor",
-        "mcp",
-        "mcp-server",
-        "mcp-servers",
-        "model-context-protocol"
+        "guide",
+        "guidebook",
+        "guideline",
+        "guidelines",
+        "guides",
+        "usage"
       ],
-      "created_at": "2026-10-01T07:30:34Z",
-      "updated_at": "2026-10-06T06:34:44Z",
-      "rank": 16
+      "created_at": "2026-10-02T11:01:25Z",
+      "updated_at": "2026-10-07T05:51:53Z",
+      "rank": 15
     },
     {
       "name": "Zhou-Yujing114514/deepseek-harness-linux",
@@ -434,52 +407,7 @@
       ],
       "created_at": "2026-10-03T04:26:57Z",
       "updated_at": "2026-10-06T04:19:40Z",
-      "rank": 17
-    },
-    {
-      "name": "xop01/ai_goodpractice",
-      "url": "https://github.com/xop01/ai_goodpractice",
-      "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
-      "full_description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
-      "language": "",
-      "stars": 104,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "ai-coding",
-        "ai-model",
-        "ai-safety",
-        "ai-tools",
-        "guide",
-        "guidebook",
-        "guideline",
-        "guidelines",
-        "guides",
-        "usage"
-      ],
-      "created_at": "2026-10-02T11:01:25Z",
-      "updated_at": "2026-10-06T06:33:50Z",
-      "rank": 18
-    },
-    {
-      "name": "VectifyAI/jev-doc-search",
-      "url": "https://github.com/VectifyAI/jev-doc-search",
-      "description": "Long-document search with Jev and PageIndex",
-      "full_description": "Long-document search with Jev and PageIndex",
-      "language": "Python",
-      "stars": 98,
-      "stars_gained": 0,
-      "forks": 4,
-      "topics": [
-        "rag",
-        "search"
-      ],
-      "created_at": "2026-09-30T14:12:10Z",
-      "updated_at": "2026-10-05T20:26:49Z",
-      "rank": 19
+      "rank": 16
     },
     {
       "name": "joeseesun/qiaomu-codex-imagegen",
@@ -487,9 +415,9 @@
       "description": "让任何 Agent 调用 Codex 内置生图（MCP + CLI + Skill），内置小红书、视频封面、Mondo 海报技巧 · Codex image generation for any agent",
       "full_description": "让任何 Agent 调用 Codex 内置生图（MCP + CLI + Skill），内置小红书、视频封面、Mondo 海报技巧 · Codex image generation for any agent",
       "language": "JavaScript",
-      "stars": 97,
+      "stars": 106,
       "stars_gained": 0,
-      "forks": 6,
+      "forks": 7,
       "topics": [
         "agent-skills",
         "claude-code",
@@ -500,51 +428,107 @@
         "xiaohongshu"
       ],
       "created_at": "2026-10-04T08:47:02Z",
-      "updated_at": "2026-10-06T06:04:43Z",
+      "updated_at": "2026-10-07T02:45:20Z",
+      "rank": 17
+    },
+    {
+      "name": "VectifyAI/jev-doc-search",
+      "url": "https://github.com/VectifyAI/jev-doc-search",
+      "description": "Long-document search with Jev and PageIndex",
+      "full_description": "Long-document search with Jev and PageIndex",
+      "language": "Python",
+      "stars": 100,
+      "stars_gained": 0,
+      "forks": 4,
+      "topics": [
+        "rag",
+        "search"
+      ],
+      "created_at": "2026-09-30T14:12:10Z",
+      "updated_at": "2026-10-07T04:43:20Z",
+      "rank": 18
+    },
+    {
+      "name": "jiwoochris/artex-ko",
+      "url": "https://github.com/jiwoochris/artex-ko",
+      "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "full_description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "language": "Go",
+      "stars": 99,
+      "stars_gained": 0,
+      "forks": 42,
+      "topics": [
+        "ai-agent",
+        "autonomous-agents",
+        "blue-team",
+        "cybersecurity",
+        "detection-engineering",
+        "i18n",
+        "korean",
+        "llm",
+        "penetration-testing",
+        "security",
+        "security-research",
+        "security-tools",
+        "sigma-rules",
+        "threat-detection"
+      ],
+      "created_at": "2026-10-03T14:49:48Z",
+      "updated_at": "2026-10-07T06:06:03Z",
+      "rank": 19
+    },
+    {
+      "name": "longsurf-ai/openchart",
+      "url": "https://github.com/longsurf-ai/openchart",
+      "description": "OSS Tradingview with your own AI, free and unlimited.",
+      "full_description": "OSS Tradingview with your own AI, free and unlimited.",
+      "language": "TypeScript",
+      "stars": 98,
+      "stars_gained": 0,
+      "forks": 10,
+      "topics": [
+        "agent",
+        "agentic-trader",
+        "ai",
+        "charting",
+        "charts",
+        "charts-js",
+        "harness",
+        "llm",
+        "llm-agents",
+        "pinescript",
+        "pinescript-v6",
+        "quantitative",
+        "quantitative-finance",
+        "trader",
+        "trading-toolkits"
+      ],
+      "created_at": "2026-10-05T16:16:41Z",
+      "updated_at": "2026-10-07T05:18:54Z",
       "rank": 20
     },
     {
-      "name": "Yzmblog/DMAD",
-      "url": "https://github.com/Yzmblog/DMAD",
-      "description": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
-      "full_description": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
+      "name": "chenxiachan/paperfold",
+      "url": "https://github.com/chenxiachan/paperfold",
+      "description": "Zoom any paper for your better understanding",
+      "full_description": "Zoom any paper for your better understanding",
       "language": "Python",
-      "stars": 93,
+      "stars": 75,
       "stars_gained": 0,
-      "forks": 8,
+      "forks": 4,
       "topics": [
-        "diffusion",
-        "diffusion-model",
-        "diffusion-models",
-        "distillation",
-        "generative-adversarial-network",
-        "generative-ai",
-        "generative-model",
-        "video",
-        "video-generation"
-      ],
-      "created_at": "2026-09-29T04:47:19Z",
-      "updated_at": "2026-10-06T04:54:36Z",
-      "rank": 21
-    },
-    {
-      "name": "Dreamer-Toby/STEPQuant",
-      "url": "https://github.com/Dreamer-Toby/STEPQuant",
-      "description": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
-      "full_description": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
-      "language": "Python",
-      "stars": 74,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "large-language-models",
+        "arxiv",
         "llm",
-        "post-training-quantization",
-        "quantization"
+        "local-first",
+        "open-source",
+        "paper-reader",
+        "research-papers",
+        "semantic-zoom",
+        "translation"
       ],
-      "created_at": "2026-09-29T16:10:41Z",
-      "updated_at": "2026-10-06T02:56:23Z",
-      "rank": 22
+      "created_at": "2026-10-04T22:19:52Z",
+      "updated_at": "2026-10-07T05:00:33Z",
+      "rank": 21
     },
     {
       "name": "cobanov/PS5LM",
@@ -552,7 +536,7 @@
       "description": "llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8",
       "full_description": "llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8",
       "language": "C++",
-      "stars": 67,
+      "stars": 68,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
@@ -564,8 +548,8 @@
         "qwen"
       ],
       "created_at": "2026-10-01T21:09:59Z",
-      "updated_at": "2026-10-05T11:23:55Z",
-      "rank": 23
+      "updated_at": "2026-10-06T22:22:24Z",
+      "rank": 22
     },
     {
       "name": "Btluo1/ccb",
@@ -592,30 +576,50 @@
         "zcode"
       ],
       "created_at": "2026-10-02T00:43:49Z",
-      "updated_at": "2026-10-05T14:54:13Z",
+      "updated_at": "2026-10-06T23:35:08Z",
+      "rank": 23
+    },
+    {
+      "name": "Tejashmakwana/motionmaxxing",
+      "url": "https://github.com/Tejashmakwana/motionmaxxing",
+      "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
+      "full_description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
+      "language": "JavaScript",
+      "stars": 61,
+      "stars_gained": 0,
+      "forks": 8,
+      "topics": [
+        "agent-skills",
+        "ai",
+        "claude-code",
+        "gsap",
+        "hyperframes",
+        "motion-graphics",
+        "motionmaxxing",
+        "video"
+      ],
+      "created_at": "2026-10-06T18:18:49Z",
+      "updated_at": "2026-10-07T05:37:18Z",
       "rank": 24
     },
     {
-      "name": "chenxiachan/paperfold",
-      "url": "https://github.com/chenxiachan/paperfold",
-      "description": "Zoom any paper for your better understanding",
-      "full_description": "Zoom any paper for your better understanding",
-      "language": "JavaScript",
-      "stars": 59,
+      "name": "rakesh0x/OpenCardboard",
+      "url": "https://github.com/rakesh0x/OpenCardboard",
+      "description": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
+      "full_description": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
+      "language": "TypeScript",
+      "stars": 57,
       "stars_gained": 0,
-      "forks": 4,
+      "forks": 15,
       "topics": [
-        "arxiv",
-        "llm",
+        "ai",
+        "electron",
         "local-first",
-        "open-source",
-        "paper-reader",
-        "research-papers",
-        "semantic-zoom",
-        "translation"
+        "mcp",
+        "video-editor"
       ],
-      "created_at": "2026-10-04T22:19:52Z",
-      "updated_at": "2026-10-06T06:26:15Z",
+      "created_at": "2026-10-04T09:23:43Z",
+      "updated_at": "2026-10-06T17:06:04Z",
       "rank": 25
     },
     {
@@ -624,7 +628,7 @@
       "description": "How many bugs can LMs find & fix in large codebases?",
       "full_description": "How many bugs can LMs find & fix in large codebases?",
       "language": "Python",
-      "stars": 56,
+      "stars": 57,
       "stars_gained": 0,
       "forks": 5,
       "topics": [
@@ -641,118 +645,115 @@
         "swe-bench"
       ],
       "created_at": "2026-10-01T04:59:29Z",
-      "updated_at": "2026-10-06T03:46:09Z",
+      "updated_at": "2026-10-06T11:33:57Z",
       "rank": 26
     },
     {
-      "name": "TimeLovercc/mojito",
-      "url": "https://github.com/TimeLovercc/mojito",
-      "description": "Mojito — the local, evolving alternative to cloud personal AI like Meta Muse.",
-      "full_description": "Mojito — the local, evolving alternative to cloud personal AI like Meta Muse.",
-      "language": "TypeScript",
-      "stars": 53,
+      "name": "Yamz-Labs/kyojin",
+      "url": "https://github.com/Yamz-Labs/kyojin",
+      "description": "Kyojin: the Yamz inference engine for AMD Strix Halo (ROCm, gfx1151), built on ExLlamaV3. Runs 300B-class MoE models on one 128 GB mini PC.",
+      "full_description": "Kyojin: the Yamz inference engine for AMD Strix Halo (ROCm, gfx1151), built on ExLlamaV3. Runs 300B-class MoE models on one 128 GB mini PC.",
+      "language": "Python",
+      "stars": 55,
       "stars_gained": 0,
-      "forks": 1,
+      "forks": 5,
       "topics": [
-        "agentic-coding",
-        "ai-agent",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "daily-planner",
-        "evolving-app",
-        "expo",
-        "fastapi",
+        "amd",
+        "exl3",
+        "inference",
         "llm",
-        "local-first",
-        "malleable-software",
-        "personal-ai",
-        "personal-assistant",
-        "pwa",
-        "self-evolving",
-        "self-hosted",
-        "tauri"
+        "quantization",
+        "rocm",
+        "strix-halo"
       ],
-      "created_at": "2026-09-29T02:53:59Z",
-      "updated_at": "2026-10-06T05:54:48Z",
+      "created_at": "2026-10-02T20:45:48Z",
+      "updated_at": "2026-10-07T05:11:27Z",
       "rank": 27
     },
     {
-      "name": "rakesh0x/OpenCardboard",
-      "url": "https://github.com/rakesh0x/OpenCardboard",
-      "description": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
-      "full_description": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
-      "language": "TypeScript",
-      "stars": 52,
+      "name": "pavlenkosa/wayvoice",
+      "url": "https://github.com/pavlenkosa/wayvoice",
+      "description": "Offline voice typing for Linux/Wayland. Press a hotkey, speak, and text appears in the active application. Local Whisper • GTK/libadwaita • No cloud required.",
+      "full_description": "Offline voice typing for Linux/Wayland. Press a hotkey, speak, and text appears in the active application. Local Whisper • GTK/libadwaita • No cloud required.",
+      "language": "Python",
+      "stars": 55,
       "stars_gained": 0,
-      "forks": 13,
+      "forks": 0,
       "topics": [
+        "accessibility",
         "ai",
-        "electron",
-        "local-first",
-        "mcp",
-        "video-editor"
+        "dictation",
+        "faster-whisper",
+        "gnome",
+        "gtk4",
+        "libadwaita",
+        "linux",
+        "offline",
+        "offline-ai",
+        "offline-first",
+        "privacy",
+        "speech-to-text",
+        "voice-input",
+        "wayland",
+        "whisper"
       ],
-      "created_at": "2026-10-04T09:23:43Z",
-      "updated_at": "2026-10-06T06:14:13Z",
+      "created_at": "2026-10-02T19:53:06Z",
+      "updated_at": "2026-10-06T23:57:59Z",
       "rank": 28
     },
     {
-      "name": "Moris-kr/ai-chatroom",
-      "url": "https://github.com/Moris-kr/ai-chatroom",
-      "description": "A web group chat where Claude, ChatGPT, Grok and Gemini hang out and talk on their own, powered by your logged-in CLIs (no API keys). English / 한국어 / 日本語",
-      "full_description": "A web group chat where Claude, ChatGPT, Grok and Gemini hang out and talk on their own, powered by your logged-in CLIs (no API keys). English / 한국어 / 日本語",
-      "language": "JavaScript",
+      "name": "dongnguyenvie/BashCut",
+      "url": "https://github.com/dongnguyenvie/BashCut",
+      "description": "Native macOS video editor that coding agents can drive: everything the UI does, Claude Code and Codex can do through the bashcut CLI or MCP server. Layered timeline, captions, voiceover, plugins.",
+      "full_description": "Native macOS video editor that coding agents can drive: everything the UI does, Claude Code and Codex can do through the bashcut CLI or MCP server. Layered timeline, captions, voiceover, plugins.",
+      "language": "Swift",
       "stars": 51,
       "stars_gained": 0,
-      "forks": 9,
+      "forks": 18,
       "topics": [
+        "agentic-ai",
         "ai-agents",
-        "ai-characters",
-        "ai-chat",
-        "ai-companion",
-        "anime",
-        "chatgpt",
-        "chibi",
-        "claude",
+        "apple-silicon",
+        "bashcut",
+        "captions",
         "claude-code",
-        "codex-cli",
-        "gemini",
-        "grok",
-        "group-chat",
-        "kawaii",
-        "llm",
-        "multi-agent",
-        "nodejs",
-        "otaku",
-        "waifu",
-        "weeb"
+        "cli",
+        "codex",
+        "coding-agents",
+        "homebrew-cask",
+        "macos",
+        "macos-app",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "plugins",
+        "swift",
+        "swiftui",
+        "video-editing",
+        "video-editor"
       ],
-      "created_at": "2026-09-29T03:42:10Z",
-      "updated_at": "2026-10-06T04:08:14Z",
+      "created_at": "2026-10-02T18:46:34Z",
+      "updated_at": "2026-10-07T01:33:31Z",
       "rank": 29
     },
     {
-      "name": "arjunkshah12345-hash/openpages",
-      "url": "https://github.com/arjunkshah12345-hash/openpages",
-      "description": "Open-source AI workspace for humans and agents — SuperCompress as the core context layer.",
-      "full_description": "Open-source AI workspace for humans and agents — SuperCompress as the core context layer.",
+      "name": "omarqaterge/hermes-mobile-app",
+      "url": "https://github.com/omarqaterge/hermes-mobile-app",
+      "description": "Your agent, on your phone. A native Android app for Hermes Agent, running entirely on-device (Termux).",
+      "full_description": "Your agent, on your phone. A native Android app for Hermes Agent, running entirely on-device (Termux).",
       "language": "TypeScript",
-      "stars": 50,
+      "stars": 51,
       "stars_gained": 0,
-      "forks": 4,
+      "forks": 8,
       "topics": [
-        "agents",
-        "ai",
-        "mcp",
-        "nextjs",
-        "open-source",
-        "supercompress",
-        "typescript",
-        "workspace"
+        "ai-agent",
+        "android",
+        "hermes-agent",
+        "llm",
+        "termux"
       ],
-      "created_at": "2026-09-30T03:06:43Z",
-      "updated_at": "2026-10-04T18:42:58Z",
+      "created_at": "2026-10-04T22:51:20Z",
+      "updated_at": "2026-10-07T01:01:38Z",
       "rank": 30
     }
   ]
