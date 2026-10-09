@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T06:26:14.722208+00:00",
+  "updated": "2026-10-09T06:27:17.060258+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "full_description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "language": "JavaScript",
-      "stars": 2176,
+      "stars": 2385,
       "stars_gained": 0,
-      "forks": 148,
+      "forks": 161,
       "topics": [
         "agent-skill",
         "ai-agent",
@@ -28,7 +28,7 @@
         "ste100"
       ],
       "created_at": "2026-10-02T09:57:40Z",
-      "updated_at": "2026-10-08T06:25:14Z",
+      "updated_at": "2026-10-09T06:23:18Z",
       "rank": 1
     },
     {
@@ -37,9 +37,9 @@
       "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
       "full_description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
       "language": "Python",
-      "stars": 917,
+      "stars": 1146,
       "stars_gained": 0,
-      "forks": 111,
+      "forks": 146,
       "topics": [
         "agent",
         "agent-skills",
@@ -52,33 +52,8 @@
         "saas"
       ],
       "created_at": "2026-10-03T12:07:49Z",
-      "updated_at": "2026-10-08T06:22:06Z",
+      "updated_at": "2026-10-09T06:25:48Z",
       "rank": 2
-    },
-    {
-      "name": "whirlchat/whirl",
-      "url": "https://github.com/whirlchat/whirl",
-      "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-      "full_description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-      "language": "TypeScript",
-      "stars": 497,
-      "stars_gained": 0,
-      "forks": 45,
-      "topics": [
-        "ai",
-        "ai-chat",
-        "chat",
-        "convex",
-        "llm",
-        "nextjs",
-        "openrouter",
-        "react",
-        "self-hosted",
-        "typescript"
-      ],
-      "created_at": "2026-10-02T13:50:42Z",
-      "updated_at": "2026-10-08T03:14:46Z",
-      "rank": 3
     },
     {
       "name": "jiwoochris/artex-ko",
@@ -86,9 +61,9 @@
       "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
       "full_description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
       "language": "Go",
-      "stars": 337,
+      "stars": 761,
       "stars_gained": 0,
-      "forks": 141,
+      "forks": 617,
       "topics": [
         "ai-agent",
         "autonomous-agents",
@@ -106,8 +81,8 @@
         "threat-detection"
       ],
       "created_at": "2026-10-03T14:49:48Z",
-      "updated_at": "2026-10-08T06:15:43Z",
-      "rank": 4
+      "updated_at": "2026-10-09T06:26:52Z",
+      "rank": 3
     },
     {
       "name": "LosaLosSantos/aurelio-finance",
@@ -115,9 +90,9 @@
       "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
       "full_description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
       "language": "Python",
-      "stars": 297,
+      "stars": 701,
       "stars_gained": 0,
-      "forks": 43,
+      "forks": 79,
       "topics": [
         "ai",
         "fastapi",
@@ -132,79 +107,33 @@
         "wealth-management"
       ],
       "created_at": "2026-10-06T20:14:19Z",
-      "updated_at": "2026-10-08T06:25:33Z",
-      "rank": 5
+      "updated_at": "2026-10-09T05:28:40Z",
+      "rank": 4
     },
     {
-      "name": "VoltAgent/official-mcp-servers",
-      "url": "https://github.com/VoltAgent/official-mcp-servers",
-      "description": "A curated directory of 280+ official MCP servers from the companies behind the products. No unofficial forks, no abandoned projects.",
-      "full_description": "A curated directory of 280+ official MCP servers from the companies behind the products. No unofficial forks, no abandoned projects.",
-      "language": "",
-      "stars": 226,
-      "stars_gained": 0,
-      "forks": 31,
-      "topics": [
-        "ai-tools",
-        "awesome-list",
-        "claude",
-        "claude-code",
-        "codex",
-        "cursor",
-        "mcp",
-        "mcp-server",
-        "mcp-servers",
-        "model-context-protocol"
-      ],
-      "created_at": "2026-10-01T07:30:34Z",
-      "updated_at": "2026-10-08T06:06:14Z",
-      "rank": 6
-    },
-    {
-      "name": "Remocn/remocn-studio",
-      "url": "https://github.com/Remocn/remocn-studio",
-      "description": "Agent-native video editor",
-      "full_description": "Agent-native video editor",
+      "name": "whirlchat/whirl",
+      "url": "https://github.com/whirlchat/whirl",
+      "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+      "full_description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
       "language": "TypeScript",
-      "stars": 158,
+      "stars": 503,
       "stars_gained": 0,
-      "forks": 13,
-      "topics": [
-        "agent",
-        "remotion",
-        "remotion-video"
-      ],
-      "created_at": "2026-10-01T15:26:45Z",
-      "updated_at": "2026-10-08T04:26:11Z",
-      "rank": 7
-    },
-    {
-      "name": "xop01/ai_goodpractice",
-      "url": "https://github.com/xop01/ai_goodpractice",
-      "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
-      "full_description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
-      "language": "",
-      "stars": 149,
-      "stars_gained": 0,
-      "forks": 0,
+      "forks": 46,
       "topics": [
         "ai",
-        "ai-agent",
-        "ai-agents",
-        "ai-coding",
-        "ai-model",
-        "ai-safety",
-        "ai-tools",
-        "guide",
-        "guidebook",
-        "guideline",
-        "guidelines",
-        "guides",
-        "usage"
+        "ai-chat",
+        "chat",
+        "convex",
+        "llm",
+        "nextjs",
+        "openrouter",
+        "react",
+        "self-hosted",
+        "typescript"
       ],
-      "created_at": "2026-10-02T11:01:25Z",
-      "updated_at": "2026-10-08T05:41:10Z",
-      "rank": 8
+      "created_at": "2026-10-02T13:50:42Z",
+      "updated_at": "2026-10-09T05:07:51Z",
+      "rank": 5
     },
     {
       "name": "strands-agents/box",
@@ -212,9 +141,9 @@
       "description": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned.",
       "full_description": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned.",
       "language": "Rust",
-      "stars": 132,
+      "stars": 245,
       "stars_gained": 0,
-      "forks": 4,
+      "forks": 10,
       "topics": [
         "agentic-ai",
         "agents",
@@ -238,8 +167,113 @@
         "zero-trust"
       ],
       "created_at": "2026-10-02T20:34:08Z",
-      "updated_at": "2026-10-08T06:20:00Z",
+      "updated_at": "2026-10-09T06:09:37Z",
+      "rank": 6
+    },
+    {
+      "name": "xop01/ai_goodpractice",
+      "url": "https://github.com/xop01/ai_goodpractice",
+      "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
+      "full_description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
+      "language": "",
+      "stars": 164,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "ai-coding",
+        "ai-model",
+        "ai-safety",
+        "ai-tools",
+        "guide",
+        "guidebook",
+        "guideline",
+        "guidelines",
+        "guides",
+        "usage"
+      ],
+      "created_at": "2026-10-02T11:01:25Z",
+      "updated_at": "2026-10-09T06:03:26Z",
+      "rank": 7
+    },
+    {
+      "name": "longsurf-ai/openchart",
+      "url": "https://github.com/longsurf-ai/openchart",
+      "description": "OSS trading workspace with agents",
+      "full_description": "OSS trading workspace with agents",
+      "language": "TypeScript",
+      "stars": 136,
+      "stars_gained": 0,
+      "forks": 12,
+      "topics": [
+        "agent",
+        "agentic-trader",
+        "ai",
+        "charting",
+        "charts",
+        "charts-js",
+        "harness",
+        "llm",
+        "llm-agents",
+        "pinescript",
+        "pinescript-v6",
+        "quantitative",
+        "quantitative-finance",
+        "trader",
+        "trading-toolkits"
+      ],
+      "created_at": "2026-10-05T16:16:41Z",
+      "updated_at": "2026-10-09T05:29:14Z",
+      "rank": 8
+    },
+    {
+      "name": "nachisama/ai-data-extractor",
+      "url": "https://github.com/nachisama/ai-data-extractor",
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "full_description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "language": "Python",
+      "stars": 128,
+      "stars_gained": 0,
+      "forks": 49,
+      "topics": [
+        "ai",
+        "ai-data",
+        "ai-data-analysis",
+        "claude-code",
+        "cursor",
+        "data-extraction",
+        "data-extraction-tool",
+        "data-extractor",
+        "windsurf",
+        "windsurf-ai"
+      ],
+      "created_at": "2026-10-07T14:57:39Z",
+      "updated_at": "2026-10-09T06:20:17Z",
       "rank": 9
+    },
+    {
+      "name": "joeseesun/qiaomu-codex-imagegen",
+      "url": "https://github.com/joeseesun/qiaomu-codex-imagegen",
+      "description": "让任何 Agent 调用 Codex 内置生图（MCP + CLI + Skill），内置小红书、视频封面、Mondo 海报技巧 · Codex image generation for any agent",
+      "full_description": "让任何 Agent 调用 Codex 内置生图（MCP + CLI + Skill），内置小红书、视频封面、Mondo 海报技巧 · Codex image generation for any agent",
+      "language": "JavaScript",
+      "stars": 122,
+      "stars_gained": 0,
+      "forks": 7,
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "image-generation",
+        "mcp",
+        "poster-design",
+        "xiaohongshu"
+      ],
+      "created_at": "2026-10-04T08:47:02Z",
+      "updated_at": "2026-10-09T04:43:53Z",
+      "rank": 10
     },
     {
       "name": "Zhou-Yujing114514/deepseek-harness-linux",
@@ -247,7 +281,7 @@
       "description": "First-class Linux packaging for DeepSeek Harness desktop — AppImage, .deb, .tar.gz for x64/arm64, built by native CI.",
       "full_description": "First-class Linux packaging for DeepSeek Harness desktop — AppImage, .deb, .tar.gz for x64/arm64, built by native CI.",
       "language": "TypeScript",
-      "stars": 118,
+      "stars": 119,
       "stars_gained": 0,
       "forks": 14,
       "topics": [
@@ -272,59 +306,29 @@
         "x64"
       ],
       "created_at": "2026-10-03T04:26:57Z",
-      "updated_at": "2026-10-08T01:16:50Z",
-      "rank": 10
-    },
-    {
-      "name": "longsurf-ai/openchart",
-      "url": "https://github.com/longsurf-ai/openchart",
-      "description": "OSS Tradingview with your own AI, free and unlimited.",
-      "full_description": "OSS Tradingview with your own AI, free and unlimited.",
-      "language": "TypeScript",
-      "stars": 115,
-      "stars_gained": 0,
-      "forks": 11,
-      "topics": [
-        "agent",
-        "agentic-trader",
-        "ai",
-        "charting",
-        "charts",
-        "charts-js",
-        "harness",
-        "llm",
-        "llm-agents",
-        "pinescript",
-        "pinescript-v6",
-        "quantitative",
-        "quantitative-finance",
-        "trader",
-        "trading-toolkits"
-      ],
-      "created_at": "2026-10-05T16:16:41Z",
-      "updated_at": "2026-10-08T02:34:50Z",
+      "updated_at": "2026-10-08T11:56:18Z",
       "rank": 11
     },
     {
-      "name": "joeseesun/qiaomu-codex-imagegen",
-      "url": "https://github.com/joeseesun/qiaomu-codex-imagegen",
-      "description": "让任何 Agent 调用 Codex 内置生图（MCP + CLI + Skill），内置小红书、视频封面、Mondo 海报技巧 · Codex image generation for any agent",
-      "full_description": "让任何 Agent 调用 Codex 内置生图（MCP + CLI + Skill），内置小红书、视频封面、Mondo 海报技巧 · Codex image generation for any agent",
-      "language": "JavaScript",
-      "stars": 114,
+      "name": "THUROI0787/absent-author",
+      "url": "https://github.com/THUROI0787/absent-author",
+      "description": "Research and writing can be automated. Authorship cannot. Evidence list + agent skills for spotting AI-produced papers no human stood behind.",
+      "full_description": "Research and writing can be automated. Authorship cannot. Evidence list + agent skills for spotting AI-produced papers no human stood behind.",
+      "language": "Python",
+      "stars": 106,
       "stars_gained": 0,
-      "forks": 7,
+      "forks": 2,
       "topics": [
         "agent-skills",
+        "ai-generated-content-detection",
         "claude-code",
         "codex",
-        "image-generation",
-        "mcp",
-        "poster-design",
-        "xiaohongshu"
+        "llm",
+        "peer-review",
+        "research-integrity"
       ],
-      "created_at": "2026-10-04T08:47:02Z",
-      "updated_at": "2026-10-08T04:38:52Z",
+      "created_at": "2026-10-05T08:41:20Z",
+      "updated_at": "2026-10-09T05:26:55Z",
       "rank": 12
     },
     {
@@ -333,9 +337,9 @@
       "description": "Zoom any paper for your better understanding",
       "full_description": "Zoom any paper for your better understanding",
       "language": "Python",
-      "stars": 88,
+      "stars": 98,
       "stars_gained": 0,
-      "forks": 5,
+      "forks": 6,
       "topics": [
         "arxiv",
         "llm",
@@ -347,7 +351,7 @@
         "translation"
       ],
       "created_at": "2026-10-04T22:19:52Z",
-      "updated_at": "2026-10-08T06:20:19Z",
+      "updated_at": "2026-10-09T04:48:09Z",
       "rank": 13
     },
     {
@@ -356,9 +360,9 @@
       "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
       "full_description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
       "language": "JavaScript",
-      "stars": 86,
+      "stars": 89,
       "stars_gained": 0,
-      "forks": 9,
+      "forks": 10,
       "topics": [
         "agent-skills",
         "ai",
@@ -370,8 +374,30 @@
         "video"
       ],
       "created_at": "2026-10-06T18:18:49Z",
-      "updated_at": "2026-10-08T05:27:42Z",
+      "updated_at": "2026-10-09T02:59:57Z",
       "rank": 14
+    },
+    {
+      "name": "Yamz-Labs/kyojin",
+      "url": "https://github.com/Yamz-Labs/kyojin",
+      "description": "Kyojin: the Yamz inference engine for AMD Strix Halo (ROCm, gfx1151), built on ExLlamaV3. Runs 300B-class MoE models on one 128 GB mini PC.",
+      "full_description": "Kyojin: the Yamz inference engine for AMD Strix Halo (ROCm, gfx1151), built on ExLlamaV3. Runs 300B-class MoE models on one 128 GB mini PC.",
+      "language": "Python",
+      "stars": 88,
+      "stars_gained": 0,
+      "forks": 7,
+      "topics": [
+        "amd",
+        "exl3",
+        "inference",
+        "llm",
+        "quantization",
+        "rocm",
+        "strix-halo"
+      ],
+      "created_at": "2026-10-02T20:45:48Z",
+      "updated_at": "2026-10-09T05:31:46Z",
+      "rank": 15
     },
     {
       "name": "VinkyDev/vibestart",
@@ -379,7 +405,7 @@
       "description": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | 自由组合全栈 TypeScript 技术栈，得到一个前沿、经过验证、为 AI 编码智能体打造的项目，内置类型安全、lint 与测试。",
       "full_description": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | 自由组合全栈 TypeScript 技术栈，得到一个前沿、经过验证、为 AI 编码智能体打造的项目，内置类型安全、lint 与测试。",
       "language": "TypeScript",
-      "stars": 71,
+      "stars": 80,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
@@ -399,84 +425,57 @@
         "vite-plus"
       ],
       "created_at": "2026-10-04T02:36:55Z",
-      "updated_at": "2026-10-08T05:53:20Z",
-      "rank": 15
-    },
-    {
-      "name": "cobanov/PS5LM",
-      "url": "https://github.com/cobanov/PS5LM",
-      "description": "llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8",
-      "full_description": "llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8",
-      "language": "C++",
-      "stars": 69,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "homebrew",
-        "llama-cpp",
-        "llm",
-        "playstation-5",
-        "ps5",
-        "qwen"
-      ],
-      "created_at": "2026-10-01T21:09:59Z",
-      "updated_at": "2026-10-07T19:08:34Z",
+      "updated_at": "2026-10-09T06:14:02Z",
       "rank": 16
     },
     {
-      "name": "Yamz-Labs/kyojin",
-      "url": "https://github.com/Yamz-Labs/kyojin",
-      "description": "Kyojin: the Yamz inference engine for AMD Strix Halo (ROCm, gfx1151), built on ExLlamaV3. Runs 300B-class MoE models on one 128 GB mini PC.",
-      "full_description": "Kyojin: the Yamz inference engine for AMD Strix Halo (ROCm, gfx1151), built on ExLlamaV3. Runs 300B-class MoE models on one 128 GB mini PC.",
-      "language": "Python",
-      "stars": 69,
+      "name": "mcpdelta/mcpdelta",
+      "url": "https://github.com/mcpdelta/mcpdelta",
+      "description": "Delta MCP is a free app that sits between your AI apps and their MCP servers: one program per task instead of one tool call per step, up to 24.1× fewer tokens in our benchmarks. Every change is recorded and undoable. Coming soon for macOS, Windows and Linux.",
+      "full_description": "Delta MCP is a free app that sits between your AI apps and their MCP servers: one program per task instead of one tool call per step, up to 24.1× fewer tokens in our benchmarks. Every change is recorded and undoable. Coming soon for macOS, Windows and Linux.",
+      "language": "",
+      "stars": 79,
       "stars_gained": 0,
-      "forks": 6,
+      "forks": 11,
       "topics": [
-        "amd",
-        "exl3",
-        "inference",
-        "llm",
-        "quantization",
-        "rocm",
-        "strix-halo"
+        "ai-agents",
+        "ai-coding",
+        "claude",
+        "claude-code",
+        "claude-desktop",
+        "cursor",
+        "desktop-app",
+        "developer-tools",
+        "gemini-cli",
+        "llm-tools",
+        "mcp",
+        "mcp-servers",
+        "model-context-protocol",
+        "token-optimization",
+        "vscode",
+        "windsurf"
       ],
-      "created_at": "2026-10-02T20:45:48Z",
-      "updated_at": "2026-10-08T05:55:56Z",
+      "created_at": "2026-10-07T17:53:23Z",
+      "updated_at": "2026-10-08T17:51:31Z",
       "rank": 17
     },
     {
-      "name": "RoversX/ThinkTerm",
-      "url": "https://github.com/RoversX/ThinkTerm",
-      "description": "A modern terminal with a built-in multiplexer: close it and your sessions keep running. Run shells and tons of AI agents across your machines, then pick them up from desktop, browser, TUI and more. Written in Rust with no UI framework: interface drawn straight on the GPU. No Electron, GPUI or webview.",
-      "full_description": "A modern terminal with a built-in multiplexer: close it and your sessions keep running. Run shells and tons of AI agents across your machines, then pick them up from desktop, browser, TUI and more. Written in Rust with no UI framework: interface drawn straight on the GPU. No Electron, GPUI or webview.",
-      "language": "Rust",
-      "stars": 64,
+      "name": "MirroS-Lab/AgentGarten",
+      "url": "https://github.com/MirroS-Lab/AgentGarten",
+      "description": "AgentGarten: Code Worlds for Evolving Agents",
+      "full_description": "AgentGarten: Code Worlds for Evolving Agents",
+      "language": "Python",
+      "stars": 75,
       "stars_gained": 0,
-      "forks": 2,
+      "forks": 1,
       "topics": [
         "agent",
-        "agent-orchestration",
-        "ai",
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "coding-agent",
-        "linux",
-        "macos",
-        "multiplayer",
-        "multiplexer",
-        "rust",
-        "terminal",
-        "terminal-emulator",
-        "terminal-multiplexer",
-        "tmux",
-        "tui",
-        "wezterm",
-        "windows"
+        "diffusion",
+        "multimodal",
+        "self-evolving"
       ],
-      "created_at": "2026-10-01T13:32:20Z",
-      "updated_at": "2026-10-08T04:41:09Z",
+      "created_at": "2026-10-08T03:53:57Z",
+      "updated_at": "2026-10-09T06:26:24Z",
       "rank": 18
     },
     {
@@ -485,9 +484,9 @@
       "description": "Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SSDP/UPnP-SOAP/GENA interoperability (S1 + S2), a Spotify-library classical DJ, and a CLI + HTTP API + MCP server so AI agents can run the house, including off-LAN over Tailscale.",
       "full_description": "Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SSDP/UPnP-SOAP/GENA interoperability (S1 + S2), a Spotify-library classical DJ, and a CLI + HTTP API + MCP server so AI agents can run the house, including off-LAN over Tailscale.",
       "language": "Rust",
-      "stars": 64,
+      "stars": 70,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 4,
       "topics": [
         "async",
         "dlna",
@@ -505,8 +504,39 @@
         "upnp"
       ],
       "created_at": "2026-10-06T23:30:08Z",
-      "updated_at": "2026-10-08T06:03:33Z",
+      "updated_at": "2026-10-09T06:10:11Z",
       "rank": 19
+    },
+    {
+      "name": "pavlenkosa/wayvoice",
+      "url": "https://github.com/pavlenkosa/wayvoice",
+      "description": "Offline voice typing for Linux/Wayland. Press a hotkey, speak, and text appears in the active application. Local Whisper • GTK/libadwaita • No cloud required.",
+      "full_description": "Offline voice typing for Linux/Wayland. Press a hotkey, speak, and text appears in the active application. Local Whisper • GTK/libadwaita • No cloud required.",
+      "language": "Python",
+      "stars": 64,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "accessibility",
+        "ai",
+        "dictation",
+        "faster-whisper",
+        "gnome",
+        "gtk4",
+        "libadwaita",
+        "linux",
+        "offline",
+        "offline-ai",
+        "offline-first",
+        "privacy",
+        "speech-to-text",
+        "voice-input",
+        "wayland",
+        "whisper"
+      ],
+      "created_at": "2026-10-02T19:53:06Z",
+      "updated_at": "2026-10-09T05:29:04Z",
+      "rank": 20
     },
     {
       "name": "Btluo1/ccb",
@@ -534,32 +564,26 @@
       ],
       "created_at": "2026-10-02T00:43:49Z",
       "updated_at": "2026-10-06T23:35:08Z",
-      "rank": 20
+      "rank": 21
     },
     {
-      "name": "ShadowSafin/Synapass",
-      "url": "https://github.com/ShadowSafin/Synapass",
-      "description": "AI inference gateway and control plane for multi-provider routing, policies, caching, tools, and observability.",
-      "full_description": "AI inference gateway and control plane for multi-provider routing, policies, caching, tools, and observability.",
-      "language": "Go",
-      "stars": 59,
+      "name": "datologyai/zephon",
+      "url": "https://github.com/datologyai/zephon",
+      "description": "Fast, flexible, elastically deterministic data loading for foundation model training",
+      "full_description": "Fast, flexible, elastically deterministic data loading for foundation model training",
+      "language": "Python",
+      "stars": 60,
       "stars_gained": 0,
-      "forks": 0,
+      "forks": 2,
       "topics": [
-        "ai",
-        "ai-gateway",
-        "api-gateway",
-        "inference",
-        "llm",
-        "llm-gateway",
-        "model-routing",
-        "multi-provider",
-        "openai-compatible",
-        "tool-calling"
+        "data-loader",
+        "deep-learning",
+        "distributed-training",
+        "pytorch"
       ],
-      "created_at": "2026-10-01T03:59:38Z",
-      "updated_at": "2026-10-08T06:21:14Z",
-      "rank": 21
+      "created_at": "2026-10-07T01:59:41Z",
+      "updated_at": "2026-10-08T22:25:26Z",
+      "rank": 22
     },
     {
       "name": "rakesh0x/OpenCardboard",
@@ -567,9 +591,9 @@
       "description": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
       "full_description": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
       "language": "TypeScript",
-      "stars": 58,
+      "stars": 59,
       "stars_gained": 0,
-      "forks": 15,
+      "forks": 16,
       "topics": [
         "ai",
         "electron",
@@ -578,65 +602,8 @@
         "video-editor"
       ],
       "created_at": "2026-10-04T09:23:43Z",
-      "updated_at": "2026-10-07T18:29:22Z",
-      "rank": 22
-    },
-    {
-      "name": "facebookresearch/swe-sweep",
-      "url": "https://github.com/facebookresearch/swe-sweep",
-      "description": "How many bugs can LMs find & fix in large codebases?",
-      "full_description": "How many bugs can LMs find & fix in large codebases?",
-      "language": "Python",
-      "stars": 57,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "benchmark",
-        "benchmarking",
-        "harbor",
-        "harbor-framework",
-        "llm",
-        "llm-benchmark",
-        "llm-benchmarking",
-        "llm-benchmarks",
-        "swe-bench"
-      ],
-      "created_at": "2026-10-01T04:59:29Z",
-      "updated_at": "2026-10-06T11:33:57Z",
+      "updated_at": "2026-10-08T22:34:29Z",
       "rank": 23
-    },
-    {
-      "name": "pavlenkosa/wayvoice",
-      "url": "https://github.com/pavlenkosa/wayvoice",
-      "description": "Offline voice typing for Linux/Wayland. Press a hotkey, speak, and text appears in the active application. Local Whisper • GTK/libadwaita • No cloud required.",
-      "full_description": "Offline voice typing for Linux/Wayland. Press a hotkey, speak, and text appears in the active application. Local Whisper • GTK/libadwaita • No cloud required.",
-      "language": "Python",
-      "stars": 56,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "accessibility",
-        "ai",
-        "dictation",
-        "faster-whisper",
-        "gnome",
-        "gtk4",
-        "libadwaita",
-        "linux",
-        "offline",
-        "offline-ai",
-        "offline-first",
-        "privacy",
-        "speech-to-text",
-        "voice-input",
-        "wayland",
-        "whisper"
-      ],
-      "created_at": "2026-10-02T19:53:06Z",
-      "updated_at": "2026-10-07T20:08:38Z",
-      "rank": 24
     },
     {
       "name": "dongnguyenvie/BashCut",
@@ -644,7 +611,7 @@
       "description": "Native macOS video editor that coding agents can drive: everything the UI does, Claude Code and Codex can do through the bashcut CLI or MCP server. Layered timeline, captions, voiceover, plugins.",
       "full_description": "Native macOS video editor that coding agents can drive: everything the UI does, Claude Code and Codex can do through the bashcut CLI or MCP server. Layered timeline, captions, voiceover, plugins.",
       "language": "Swift",
-      "stars": 55,
+      "stars": 58,
       "stars_gained": 0,
       "forks": 19,
       "topics": [
@@ -670,8 +637,8 @@
         "video-editor"
       ],
       "created_at": "2026-10-02T18:46:34Z",
-      "updated_at": "2026-10-08T00:19:48Z",
-      "rank": 25
+      "updated_at": "2026-10-09T04:44:58Z",
+      "rank": 24
     },
     {
       "name": "sebastianhaba/book-to-course-skill",
@@ -679,7 +646,7 @@
       "description": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animations, quizzes, chapter tests, flashcards and coding exercises checked by unit tests, with progress saved to files. Runs in the browser, or packaged as an Android APK or a Linux AppImage.",
       "full_description": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animations, quizzes, chapter tests, flashcards and coding exercises checked by unit tests, with progress saved to files. Runs in the browser, or packaged as an Android APK or a Linux AppImage.",
       "language": "Python",
-      "stars": 54,
+      "stars": 56,
       "stars_gained": 0,
       "forks": 11,
       "topics": [
@@ -703,27 +670,8 @@
         "learning-by-doing"
       ],
       "created_at": "2026-10-03T13:36:54Z",
-      "updated_at": "2026-10-08T06:23:53Z",
-      "rank": 26
-    },
-    {
-      "name": "datologyai/zephon",
-      "url": "https://github.com/datologyai/zephon",
-      "description": "Fast, flexible, elastically deterministic data loading for foundation model training",
-      "full_description": "Fast, flexible, elastically deterministic data loading for foundation model training",
-      "language": "Python",
-      "stars": 52,
-      "stars_gained": 0,
-      "forks": 1,
-      "topics": [
-        "data-loader",
-        "deep-learning",
-        "distributed-training",
-        "pytorch"
-      ],
-      "created_at": "2026-10-07T01:59:41Z",
-      "updated_at": "2026-10-08T06:04:28Z",
-      "rank": 27
+      "updated_at": "2026-10-08T16:55:24Z",
+      "rank": 25
     },
     {
       "name": "omarqaterge/hermes-mobile-app",
@@ -731,7 +679,7 @@
       "description": "Your agent, on your phone. A native Android app for Hermes Agent, running entirely on-device (Termux).",
       "full_description": "Your agent, on your phone. A native Android app for Hermes Agent, running entirely on-device (Termux).",
       "language": "TypeScript",
-      "stars": 52,
+      "stars": 55,
       "stars_gained": 0,
       "forks": 8,
       "topics": [
@@ -742,8 +690,43 @@
         "termux"
       ],
       "created_at": "2026-10-04T22:51:20Z",
-      "updated_at": "2026-10-07T17:01:10Z",
-      "rank": 28
+      "updated_at": "2026-10-09T03:46:53Z",
+      "rank": 26
+    },
+    {
+      "name": "Sev7eEn7/dsh-sieve",
+      "url": "https://github.com/Sev7eEn7/dsh-sieve",
+      "description": "dsh-sieve: context engineering & token optimization plugin for DeepSeek Harness (DSH) — tool output filtering, context pruning, progressive skill disclosure. 36% smaller payload in offline replay. DSH 上下文管理与 token 优化节省插件。",
+      "full_description": "dsh-sieve: context engineering & token optimization plugin for DeepSeek Harness (DSH) — tool output filtering, context pruning, progressive skill disclosure. 36% smaller payload in offline replay. DSH 上下文管理与 token 优化节省插件。",
+      "language": "TypeScript",
+      "stars": 54,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "agent-tools",
+        "ai-agent",
+        "ai-coding",
+        "coding-agent",
+        "context-engineering",
+        "context-management",
+        "context-pruning",
+        "context-window",
+        "cordis",
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "llm",
+        "llm-agent",
+        "llm-cost",
+        "prompt-compression",
+        "token-efficiency",
+        "token-optimization",
+        "tool-output",
+        "typescript"
+      ],
+      "created_at": "2026-10-04T12:30:42Z",
+      "updated_at": "2026-10-09T06:07:42Z",
+      "rank": 27
     },
     {
       "name": "efim0v/brow",
@@ -751,7 +734,7 @@
       "description": "Claude Code usage and rate limits in the MacBook notch. Track the 5-hour and weekly limits of multiple Claude accounts at once, see when each resets, and sign in to each account in its own browser profile. macOS app for AI coding.",
       "full_description": "Claude Code usage and rate limits in the MacBook notch. Track the 5-hour and weekly limits of multiple Claude accounts at once, see when each resets, and sign in to each account in its own browser profile. macOS app for AI coding.",
       "language": "Swift",
-      "stars": 52,
+      "stars": 51,
       "stars_gained": 0,
       "forks": 1,
       "topics": [
@@ -777,29 +760,58 @@
         "usage-tracker"
       ],
       "created_at": "2026-10-04T21:14:52Z",
-      "updated_at": "2026-10-07T20:07:43Z",
+      "updated_at": "2026-10-08T10:49:24Z",
+      "rank": 28
+    },
+    {
+      "name": "yxq953/MuseLite",
+      "url": "https://github.com/yxq953/MuseLite",
+      "description": "MuseLite is an open-source AI workspace combining chat, Agent tools, browser automation, and scheduled tasks for users who enjoy Muse and Dots.",
+      "full_description": "MuseLite is an open-source AI workspace combining chat, Agent tools, browser automation, and scheduled tasks for users who enjoy Muse and Dots.",
+      "language": "Python",
+      "stars": 49,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai-agent",
+        "computer-use",
+        "dots",
+        "gui-agent",
+        "llm",
+        "mobile-agent",
+        "muse"
+      ],
+      "created_at": "2026-10-02T20:10:49Z",
+      "updated_at": "2026-10-09T03:12:25Z",
       "rank": 29
     },
     {
-      "name": "THUROI0787/absent-author",
-      "url": "https://github.com/THUROI0787/absent-author",
-      "description": "Research and writing can be automated. Authorship cannot. Evidence list + agent skills for spotting AI-produced papers no human stood behind.",
-      "full_description": "Research and writing can be automated. Authorship cannot. Evidence list + agent skills for spotting AI-produced papers no human stood behind.",
-      "language": "Python",
+      "name": "Microqian2th/dsh-codex-effort-slider",
+      "url": "https://github.com/Microqian2th/dsh-codex-effort-slider",
+      "description": "Codex 风格的推理等级滑条（DeepSeek Harness 插件）：可拖动连续滑条 + 高档位渐变星尘特效",
+      "full_description": "Codex 风格的推理等级滑条（DeepSeek Harness 插件）：可拖动连续滑条 + 高档位渐变星尘特效",
+      "language": "JavaScript",
       "stars": 47,
       "stars_gained": 0,
-      "forks": 1,
+      "forks": 2,
       "topics": [
-        "agent-skills",
-        "ai-generated-content-detection",
-        "claude-code",
+        "ai",
+        "ai-agents",
         "codex",
+        "deepseek",
+        "deepseek-ai",
+        "deepseek-harness",
+        "deepseek-plugin",
+        "deepseek-v4",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop",
+        "effort-slider",
         "llm",
-        "peer-review",
-        "research-integrity"
+        "reasoning-effort"
       ],
-      "created_at": "2026-10-05T08:41:20Z",
-      "updated_at": "2026-10-07T12:07:17Z",
+      "created_at": "2026-10-04T12:33:41Z",
+      "updated_at": "2026-10-09T04:41:54Z",
       "rank": 30
     }
   ]
