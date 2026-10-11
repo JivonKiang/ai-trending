@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T06:10:38.727084+00:00",
+  "updated": "2026-10-11T06:08:02.679713+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
       "full_description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
       "language": "Python",
-      "stars": 1556,
+      "stars": 2095,
       "stars_gained": 0,
-      "forks": 138,
+      "forks": 215,
       "topics": [
         "ai",
         "dividends",
@@ -30,130 +30,8 @@
         "wealth-management"
       ],
       "created_at": "2026-10-06T20:14:19Z",
-      "updated_at": "2026-10-10T02:23:30Z",
+      "updated_at": "2026-10-11T04:33:32Z",
       "rank": 1
-    },
-    {
-      "name": "Jakeschincariol/replica-skill",
-      "url": "https://github.com/Jakeschincariol/replica-skill",
-      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-      "full_description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-      "language": "Python",
-      "stars": 1423,
-      "stars_gained": 0,
-      "forks": 186,
-      "topics": [
-        "agent",
-        "agent-skills",
-        "app-clone",
-        "claude",
-        "claude-code",
-        "claude-skills",
-        "indie-hacker",
-        "reverse-engineering",
-        "saas"
-      ],
-      "created_at": "2026-10-03T12:07:49Z",
-      "updated_at": "2026-10-10T06:09:26Z",
-      "rank": 2
-    },
-    {
-      "name": "jiwoochris/artex-ko",
-      "url": "https://github.com/jiwoochris/artex-ko",
-      "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "full_description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "language": "Go",
-      "stars": 879,
-      "stars_gained": 0,
-      "forks": 768,
-      "topics": [
-        "ai-agent",
-        "autonomous-agents",
-        "blue-team",
-        "cybersecurity",
-        "detection-engineering",
-        "i18n",
-        "korean",
-        "llm",
-        "penetration-testing",
-        "security",
-        "security-research",
-        "security-tools",
-        "sigma-rules",
-        "threat-detection"
-      ],
-      "created_at": "2026-10-03T14:49:48Z",
-      "updated_at": "2026-10-10T06:05:53Z",
-      "rank": 3
-    },
-    {
-      "name": "weike-zhang/ai-novel-studio",
-      "url": "https://github.com/weike-zhang/ai-novel-studio",
-      "description": "AI novel generation with world building, interactive choices, and persistent character state. Next.js + Go. AI 小说创作台。",
-      "full_description": "AI novel generation with world building, interactive choices, and persistent character state. Next.js + Go. AI 小说创作台。",
-      "language": "Go",
-      "stars": 193,
-      "stars_gained": 0,
-      "forks": 16,
-      "topics": [
-        "ai",
-        "ai-novel",
-        "golang",
-        "interactive-fiction",
-        "llm",
-        "nextjs",
-        "novel-generation",
-        "storytelling"
-      ],
-      "created_at": "2026-10-03T06:08:29Z",
-      "updated_at": "2026-10-10T06:10:38Z",
-      "rank": 4
-    },
-    {
-      "name": "nachisama/ai-data-extractor",
-      "url": "https://github.com/nachisama/ai-data-extractor",
-      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "full_description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "language": "Python",
-      "stars": 150,
-      "stars_gained": 0,
-      "forks": 52,
-      "topics": [
-        "ai",
-        "ai-data",
-        "ai-data-analysis",
-        "claude-code",
-        "cursor",
-        "data-extraction",
-        "data-extraction-tool",
-        "data-extractor",
-        "windsurf",
-        "windsurf-ai"
-      ],
-      "created_at": "2026-10-07T14:57:39Z",
-      "updated_at": "2026-10-10T03:35:41Z",
-      "rank": 5
-    },
-    {
-      "name": "weike-zhang/architecture-canvas",
-      "url": "https://github.com/weike-zhang/architecture-canvas",
-      "description": "Chat with your documents to create and refine editable architecture diagrams. Local workspace, Excalidraw canvas, optional Tavily search.",
-      "full_description": "Chat with your documents to create and refine editable architecture diagrams. Local workspace, Excalidraw canvas, optional Tavily search.",
-      "language": "Python",
-      "stars": 147,
-      "stars_gained": 0,
-      "forks": 12,
-      "topics": [
-        "ai-agent",
-        "architecture-diagram",
-        "excalidraw",
-        "local-first",
-        "mcp",
-        "tavily"
-      ],
-      "created_at": "2026-10-03T05:40:51Z",
-      "updated_at": "2026-10-10T05:48:51Z",
-      "rank": 6
     },
     {
       "name": "longsurf-ai/openchart",
@@ -161,9 +39,9 @@
       "description": "OSS trading workspace with agents",
       "full_description": "OSS trading workspace with agents",
       "language": "TypeScript",
-      "stars": 146,
+      "stars": 155,
       "stars_gained": 0,
-      "forks": 14,
+      "forks": 15,
       "topics": [
         "agent",
         "agentic-trader",
@@ -182,8 +60,76 @@
         "trading-toolkits"
       ],
       "created_at": "2026-10-05T16:16:41Z",
-      "updated_at": "2026-10-09T20:18:28Z",
-      "rank": 7
+      "updated_at": "2026-10-11T05:32:45Z",
+      "rank": 2
+    },
+    {
+      "name": "nachisama/ai-data-extractor",
+      "url": "https://github.com/nachisama/ai-data-extractor",
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "full_description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "language": "Python",
+      "stars": 152,
+      "stars_gained": 0,
+      "forks": 55,
+      "topics": [
+        "ai",
+        "ai-data",
+        "ai-data-analysis",
+        "claude-code",
+        "cursor",
+        "data-extraction",
+        "data-extraction-tool",
+        "data-extractor",
+        "windsurf",
+        "windsurf-ai"
+      ],
+      "created_at": "2026-10-07T14:57:39Z",
+      "updated_at": "2026-10-10T17:49:24Z",
+      "rank": 3
+    },
+    {
+      "name": "MirroS-Lab/AgentGarten",
+      "url": "https://github.com/MirroS-Lab/AgentGarten",
+      "description": "AgentGarten: Code Worlds for Evolving Agents",
+      "full_description": "AgentGarten: Code Worlds for Evolving Agents",
+      "language": "Python",
+      "stars": 148,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "agent",
+        "diffusion",
+        "multimodal",
+        "self-evolving"
+      ],
+      "created_at": "2026-10-08T03:53:57Z",
+      "updated_at": "2026-10-11T03:38:53Z",
+      "rank": 4
+    },
+    {
+      "name": "bherbruck/solvecraft",
+      "url": "https://github.com/bherbruck/solvecraft",
+      "description": "An open-source, clean-room reimplementation of Autodesk Fusion 360 in pure Rust. Parametric 3D CAD for desktop, browser, and AI agents via MCP.",
+      "full_description": "An open-source, clean-room reimplementation of Autodesk Fusion 360 in pure Rust. Parametric 3D CAD for desktop, browser, and AI agents via MCP.",
+      "language": "Rust",
+      "stars": 145,
+      "stars_gained": 0,
+      "forks": 12,
+      "topics": [
+        "3d-modeling",
+        "brep",
+        "cad",
+        "egui",
+        "mcp",
+        "parametric-cad",
+        "rust",
+        "step",
+        "wasm"
+      ],
+      "created_at": "2026-10-07T18:57:48Z",
+      "updated_at": "2026-10-11T05:52:30Z",
+      "rank": 5
     },
     {
       "name": "joeseesun/qiaomu-codex-imagegen",
@@ -191,7 +137,7 @@
       "description": "让任何 Agent 调用 Codex 内置生图（MCP + CLI + Skill），内置小红书、视频封面、Mondo 海报技巧 · Codex image generation for any agent",
       "full_description": "让任何 Agent 调用 Codex 内置生图（MCP + CLI + Skill），内置小红书、视频封面、Mondo 海报技巧 · Codex image generation for any agent",
       "language": "JavaScript",
-      "stars": 125,
+      "stars": 127,
       "stars_gained": 0,
       "forks": 7,
       "topics": [
@@ -204,61 +150,8 @@
         "xiaohongshu"
       ],
       "created_at": "2026-10-04T08:47:02Z",
-      "updated_at": "2026-10-10T00:24:17Z",
-      "rank": 8
-    },
-    {
-      "name": "MirroS-Lab/AgentGarten",
-      "url": "https://github.com/MirroS-Lab/AgentGarten",
-      "description": "AgentGarten: Code Worlds for Evolving Agents",
-      "full_description": "AgentGarten: Code Worlds for Evolving Agents",
-      "language": "Python",
-      "stars": 122,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "agent",
-        "diffusion",
-        "multimodal",
-        "self-evolving"
-      ],
-      "created_at": "2026-10-08T03:53:57Z",
-      "updated_at": "2026-10-10T06:08:16Z",
-      "rank": 9
-    },
-    {
-      "name": "Zhou-Yujing114514/deepseek-harness-linux",
-      "url": "https://github.com/Zhou-Yujing114514/deepseek-harness-linux",
-      "description": "First-class Linux packaging for DeepSeek Harness desktop — AppImage, .deb, .tar.gz for x64/arm64, built by native CI.",
-      "full_description": "First-class Linux packaging for DeepSeek Harness desktop — AppImage, .deb, .tar.gz for x64/arm64, built by native CI.",
-      "language": "TypeScript",
-      "stars": 120,
-      "stars_gained": 0,
-      "forks": 14,
-      "topics": [
-        "agent",
-        "ai-agent",
-        "ai-assistant",
-        "appimage",
-        "arm64",
-        "chatbot",
-        "deb",
-        "deepseek",
-        "desktop",
-        "electron",
-        "electron-builder",
-        "linux",
-        "llm",
-        "local-llm",
-        "ollama",
-        "packaging",
-        "self-hosted",
-        "ubuntu",
-        "x64"
-      ],
-      "created_at": "2026-10-03T04:26:57Z",
-      "updated_at": "2026-10-09T11:43:37Z",
-      "rank": 10
+      "updated_at": "2026-10-10T16:29:03Z",
+      "rank": 6
     },
     {
       "name": "THUROI0787/absent-author",
@@ -266,9 +159,9 @@
       "description": "Research and writing can be automated. Authorship cannot. Evidence list + agent skills for spotting AI-produced papers no human stood behind.",
       "full_description": "Research and writing can be automated. Authorship cannot. Evidence list + agent skills for spotting AI-produced papers no human stood behind.",
       "language": "Python",
-      "stars": 113,
+      "stars": 126,
       "stars_gained": 0,
-      "forks": 2,
+      "forks": 4,
       "topics": [
         "agent-skills",
         "ai-generated-content-detection",
@@ -279,8 +172,8 @@
         "research-integrity"
       ],
       "created_at": "2026-10-05T08:41:20Z",
-      "updated_at": "2026-10-10T03:12:33Z",
-      "rank": 11
+      "updated_at": "2026-10-11T04:20:42Z",
+      "rank": 7
     },
     {
       "name": "chenxiachan/paperfold",
@@ -288,7 +181,7 @@
       "description": "Zoom any paper for your better understanding",
       "full_description": "Zoom any paper for your better understanding",
       "language": "Python",
-      "stars": 113,
+      "stars": 122,
       "stars_gained": 0,
       "forks": 8,
       "topics": [
@@ -302,8 +195,31 @@
         "translation"
       ],
       "created_at": "2026-10-04T22:19:52Z",
-      "updated_at": "2026-10-10T05:38:59Z",
-      "rank": 12
+      "updated_at": "2026-10-11T05:19:46Z",
+      "rank": 8
+    },
+    {
+      "name": "Tejashmakwana/motionmaxxing",
+      "url": "https://github.com/Tejashmakwana/motionmaxxing",
+      "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
+      "full_description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
+      "language": "JavaScript",
+      "stars": 105,
+      "stars_gained": 0,
+      "forks": 13,
+      "topics": [
+        "agent-skills",
+        "ai",
+        "claude-code",
+        "gsap",
+        "hyperframes",
+        "motion-graphics",
+        "motionmaxxing",
+        "video"
+      ],
+      "created_at": "2026-10-06T18:18:49Z",
+      "updated_at": "2026-10-11T03:08:33Z",
+      "rank": 9
     },
     {
       "name": "VinkyDev/vibestart",
@@ -311,9 +227,9 @@
       "description": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | 自由组合全栈 TypeScript 技术栈，得到一个前沿、经过验证、为 AI 编码智能体打造的项目，内置类型安全、lint 与测试。",
       "full_description": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | 自由组合全栈 TypeScript 技术栈，得到一个前沿、经过验证、为 AI 编码智能体打造的项目，内置类型安全、lint 与测试。",
       "language": "TypeScript",
-      "stars": 91,
+      "stars": 104,
       "stars_gained": 0,
-      "forks": 2,
+      "forks": 3,
       "topics": [
         "ai",
         "ai-coding",
@@ -331,31 +247,62 @@
         "vite-plus"
       ],
       "created_at": "2026-10-04T02:36:55Z",
-      "updated_at": "2026-10-10T04:48:18Z",
-      "rank": 13
+      "updated_at": "2026-10-11T05:44:22Z",
+      "rank": 10
     },
     {
-      "name": "Tejashmakwana/motionmaxxing",
-      "url": "https://github.com/Tejashmakwana/motionmaxxing",
-      "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
-      "full_description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
-      "language": "JavaScript",
-      "stars": 91,
+      "name": "Ayzzz123/mcd-coupon-strategist",
+      "url": "https://github.com/Ayzzz123/mcd-coupon-strategist",
+      "description": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
+      "full_description": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
+      "language": "Python",
+      "stars": 93,
       "stars_gained": 0,
-      "forks": 11,
+      "forks": 18,
       "topics": [
-        "agent-skills",
-        "ai",
-        "claude-code",
-        "gsap",
-        "hyperframes",
-        "motion-graphics",
-        "motionmaxxing",
-        "video"
+        "agent",
+        "cost-optimization",
+        "coupon",
+        "llm",
+        "mcd-mcp",
+        "mcdonalds",
+        "mcp",
+        "python",
+        "skill",
+        "workbuddy"
       ],
-      "created_at": "2026-10-06T18:18:49Z",
-      "updated_at": "2026-10-10T06:09:44Z",
-      "rank": 14
+      "created_at": "2026-10-10T12:59:19Z",
+      "updated_at": "2026-10-11T04:24:40Z",
+      "rank": 11
+    },
+    {
+      "name": "Dicklesworthstone/frankensonos",
+      "url": "https://github.com/Dicklesworthstone/frankensonos",
+      "description": "Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SSDP/UPnP-SOAP/GENA interoperability (S1 + S2), a Spotify-library classical DJ, and a CLI + HTTP API + MCP server so AI agents can run the house, including off-LAN over Tailscale.",
+      "full_description": "Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SSDP/UPnP-SOAP/GENA interoperability (S1 + S2), a Spotify-library classical DJ, and a CLI + HTTP API + MCP server so AI agents can run the house, including off-LAN over Tailscale.",
+      "language": "Rust",
+      "stars": 84,
+      "stars_gained": 0,
+      "forks": 6,
+      "topics": [
+        "async",
+        "dlna",
+        "home-automation",
+        "interoperability",
+        "mcp",
+        "model-context-protocol",
+        "rust",
+        "smart-home",
+        "soco",
+        "sonos",
+        "spotify",
+        "ssdp",
+        "tailscale",
+        "upnp"
+      ],
+      "created_at": "2026-10-06T23:30:08Z",
+      "updated_at": "2026-10-11T05:09:34Z",
+      "rank": 12
     },
     {
       "name": "mcpdelta/mcpdelta",
@@ -388,86 +335,8 @@
         "workflow-automation"
       ],
       "created_at": "2026-10-07T17:53:23Z",
-      "updated_at": "2026-10-09T14:45:43Z",
-      "rank": 15
-    },
-    {
-      "name": "Dicklesworthstone/frankensonos",
-      "url": "https://github.com/Dicklesworthstone/frankensonos",
-      "description": "Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SSDP/UPnP-SOAP/GENA interoperability (S1 + S2), a Spotify-library classical DJ, and a CLI + HTTP API + MCP server so AI agents can run the house, including off-LAN over Tailscale.",
-      "full_description": "Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SSDP/UPnP-SOAP/GENA interoperability (S1 + S2), a Spotify-library classical DJ, and a CLI + HTTP API + MCP server so AI agents can run the house, including off-LAN over Tailscale.",
-      "language": "Rust",
-      "stars": 75,
-      "stars_gained": 0,
-      "forks": 4,
-      "topics": [
-        "async",
-        "dlna",
-        "home-automation",
-        "interoperability",
-        "mcp",
-        "model-context-protocol",
-        "rust",
-        "smart-home",
-        "soco",
-        "sonos",
-        "spotify",
-        "ssdp",
-        "tailscale",
-        "upnp"
-      ],
-      "created_at": "2026-10-06T23:30:08Z",
-      "updated_at": "2026-10-10T05:28:49Z",
-      "rank": 16
-    },
-    {
-      "name": "jimoto-no-llm/rustdsh",
-      "url": "https://github.com/jimoto-no-llm/rustdsh",
-      "description": "Fast Rust launcher for DeepSeek Harness, with clear Claude Code/Codex migration, model setup and lightweight local tools",
-      "full_description": "Fast Rust launcher for DeepSeek Harness, with clear Claude Code/Codex migration, model setup and lightweight local tools",
-      "language": "JavaScript",
-      "stars": 67,
-      "stars_gained": 0,
-      "forks": 6,
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "cli",
-        "codex",
-        "command-line",
-        "cross-platform",
-        "dashboard",
-        "deepseek",
-        "developer-tools",
-        "dsh",
-        "mcp",
-        "model-context-protocol",
-        "performance",
-        "rust",
-        "token-optimization"
-      ],
-      "created_at": "2026-10-04T06:05:05Z",
-      "updated_at": "2026-10-10T05:00:41Z",
-      "rank": 17
-    },
-    {
-      "name": "datologyai/zephon",
-      "url": "https://github.com/datologyai/zephon",
-      "description": "Fast, flexible, elastically deterministic data loading for foundation model training",
-      "full_description": "Fast, flexible, elastically deterministic data loading for foundation model training",
-      "language": "Python",
-      "stars": 64,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "data-loader",
-        "deep-learning",
-        "distributed-training",
-        "pytorch"
-      ],
-      "created_at": "2026-10-07T01:59:41Z",
-      "updated_at": "2026-10-09T18:33:30Z",
-      "rank": 18
+      "updated_at": "2026-10-10T12:51:26Z",
+      "rank": 13
     },
     {
       "name": "Sev7eEn7/dsh-sieve",
@@ -475,9 +344,9 @@
       "description": "dsh-sieve: context engineering & token optimization plugin for DeepSeek Harness (DSH) — tool output filtering, context pruning, progressive skill disclosure. 36% smaller payload in offline replay. DSH 上下文管理与 token 优化节省插件。",
       "full_description": "dsh-sieve: context engineering & token optimization plugin for DeepSeek Harness (DSH) — tool output filtering, context pruning, progressive skill disclosure. 36% smaller payload in offline replay. DSH 上下文管理与 token 优化节省插件。",
       "language": "TypeScript",
-      "stars": 64,
+      "stars": 76,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 4,
       "topics": [
         "agent-tools",
         "ai-agent",
@@ -501,8 +370,8 @@
         "typescript"
       ],
       "created_at": "2026-10-04T12:30:42Z",
-      "updated_at": "2026-10-10T03:53:21Z",
-      "rank": 19
+      "updated_at": "2026-10-11T06:00:27Z",
+      "rank": 14
     },
     {
       "name": "Microqian2th/dsh-codex-effort-slider",
@@ -510,7 +379,7 @@
       "description": "Codex 风格的推理等级滑条（DeepSeek Harness 插件）：可拖动连续滑条 + 高档位渐变星尘特效",
       "full_description": "Codex 风格的推理等级滑条（DeepSeek Harness 插件）：可拖动连续滑条 + 高档位渐变星尘特效",
       "language": "JavaScript",
-      "stars": 62,
+      "stars": 75,
       "stars_gained": 0,
       "forks": 3,
       "topics": [
@@ -530,8 +399,30 @@
         "reasoning-effort"
       ],
       "created_at": "2026-10-04T12:33:41Z",
-      "updated_at": "2026-10-10T03:32:26Z",
-      "rank": 20
+      "updated_at": "2026-10-11T05:50:25Z",
+      "rank": 15
+    },
+    {
+      "name": "yzg1226/mcd-party-officer",
+      "url": "https://github.com/yzg1226/mcd-party-officer",
+      "description": "🍟 麦当劳门店派对成团调度 Skill — 把派对从「策划」推进到「办得成」：成团概率雷达 / 包场vs拼团 / 择日黄历 / 儿童营养指数 / 招募卡与邀请函",
+      "full_description": "🍟 麦当劳门店派对成团调度 Skill — 把派对从「策划」推进到「办得成」：成团概率雷达 / 包场vs拼团 / 择日黄历 / 儿童营养指数 / 招募卡与邀请函",
+      "language": "Python",
+      "stars": 73,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "agent-skill",
+        "mcdonalds",
+        "mcp",
+        "mcp-server",
+        "party",
+        "python",
+        "workbuddy"
+      ],
+      "created_at": "2026-10-09T14:20:03Z",
+      "updated_at": "2026-10-11T03:09:23Z",
+      "rank": 16
     },
     {
       "name": "Zafer-Liu/mcd-event-radar",
@@ -539,7 +430,7 @@
       "description": "麦当劳 MCP Agent Skill：查「附近有什么麦麦活动」，生成卡通活动地图——门店位置取自官方经纬度，只展示已核实可预约场次 🍟",
       "full_description": "麦当劳 MCP Agent Skill：查「附近有什么麦麦活动」，生成卡通活动地图——门店位置取自官方经纬度，只展示已核实可预约场次 🍟",
       "language": "JavaScript",
-      "stars": 59,
+      "stars": 68,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -552,28 +443,38 @@
         "workbuddy"
       ],
       "created_at": "2026-10-09T11:28:06Z",
-      "updated_at": "2026-10-10T06:09:20Z",
-      "rank": 21
+      "updated_at": "2026-10-10T10:30:33Z",
+      "rank": 17
     },
     {
-      "name": "rakesh0x/OpenCardboard",
-      "url": "https://github.com/rakesh0x/OpenCardboard",
-      "description": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
-      "full_description": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
-      "language": "TypeScript",
-      "stars": 59,
+      "name": "jimoto-no-llm/rustdsh",
+      "url": "https://github.com/jimoto-no-llm/rustdsh",
+      "description": "Fast Rust launcher for DeepSeek Harness, with clear Claude Code/Codex migration, model setup and lightweight local tools",
+      "full_description": "Fast Rust launcher for DeepSeek Harness, with clear Claude Code/Codex migration, model setup and lightweight local tools",
+      "language": "JavaScript",
+      "stars": 68,
       "stars_gained": 0,
-      "forks": 16,
+      "forks": 7,
       "topics": [
-        "ai",
-        "electron",
-        "local-first",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "command-line",
+        "cross-platform",
+        "dashboard",
+        "deepseek",
+        "developer-tools",
+        "dsh",
         "mcp",
-        "video-editor"
+        "model-context-protocol",
+        "performance",
+        "rust",
+        "token-optimization"
       ],
-      "created_at": "2026-10-04T09:23:43Z",
-      "updated_at": "2026-10-09T18:43:12Z",
-      "rank": 22
+      "created_at": "2026-10-04T06:05:05Z",
+      "updated_at": "2026-10-10T11:23:34Z",
+      "rank": 18
     },
     {
       "name": "omarqaterge/hermes-mobile-app",
@@ -581,9 +482,9 @@
       "description": "Your agent, on your phone. A native Android app for Hermes Agent, running entirely on-device (Termux).",
       "full_description": "Your agent, on your phone. A native Android app for Hermes Agent, running entirely on-device (Termux).",
       "language": "TypeScript",
-      "stars": 58,
+      "stars": 67,
       "stars_gained": 0,
-      "forks": 9,
+      "forks": 11,
       "topics": [
         "ai-agent",
         "android",
@@ -592,64 +493,83 @@
         "termux"
       ],
       "created_at": "2026-10-04T22:51:20Z",
-      "updated_at": "2026-10-10T05:16:56Z",
-      "rank": 23
+      "updated_at": "2026-10-11T04:07:07Z",
+      "rank": 19
     },
     {
-      "name": "sebastianhaba/book-to-course-skill",
-      "url": "https://github.com/sebastianhaba/book-to-course-skill",
-      "description": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animations, quizzes, chapter tests, flashcards and coding exercises checked by unit tests, with progress saved to files. Runs in the browser, or packaged as an Android APK or a Linux AppImage.",
-      "full_description": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animations, quizzes, chapter tests, flashcards and coding exercises checked by unit tests, with progress saved to files. Runs in the browser, or packaged as an Android APK or a Linux AppImage.",
-      "language": "Python",
-      "stars": 57,
-      "stars_gained": 0,
-      "forks": 11,
-      "topics": [
-        "ai",
-        "ai-skill",
-        "ai-skill-file",
-        "ai-skills",
-        "android",
-        "appimage",
-        "books",
-        "claude",
-        "claude-ai",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "course",
-        "course-materials",
-        "courses",
-        "hyperskill",
-        "learning",
-        "learning-by-doing"
-      ],
-      "created_at": "2026-10-03T13:36:54Z",
-      "updated_at": "2026-10-09T20:03:58Z",
-      "rank": 24
-    },
-    {
-      "name": "Router0824/OpsPilot-AI",
-      "url": "https://github.com/Router0824/OpsPilot-AI",
-      "description": "Open-source AI operations workspace for meetings, knowledge, decisions, tasks, risks, workflows, and organizational memory.",
-      "full_description": "Open-source AI operations workspace for meetings, knowledge, decisions, tasks, risks, workflows, and organizational memory.",
-      "language": "TypeScript",
-      "stars": 53,
+      "name": "wousp112/justin-sun-alan-shao-ai-notes",
+      "url": "https://github.com/wousp112/justin-sun-alan-shao-ai-notes",
+      "description": "孙宇晨 × 邵艾伦 4 小时对谈：全文 + 精华 + 一键丢给 AI 的规划 prompt",
+      "full_description": "孙宇晨 × 邵艾伦 4 小时对谈：全文 + 精华 + 一键丢给 AI 的规划 prompt",
+      "language": "",
+      "stars": 65,
       "stars_gained": 0,
       "forks": 3,
       "topics": [
-        "ai-operations",
-        "bilingual",
-        "deepseek",
-        "fastapi",
-        "knowledge-management",
-        "nextjs",
-        "rag",
-        "workflow-automation"
+        "ai",
+        "ai-agents",
+        "alan-shao",
+        "career-development",
+        "learning",
+        "prompt-engineering"
       ],
-      "created_at": "2026-10-03T12:12:32Z",
-      "updated_at": "2026-10-10T04:02:00Z",
-      "rank": 25
+      "created_at": "2026-10-09T06:01:01Z",
+      "updated_at": "2026-10-11T05:13:46Z",
+      "rank": 20
+    },
+    {
+      "name": "datologyai/zephon",
+      "url": "https://github.com/datologyai/zephon",
+      "description": "Fast, flexible, elastically deterministic data loading for foundation model training",
+      "full_description": "Fast, flexible, elastically deterministic data loading for foundation model training",
+      "language": "Python",
+      "stars": 64,
+      "stars_gained": 0,
+      "forks": 2,
+      "topics": [
+        "data-loader",
+        "deep-learning",
+        "distributed-training",
+        "pytorch"
+      ],
+      "created_at": "2026-10-07T01:59:41Z",
+      "updated_at": "2026-10-09T18:33:30Z",
+      "rank": 21
+    },
+    {
+      "name": "morluto/awesome-reverse-engineering",
+      "url": "https://github.com/morluto/awesome-reverse-engineering",
+      "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
+      "full_description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
+      "language": "",
+      "stars": 64,
+      "stars_gained": 0,
+      "forks": 9,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "awesome",
+        "awesome-list",
+        "binary-analysis",
+        "ctf",
+        "cybersecurity",
+        "debugging",
+        "decompiler",
+        "disassembler",
+        "dynamic-analysis",
+        "firmware",
+        "frida",
+        "ghidra",
+        "malware-analysis",
+        "mcp",
+        "reverse-engineering",
+        "security",
+        "security-tools",
+        "static-analysis"
+      ],
+      "created_at": "2026-10-09T14:58:20Z",
+      "updated_at": "2026-10-11T05:25:29Z",
+      "rank": 22
     },
     {
       "name": "kkjiangk/agent-py",
@@ -657,9 +577,9 @@
       "description": "Personal AIOps engineering project with durable workflows, scoped hybrid retrieval, reliable event delivery, and verified API/browser contracts.",
       "full_description": "Personal AIOps engineering project with durable workflows, scoped hybrid retrieval, reliable event delivery, and verified API/browser contracts.",
       "language": "Python",
-      "stars": 51,
+      "stars": 60,
       "stars_gained": 0,
-      "forks": 4,
+      "forks": 5,
       "topics": [
         "aiops",
         "fastapi",
@@ -671,8 +591,112 @@
         "vue"
       ],
       "created_at": "2026-10-04T08:35:08Z",
-      "updated_at": "2026-10-10T03:03:26Z",
+      "updated_at": "2026-10-11T04:59:42Z",
+      "rank": 23
+    },
+    {
+      "name": "rakesh0x/OpenCardboard",
+      "url": "https://github.com/rakesh0x/OpenCardboard",
+      "description": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
+      "full_description": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
+      "language": "TypeScript",
+      "stars": 60,
+      "stars_gained": 0,
+      "forks": 17,
+      "topics": [
+        "ai",
+        "electron",
+        "local-first",
+        "mcp",
+        "video-editor"
+      ],
+      "created_at": "2026-10-04T09:23:43Z",
+      "updated_at": "2026-10-10T19:30:05Z",
+      "rank": 24
+    },
+    {
+      "name": "chienbm98/foxprofile",
+      "url": "https://github.com/chienbm98/foxprofile",
+      "description": "Free, open-source anti-detect browser profile manager: per-profile fingerprint, cookies and proxy, Camoufox and Chrome engines, desktop app, REST API and MCP server for AI agents. Self-hosted alternative to GoLogin / MoreLogin.",
+      "full_description": "Free, open-source anti-detect browser profile manager: per-profile fingerprint, cookies and proxy, Camoufox and Chrome engines, desktop app, REST API and MCP server for AI agents. Self-hosted alternative to GoLogin / MoreLogin.",
+      "language": "Python",
+      "stars": 58,
+      "stars_gained": 0,
+      "forks": 42,
+      "topics": [
+        "anti-detect-browser",
+        "antidetect",
+        "browser-automation",
+        "browser-profiles",
+        "camoufox",
+        "chromium",
+        "cookies",
+        "fastapi",
+        "fingerprint",
+        "flet",
+        "mcp",
+        "multi-account",
+        "playwright",
+        "proxy",
+        "python",
+        "vietnamese"
+      ],
+      "created_at": "2026-10-07T19:48:26Z",
+      "updated_at": "2026-10-11T04:01:24Z",
+      "rank": 25
+    },
+    {
+      "name": "VecSzn/PolyStrata",
+      "url": "https://github.com/VecSzn/PolyStrata",
+      "description": "Run large AI models on your own PC: Qwen3.8-Flash-Next, GLM 5.3 Flash, Qwen3.6, Ornith 1.5 and Gemma 4. One-click install for Windows and Linux, OpenAI/Anthropic API on localhost, image input. Built on Strata.",
+      "full_description": "Run large AI models on your own PC: Qwen3.8-Flash-Next, GLM 5.3 Flash, Qwen3.6, Ornith 1.5 and Gemma 4. One-click install for Windows and Linux, OpenAI/Anthropic API on localhost, image input. Built on Strata.",
+      "language": "C++",
+      "stars": 55,
+      "stars_gained": 0,
+      "forks": 9,
+      "topics": [
+        "anthropic-api",
+        "cuda",
+        "gemma",
+        "gguf",
+        "glm",
+        "inference-engine",
+        "llm",
+        "local-llm",
+        "mixture-of-experts",
+        "openai-api",
+        "qwen",
+        "self-hosted",
+        "speculative-decoding"
+      ],
+      "created_at": "2026-10-06T21:09:40Z",
+      "updated_at": "2026-10-11T05:01:52Z",
       "rank": 26
+    },
+    {
+      "name": "fidipro/gluon",
+      "url": "https://github.com/fidipro/gluon",
+      "description": "Control platform for coding agents",
+      "full_description": "Control platform for coding agents",
+      "language": "TypeScript",
+      "stars": 52,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai",
+        "bun",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agents",
+        "developer-tools",
+        "llm",
+        "terminal",
+        "tui"
+      ],
+      "created_at": "2026-10-07T23:23:36Z",
+      "updated_at": "2026-10-10T21:32:38Z",
+      "rank": 27
     },
     {
       "name": "efim0v/brow",
@@ -707,31 +731,6 @@
       ],
       "created_at": "2026-10-04T21:14:52Z",
       "updated_at": "2026-10-08T10:49:24Z",
-      "rank": 27
-    },
-    {
-      "name": "fidipro/gluon",
-      "url": "https://github.com/fidipro/gluon",
-      "description": "Control platform for coding agents",
-      "full_description": "Control platform for coding agents",
-      "language": "TypeScript",
-      "stars": 49,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai",
-        "bun",
-        "claude-code",
-        "cli",
-        "codex",
-        "coding-agents",
-        "developer-tools",
-        "llm",
-        "terminal",
-        "tui"
-      ],
-      "created_at": "2026-10-07T23:23:36Z",
-      "updated_at": "2026-10-10T04:39:29Z",
       "rank": 28
     },
     {
@@ -740,7 +739,7 @@
       "description": "Open-source desktop SSH client with an AI assistant and end-to-end encrypted sync through your own Cloudflare account",
       "full_description": "Open-source desktop SSH client with an AI assistant and end-to-end encrypted sync through your own Cloudflare account",
       "language": "Rust",
-      "stars": 46,
+      "stars": 48,
       "stars_gained": 0,
       "forks": 3,
       "topics": [
@@ -756,7 +755,7 @@
         "terminal"
       ],
       "created_at": "2026-10-07T23:43:36Z",
-      "updated_at": "2026-10-10T04:58:04Z",
+      "updated_at": "2026-10-11T05:38:29Z",
       "rank": 29
     },
     {
@@ -765,7 +764,7 @@
       "description": "Annotate a running iOS simulator in your browser, and hand the notes to your coding agent.",
       "full_description": "Annotate a running iOS simulator in your browser, and hand the notes to your coding agent.",
       "language": "Swift",
-      "stars": 45,
+      "stars": 47,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
@@ -788,7 +787,7 @@
         "xcode"
       ],
       "created_at": "2026-10-04T17:33:47Z",
-      "updated_at": "2026-10-09T18:47:38Z",
+      "updated_at": "2026-10-11T03:25:36Z",
       "rank": 30
     }
   ]
