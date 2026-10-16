@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T04:58:34.939211+00:00",
+  "updated": "2026-10-16T04:47:55.501668+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "full_description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "language": "C",
-      "stars": 2152,
+      "stars": 2589,
       "stars_gained": 0,
-      "forks": 289,
+      "forks": 341,
       "topics": [
         "ai-agent",
         "airplay",
@@ -25,55 +25,8 @@
         "usb-hid"
       ],
       "created_at": "2026-10-11T19:10:25Z",
-      "updated_at": "2026-10-15T04:50:10Z",
+      "updated_at": "2026-10-16T04:46:43Z",
       "rank": 1
-    },
-    {
-      "name": "zhuyansen/new-term-radar",
-      "url": "https://github.com/zhuyansen/new-term-radar",
-      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "full_description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "language": "Python",
-      "stars": 975,
-      "stars_gained": 0,
-      "forks": 388,
-      "topics": [
-        "agent-skills",
-        "ai",
-        "aisa",
-        "claude-code",
-        "claude-skills",
-        "google-trends",
-        "keyword-research",
-        "mcp",
-        "mcp-server",
-        "seo",
-        "trends"
-      ],
-      "created_at": "2026-10-12T07:11:01Z",
-      "updated_at": "2026-10-15T04:58:00Z",
-      "rank": 2
-    },
-    {
-      "name": "marclou/mailcheap",
-      "url": "https://github.com/marclou/mailcheap",
-      "description": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
-      "full_description": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
-      "language": "JavaScript",
-      "stars": 933,
-      "stars_gained": 0,
-      "forks": 233,
-      "topics": [
-        "ai-agents",
-        "email",
-        "mcp",
-        "newsletter",
-        "nextjs",
-        "self-hosted"
-      ],
-      "created_at": "2026-10-10T12:55:36Z",
-      "updated_at": "2026-10-15T03:44:59Z",
-      "rank": 3
     },
     {
       "name": "deeplethe/solid-glass",
@@ -81,9 +34,9 @@
       "description": "A design system for AI applications. Material, physical, tactile, technical.",
       "full_description": "A design system for AI applications. Material, physical, tactile, technical.",
       "language": "TypeScript",
-      "stars": 735,
+      "stars": 1094,
       "stars_gained": 0,
-      "forks": 8,
+      "forks": 16,
       "topics": [
         "agent-ui",
         "ai",
@@ -98,7 +51,61 @@
         "theme"
       ],
       "created_at": "2026-10-12T09:19:02Z",
-      "updated_at": "2026-10-15T04:56:35Z",
+      "updated_at": "2026-10-16T04:42:11Z",
+      "rank": 2
+    },
+    {
+      "name": "marclou/mailcheap",
+      "url": "https://github.com/marclou/mailcheap",
+      "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
+      "full_description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
+      "language": "JavaScript",
+      "stars": 1066,
+      "stars_gained": 0,
+      "forks": 279,
+      "topics": [
+        "ai-agents",
+        "amazon-ses",
+        "beehiiv-alternative",
+        "email",
+        "email-marketing",
+        "mailchimp-alternative",
+        "mcp",
+        "mcp-server",
+        "mongodb",
+        "newsletter",
+        "nextjs",
+        "self-hosted",
+        "substack-alternative"
+      ],
+      "created_at": "2026-10-10T12:55:36Z",
+      "updated_at": "2026-10-16T04:33:52Z",
+      "rank": 3
+    },
+    {
+      "name": "zhuyansen/new-term-radar",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "full_description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "language": "Python",
+      "stars": 1032,
+      "stars_gained": 0,
+      "forks": 404,
+      "topics": [
+        "agent-skills",
+        "ai",
+        "aisa",
+        "claude-code",
+        "claude-skills",
+        "google-trends",
+        "keyword-research",
+        "mcp",
+        "mcp-server",
+        "seo",
+        "trends"
+      ],
+      "created_at": "2026-10-12T07:11:01Z",
+      "updated_at": "2026-10-16T03:52:03Z",
       "rank": 4
     },
     {
@@ -107,9 +114,9 @@
       "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
       "full_description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
       "language": "TypeScript",
-      "stars": 698,
+      "stars": 841,
       "stars_gained": 0,
-      "forks": 23,
+      "forks": 26,
       "topics": [
         "ai-agent",
         "browser-agent",
@@ -120,7 +127,7 @@
         "web-automation"
       ],
       "created_at": "2026-10-13T09:18:55Z",
-      "updated_at": "2026-10-15T04:56:19Z",
+      "updated_at": "2026-10-16T04:47:44Z",
       "rank": 5
     },
     {
@@ -129,9 +136,9 @@
       "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
       "full_description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
       "language": "",
-      "stars": 518,
+      "stars": 573,
       "stars_gained": 0,
-      "forks": 106,
+      "forks": 126,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -155,163 +162,8 @@
         "static-analysis"
       ],
       "created_at": "2026-10-09T14:58:20Z",
-      "updated_at": "2026-10-15T04:56:06Z",
+      "updated_at": "2026-10-16T03:50:32Z",
       "rank": 6
-    },
-    {
-      "name": "LingCore/WinShun",
-      "url": "https://github.com/LingCore/WinShun",
-      "description": "Win顺：免费开源的 Windows 快速搜索启动器。双击 Ctrl，拼音秒搜文件、全文搜索 Word/Excel/PDF、剪贴板历史（代替 Win+V）、对话框搜索、任务栏搜索、插件、AI 助手 MCP。Free Windows search launcher: pinyin file search, full-text search, clipboard history, MCP server. Everything/Listary alternative.",
-      "full_description": "Win顺：免费开源的 Windows 快速搜索启动器。双击 Ctrl，拼音秒搜文件、全文搜索 Word/Excel/PDF、剪贴板历史（代替 Win+V）、对话框搜索、任务栏搜索、插件、AI 助手 MCP。Free Windows search launcher: pinyin file search, full-text search, clipboard history, MCP server. Everything/Listary alternative.",
-      "language": "C++",
-      "stars": 353,
-      "stars_gained": 0,
-      "forks": 25,
-      "topics": [
-        "chinese",
-        "clipboard-history",
-        "clipboard-manager",
-        "cpp",
-        "everything",
-        "file-search",
-        "full-text-search",
-        "launcher",
-        "listary",
-        "mcp",
-        "mcp-server",
-        "ntfs",
-        "ocr",
-        "pinyin",
-        "productivity",
-        "qt6",
-        "search",
-        "windows"
-      ],
-      "created_at": "2026-10-08T03:18:00Z",
-      "updated_at": "2026-10-15T03:43:40Z",
-      "rank": 7
-    },
-    {
-      "name": "Ayzzz123/mcd-coupon-strategist",
-      "url": "https://github.com/Ayzzz123/mcd-coupon-strategist",
-      "description": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
-      "full_description": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
-      "language": "Python",
-      "stars": 315,
-      "stars_gained": 0,
-      "forks": 19,
-      "topics": [
-        "agent",
-        "cost-optimization",
-        "coupon",
-        "llm",
-        "mcd-mcp",
-        "mcdonalds",
-        "mcp",
-        "python",
-        "skill",
-        "workbuddy"
-      ],
-      "created_at": "2026-10-10T12:59:19Z",
-      "updated_at": "2026-10-15T04:41:54Z",
-      "rank": 8
-    },
-    {
-      "name": "NousResearch/hermes-official-plugins",
-      "url": "https://github.com/NousResearch/hermes-official-plugins",
-      "description": "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
-      "full_description": "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
-      "language": "Python",
-      "stars": 280,
-      "stars_gained": 0,
-      "forks": 28,
-      "topics": [
-        "agent-plugins",
-        "ai-agents",
-        "claude",
-        "hermes",
-        "hermes-agent",
-        "home-assistant",
-        "llm",
-        "model-provider",
-        "nous-research",
-        "plugins",
-        "spotify"
-      ],
-      "created_at": "2026-10-10T20:51:25Z",
-      "updated_at": "2026-10-15T03:50:53Z",
-      "rank": 9
-    },
-    {
-      "name": "datalab-to/indra",
-      "url": "https://github.com/datalab-to/indra",
-      "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
-      "full_description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
-      "language": "Python",
-      "stars": 259,
-      "stars_gained": 0,
-      "forks": 22,
-      "topics": [
-        "ai",
-        "cpu",
-        "document-parsing",
-        "ocr",
-        "onnx",
-        "pdf"
-      ],
-      "created_at": "2026-10-13T11:07:11Z",
-      "updated_at": "2026-10-15T04:39:58Z",
-      "rank": 10
-    },
-    {
-      "name": "i12bp8/decomp.wtf",
-      "url": "https://github.com/i12bp8/decomp.wtf",
-      "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
-      "full_description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
-      "language": "Python",
-      "stars": 242,
-      "stars_gained": 0,
-      "forks": 16,
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "decomp",
-        "decompilation",
-        "decompiler",
-        "matching-decompilation",
-        "mcp",
-        "n64",
-        "recomp",
-        "recompilation",
-        "recompiler",
-        "retro-gaming",
-        "reverse-engineering"
-      ],
-      "created_at": "2026-10-13T08:19:01Z",
-      "updated_at": "2026-10-15T04:56:08Z",
-      "rank": 11
-    },
-    {
-      "name": "yzg1226/mcd-party-officer",
-      "url": "https://github.com/yzg1226/mcd-party-officer",
-      "description": "🍟 麦当劳门店派对成团调度 Skill — 把派对从「策划」推进到「办得成」：成团概率雷达 / 包场vs拼团 / 择日黄历 / 儿童营养指数 / 招募卡与邀请函",
-      "full_description": "🍟 麦当劳门店派对成团调度 Skill — 把派对从「策划」推进到「办得成」：成团概率雷达 / 包场vs拼团 / 择日黄历 / 儿童营养指数 / 招募卡与邀请函",
-      "language": "Python",
-      "stars": 240,
-      "stars_gained": 0,
-      "forks": 7,
-      "topics": [
-        "agent-skill",
-        "mcdonalds",
-        "mcp",
-        "mcp-server",
-        "party",
-        "python",
-        "workbuddy"
-      ],
-      "created_at": "2026-10-09T14:20:03Z",
-      "updated_at": "2026-10-15T03:13:19Z",
-      "rank": 12
     },
     {
       "name": "hujjun/mcd-saver-strategist",
@@ -319,9 +171,9 @@
       "description": "麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimizer · McDonalds China MCP Server · Agent Skill for WorkBuddy · 麦当劳程序员创意开发大赛参赛作品",
       "full_description": "麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimizer · McDonalds China MCP Server · Agent Skill for WorkBuddy · 麦当劳程序员创意开发大赛参赛作品",
       "language": "Python",
-      "stars": 218,
+      "stars": 458,
       "stars_gained": 0,
-      "forks": 1,
+      "forks": 2,
       "topics": [
         "agent-skill",
         "ai-agent",
@@ -340,8 +192,171 @@
         "workbuddy-skill"
       ],
       "created_at": "2026-10-09T03:21:52Z",
-      "updated_at": "2026-10-15T04:56:14Z",
+      "updated_at": "2026-10-16T04:41:43Z",
+      "rank": 7
+    },
+    {
+      "name": "i12bp8/decomp.wtf",
+      "url": "https://github.com/i12bp8/decomp.wtf",
+      "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+      "full_description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+      "language": "Python",
+      "stars": 386,
+      "stars_gained": 0,
+      "forks": 76,
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "decomp",
+        "decompilation",
+        "decompiler",
+        "matching-decompilation",
+        "mcp",
+        "n64",
+        "recomp",
+        "recompilation",
+        "recompiler",
+        "retro-gaming",
+        "reverse-engineering"
+      ],
+      "created_at": "2026-10-13T08:19:01Z",
+      "updated_at": "2026-10-16T04:34:38Z",
+      "rank": 8
+    },
+    {
+      "name": "datalab-to/indra",
+      "url": "https://github.com/datalab-to/indra",
+      "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+      "full_description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+      "language": "Python",
+      "stars": 367,
+      "stars_gained": 0,
+      "forks": 28,
+      "topics": [
+        "ai",
+        "cpu",
+        "document-parsing",
+        "ocr",
+        "onnx",
+        "pdf"
+      ],
+      "created_at": "2026-10-13T11:07:11Z",
+      "updated_at": "2026-10-16T04:33:08Z",
+      "rank": 9
+    },
+    {
+      "name": "Ayzzz123/mcd-coupon-strategist",
+      "url": "https://github.com/Ayzzz123/mcd-coupon-strategist",
+      "description": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
+      "full_description": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
+      "language": "Python",
+      "stars": 361,
+      "stars_gained": 0,
+      "forks": 19,
+      "topics": [
+        "agent",
+        "cost-optimization",
+        "coupon",
+        "llm",
+        "mcd-mcp",
+        "mcdonalds",
+        "mcp",
+        "python",
+        "skill",
+        "workbuddy"
+      ],
+      "created_at": "2026-10-10T12:59:19Z",
+      "updated_at": "2026-10-16T04:46:32Z",
+      "rank": 10
+    },
+    {
+      "name": "NousResearch/hermes-official-plugins",
+      "url": "https://github.com/NousResearch/hermes-official-plugins",
+      "description": "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
+      "full_description": "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
+      "language": "Python",
+      "stars": 296,
+      "stars_gained": 0,
+      "forks": 31,
+      "topics": [
+        "agent-plugins",
+        "ai-agents",
+        "claude",
+        "hermes",
+        "hermes-agent",
+        "home-assistant",
+        "llm",
+        "model-provider",
+        "nous-research",
+        "plugins",
+        "spotify"
+      ],
+      "created_at": "2026-10-10T20:51:25Z",
+      "updated_at": "2026-10-16T04:31:57Z",
+      "rank": 11
+    },
+    {
+      "name": "yzg1226/mcd-party-officer",
+      "url": "https://github.com/yzg1226/mcd-party-officer",
+      "description": "🍟 麦当劳门店派对成团调度 Skill — 把派对从「策划」推进到「办得成」：成团概率雷达 / 包场vs拼团 / 择日黄历 / 儿童营养指数 / 招募卡与邀请函",
+      "full_description": "🍟 麦当劳门店派对成团调度 Skill — 把派对从「策划」推进到「办得成」：成团概率雷达 / 包场vs拼团 / 择日黄历 / 儿童营养指数 / 招募卡与邀请函",
+      "language": "Python",
+      "stars": 243,
+      "stars_gained": 0,
+      "forks": 7,
+      "topics": [
+        "agent-skill",
+        "mcdonalds",
+        "mcp",
+        "mcp-server",
+        "party",
+        "python",
+        "workbuddy"
+      ],
+      "created_at": "2026-10-09T14:20:03Z",
+      "updated_at": "2026-10-16T01:38:37Z",
+      "rank": 12
+    },
+    {
+      "name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+      "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+      "description": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
+      "full_description": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
+      "language": "Python",
+      "stars": 233,
+      "stars_gained": 0,
+      "forks": 292,
+      "topics": [
+        "ai-agents",
+        "cross-border-ecommerce",
+        "ecommerce",
+        "llm",
+        "mercado-livre",
+        "prompt-engineering",
+        "shopee",
+        "sop",
+        "workflow-automation"
+      ],
+      "created_at": "2026-10-13T10:13:21Z",
+      "updated_at": "2026-10-16T04:38:43Z",
       "rank": 13
+    },
+    {
+      "name": "RuoJi6/ARTEX",
+      "url": "https://github.com/RuoJi6/ARTEX",
+      "description": "Autumn-27/ARTEX 持续维护开源版本",
+      "full_description": "Autumn-27/ARTEX 持续维护开源版本",
+      "language": "Go",
+      "stars": 227,
+      "stars_gained": 0,
+      "forks": 154,
+      "topics": [
+        "agent",
+        "artex"
+      ],
+      "created_at": "2026-10-09T00:56:36Z",
+      "updated_at": "2026-10-16T03:53:04Z",
+      "rank": 14
     },
     {
       "name": "BlenderGPT3D/blender-ai-addon",
@@ -349,7 +364,7 @@
       "description": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
       "full_description": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
       "language": "Python",
-      "stars": 213,
+      "stars": 214,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -365,27 +380,31 @@
         "python"
       ],
       "created_at": "2026-10-09T08:34:03Z",
-      "updated_at": "2026-10-15T01:20:17Z",
-      "rank": 14
+      "updated_at": "2026-10-15T14:39:00Z",
+      "rank": 15
     },
     {
-      "name": "MirroS-Lab/AgentGarten",
-      "url": "https://github.com/MirroS-Lab/AgentGarten",
-      "description": "AgentGarten: Code Worlds for Evolving Agents",
-      "full_description": "AgentGarten: Code Worlds for Evolving Agents",
+      "name": "lvzuojing/mcd-wrapped",
+      "url": "https://github.com/lvzuojing/mcd-wrapped",
+      "description": "M-CODE WRAPPED · 麦当劳数据全景报告 + 个人年报 + 方言播报",
+      "full_description": "M-CODE WRAPPED · 麦当劳数据全景报告 + 个人年报 + 方言播报",
       "language": "Python",
-      "stars": 184,
+      "stars": 189,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 11,
       "topics": [
-        "agent",
-        "diffusion",
-        "multimodal",
-        "self-evolving"
+        "1024",
+        "data-report",
+        "hackathon",
+        "mcdonalds",
+        "mcp",
+        "mcp-server",
+        "skill",
+        "workbuddy"
       ],
-      "created_at": "2026-10-08T03:53:57Z",
-      "updated_at": "2026-10-15T02:02:09Z",
-      "rank": 15
+      "created_at": "2026-10-09T10:15:57Z",
+      "updated_at": "2026-10-16T04:26:14Z",
+      "rank": 16
     },
     {
       "name": "SouravBeraAkaSpeed/xiryn",
@@ -393,9 +412,9 @@
       "description": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram.",
       "full_description": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram.",
       "language": "TypeScript",
-      "stars": 179,
+      "stars": 181,
       "stars_gained": 0,
-      "forks": 28,
+      "forks": 29,
       "topics": [
         "ai-agents",
         "ai-sdk",
@@ -419,8 +438,43 @@
         "typescript"
       ],
       "created_at": "2026-10-11T13:12:31Z",
-      "updated_at": "2026-10-15T04:44:30Z",
-      "rank": 16
+      "updated_at": "2026-10-16T04:05:55Z",
+      "rank": 17
+    },
+    {
+      "name": "Graphicle-AI/graphicle",
+      "url": "https://github.com/Graphicle-AI/graphicle",
+      "description": "Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.",
+      "full_description": "Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.",
+      "language": "Rust",
+      "stars": 177,
+      "stars_gained": 0,
+      "forks": 9,
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "claude-code",
+        "code-analysis",
+        "code-graph",
+        "code-intelligence",
+        "code-search",
+        "codex",
+        "coding-agents",
+        "context-engineering",
+        "cursor",
+        "developer-tools",
+        "graphrag",
+        "knowledge-graph",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "rust",
+        "tree-sitter"
+      ],
+      "created_at": "2026-10-14T12:25:36Z",
+      "updated_at": "2026-10-16T04:22:27Z",
+      "rank": 18
     },
     {
       "name": "HRuiCcc/RuiC-oc-ferry",
@@ -428,9 +482,9 @@
       "description": "把 OpenCode 的免费模型摆渡给 WorkBuddy —— 隔离运行时、并发检测、判定缓存、一键导入、本机 OpenAI 兼容转发口",
       "full_description": "把 OpenCode 的免费模型摆渡给 WorkBuddy —— 隔离运行时、并发检测、判定缓存、一键导入、本机 OpenAI 兼容转发口",
       "language": "JavaScript",
-      "stars": 160,
+      "stars": 176,
       "stars_gained": 0,
-      "forks": 25,
+      "forks": 28,
       "topics": [
         "electron",
         "free-models",
@@ -443,8 +497,76 @@
         "workbuddy"
       ],
       "created_at": "2026-10-10T08:59:18Z",
-      "updated_at": "2026-10-15T04:17:49Z",
-      "rank": 17
+      "updated_at": "2026-10-16T03:28:34Z",
+      "rank": 19
+    },
+    {
+      "name": "init-co-jp/diff-tour",
+      "url": "https://github.com/init-co-jp/diff-tour",
+      "description": "Walk through a diff the way a senior engineer reads it. A read-only TUI that turns a git change into a guided tour.",
+      "full_description": "Walk through a diff the way a senior engineer reads it. A read-only TUI that turns a git change into a guided tour.",
+      "language": "Go",
+      "stars": 165,
+      "stars_gained": 0,
+      "forks": 7,
+      "topics": [
+        "cli",
+        "code-review",
+        "git",
+        "go",
+        "learning",
+        "llm",
+        "onboarding",
+        "tui"
+      ],
+      "created_at": "2026-10-10T09:19:05Z",
+      "updated_at": "2026-10-16T04:28:10Z",
+      "rank": 20
+    },
+    {
+      "name": "cdcailf/cjkfold",
+      "url": "https://github.com/cdcailf/cjkfold",
+      "description": "Fold look-alike CJK glyphs (Kangxi radicals, CJK radical supplements) so text extracted from PDFs matches again.",
+      "full_description": "Fold look-alike CJK glyphs (Kangxi radicals, CJK radical supplements) so text extracted from PDFs matches again.",
+      "language": "Python",
+      "stars": 164,
+      "stars_gained": 0,
+      "forks": 5,
+      "topics": [
+        "chinese",
+        "cjk",
+        "nfkc",
+        "nlp",
+        "pdf-extraction",
+        "rag",
+        "retrieval",
+        "text-normalization",
+        "unicode"
+      ],
+      "created_at": "2026-10-13T02:16:26Z",
+      "updated_at": "2026-10-15T22:42:44Z",
+      "rank": 21
+    },
+    {
+      "name": "LSPosed/dexsql-release",
+      "url": "https://github.com/LSPosed/dexsql-release",
+      "description": "SQL for Android apk and dex files",
+      "full_description": "SQL for Android apk and dex files",
+      "language": "Python",
+      "stars": 149,
+      "stars_gained": 0,
+      "forks": 12,
+      "topics": [
+        "agent",
+        "android",
+        "decompiler",
+        "dex",
+        "mcp-server",
+        "reverse-engineering"
+      ],
+      "created_at": "2026-10-14T11:50:40Z",
+      "updated_at": "2026-10-16T04:42:24Z",
+      "rank": 22
     },
     {
       "name": "WilderNoTrack/mcd-calorie-butler",
@@ -464,30 +586,7 @@
       ],
       "created_at": "2026-10-13T02:30:41Z",
       "updated_at": "2026-10-13T20:36:40Z",
-      "rank": 18
-    },
-    {
-      "name": "lvzuojing/mcd-wrapped",
-      "url": "https://github.com/lvzuojing/mcd-wrapped",
-      "description": "M-CODE WRAPPED · 麦当劳数据全景报告 + 个人年报 + 方言播报",
-      "full_description": "M-CODE WRAPPED · 麦当劳数据全景报告 + 个人年报 + 方言播报",
-      "language": "Python",
-      "stars": 143,
-      "stars_gained": 0,
-      "forks": 11,
-      "topics": [
-        "1024",
-        "data-report",
-        "hackathon",
-        "mcdonalds",
-        "mcp",
-        "mcp-server",
-        "skill",
-        "workbuddy"
-      ],
-      "created_at": "2026-10-09T10:15:57Z",
-      "updated_at": "2026-10-15T04:36:21Z",
-      "rank": 19
+      "rank": 23
     },
     {
       "name": "wousp112/justin-sun-alan-shao-ai-notes",
@@ -495,7 +594,7 @@
       "description": "孙宇晨 × 邵艾伦 4 小时对谈：全文 + 精华 + 一键丢给 AI 的规划 prompt",
       "full_description": "孙宇晨 × 邵艾伦 4 小时对谈：全文 + 精华 + 一键丢给 AI 的规划 prompt",
       "language": "",
-      "stars": 142,
+      "stars": 147,
       "stars_gained": 0,
       "forks": 12,
       "topics": [
@@ -507,31 +606,8 @@
         "prompt-engineering"
       ],
       "created_at": "2026-10-09T06:01:01Z",
-      "updated_at": "2026-10-15T02:31:44Z",
-      "rank": 20
-    },
-    {
-      "name": "init-co-jp/diff-tour",
-      "url": "https://github.com/init-co-jp/diff-tour",
-      "description": "Walk through a diff the way a senior engineer reads it. A read-only TUI that turns a git change into a guided tour.",
-      "full_description": "Walk through a diff the way a senior engineer reads it. A read-only TUI that turns a git change into a guided tour.",
-      "language": "Go",
-      "stars": 136,
-      "stars_gained": 0,
-      "forks": 6,
-      "topics": [
-        "cli",
-        "code-review",
-        "git",
-        "go",
-        "learning",
-        "llm",
-        "onboarding",
-        "tui"
-      ],
-      "created_at": "2026-10-10T09:19:05Z",
-      "updated_at": "2026-10-15T04:08:45Z",
-      "rank": 21
+      "updated_at": "2026-10-16T03:41:37Z",
+      "rank": 24
     },
     {
       "name": "lawrencewzen/wx-bot",
@@ -539,9 +615,9 @@
       "description": "把微信接入你的 AI Agent（Grok / Muse / Claude 等）· Connect WeChat to your personal AI agent via official iLink",
       "full_description": "把微信接入你的 AI Agent（Grok / Muse / Claude 等）· Connect WeChat to your personal AI agent via official iLink",
       "language": "TypeScript",
-      "stars": 135,
+      "stars": 138,
       "stars_gained": 0,
-      "forks": 24,
+      "forks": 25,
       "topics": [
         "ai-agent",
         "bun",
@@ -552,67 +628,35 @@
         "wechat-bot"
       ],
       "created_at": "2026-10-09T12:51:25Z",
-      "updated_at": "2026-10-15T01:59:38Z",
-      "rank": 22
+      "updated_at": "2026-10-16T04:45:04Z",
+      "rank": 25
     },
     {
-      "name": "cdcailf/cjkfold",
-      "url": "https://github.com/cdcailf/cjkfold",
-      "description": "Fold look-alike CJK glyphs (Kangxi radicals, CJK radical supplements) so text extracted from PDFs matches again.",
-      "full_description": "Fold look-alike CJK glyphs (Kangxi radicals, CJK radical supplements) so text extracted from PDFs matches again.",
-      "language": "Python",
-      "stars": 131,
+      "name": "sitor-ai/frametell",
+      "url": "https://github.com/sitor-ai/frametell",
+      "description": "Frametell: turn your ideas and material into vivid explainer videos with an AI director agent. Local-first, any model.",
+      "full_description": "Frametell: turn your ideas and material into vivid explainer videos with an AI director agent. Local-first, any model.",
+      "language": "TypeScript",
+      "stars": 120,
       "stars_gained": 0,
-      "forks": 1,
+      "forks": 21,
       "topics": [
-        "chinese",
-        "cjk",
-        "nfkc",
-        "nlp",
-        "pdf-extraction",
-        "rag",
-        "retrieval",
-        "text-normalization",
-        "unicode"
+        "ai-agent",
+        "ai-video",
+        "edtech",
+        "education",
+        "electron",
+        "explainer-video",
+        "llm",
+        "local-first",
+        "storyboard",
+        "text-to-video",
+        "tts",
+        "video-generation"
       ],
-      "created_at": "2026-10-13T02:16:26Z",
-      "updated_at": "2026-10-15T04:51:23Z",
-      "rank": 23
-    },
-    {
-      "name": "1105216375-alt/resimind",
-      "url": "https://github.com/1105216375-alt/resimind",
-      "description": "Neuro-symbolic agents with verified memory. MCP math tools, an algebra repair Skill, and an open challenge. Verify solutions, learn checked rules, and reuse.",
-      "full_description": "Neuro-symbolic agents with verified memory. MCP math tools, an algebra repair Skill, and an open challenge. Verify solutions, learn checked rules, and reuse.",
-      "language": "Python",
-      "stars": 117,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "agent-memory",
-        "agent-skills",
-        "ai-agents",
-        "customer-support",
-        "knowledge-growth",
-        "knowledge-reuse",
-        "lean4",
-        "llm-agents",
-        "mathematics",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "neuro-symbolic",
-        "planning",
-        "reasoning",
-        "residual-reasoning",
-        "self-correction",
-        "structural-engineering",
-        "symbolic-reasoning",
-        "verification"
-      ],
-      "created_at": "2026-10-08T02:15:17Z",
-      "updated_at": "2026-10-15T04:49:12Z",
-      "rank": 24
+      "created_at": "2026-10-10T10:02:14Z",
+      "updated_at": "2026-10-16T04:46:52Z",
+      "rank": 26
     },
     {
       "name": "jumpersun/meal-puzzle",
@@ -620,7 +664,7 @@
       "description": "套餐拼图 · 把每个人想吃的拼成一桌：真实麦当劳菜单、心愿组合、官方核价与按人分餐。",
       "full_description": "套餐拼图 · 把每个人想吃的拼成一桌：真实麦当劳菜单、心愿组合、官方核价与按人分餐。",
       "language": "JavaScript",
-      "stars": 113,
+      "stars": 115,
       "stars_gained": 0,
       "forks": 5,
       "topics": [
@@ -630,8 +674,8 @@
         "meal-planning"
       ],
       "created_at": "2026-10-13T02:44:25Z",
-      "updated_at": "2026-10-15T01:50:13Z",
-      "rank": 25
+      "updated_at": "2026-10-15T18:10:48Z",
+      "rank": 27
     },
     {
       "name": "sepehr071/awesome-iran-mcp",
@@ -639,7 +683,7 @@
       "description": "19 open-source MCP servers (308 tools) that give AI agents the Iranian web: Digikala, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche and more. Prices in Toman.",
       "full_description": "19 open-source MCP servers (308 tools) that give AI agents the Iranian web: Digikala, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche and more. Prices in Toman.",
       "language": "Python",
-      "stars": 98,
+      "stars": 103,
       "stars_gained": 0,
       "forks": 11,
       "topics": [
@@ -661,77 +705,32 @@
         "unofficial-api"
       ],
       "created_at": "2026-10-11T12:42:59Z",
-      "updated_at": "2026-10-15T04:10:36Z",
-      "rank": 26
-    },
-    {
-      "name": "zhutoumeme/mcd-git",
-      "url": "https://github.com/zhutoumeme/mcd-git",
-      "description": "用 git 命令点麦当劳：add 放购物车，rebase 凑最省，push 确认后才下单；card 生成 1024 吃麦贡献图（3D 汉堡天际线 / 年度小票）。基于麦当劳 MCP Server，附 --demo 无 Token 试玩和 Agent Skill。非官方参赛作品。",
-      "full_description": "用 git 命令点麦当劳：add 放购物车，rebase 凑最省，push 确认后才下单；card 生成 1024 吃麦贡献图（3D 汉堡天际线 / 年度小票）。基于麦当劳 MCP Server，附 --demo 无 Token 试玩和 Agent Skill。非官方参赛作品。",
-      "language": "Python",
-      "stars": 83,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "agent-skills",
-        "claude-code",
-        "cli",
-        "git",
-        "mcdonalds",
-        "mcp",
-        "mcp-client",
-        "model-context-protocol",
-        "python",
-        "terminal",
-        "workbuddy"
-      ],
-      "created_at": "2026-10-10T14:46:47Z",
-      "updated_at": "2026-10-15T02:03:45Z",
-      "rank": 27
-    },
-    {
-      "name": "Zafer-Liu/mcd-event-radar",
-      "url": "https://github.com/Zafer-Liu/mcd-event-radar",
-      "description": "麦当劳 MCP Agent Skill：查「附近有什么麦麦活动」，生成卡通活动地图——门店位置取自官方经纬度，只展示已核实可预约场次 🍟",
-      "full_description": "麦当劳 MCP Agent Skill：查「附近有什么麦麦活动」，生成卡通活动地图——门店位置取自官方经纬度，只展示已核实可预约场次 🍟",
-      "language": "JavaScript",
-      "stars": 73,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "agent-skill",
-        "event-map",
-        "mcdonalds",
-        "mcp",
-        "mcp-server",
-        "skill",
-        "workbuddy"
-      ],
-      "created_at": "2026-10-09T11:28:06Z",
-      "updated_at": "2026-10-12T22:34:06Z",
+      "updated_at": "2026-10-16T00:16:43Z",
       "rank": 28
     },
     {
-      "name": "FeedHive/ai-slop-detector",
-      "url": "https://github.com/FeedHive/ai-slop-detector",
-      "description": "120 patterns that make writing read like AI slop, with an agent skill for Claude Code and Codex.",
-      "full_description": "120 patterns that make writing read like AI slop, with an agent skill for Claude Code and Codex.",
-      "language": "JavaScript",
-      "stars": 72,
+      "name": "Kai-Jungsthoefel/SOMA",
+      "url": "https://github.com/Kai-Jungsthoefel/SOMA",
+      "description": "Desktop app for designing parametric 3D models in CadQuery together with the coding agent of your choice",
+      "full_description": "Desktop app for designing parametric 3D models in CadQuery together with the coding agent of your choice",
+      "language": "TypeScript",
+      "stars": 99,
       "stars_gained": 0,
-      "forks": 4,
+      "forks": 6,
       "topics": [
-        "agent-skills",
-        "ai-slop",
-        "ai-writing",
+        "3d-printing",
+        "agent",
+        "agentic-ai",
+        "cad",
+        "cadquery",
         "claude-code",
-        "copywriting",
-        "llm",
-        "writing"
+        "codex",
+        "fem",
+        "opencode",
+        "parametric-design"
       ],
-      "created_at": "2026-10-12T09:38:49Z",
-      "updated_at": "2026-10-15T00:59:11Z",
+      "created_at": "2026-10-10T18:01:10Z",
+      "updated_at": "2026-10-16T04:41:53Z",
       "rank": 29
     },
     {
@@ -740,7 +739,7 @@
       "description": "McDonald's China MCP innovation skill - entry for MCD Developer Innovation Challenge 2026 (1024 Programmers' Day)",
       "full_description": "McDonald's China MCP innovation skill - entry for MCD Developer Innovation Challenge 2026 (1024 Programmers' Day)",
       "language": "",
-      "stars": 71,
+      "stars": 84,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -751,7 +750,7 @@
         "workbuddy"
       ],
       "created_at": "2026-10-09T14:25:37Z",
-      "updated_at": "2026-10-15T04:55:42Z",
+      "updated_at": "2026-10-16T03:34:28Z",
       "rank": 30
     }
   ]
