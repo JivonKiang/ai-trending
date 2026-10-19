@@ -1,46 +1,18 @@
 {
-  "updated": "2026-10-18T04:53:53.816760+00:00",
+  "updated": "2026-10-19T05:02:25.992931+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
   "projects": [
-    {
-      "name": "NandhaKishorM/laya",
-      "url": "https://github.com/NandhaKishorM/laya",
-      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "full_description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "language": "Python",
-      "stars": 33288,
-      "stars_gained": 0,
-      "forks": 2985,
-      "topics": [
-        "calibration",
-        "classification",
-        "decision-model",
-        "huggingface",
-        "jev",
-        "modernbert",
-        "multilingual",
-        "nlp",
-        "python",
-        "pytorch",
-        "routing",
-        "typed-decisions",
-        "zero-shot"
-      ],
-      "created_at": "2026-09-18T04:46:33Z",
-      "updated_at": "2026-10-18T04:53:12Z",
-      "rank": 1
-    },
     {
       "name": "Ebony-Vinyl/dsh-our-free-model",
       "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
       "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
       "full_description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
       "language": "JavaScript",
-      "stars": 22439,
+      "stars": 25443,
       "stars_gained": 0,
-      "forks": 483,
+      "forks": 547,
       "topics": [
         "ai-agents",
         "deepseek",
@@ -54,8 +26,8 @@
         "openai-compatible"
       ],
       "created_at": "2026-09-24T16:17:19Z",
-      "updated_at": "2026-10-18T04:53:48Z",
-      "rank": 2
+      "updated_at": "2026-10-19T05:02:20Z",
+      "rank": 1
     },
     {
       "name": "yetone/magpie",
@@ -63,9 +35,9 @@
       "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "full_description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "language": "Go",
-      "stars": 15257,
+      "stars": 16263,
       "stars_gained": 0,
-      "forks": 1096,
+      "forks": 1178,
       "topics": [
         "claude-code",
         "codex",
@@ -75,8 +47,8 @@
         "macos"
       ],
       "created_at": "2026-09-23T16:22:35Z",
-      "updated_at": "2026-10-18T04:51:45Z",
-      "rank": 3
+      "updated_at": "2026-10-19T05:01:10Z",
+      "rank": 2
     },
     {
       "name": "rehan-remade/universal-modder",
@@ -84,9 +56,9 @@
       "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "full_description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "language": "Python",
-      "stars": 8262,
+      "stars": 8368,
       "stars_gained": 0,
-      "forks": 899,
+      "forks": 915,
       "topics": [
         "age-of-empires",
         "claude-code",
@@ -100,8 +72,8 @@
         "tmodloader"
       ],
       "created_at": "2026-09-30T05:00:35Z",
-      "updated_at": "2026-10-18T04:51:24Z",
-      "rank": 4
+      "updated_at": "2026-10-19T04:54:00Z",
+      "rank": 3
     },
     {
       "name": "KKKKhazix/AIHOT",
@@ -109,9 +81,9 @@
       "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "full_description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "language": "TypeScript",
-      "stars": 7963,
+      "stars": 8033,
       "stars_gained": 0,
-      "forks": 1931,
+      "forks": 1954,
       "topics": [
         "ai",
         "chinese",
@@ -127,8 +99,8 @@
         "typescript"
       ],
       "created_at": "2026-09-28T23:40:05Z",
-      "updated_at": "2026-10-18T04:37:22Z",
-      "rank": 5
+      "updated_at": "2026-10-19T04:42:10Z",
+      "rank": 4
     },
     {
       "name": "jev-chat/jev-chat-jarvis",
@@ -136,9 +108,9 @@
       "description": "The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android · Windows · macOS · iOS | 聊天辅助决策工具：先看懂对方再回复，发不发由你。",
       "full_description": "The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android · Windows · macOS · iOS | 聊天辅助决策工具：先看懂对方再回复，发不发由你。",
       "language": "Kotlin",
-      "stars": 7867,
+      "stars": 7896,
       "stars_gained": 0,
-      "forks": 1275,
+      "forks": 1282,
       "topics": [
         "accessibility-service",
         "ai-assistant",
@@ -151,8 +123,8 @@
         "whatsapp"
       ],
       "created_at": "2026-09-21T11:12:53Z",
-      "updated_at": "2026-10-18T03:45:12Z",
-      "rank": 6
+      "updated_at": "2026-10-19T04:47:01Z",
+      "rank": 5
     },
     {
       "name": "mizorewww/laya-mlx",
@@ -160,9 +132,9 @@
       "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
       "full_description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
       "language": "Python",
-      "stars": 6958,
+      "stars": 6969,
       "stars_gained": 0,
-      "forks": 568,
+      "forks": 569,
       "topics": [
         "apple-silicon",
         "decision-model",
@@ -176,32 +148,8 @@
         "typed-decisions"
       ],
       "created_at": "2026-09-19T13:50:26Z",
-      "updated_at": "2026-10-18T03:59:06Z",
-      "rank": 7
-    },
-    {
-      "name": "shader-effects-inc/shaders",
-      "url": "https://github.com/shader-effects-inc/shaders",
-      "description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
-      "full_description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
-      "language": "TypeScript",
-      "stars": 5009,
-      "stars_gained": 0,
-      "forks": 215,
-      "topics": [
-        "cli",
-        "javascript",
-        "mcp",
-        "react",
-        "shaders",
-        "solid",
-        "svelte",
-        "vue",
-        "webgpu-shaders"
-      ],
-      "created_at": "2026-09-29T16:36:26Z",
-      "updated_at": "2026-10-18T04:32:49Z",
-      "rank": 8
+      "updated_at": "2026-10-19T03:47:38Z",
+      "rank": 6
     },
     {
       "name": "tangency-labs/solidcraft",
@@ -209,9 +157,9 @@
       "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
       "full_description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
       "language": "Rust",
-      "stars": 4428,
+      "stars": 5952,
       "stars_gained": 0,
-      "forks": 521,
+      "forks": 692,
       "topics": [
         "3d-modeling",
         "brep",
@@ -224,8 +172,32 @@
         "wasm"
       ],
       "created_at": "2026-10-07T18:57:48Z",
-      "updated_at": "2026-10-18T04:53:29Z",
-      "rank": 9
+      "updated_at": "2026-10-19T05:02:22Z",
+      "rank": 7
+    },
+    {
+      "name": "shader-effects-inc/shaders",
+      "url": "https://github.com/shader-effects-inc/shaders",
+      "description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
+      "full_description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
+      "language": "TypeScript",
+      "stars": 5082,
+      "stars_gained": 0,
+      "forks": 225,
+      "topics": [
+        "cli",
+        "javascript",
+        "mcp",
+        "react",
+        "shaders",
+        "solid",
+        "svelte",
+        "vue",
+        "webgpu-shaders"
+      ],
+      "created_at": "2026-09-29T16:36:26Z",
+      "updated_at": "2026-10-19T04:56:58Z",
+      "rank": 8
     },
     {
       "name": "LosaLosSantos/aurelio-finance",
@@ -233,9 +205,9 @@
       "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
       "full_description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
       "language": "Python",
-      "stars": 3951,
+      "stars": 3963,
       "stars_gained": 0,
-      "forks": 498,
+      "forks": 501,
       "topics": [
         "ai",
         "dividends",
@@ -253,8 +225,8 @@
         "wealth-management"
       ],
       "created_at": "2026-10-06T20:14:19Z",
-      "updated_at": "2026-10-17T22:40:02Z",
-      "rank": 10
+      "updated_at": "2026-10-19T04:02:08Z",
+      "rank": 9
     },
     {
       "name": "QingYunA/answer-me-with-html",
@@ -262,9 +234,9 @@
       "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "full_description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "language": "JavaScript",
-      "stars": 3634,
+      "stars": 3715,
       "stars_gained": 0,
-      "forks": 254,
+      "forks": 260,
       "topics": [
         "agent-skill",
         "ai-agent",
@@ -281,41 +253,8 @@
         "ste100"
       ],
       "created_at": "2026-10-02T09:57:40Z",
-      "updated_at": "2026-10-18T04:52:06Z",
-      "rank": 11
-    },
-    {
-      "name": "Oldcircle/geo-sleuth",
-      "url": "https://github.com/Oldcircle/geo-sleuth",
-      "description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
-      "full_description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
-      "language": "Python",
-      "stars": 3249,
-      "stars_gained": 0,
-      "forks": 432,
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "computer-vision",
-        "cursor",
-        "gemini-cli",
-        "geoguessr",
-        "geoint",
-        "geolocation",
-        "github-copilot",
-        "image-geolocation",
-        "opencode",
-        "openstreetmap",
-        "osint",
-        "photo-geolocation",
-        "reverse-image-search",
-        "satellite-imagery"
-      ],
-      "created_at": "2026-09-18T08:51:34Z",
-      "updated_at": "2026-10-18T04:31:42Z",
-      "rank": 12
+      "updated_at": "2026-10-19T04:10:58Z",
+      "rank": 10
     },
     {
       "name": "Jakeschincariol/replica-skill",
@@ -323,9 +262,9 @@
       "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
       "full_description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
       "language": "Python",
-      "stars": 3198,
+      "stars": 3423,
       "stars_gained": 0,
-      "forks": 498,
+      "forks": 553,
       "topics": [
         "agent",
         "agent-skills",
@@ -338,8 +277,8 @@
         "saas"
       ],
       "created_at": "2026-10-03T12:07:49Z",
-      "updated_at": "2026-10-18T04:40:54Z",
-      "rank": 13
+      "updated_at": "2026-10-19T04:20:06Z",
+      "rank": 11
     },
     {
       "name": "onehumanbeing/esp32-iphone-agent",
@@ -347,9 +286,9 @@
       "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "full_description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "language": "C",
-      "stars": 3017,
+      "stars": 3162,
       "stars_gained": 0,
-      "forks": 391,
+      "forks": 416,
       "topics": [
         "ai-agent",
         "airplay",
@@ -362,8 +301,8 @@
         "usb-hid"
       ],
       "created_at": "2026-10-11T19:10:25Z",
-      "updated_at": "2026-10-18T04:45:13Z",
-      "rank": 14
+      "updated_at": "2026-10-19T04:58:57Z",
+      "rank": 12
     },
     {
       "name": "nanaism/yomiyasu",
@@ -371,9 +310,9 @@
       "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
       "full_description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
       "language": "Python",
-      "stars": 2199,
+      "stars": 2239,
       "stars_gained": 0,
-      "forks": 68,
+      "forks": 74,
       "topics": [
         "agent-skills",
         "ai-writing",
@@ -391,29 +330,8 @@
         "writing-tool"
       ],
       "created_at": "2026-09-30T11:49:32Z",
-      "updated_at": "2026-10-18T04:36:51Z",
-      "rank": 15
-    },
-    {
-      "name": "Inkloom-art/inkloom",
-      "url": "https://github.com/Inkloom-art/inkloom",
-      "description": "Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
-      "full_description": "Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
-      "language": "TypeScript",
-      "stars": 1913,
-      "stars_gained": 0,
-      "forks": 1954,
-      "topics": [
-        "brand-identity",
-        "cloudflare-workers",
-        "design-systems",
-        "generative-ai",
-        "logo-design",
-        "typography"
-      ],
-      "created_at": "2026-09-20T07:54:30Z",
-      "updated_at": "2026-10-18T04:29:31Z",
-      "rank": 16
+      "updated_at": "2026-10-19T04:41:34Z",
+      "rank": 13
     },
     {
       "name": "deeplethe/solid-glass",
@@ -421,9 +339,9 @@
       "description": "A design system for AI applications. Material, physical, tactile, technical.",
       "full_description": "A design system for AI applications. Material, physical, tactile, technical.",
       "language": "TypeScript",
-      "stars": 1816,
+      "stars": 2151,
       "stars_gained": 0,
-      "forks": 22,
+      "forks": 27,
       "topics": [
         "agent-ui",
         "ai",
@@ -438,62 +356,29 @@
         "theme"
       ],
       "created_at": "2026-10-12T09:19:02Z",
-      "updated_at": "2026-10-18T04:53:51Z",
-      "rank": 17
+      "updated_at": "2026-10-19T05:02:14Z",
+      "rank": 14
     },
     {
-      "name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-      "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-      "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
-      "full_description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
-      "language": "Markdown",
-      "stars": 1758,
+      "name": "Inkloom-art/inkloom",
+      "url": "https://github.com/Inkloom-art/inkloom",
+      "description": "Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
+      "full_description": "Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
+      "language": "TypeScript",
+      "stars": 1932,
       "stars_gained": 0,
-      "forks": 175,
+      "forks": 1974,
       "topics": [
-        "ai",
-        "ai-engineering",
-        "ai-engineering-interview",
-        "ai-interview",
-        "ai-interview-questions",
-        "company-wise-prep",
-        "company-wise-questions",
-        "interview-questions",
-        "llm-inference",
-        "questions-and-answers"
+        "brand-identity",
+        "cloudflare-workers",
+        "design-systems",
+        "generative-ai",
+        "logo-design",
+        "typography"
       ],
-      "created_at": "2026-09-19T04:14:43Z",
-      "updated_at": "2026-10-17T22:52:22Z",
-      "rank": 18
-    },
-    {
-      "name": "jiwoochris/artex-global",
-      "url": "https://github.com/jiwoochris/artex-global",
-      "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "full_description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "language": "Go",
-      "stars": 1633,
-      "stars_gained": 0,
-      "forks": 1924,
-      "topics": [
-        "ai-agent",
-        "autonomous-agents",
-        "blue-team",
-        "cybersecurity",
-        "detection-engineering",
-        "i18n",
-        "korean",
-        "llm",
-        "penetration-testing",
-        "security",
-        "security-research",
-        "security-tools",
-        "sigma-rules",
-        "threat-detection"
-      ],
-      "created_at": "2026-10-03T14:49:48Z",
-      "updated_at": "2026-10-18T04:43:19Z",
-      "rank": 19
+      "created_at": "2026-09-20T07:54:30Z",
+      "updated_at": "2026-10-19T04:52:22Z",
+      "rank": 15
     },
     {
       "name": "Folkbench/folkbench",
@@ -501,7 +386,7 @@
       "description": "AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
       "full_description": "AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
       "language": "Rust",
-      "stars": 1575,
+      "stars": 1894,
       "stars_gained": 0,
       "forks": 9,
       "topics": [
@@ -521,8 +406,62 @@
         "tauri"
       ],
       "created_at": "2026-10-02T09:50:45Z",
-      "updated_at": "2026-10-18T04:51:37Z",
-      "rank": 20
+      "updated_at": "2026-10-19T04:57:58Z",
+      "rank": 16
+    },
+    {
+      "name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+      "full_description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+      "language": "Markdown",
+      "stars": 1760,
+      "stars_gained": 0,
+      "forks": 175,
+      "topics": [
+        "ai",
+        "ai-engineering",
+        "ai-engineering-interview",
+        "ai-interview",
+        "ai-interview-questions",
+        "company-wise-prep",
+        "company-wise-questions",
+        "interview-questions",
+        "llm-inference",
+        "questions-and-answers"
+      ],
+      "created_at": "2026-09-19T04:14:43Z",
+      "updated_at": "2026-10-19T03:22:18Z",
+      "rank": 17
+    },
+    {
+      "name": "jiwoochris/artex-global",
+      "url": "https://github.com/jiwoochris/artex-global",
+      "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "full_description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "language": "Go",
+      "stars": 1676,
+      "stars_gained": 0,
+      "forks": 1968,
+      "topics": [
+        "ai-agent",
+        "autonomous-agents",
+        "blue-team",
+        "cybersecurity",
+        "detection-engineering",
+        "i18n",
+        "korean",
+        "llm",
+        "penetration-testing",
+        "security",
+        "security-research",
+        "security-tools",
+        "sigma-rules",
+        "threat-detection"
+      ],
+      "created_at": "2026-10-03T14:49:48Z",
+      "updated_at": "2026-10-19T04:44:46Z",
+      "rank": 18
     },
     {
       "name": "nano-muse/nanoMuse",
@@ -530,9 +469,9 @@
       "description": "nanoMuse: an open-source personal agent for every device you own. One agent with a name and a look of its own that does things, keeps working while the app is closed, remembers you, and asks before anything you cannot undo. On Android, iPhone and iPad, Windows / macOS / Linux and in the browser; your phone's screen and your computer as its hands.",
       "full_description": "nanoMuse: an open-source personal agent for every device you own. One agent with a name and a look of its own that does things, keeps working while the app is closed, remembers you, and asks before anything you cannot undo. On Android, iPhone and iPad, Windows / macOS / Linux and in the browser; your phone's screen and your computer as its hands.",
       "language": "Swift",
-      "stars": 1398,
+      "stars": 1490,
       "stars_gained": 0,
-      "forks": 154,
+      "forks": 166,
       "topics": [
         "agent-skills",
         "ai-agent",
@@ -554,8 +493,8 @@
         "personal-agent"
       ],
       "created_at": "2026-09-23T06:13:06Z",
-      "updated_at": "2026-10-18T04:09:43Z",
-      "rank": 21
+      "updated_at": "2026-10-19T05:00:42Z",
+      "rank": 19
     },
     {
       "name": "nokia-applied-research/AnyJev",
@@ -563,9 +502,9 @@
       "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
       "full_description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
       "language": "Python",
-      "stars": 1391,
+      "stars": 1419,
       "stars_gained": 0,
-      "forks": 162,
+      "forks": 166,
       "topics": [
         "calibration",
         "decision-model",
@@ -577,8 +516,8 @@
         "vllm"
       ],
       "created_at": "2026-09-21T05:55:40Z",
-      "updated_at": "2026-10-18T03:59:51Z",
-      "rank": 22
+      "updated_at": "2026-10-19T04:25:42Z",
+      "rank": 20
     },
     {
       "name": "PSRben/VisionHOPE",
@@ -586,9 +525,9 @@
       "description": "Official PyTorch implementation of VisionHOPE: Visual Backbones as Self-Modifying Learning Systems.",
       "full_description": "Official PyTorch implementation of VisionHOPE: Visual Backbones as Self-Modifying Learning Systems.",
       "language": "Python",
-      "stars": 1249,
+      "stars": 1273,
       "stars_gained": 0,
-      "forks": 30,
+      "forks": 32,
       "topics": [
         "backbone",
         "backbone-networks",
@@ -600,8 +539,43 @@
         "visual-foundation-models"
       ],
       "created_at": "2026-09-27T06:56:59Z",
-      "updated_at": "2026-10-18T04:02:34Z",
-      "rank": 23
+      "updated_at": "2026-10-19T04:10:54Z",
+      "rank": 21
+    },
+    {
+      "name": "trhhubsd/ARTEX",
+      "url": "https://github.com/trhhubsd/ARTEX",
+      "description": "ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军",
+      "full_description": "ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军",
+      "language": "Go",
+      "stars": 1265,
+      "stars_gained": 0,
+      "forks": 465,
+      "topics": [
+        "ai-agent",
+        "ai-security",
+        "artex",
+        "autonomous-agents",
+        "cybersecurity",
+        "go",
+        "hacking",
+        "llm",
+        "llm-agent",
+        "mcp",
+        "nextjs",
+        "offensive-security",
+        "penetration-testing",
+        "pentest",
+        "red-team",
+        "security",
+        "security-tools",
+        "vulnerability",
+        "vulnerability-scanners",
+        "web-security"
+      ],
+      "created_at": "2026-10-08T20:35:22Z",
+      "updated_at": "2026-10-19T04:04:43Z",
+      "rank": 22
     },
     {
       "name": "marclou/mailcheap",
@@ -609,9 +583,9 @@
       "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
       "full_description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
       "language": "JavaScript",
-      "stars": 1210,
+      "stars": 1237,
       "stars_gained": 0,
-      "forks": 310,
+      "forks": 316,
       "topics": [
         "ai-agents",
         "amazon-ses",
@@ -628,8 +602,8 @@
         "substack-alternative"
       ],
       "created_at": "2026-10-10T12:55:36Z",
-      "updated_at": "2026-10-18T00:29:42Z",
-      "rank": 24
+      "updated_at": "2026-10-19T04:47:26Z",
+      "rank": 23
     },
     {
       "name": "amontlabs/lcu",
@@ -637,9 +611,9 @@
       "description": "Codex computer use, decoupled from the app, for usage inside any harness.",
       "full_description": "Codex computer use, decoupled from the app, for usage inside any harness.",
       "language": "JavaScript",
-      "stars": 1167,
+      "stars": 1179,
       "stars_gained": 0,
-      "forks": 61,
+      "forks": 62,
       "topics": [
         "accessibility",
         "agent-skills",
@@ -655,8 +629,8 @@
         "x11"
       ],
       "created_at": "2026-09-22T15:08:18Z",
-      "updated_at": "2026-10-18T04:11:00Z",
-      "rank": 25
+      "updated_at": "2026-10-19T04:33:57Z",
+      "rank": 24
     },
     {
       "name": "zhuyansen/new-term-radar",
@@ -664,9 +638,9 @@
       "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
       "full_description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
       "language": "Python",
-      "stars": 1086,
+      "stars": 1112,
       "stars_gained": 0,
-      "forks": 422,
+      "forks": 425,
       "topics": [
         "agent-skills",
         "ai",
@@ -681,8 +655,8 @@
         "trends"
       ],
       "created_at": "2026-10-12T07:11:01Z",
-      "updated_at": "2026-10-18T04:16:41Z",
-      "rank": 26
+      "updated_at": "2026-10-19T03:33:31Z",
+      "rank": 25
     },
     {
       "name": "mw00/project-maya",
@@ -690,9 +664,9 @@
       "description": "Project Maya - run GLM-5.3-Flash (321B MoE) privately on your own GPU(s), from one card to 16, NVIDIA or AMD, Linux or Windows. Engine, server, dashboard, OpenAI- and Anthropic-compatible API, quant tools.",
       "full_description": "Project Maya - run GLM-5.3-Flash (321B MoE) privately on your own GPU(s), from one card to 16, NVIDIA or AMD, Linux or Windows. Engine, server, dashboard, OpenAI- and Anthropic-compatible API, quant tools.",
       "language": "C++",
-      "stars": 1014,
+      "stars": 1042,
       "stars_gained": 0,
-      "forks": 131,
+      "forks": 137,
       "topics": [
         "cuda",
         "glm",
@@ -708,60 +682,8 @@
         "self-hosted"
       ],
       "created_at": "2026-10-06T22:55:13Z",
-      "updated_at": "2026-10-18T03:30:48Z",
-      "rank": 27
-    },
-    {
-      "name": "Edwardxlai/easyread",
-      "url": "https://github.com/Edwardxlai/easyread",
-      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "full_description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "language": "Python",
-      "stars": 974,
-      "stars_gained": 0,
-      "forks": 78,
-      "topics": [
-        "academic",
-        "arxiv",
-        "chinese",
-        "claude-code",
-        "codex",
-        "electron",
-        "llm",
-        "paper-reading",
-        "pdf-translator",
-        "reference-manager",
-        "research-tool",
-        "translation"
-      ],
-      "created_at": "2026-09-30T12:52:24Z",
-      "updated_at": "2026-10-18T04:14:18Z",
-      "rank": 28
-    },
-    {
-      "name": "receptron/laya",
-      "url": "https://github.com/receptron/laya",
-      "description": "Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime",
-      "full_description": "Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime",
-      "language": "TypeScript",
-      "stars": 956,
-      "stars_gained": 0,
-      "forks": 79,
-      "topics": [
-        "classification",
-        "decision-model",
-        "inference",
-        "llm",
-        "local-first",
-        "machine-learning",
-        "nodejs",
-        "onnx",
-        "onnxruntime",
-        "typescript"
-      ],
-      "created_at": "2026-09-19T15:30:52Z",
-      "updated_at": "2026-10-18T01:07:03Z",
-      "rank": 29
+      "updated_at": "2026-10-19T04:27:11Z",
+      "rank": 26
     },
     {
       "name": "jwuthri-cloud/Tracely-ai",
@@ -769,9 +691,9 @@
       "description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
       "full_description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
       "language": "Python",
-      "stars": 942,
+      "stars": 1036,
       "stars_gained": 0,
-      "forks": 139,
+      "forks": 143,
       "topics": [
         "agent-evaluation",
         "ai-agents",
@@ -790,7 +712,84 @@
         "tracing"
       ],
       "created_at": "2026-10-11T15:38:03Z",
-      "updated_at": "2026-10-18T04:47:16Z",
+      "updated_at": "2026-10-19T04:50:05Z",
+      "rank": 27
+    },
+    {
+      "name": "Harvil1/codeAgent",
+      "url": "https://github.com/Harvil1/codeAgent",
+      "description": "CodeAgent is an open-source coding agent that lives in your terminal. It understands your repository, plans multi-step changes, writes and edits files, runs commands and tests, and iterates until the task is done — all with a transparent, extensible tool loop.",
+      "full_description": "CodeAgent is an open-source coding agent that lives in your terminal. It understands your repository, plans multi-step changes, writes and edits files, runs commands and tests, and iterates until the task is done — all with a transparent, extensible tool loop.",
+      "language": "Python",
+      "stars": 991,
+      "stars_gained": 0,
+      "forks": 68,
+      "topics": [
+        "agent",
+        "ai-agent",
+        "cli",
+        "coding-agent",
+        "context-engineering",
+        "deepseek",
+        "llm",
+        "mcp",
+        "python",
+        "terminal"
+      ],
+      "created_at": "2026-10-02T05:15:41Z",
+      "updated_at": "2026-10-19T04:51:09Z",
+      "rank": 28
+    },
+    {
+      "name": "Edwardxlai/easyread",
+      "url": "https://github.com/Edwardxlai/easyread",
+      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "full_description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "language": "Python",
+      "stars": 979,
+      "stars_gained": 0,
+      "forks": 78,
+      "topics": [
+        "academic",
+        "arxiv",
+        "chinese",
+        "claude-code",
+        "codex",
+        "electron",
+        "llm",
+        "paper-reading",
+        "pdf-translator",
+        "reference-manager",
+        "research-tool",
+        "translation"
+      ],
+      "created_at": "2026-09-30T12:52:24Z",
+      "updated_at": "2026-10-19T04:09:08Z",
+      "rank": 29
+    },
+    {
+      "name": "receptron/laya",
+      "url": "https://github.com/receptron/laya",
+      "description": "Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime",
+      "full_description": "Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime",
+      "language": "TypeScript",
+      "stars": 962,
+      "stars_gained": 0,
+      "forks": 79,
+      "topics": [
+        "classification",
+        "decision-model",
+        "inference",
+        "llm",
+        "local-first",
+        "machine-learning",
+        "nodejs",
+        "onnx",
+        "onnxruntime",
+        "typescript"
+      ],
+      "created_at": "2026-09-19T15:30:52Z",
+      "updated_at": "2026-10-19T04:46:34Z",
       "rank": 30
     }
   ]
