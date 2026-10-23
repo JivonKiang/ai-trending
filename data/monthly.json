@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T05:10:03.843615+00:00",
+  "updated": "2026-10-23T05:09:37.453893+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
       "full_description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
       "language": "JavaScript",
-      "stars": 34648,
+      "stars": 37311,
       "stars_gained": 0,
-      "forks": 960,
+      "forks": 1073,
       "topics": [
         "ai-agents",
         "deepseek",
@@ -26,7 +26,7 @@
         "openai-compatible"
       ],
       "created_at": "2026-09-24T16:17:19Z",
-      "updated_at": "2026-10-22T05:10:01Z",
+      "updated_at": "2026-10-23T05:09:30Z",
       "rank": 1
     },
     {
@@ -35,9 +35,9 @@
       "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "full_description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "language": "Go",
-      "stars": 18978,
+      "stars": 19710,
       "stars_gained": 0,
-      "forks": 1417,
+      "forks": 1498,
       "topics": [
         "claude-code",
         "codex",
@@ -47,7 +47,7 @@
         "macos"
       ],
       "created_at": "2026-09-23T16:22:35Z",
-      "updated_at": "2026-10-22T05:07:09Z",
+      "updated_at": "2026-10-23T05:08:39Z",
       "rank": 2
     },
     {
@@ -56,9 +56,9 @@
       "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
       "full_description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
       "language": "Rust",
-      "stars": 8961,
+      "stars": 9396,
       "stars_gained": 0,
-      "forks": 1057,
+      "forks": 1129,
       "topics": [
         "3d-modeling",
         "brep",
@@ -71,7 +71,7 @@
         "wasm"
       ],
       "created_at": "2026-10-07T18:57:48Z",
-      "updated_at": "2026-10-22T05:09:28Z",
+      "updated_at": "2026-10-23T05:06:25Z",
       "rank": 3
     },
     {
@@ -80,9 +80,9 @@
       "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "full_description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "language": "Python",
-      "stars": 8638,
+      "stars": 8729,
       "stars_gained": 0,
-      "forks": 950,
+      "forks": 960,
       "topics": [
         "age-of-empires",
         "claude-code",
@@ -96,7 +96,7 @@
         "tmodloader"
       ],
       "created_at": "2026-09-30T05:00:35Z",
-      "updated_at": "2026-10-22T03:50:14Z",
+      "updated_at": "2026-10-23T04:36:52Z",
       "rank": 4
     },
     {
@@ -105,9 +105,9 @@
       "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "full_description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "language": "TypeScript",
-      "stars": 8380,
+      "stars": 8458,
       "stars_gained": 0,
-      "forks": 2005,
+      "forks": 2022,
       "topics": [
         "ai",
         "chinese",
@@ -123,7 +123,7 @@
         "typescript"
       ],
       "created_at": "2026-09-28T23:40:05Z",
-      "updated_at": "2026-10-22T05:01:20Z",
+      "updated_at": "2026-10-23T04:59:21Z",
       "rank": 5
     },
     {
@@ -132,9 +132,9 @@
       "description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
       "full_description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
       "language": "TypeScript",
-      "stars": 5296,
+      "stars": 5337,
       "stars_gained": 0,
-      "forks": 237,
+      "forks": 243,
       "topics": [
         "cli",
         "javascript",
@@ -147,8 +147,32 @@
         "webgpu-shaders"
       ],
       "created_at": "2026-09-29T16:36:26Z",
-      "updated_at": "2026-10-22T05:08:11Z",
+      "updated_at": "2026-10-23T04:54:35Z",
       "rank": 6
+    },
+    {
+      "name": "Jakeschincariol/replica-skill",
+      "url": "https://github.com/Jakeschincariol/replica-skill",
+      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "full_description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "language": "Python",
+      "stars": 4752,
+      "stars_gained": 0,
+      "forks": 841,
+      "topics": [
+        "agent",
+        "agent-skills",
+        "app-clone",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "indie-hacker",
+        "reverse-engineering",
+        "saas"
+      ],
+      "created_at": "2026-10-03T12:07:49Z",
+      "updated_at": "2026-10-23T05:07:50Z",
+      "rank": 7
     },
     {
       "name": "QingYunA/answer-me-with-html",
@@ -156,9 +180,9 @@
       "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "full_description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "language": "JavaScript",
-      "stars": 4201,
+      "stars": 4267,
       "stars_gained": 0,
-      "forks": 281,
+      "forks": 287,
       "topics": [
         "agent-skill",
         "ai-agent",
@@ -175,31 +199,7 @@
         "ste100"
       ],
       "created_at": "2026-10-02T09:57:40Z",
-      "updated_at": "2026-10-22T05:04:17Z",
-      "rank": 7
-    },
-    {
-      "name": "Jakeschincariol/replica-skill",
-      "url": "https://github.com/Jakeschincariol/replica-skill",
-      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-      "full_description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-      "language": "Python",
-      "stars": 4112,
-      "stars_gained": 0,
-      "forks": 719,
-      "topics": [
-        "agent",
-        "agent-skills",
-        "app-clone",
-        "claude",
-        "claude-code",
-        "claude-skills",
-        "indie-hacker",
-        "reverse-engineering",
-        "saas"
-      ],
-      "created_at": "2026-10-03T12:07:49Z",
-      "updated_at": "2026-10-22T05:07:05Z",
+      "updated_at": "2026-10-23T04:19:30Z",
       "rank": 8
     },
     {
@@ -208,9 +208,9 @@
       "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "full_description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "language": "C",
-      "stars": 3506,
+      "stars": 3577,
       "stars_gained": 0,
-      "forks": 462,
+      "forks": 472,
       "topics": [
         "ai-agent",
         "airplay",
@@ -223,7 +223,7 @@
         "usb-hid"
       ],
       "created_at": "2026-10-11T19:10:25Z",
-      "updated_at": "2026-10-22T05:08:13Z",
+      "updated_at": "2026-10-23T05:07:22Z",
       "rank": 9
     },
     {
@@ -232,9 +232,9 @@
       "description": "AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
       "full_description": "AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
       "language": "Rust",
-      "stars": 2459,
+      "stars": 2715,
       "stars_gained": 0,
-      "forks": 11,
+      "forks": 14,
       "topics": [
         "ai",
         "api-relay",
@@ -252,7 +252,7 @@
         "tauri"
       ],
       "created_at": "2026-10-02T09:50:45Z",
-      "updated_at": "2026-10-22T04:38:36Z",
+      "updated_at": "2026-10-23T05:02:30Z",
       "rank": 10
     },
     {
@@ -261,9 +261,9 @@
       "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
       "full_description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
       "language": "Python",
-      "stars": 2387,
+      "stars": 2412,
       "stars_gained": 0,
-      "forks": 62,
+      "forks": 63,
       "topics": [
         "agent-skills",
         "ai-writing",
@@ -281,7 +281,7 @@
         "writing-tool"
       ],
       "created_at": "2026-09-30T11:49:32Z",
-      "updated_at": "2026-10-22T05:02:22Z",
+      "updated_at": "2026-10-23T05:07:07Z",
       "rank": 11
     },
     {
@@ -290,9 +290,9 @@
       "description": "nanoMuse: an open-source personal agent for every device you own. One agent with a name and a look of its own that does things, keeps working while the app is closed, remembers you, and asks before anything you cannot undo. On Android, iPhone and iPad, Windows / macOS / Linux and in the browser; your phone's screen and your computer as its hands.",
       "full_description": "nanoMuse: an open-source personal agent for every device you own. One agent with a name and a look of its own that does things, keeps working while the app is closed, remembers you, and asks before anything you cannot undo. On Android, iPhone and iPad, Windows / macOS / Linux and in the browser; your phone's screen and your computer as its hands.",
       "language": "Swift",
-      "stars": 2208,
+      "stars": 2338,
       "stars_gained": 0,
-      "forks": 251,
+      "forks": 273,
       "topics": [
         "agent-skills",
         "ai-agent",
@@ -314,8 +314,28 @@
         "personal-agent"
       ],
       "created_at": "2026-09-23T06:13:06Z",
-      "updated_at": "2026-10-22T05:03:27Z",
+      "updated_at": "2026-10-23T04:58:37Z",
       "rank": 12
+    },
+    {
+      "name": "Leonxlnx/earshot",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "full_description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "language": "Python",
+      "stars": 2242,
+      "stars_gained": 0,
+      "forks": 137,
+      "topics": [
+        "ai-agents",
+        "audio",
+        "claude-code",
+        "mcp",
+        "sound-design"
+      ],
+      "created_at": "2026-10-15T06:52:46Z",
+      "updated_at": "2026-10-23T05:09:13Z",
+      "rank": 13
     },
     {
       "name": "deeplethe/solid-glass",
@@ -323,9 +343,9 @@
       "description": "A design system for AI applications. Material, physical, tactile, technical.",
       "full_description": "A design system for AI applications. Material, physical, tactile, technical.",
       "language": "TypeScript",
-      "stars": 2101,
+      "stars": 2122,
       "stars_gained": 0,
-      "forks": 32,
+      "forks": 35,
       "topics": [
         "agent-ui",
         "ai",
@@ -340,56 +360,8 @@
         "theme"
       ],
       "created_at": "2026-10-12T09:19:02Z",
-      "updated_at": "2026-10-22T03:00:45Z",
-      "rank": 13
-    },
-    {
-      "name": "Leonxlnx/earshot",
-      "url": "https://github.com/Leonxlnx/earshot",
-      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "full_description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "language": "Python",
-      "stars": 2061,
-      "stars_gained": 0,
-      "forks": 117,
-      "topics": [
-        "ai-agents",
-        "audio",
-        "claude-code",
-        "mcp",
-        "sound-design"
-      ],
-      "created_at": "2026-10-15T06:52:46Z",
-      "updated_at": "2026-10-22T03:47:02Z",
+      "updated_at": "2026-10-23T04:48:42Z",
       "rank": 14
-    },
-    {
-      "name": "amontlabs/lcu",
-      "url": "https://github.com/amontlabs/lcu",
-      "description": "Codex computer use, decoupled from the app, for usage inside any harness.",
-      "full_description": "Codex computer use, decoupled from the app, for usage inside any harness.",
-      "language": "JavaScript",
-      "stars": 2041,
-      "stars_gained": 0,
-      "forks": 131,
-      "topics": [
-        "accessibility",
-        "agent-skills",
-        "browser-automation",
-        "claude-code",
-        "codex-cli",
-        "computer-use",
-        "desktop-automation",
-        "library",
-        "linux",
-        "macos",
-        "mcp",
-        "pi-agent",
-        "x11"
-      ],
-      "created_at": "2026-09-22T15:08:18Z",
-      "updated_at": "2026-10-22T04:53:11Z",
-      "rank": 15
     },
     {
       "name": "jiwoochris/artex-global",
@@ -397,9 +369,9 @@
       "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)",
       "full_description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)",
       "language": "Go",
-      "stars": 1929,
+      "stars": 2026,
       "stars_gained": 0,
-      "forks": 2125,
+      "forks": 2209,
       "topics": [
         "ai-agent",
         "autonomous-agents",
@@ -417,34 +389,8 @@
         "threat-detection"
       ],
       "created_at": "2026-10-03T14:49:48Z",
-      "updated_at": "2026-10-22T04:55:42Z",
-      "rank": 16
-    },
-    {
-      "name": "zhuyansen/new-term-radar",
-      "url": "https://github.com/zhuyansen/new-term-radar",
-      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "full_description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "language": "Python",
-      "stars": 1629,
-      "stars_gained": 0,
-      "forks": 512,
-      "topics": [
-        "agent-skills",
-        "ai",
-        "aisa",
-        "claude-code",
-        "claude-skills",
-        "google-trends",
-        "keyword-research",
-        "mcp",
-        "mcp-server",
-        "seo",
-        "trends"
-      ],
-      "created_at": "2026-10-12T07:11:01Z",
-      "updated_at": "2026-10-22T05:06:33Z",
-      "rank": 17
+      "updated_at": "2026-10-23T05:07:06Z",
+      "rank": 15
     },
     {
       "name": "trhhubsd/ARTEX",
@@ -452,9 +398,9 @@
       "description": "ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军",
       "full_description": "ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军",
       "language": "Go",
-      "stars": 1596,
+      "stars": 1726,
       "stars_gained": 0,
-      "forks": 781,
+      "forks": 849,
       "topics": [
         "ai-agent",
         "ai-security",
@@ -478,8 +424,34 @@
         "web-security"
       ],
       "created_at": "2026-10-08T20:35:22Z",
-      "updated_at": "2026-10-22T05:05:11Z",
-      "rank": 18
+      "updated_at": "2026-10-23T05:03:25Z",
+      "rank": 16
+    },
+    {
+      "name": "zhuyansen/new-term-radar",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "full_description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "language": "Python",
+      "stars": 1705,
+      "stars_gained": 0,
+      "forks": 530,
+      "topics": [
+        "agent-skills",
+        "ai",
+        "aisa",
+        "claude-code",
+        "claude-skills",
+        "google-trends",
+        "keyword-research",
+        "mcp",
+        "mcp-server",
+        "seo",
+        "trends"
+      ],
+      "created_at": "2026-10-12T07:11:01Z",
+      "updated_at": "2026-10-23T05:02:28Z",
+      "rank": 17
     },
     {
       "name": "mw00/project-maya",
@@ -487,9 +459,9 @@
       "description": "Project Maya - run GLM-5.3-Flash (321B MoE) and DeepSeek-V4.1-Flash-1017 (748B MoE) privately on your own GPU(s), from one card to 16, NVIDIA or AMD, Linux or Windows. Engine, server, dashboard, OpenAI- and Anthropic-compatible API, quant tools.",
       "full_description": "Project Maya - run GLM-5.3-Flash (321B MoE) and DeepSeek-V4.1-Flash-1017 (748B MoE) privately on your own GPU(s), from one card to 16, NVIDIA or AMD, Linux or Windows. Engine, server, dashboard, OpenAI- and Anthropic-compatible API, quant tools.",
       "language": "C++",
-      "stars": 1420,
+      "stars": 1523,
       "stars_gained": 0,
-      "forks": 176,
+      "forks": 188,
       "topics": [
         "cuda",
         "deepseek",
@@ -507,7 +479,34 @@
         "self-hosted"
       ],
       "created_at": "2026-10-06T22:55:13Z",
-      "updated_at": "2026-10-22T04:54:08Z",
+      "updated_at": "2026-10-23T04:55:17Z",
+      "rank": 18
+    },
+    {
+      "name": "StartLuxLabs/StartLux-Decision",
+      "url": "https://github.com/StartLuxLabs/StartLux-Decision",
+      "description": "Open decision models from 0.8B to 27B: a calibrated probability for every option in one pass, and a short thought only when unsure. Engine for vLLM, llama.cpp and MLX.",
+      "full_description": "Open decision models from 0.8B to 27B: a calibrated probability for every option in one pass, and a short thought only when unsure. Engine for vLLM, llama.cpp and MLX.",
+      "language": "Python",
+      "stars": 1334,
+      "stars_gained": 0,
+      "forks": 116,
+      "topics": [
+        "agents",
+        "calibration",
+        "classification",
+        "decision-making",
+        "gguf",
+        "inference",
+        "llama-cpp",
+        "llm",
+        "mlx",
+        "open-weights",
+        "reasoning",
+        "vllm"
+      ],
+      "created_at": "2026-09-29T11:53:37Z",
+      "updated_at": "2026-10-23T04:49:37Z",
       "rank": 19
     },
     {
@@ -516,9 +515,9 @@
       "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
       "full_description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
       "language": "JavaScript",
-      "stars": 1296,
+      "stars": 1307,
       "stars_gained": 0,
-      "forks": 330,
+      "forks": 335,
       "topics": [
         "ai-agents",
         "amazon-ses",
@@ -535,7 +534,7 @@
         "substack-alternative"
       ],
       "created_at": "2026-10-10T12:55:36Z",
-      "updated_at": "2026-10-22T04:23:54Z",
+      "updated_at": "2026-10-23T04:14:20Z",
       "rank": 20
     },
     {
@@ -544,9 +543,9 @@
       "description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
       "full_description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
       "language": "Python",
-      "stars": 1166,
+      "stars": 1154,
       "stars_gained": 0,
-      "forks": 147,
+      "forks": 140,
       "topics": [
         "agent-evaluation",
         "ai-agents",
@@ -565,35 +564,8 @@
         "tracing"
       ],
       "created_at": "2026-10-11T15:38:03Z",
-      "updated_at": "2026-10-22T05:00:33Z",
+      "updated_at": "2026-10-23T04:59:59Z",
       "rank": 21
-    },
-    {
-      "name": "StartLuxLabs/StartLux-Decision",
-      "url": "https://github.com/StartLuxLabs/StartLux-Decision",
-      "description": "Open decision models from 0.8B to 27B: a calibrated probability for every option in one pass, and a short thought only when unsure. Engine for vLLM, llama.cpp and MLX.",
-      "full_description": "Open decision models from 0.8B to 27B: a calibrated probability for every option in one pass, and a short thought only when unsure. Engine for vLLM, llama.cpp and MLX.",
-      "language": "Python",
-      "stars": 1121,
-      "stars_gained": 0,
-      "forks": 100,
-      "topics": [
-        "agents",
-        "calibration",
-        "classification",
-        "decision-making",
-        "gguf",
-        "inference",
-        "llama-cpp",
-        "llm",
-        "mlx",
-        "open-weights",
-        "reasoning",
-        "vllm"
-      ],
-      "created_at": "2026-09-29T11:53:37Z",
-      "updated_at": "2026-10-22T04:56:09Z",
-      "rank": 22
     },
     {
       "name": "morluto/awesome-reverse-engineering",
@@ -601,9 +573,9 @@
       "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
       "full_description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
       "language": "Python",
-      "stars": 1077,
+      "stars": 1132,
       "stars_gained": 0,
-      "forks": 246,
+      "forks": 253,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -627,7 +599,27 @@
         "static-analysis"
       ],
       "created_at": "2026-10-09T14:58:20Z",
-      "updated_at": "2026-10-22T05:06:35Z",
+      "updated_at": "2026-10-23T04:53:16Z",
+      "rank": 22
+    },
+    {
+      "name": "reason-machines/reason-network",
+      "url": "https://github.com/reason-machines/reason-network",
+      "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+      "full_description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+      "language": "Rust",
+      "stars": 1089,
+      "stars_gained": 0,
+      "forks": 88,
+      "topics": [
+        "coding-agents",
+        "iroh",
+        "mcp",
+        "peer-to-peer",
+        "reason"
+      ],
+      "created_at": "2026-10-16T15:34:34Z",
+      "updated_at": "2026-10-23T05:08:11Z",
       "rank": 23
     },
     {
@@ -661,9 +653,9 @@
       "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
       "full_description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
       "language": "Python",
-      "stars": 1000,
+      "stars": 1010,
       "stars_gained": 0,
-      "forks": 82,
+      "forks": 83,
       "topics": [
         "academic",
         "arxiv",
@@ -679,42 +671,37 @@
         "translation"
       ],
       "created_at": "2026-09-30T12:52:24Z",
-      "updated_at": "2026-10-22T02:48:33Z",
+      "updated_at": "2026-10-22T17:51:26Z",
       "rank": 25
     },
     {
-      "name": "LiCinCan/blender-ai-mcp-addon",
-      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "full_description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "name": "hujjun/mcd-saver-strategist",
+      "url": "https://github.com/hujjun/mcd-saver-strategist",
+      "description": "麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimizer · McDonalds China MCP Server · Agent Skill for WorkBuddy · 麦当劳程序员创意开发大赛参赛作品",
+      "full_description": "麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimizer · McDonalds China MCP Server · Agent Skill for WorkBuddy · 麦当劳程序员创意开发大赛参赛作品",
       "language": "Python",
-      "stars": 976,
+      "stars": 997,
       "stars_gained": 0,
-      "forks": 390,
+      "forks": 55,
       "topics": [
-        "ai-assistant",
-        "blender",
-        "blender-addon",
-        "blender-ai",
-        "blender-automation",
-        "blender-extension",
-        "blender-mcp",
-        "blender-plugin",
-        "blender-python",
-        "blender-scripting",
-        "bpy",
-        "chatgpt",
-        "gpt",
-        "llm",
+        "agent-skill",
+        "ai-agent",
+        "coupon-optimizer",
+        "coupons",
+        "deterministic-optimization",
+        "fast-food",
+        "mcd",
+        "mcdonalds",
+        "mcdonalds-mcp",
         "mcp",
-        "mcp-for-blender",
         "mcp-server",
-        "model-context-protocol",
-        "opencode",
-        "python"
+        "money-saving",
+        "python",
+        "workbuddy",
+        "workbuddy-skill"
       ],
-      "created_at": "2026-10-15T22:30:47Z",
-      "updated_at": "2026-10-22T01:49:31Z",
+      "created_at": "2026-10-09T03:21:52Z",
+      "updated_at": "2026-10-23T04:57:41Z",
       "rank": 26
     },
     {
@@ -723,9 +710,9 @@
       "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
       "full_description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
       "language": "JavaScript",
-      "stars": 963,
+      "stars": 991,
       "stars_gained": 0,
-      "forks": 89,
+      "forks": 92,
       "topics": [
         "agent-skills",
         "ai",
@@ -737,8 +724,52 @@
         "video"
       ],
       "created_at": "2026-10-06T18:18:49Z",
-      "updated_at": "2026-10-22T04:25:34Z",
+      "updated_at": "2026-10-23T03:47:02Z",
       "rank": 27
+    },
+    {
+      "name": "datalab-to/indra",
+      "url": "https://github.com/datalab-to/indra",
+      "description": "1M param OCR model - runs on CPU, 15x faster than tesseract, close to 1B+ param models in accuracy",
+      "full_description": "1M param OCR model - runs on CPU, 15x faster than tesseract, close to 1B+ param models in accuracy",
+      "language": "Python",
+      "stars": 956,
+      "stars_gained": 0,
+      "forks": 97,
+      "topics": [
+        "ai",
+        "cpu",
+        "document-parsing",
+        "ocr",
+        "onnx",
+        "pdf"
+      ],
+      "created_at": "2026-10-13T11:07:11Z",
+      "updated_at": "2026-10-23T03:56:29Z",
+      "rank": 28
+    },
+    {
+      "name": "PSRben/VisionHOPE",
+      "url": "https://github.com/PSRben/VisionHOPE",
+      "description": "Official PyTorch implementation of VisionHOPE: Visual Backbones as Self-Modifying Learning Systems.",
+      "full_description": "Official PyTorch implementation of VisionHOPE: Visual Backbones as Self-Modifying Learning Systems.",
+      "language": "Python",
+      "stars": 955,
+      "stars_gained": 0,
+      "forks": 42,
+      "topics": [
+        "backbone",
+        "backbone-networks",
+        "computer-vision",
+        "foundation-models",
+        "image-classification",
+        "nested-learning",
+        "vision-framework",
+        "visual-foundation-models"
+      ],
+      "created_at": "2026-09-27T06:56:59Z",
+      "updated_at": "2026-10-23T04:44:29Z",
+      "rank": 29
     },
     {
       "name": "outcrawlai/scout",
@@ -746,9 +777,9 @@
       "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
       "full_description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
       "language": "TypeScript",
-      "stars": 959,
+      "stars": 940,
       "stars_gained": 0,
-      "forks": 30,
+      "forks": 31,
       "topics": [
         "ai-agent",
         "browser-agent",
@@ -759,48 +790,7 @@
         "web-automation"
       ],
       "created_at": "2026-10-13T09:18:55Z",
-      "updated_at": "2026-10-22T02:54:53Z",
-      "rank": 28
-    },
-    {
-      "name": "reason-machines/reason-network",
-      "url": "https://github.com/reason-machines/reason-network",
-      "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
-      "full_description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
-      "language": "Rust",
-      "stars": 948,
-      "stars_gained": 0,
-      "forks": 79,
-      "topics": [
-        "coding-agents",
-        "iroh",
-        "mcp",
-        "peer-to-peer",
-        "reason"
-      ],
-      "created_at": "2026-10-16T15:34:34Z",
-      "updated_at": "2026-10-22T04:57:04Z",
-      "rank": 29
-    },
-    {
-      "name": "datalab-to/indra",
-      "url": "https://github.com/datalab-to/indra",
-      "description": "1M param OCR model - runs on CPU, 15x faster than tesseract, close to 1B+ param models in accuracy",
-      "full_description": "1M param OCR model - runs on CPU, 15x faster than tesseract, close to 1B+ param models in accuracy",
-      "language": "Python",
-      "stars": 896,
-      "stars_gained": 0,
-      "forks": 90,
-      "topics": [
-        "ai",
-        "cpu",
-        "document-parsing",
-        "ocr",
-        "onnx",
-        "pdf"
-      ],
-      "created_at": "2026-10-13T11:07:11Z",
-      "updated_at": "2026-10-22T04:37:46Z",
+      "updated_at": "2026-10-22T22:37:06Z",
       "rank": 30
     }
   ]
