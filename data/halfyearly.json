@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T04:52:32.026434+00:00",
+  "updated": "2026-10-25T05:03:36.607565+00:00",
   "period": "halfyearly",
   "label": "半年",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "full_description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars": 174906,
+      "stars": 175622,
       "stars_gained": 0,
-      "forks": 9529,
+      "forks": 9577,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -26,7 +26,7 @@
         "yagni"
       ],
       "created_at": "2026-06-12T00:52:37Z",
-      "updated_at": "2026-10-24T04:51:50Z",
+      "updated_at": "2026-10-25T05:03:09Z",
       "rank": 1
     },
     {
@@ -35,9 +35,9 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "full_description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars": 48163,
+      "stars": 48212,
       "stars_gained": 0,
-      "forks": 3526,
+      "forks": 3529,
       "topics": [
         "agent",
         "agent-skills",
@@ -47,7 +47,7 @@
         "repository-level-context"
       ],
       "created_at": "2026-05-18T02:16:36Z",
-      "updated_at": "2026-10-24T04:45:53Z",
+      "updated_at": "2026-10-25T04:52:00Z",
       "rank": 2
     },
     {
@@ -56,9 +56,9 @@
       "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
       "full_description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
       "language": "JavaScript",
-      "stars": 39598,
+      "stars": 41609,
       "stars_gained": 0,
-      "forks": 1138,
+      "forks": 1191,
       "topics": [
         "ai-agents",
         "deepseek",
@@ -72,7 +72,7 @@
         "openai-compatible"
       ],
       "created_at": "2026-09-24T16:17:19Z",
-      "updated_at": "2026-10-24T04:52:21Z",
+      "updated_at": "2026-10-25T05:03:34Z",
       "rank": 3
     },
     {
@@ -81,9 +81,9 @@
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "full_description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars": 35900,
+      "stars": 35999,
       "stars_gained": 0,
-      "forks": 3799,
+      "forks": 3807,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -100,7 +100,7 @@
         "study-tools"
       ],
       "created_at": "2026-05-01T02:09:39Z",
-      "updated_at": "2026-10-24T04:51:00Z",
+      "updated_at": "2026-10-25T04:43:29Z",
       "rank": 4
     },
     {
@@ -109,9 +109,9 @@
       "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "full_description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "language": "Python",
-      "stars": 34120,
+      "stars": 34220,
       "stars_gained": 0,
-      "forks": 3071,
+      "forks": 3074,
       "topics": [
         "calibration",
         "classification",
@@ -128,43 +128,8 @@
         "zero-shot"
       ],
       "created_at": "2026-09-18T04:46:33Z",
-      "updated_at": "2026-10-24T04:51:43Z",
+      "updated_at": "2026-10-25T04:48:23Z",
       "rank": 5
-    },
-    {
-      "name": "ifixai-ai/iFixAi",
-      "url": "https://github.com/ifixai-ai/iFixAi",
-      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
-      "full_description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
-      "language": "Python",
-      "stars": 33820,
-      "stars_gained": 0,
-      "forks": 1713,
-      "topics": [
-        "agent-evaluation",
-        "ai",
-        "ai-alignment",
-        "ai-evaluation",
-        "ai-governance",
-        "ai-safety",
-        "cli",
-        "diagnostic-tool",
-        "eu-ai-act",
-        "hallucination-detection",
-        "iso-42001",
-        "llm-evaluation",
-        "llm-security",
-        "nist-ai-rmf",
-        "owasp-llm",
-        "prompt-injection",
-        "python",
-        "responsible-ai",
-        "risk-assessment",
-        "risk-management"
-      ],
-      "created_at": "2026-04-27T13:02:34Z",
-      "updated_at": "2026-10-24T04:50:52Z",
-      "rank": 6
     },
     {
       "name": "t8y2/dbx",
@@ -172,9 +137,9 @@
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "full_description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "language": "Rust",
-      "stars": 27655,
+      "stars": 27698,
       "stars_gained": 0,
-      "forks": 2473,
+      "forks": 2476,
       "topics": [
         "ai",
         "cli",
@@ -196,8 +161,8 @@
         "vue"
       ],
       "created_at": "2026-04-29T03:00:36Z",
-      "updated_at": "2026-10-24T04:11:40Z",
-      "rank": 7
+      "updated_at": "2026-10-25T04:01:40Z",
+      "rank": 6
     },
     {
       "name": "hypit-ai/hypit",
@@ -205,9 +170,9 @@
       "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
       "full_description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
       "language": "TypeScript",
-      "stars": 25158,
+      "stars": 25425,
       "stars_gained": 0,
-      "forks": 2862,
+      "forks": 2904,
       "topics": [
         "agentic-ai",
         "ai",
@@ -231,8 +196,8 @@
         "video-generation"
       ],
       "created_at": "2026-07-29T18:49:19Z",
-      "updated_at": "2026-10-24T04:37:45Z",
-      "rank": 8
+      "updated_at": "2026-10-25T05:00:36Z",
+      "rank": 7
     },
     {
       "name": "guillaumemeyer/watermarks-remover",
@@ -240,9 +205,9 @@
       "description": "A privacy-first app that strips AI watermarks from content you own.",
       "full_description": "A privacy-first app that strips AI watermarks from content you own.",
       "language": "Python",
-      "stars": 24749,
+      "stars": 24829,
       "stars_gained": 0,
-      "forks": 2838,
+      "forks": 2846,
       "topics": [
         "agent-skill",
         "ai",
@@ -261,8 +226,8 @@
         "watermarks"
       ],
       "created_at": "2026-08-11T16:32:38Z",
-      "updated_at": "2026-10-24T04:24:11Z",
-      "rank": 9
+      "updated_at": "2026-10-25T04:52:55Z",
+      "rank": 8
     },
     {
       "name": "yetone/magpie",
@@ -270,9 +235,9 @@
       "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "full_description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "language": "Go",
-      "stars": 20318,
+      "stars": 20908,
       "stars_gained": 0,
-      "forks": 1572,
+      "forks": 1634,
       "topics": [
         "claude-code",
         "codex",
@@ -282,8 +247,8 @@
         "macos"
       ],
       "created_at": "2026-09-23T16:22:35Z",
-      "updated_at": "2026-10-24T04:52:05Z",
-      "rank": 10
+      "updated_at": "2026-10-25T05:02:23Z",
+      "rank": 9
     },
     {
       "name": "lidge-jun/opencodex",
@@ -291,9 +256,9 @@
       "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
       "full_description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
       "language": "TypeScript",
-      "stars": 17822,
+      "stars": 17866,
       "stars_gained": 0,
-      "forks": 1388,
+      "forks": 1390,
       "topics": [
         "ai-gateway",
         "ai-tools",
@@ -317,8 +282,8 @@
         "typescript"
       ],
       "created_at": "2026-06-18T23:03:18Z",
-      "updated_at": "2026-10-24T04:46:45Z",
-      "rank": 11
+      "updated_at": "2026-10-25T04:47:56Z",
+      "rank": 10
     },
     {
       "name": "dataelement/dsh-desktop",
@@ -326,9 +291,9 @@
       "description": "DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版",
       "full_description": "DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版",
       "language": "JavaScript",
-      "stars": 16627,
+      "stars": 16835,
       "stars_gained": 0,
-      "forks": 554,
+      "forks": 558,
       "topics": [
         "agent",
         "apps",
@@ -343,27 +308,8 @@
         "harness"
       ],
       "created_at": "2026-08-13T13:45:50Z",
-      "updated_at": "2026-10-24T04:42:45Z",
-      "rank": 12
-    },
-    {
-      "name": "yc-software/qm",
-      "url": "https://github.com/yc-software/qm",
-      "description": "Multiplayer agent harness for work.",
-      "full_description": "Multiplayer agent harness for work.",
-      "language": "TypeScript",
-      "stars": 15519,
-      "stars_gained": 0,
-      "forks": 1923,
-      "topics": [
-        "ai",
-        "assistant",
-        "harness",
-        "qm"
-      ],
-      "created_at": "2026-07-29T20:03:08Z",
-      "updated_at": "2026-10-24T03:19:23Z",
-      "rank": 13
+      "updated_at": "2026-10-25T05:02:04Z",
+      "rank": 11
     },
     {
       "name": "DuarteSantos8/openGym",
@@ -371,9 +317,9 @@
       "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
       "full_description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
       "language": "JavaScript",
-      "stars": 15279,
+      "stars": 15575,
       "stars_gained": 0,
-      "forks": 2008,
+      "forks": 2049,
       "topics": [
         "apple-watch",
         "bodyweight",
@@ -397,33 +343,27 @@
         "workout-tracker"
       ],
       "created_at": "2026-07-18T20:41:24Z",
-      "updated_at": "2026-10-24T04:52:13Z",
-      "rank": 14
+      "updated_at": "2026-10-25T04:59:52Z",
+      "rank": 12
     },
     {
-      "name": "miuuyy/codex-chatgpt-web",
-      "url": "https://github.com/miuuyy/codex-chatgpt-web",
-      "description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
-      "full_description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
+      "name": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "description": "Multiplayer agent harness for work.",
+      "full_description": "Multiplayer agent harness for work.",
       "language": "TypeScript",
-      "stars": 14905,
+      "stars": 15533,
       "stars_gained": 0,
-      "forks": 1176,
+      "forks": 1926,
       "topics": [
-        "chatgpt",
-        "chatgpt-pro",
-        "codex",
-        "free-ai",
-        "mcp",
-        "openai",
-        "playwright",
-        "quickstart",
-        "responses-api",
-        "typescript"
+        "ai",
+        "assistant",
+        "harness",
+        "qm"
       ],
-      "created_at": "2026-07-26T13:04:44Z",
-      "updated_at": "2026-10-24T04:34:44Z",
-      "rank": 15
+      "created_at": "2026-07-29T20:03:08Z",
+      "updated_at": "2026-10-25T04:49:00Z",
+      "rank": 13
     },
     {
       "name": "xerj-org/xerj",
@@ -431,9 +371,9 @@
       "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "full_description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "language": "Rust",
-      "stars": 14254,
+      "stars": 15348,
       "stars_gained": 0,
-      "forks": 986,
+      "forks": 1079,
       "topics": [
         "agent-memory",
         "ai-agents",
@@ -457,8 +397,33 @@
         "vector-search"
       ],
       "created_at": "2026-06-30T04:32:45Z",
-      "updated_at": "2026-10-24T04:51:11Z",
-      "rank": 16
+      "updated_at": "2026-10-25T04:56:55Z",
+      "rank": 14
+    },
+    {
+      "name": "miuuyy/codex-chatgpt-web",
+      "url": "https://github.com/miuuyy/codex-chatgpt-web",
+      "description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
+      "full_description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
+      "language": "TypeScript",
+      "stars": 14944,
+      "stars_gained": 0,
+      "forks": 1179,
+      "topics": [
+        "chatgpt",
+        "chatgpt-pro",
+        "codex",
+        "free-ai",
+        "mcp",
+        "openai",
+        "playwright",
+        "quickstart",
+        "responses-api",
+        "typescript"
+      ],
+      "created_at": "2026-07-26T13:04:44Z",
+      "updated_at": "2026-10-25T04:45:45Z",
+      "rank": 15
     },
     {
       "name": "XiaomiMiMo/MiMo-Code",
@@ -466,9 +431,9 @@
       "description": "MiMo Code: Where Models and Agents Co-Evolve",
       "full_description": "MiMo Code: Where Models and Agents Co-Evolve",
       "language": "TypeScript",
-      "stars": 13711,
+      "stars": 13718,
       "stars_gained": 0,
-      "forks": 1444,
+      "forks": 1445,
       "topics": [
         "ai",
         "ai-agents",
@@ -477,8 +442,8 @@
         "mimo-code"
       ],
       "created_at": "2026-06-10T11:52:41Z",
-      "updated_at": "2026-10-24T02:20:39Z",
-      "rank": 17
+      "updated_at": "2026-10-25T02:57:14Z",
+      "rank": 16
     },
     {
       "name": "cobusgreyling/loop-engineering",
@@ -486,7 +451,7 @@
       "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
       "full_description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
       "language": "TypeScript",
-      "stars": 11618,
+      "stars": 11623,
       "stars_gained": 0,
       "forks": 1563,
       "topics": [
@@ -509,8 +474,8 @@
         "prompt-engineering"
       ],
       "created_at": "2026-06-09T06:28:20Z",
-      "updated_at": "2026-10-24T02:34:28Z",
-      "rank": 18
+      "updated_at": "2026-10-25T03:15:15Z",
+      "rank": 17
     },
     {
       "name": "spinabot/brigade",
@@ -518,7 +483,7 @@
       "description": "Brigade — Your personal intelligence, built enterprise-grade",
       "full_description": "Brigade — Your personal intelligence, built enterprise-grade",
       "language": "TypeScript",
-      "stars": 11357,
+      "stars": 11353,
       "stars_gained": 0,
       "forks": 77,
       "topics": [
@@ -544,8 +509,8 @@
         "spinabot"
       ],
       "created_at": "2026-06-19T15:18:17Z",
-      "updated_at": "2026-10-24T00:51:47Z",
-      "rank": 19
+      "updated_at": "2026-10-25T03:16:56Z",
+      "rank": 18
     },
     {
       "name": "omnigent-ai/omnigent",
@@ -553,9 +518,9 @@
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
       "full_description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
       "language": "Python",
-      "stars": 11018,
+      "stars": 11023,
       "stars_gained": 0,
-      "forks": 1799,
+      "forks": 1801,
       "topics": [
         "agent-framework",
         "agent-governance",
@@ -575,8 +540,8 @@
         "sandbox"
       ],
       "created_at": "2026-06-11T12:18:13Z",
-      "updated_at": "2026-10-24T04:42:19Z",
-      "rank": 20
+      "updated_at": "2026-10-25T03:46:19Z",
+      "rank": 19
     },
     {
       "name": "TencentCloud/Octop",
@@ -584,9 +549,9 @@
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "full_description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
-      "stars": 10879,
+      "stars": 10946,
       "stars_gained": 0,
-      "forks": 1392,
+      "forks": 1409,
       "topics": [
         "agent",
         "agentic-ai",
@@ -597,40 +562,8 @@
         "long-term-memory"
       ],
       "created_at": "2026-07-08T12:54:20Z",
-      "updated_at": "2026-10-24T04:38:37Z",
-      "rank": 21
-    },
-    {
-      "name": "trailhq/Trail-Code",
-      "url": "https://github.com/trailhq/Trail-Code",
-      "description": "Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.",
-      "full_description": "Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.",
-      "language": "TypeScript",
-      "stars": 10716,
-      "stars_gained": 0,
-      "forks": 954,
-      "topics": [
-        "ai-agents",
-        "anthropic",
-        "claude-code",
-        "cli",
-        "code-graph",
-        "codex",
-        "context-engineering",
-        "cursor",
-        "developer-tools",
-        "gemini",
-        "knowledge-graph",
-        "llm",
-        "mcp",
-        "mcp-server",
-        "open-source",
-        "openai",
-        "tree-sitter"
-      ],
-      "created_at": "2026-07-03T13:44:21Z",
-      "updated_at": "2026-10-24T04:16:43Z",
-      "rank": 22
+      "updated_at": "2026-10-25T04:49:28Z",
+      "rank": 20
     },
     {
       "name": "genspark-ai/genoffice",
@@ -638,9 +571,9 @@
       "description": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.",
       "full_description": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.",
       "language": "TypeScript",
-      "stars": 10680,
+      "stars": 10761,
       "stars_gained": 0,
-      "forks": 1432,
+      "forks": 1450,
       "topics": [
         "ai",
         "ai-agent",
@@ -664,8 +597,40 @@
         "xlsx"
       ],
       "created_at": "2026-07-31T09:40:58Z",
-      "updated_at": "2026-10-24T04:44:09Z",
-      "rank": 23
+      "updated_at": "2026-10-25T04:54:17Z",
+      "rank": 21
+    },
+    {
+      "name": "trailhq/Trail-Code",
+      "url": "https://github.com/trailhq/Trail-Code",
+      "description": "Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.",
+      "full_description": "Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.",
+      "language": "TypeScript",
+      "stars": 10727,
+      "stars_gained": 0,
+      "forks": 953,
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude-code",
+        "cli",
+        "code-graph",
+        "codex",
+        "context-engineering",
+        "cursor",
+        "developer-tools",
+        "gemini",
+        "knowledge-graph",
+        "llm",
+        "mcp",
+        "mcp-server",
+        "open-source",
+        "openai",
+        "tree-sitter"
+      ],
+      "created_at": "2026-07-03T13:44:21Z",
+      "updated_at": "2026-10-25T04:48:33Z",
+      "rank": 22
     },
     {
       "name": "StarTrail-org/PixelRAG",
@@ -673,9 +638,9 @@
       "description": "https://arxiv.org/abs/2606.28344. The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/",
       "full_description": "https://arxiv.org/abs/2606.28344. The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/",
       "language": "Python",
-      "stars": 10347,
+      "stars": 10349,
       "stars_gained": 0,
-      "forks": 916,
+      "forks": 917,
       "topics": [
         "agent",
         "ai",
@@ -688,8 +653,8 @@
         "vlm"
       ],
       "created_at": "2026-05-29T07:25:40Z",
-      "updated_at": "2026-10-24T01:11:33Z",
-      "rank": 24
+      "updated_at": "2026-10-25T03:34:49Z",
+      "rank": 23
     },
     {
       "name": "tangency-labs/solidcraft",
@@ -697,9 +662,9 @@
       "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
       "full_description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
       "language": "Rust",
-      "stars": 9767,
+      "stars": 10144,
       "stars_gained": 0,
-      "forks": 1184,
+      "forks": 1244,
       "topics": [
         "3d-modeling",
         "brep",
@@ -712,8 +677,8 @@
         "wasm"
       ],
       "created_at": "2026-10-07T18:57:48Z",
-      "updated_at": "2026-10-24T04:51:58Z",
-      "rank": 25
+      "updated_at": "2026-10-25T05:01:59Z",
+      "rank": 24
     },
     {
       "name": "pacifio/atlas",
@@ -721,9 +686,9 @@
       "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
       "full_description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
       "language": "TypeScript",
-      "stars": 9599,
+      "stars": 9538,
       "stars_gained": 0,
-      "forks": 375,
+      "forks": 372,
       "topics": [
         "ai",
         "ai-coding-assistant",
@@ -742,8 +707,8 @@
         "skills"
       ],
       "created_at": "2026-05-14T16:48:52Z",
-      "updated_at": "2026-10-24T04:34:59Z",
-      "rank": 26
+      "updated_at": "2026-10-25T03:49:26Z",
+      "rank": 25
     },
     {
       "name": "Tencent/BrowserSkill",
@@ -751,17 +716,17 @@
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "full_description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
-      "stars": 9463,
+      "stars": 9512,
       "stars_gained": 0,
-      "forks": 682,
+      "forks": 686,
       "topics": [
         "agent",
         "browser-use",
         "dsh-plugin"
       ],
       "created_at": "2026-06-22T07:24:40Z",
-      "updated_at": "2026-10-24T04:34:53Z",
-      "rank": 27
+      "updated_at": "2026-10-25T04:44:03Z",
+      "rank": 26
     },
     {
       "name": "nexu-io/html-anything",
@@ -769,9 +734,9 @@
       "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
       "full_description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
       "language": "HTML",
-      "stars": 9224,
+      "stars": 9236,
       "stars_gained": 0,
-      "forks": 881,
+      "forks": 882,
       "topics": [
         "agent-skills",
         "agentic",
@@ -795,8 +760,8 @@
         "xiaohongshu"
       ],
       "created_at": "2026-05-11T09:40:38Z",
-      "updated_at": "2026-10-24T04:51:19Z",
-      "rank": 28
+      "updated_at": "2026-10-25T04:01:18Z",
+      "rank": 27
     },
     {
       "name": "FareedKhan-dev/kimi-k3-in-c",
@@ -804,9 +769,9 @@
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "full_description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
-      "stars": 9172,
+      "stars": 9181,
       "stars_gained": 0,
-      "forks": 1495,
+      "forks": 1500,
       "topics": [
         "avx2",
         "c99",
@@ -830,8 +795,8 @@
         "zero-dependencies"
       ],
       "created_at": "2026-08-01T09:29:38Z",
-      "updated_at": "2026-10-24T03:53:22Z",
-      "rank": 29
+      "updated_at": "2026-10-25T04:58:38Z",
+      "rank": 28
     },
     {
       "name": "rehan-remade/universal-modder",
@@ -839,9 +804,9 @@
       "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "full_description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "language": "Python",
-      "stars": 8821,
+      "stars": 8894,
       "stars_gained": 0,
-      "forks": 968,
+      "forks": 984,
       "topics": [
         "age-of-empires",
         "claude-code",
@@ -855,7 +820,34 @@
         "tmodloader"
       ],
       "created_at": "2026-09-30T05:00:35Z",
-      "updated_at": "2026-10-24T04:50:05Z",
+      "updated_at": "2026-10-25T04:57:58Z",
+      "rank": 29
+    },
+    {
+      "name": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "full_description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "language": "TypeScript",
+      "stars": 8556,
+      "stars_gained": 0,
+      "forks": 2042,
+      "topics": [
+        "ai",
+        "chinese",
+        "content-curation",
+        "daily-digest",
+        "docker-compose",
+        "llm",
+        "mcp",
+        "news-aggregator",
+        "postgresql",
+        "rss",
+        "self-hosted",
+        "typescript"
+      ],
+      "created_at": "2026-09-28T23:40:05Z",
+      "updated_at": "2026-10-25T03:51:58Z",
       "rank": 30
     }
   ]

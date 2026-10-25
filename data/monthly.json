@@ -1,43 +1,18 @@
 {
-  "updated": "2026-10-24T04:52:31.066048+00:00",
+  "updated": "2026-10-25T05:03:35.629838+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
   "projects": [
-    {
-      "name": "Ebony-Vinyl/dsh-our-free-model",
-      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
-      "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
-      "full_description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
-      "language": "JavaScript",
-      "stars": 39598,
-      "stars_gained": 0,
-      "forks": 1138,
-      "topics": [
-        "ai-agents",
-        "deepseek",
-        "deepseek-harness",
-        "developer-tools",
-        "dsh",
-        "dsh-plugin",
-        "free-model",
-        "llm",
-        "model-provider",
-        "openai-compatible"
-      ],
-      "created_at": "2026-09-24T16:17:19Z",
-      "updated_at": "2026-10-24T04:52:21Z",
-      "rank": 1
-    },
     {
       "name": "tangency-labs/solidcraft",
       "url": "https://github.com/tangency-labs/solidcraft",
       "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
       "full_description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
       "language": "Rust",
-      "stars": 9767,
+      "stars": 10144,
       "stars_gained": 0,
-      "forks": 1184,
+      "forks": 1244,
       "topics": [
         "3d-modeling",
         "brep",
@@ -50,8 +25,8 @@
         "wasm"
       ],
       "created_at": "2026-10-07T18:57:48Z",
-      "updated_at": "2026-10-24T04:51:58Z",
-      "rank": 2
+      "updated_at": "2026-10-25T05:01:59Z",
+      "rank": 1
     },
     {
       "name": "rehan-remade/universal-modder",
@@ -59,9 +34,9 @@
       "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "full_description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "language": "Python",
-      "stars": 8821,
+      "stars": 8894,
       "stars_gained": 0,
-      "forks": 968,
+      "forks": 984,
       "topics": [
         "age-of-empires",
         "claude-code",
@@ -75,8 +50,8 @@
         "tmodloader"
       ],
       "created_at": "2026-09-30T05:00:35Z",
-      "updated_at": "2026-10-24T04:50:05Z",
-      "rank": 3
+      "updated_at": "2026-10-25T04:57:58Z",
+      "rank": 2
     },
     {
       "name": "KKKKhazix/AIHOT",
@@ -84,9 +59,9 @@
       "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "full_description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "language": "TypeScript",
-      "stars": 8515,
+      "stars": 8556,
       "stars_gained": 0,
-      "forks": 2035,
+      "forks": 2042,
       "topics": [
         "ai",
         "chinese",
@@ -102,8 +77,8 @@
         "typescript"
       ],
       "created_at": "2026-09-28T23:40:05Z",
-      "updated_at": "2026-10-24T03:39:23Z",
-      "rank": 4
+      "updated_at": "2026-10-25T03:51:58Z",
+      "rank": 3
     },
     {
       "name": "shader-effects-inc/shaders",
@@ -111,9 +86,9 @@
       "description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
       "full_description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
       "language": "TypeScript",
-      "stars": 5377,
+      "stars": 5417,
       "stars_gained": 0,
-      "forks": 245,
+      "forks": 248,
       "topics": [
         "cli",
         "javascript",
@@ -126,8 +101,8 @@
         "webgpu-shaders"
       ],
       "created_at": "2026-09-29T16:36:26Z",
-      "updated_at": "2026-10-24T04:33:20Z",
-      "rank": 5
+      "updated_at": "2026-10-25T04:51:09Z",
+      "rank": 4
     },
     {
       "name": "Jakeschincariol/replica-skill",
@@ -135,9 +110,9 @@
       "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
       "full_description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
       "language": "Python",
-      "stars": 5052,
+      "stars": 5297,
       "stars_gained": 0,
-      "forks": 896,
+      "forks": 931,
       "topics": [
         "agent",
         "agent-skills",
@@ -150,8 +125,8 @@
         "saas"
       ],
       "created_at": "2026-10-03T12:07:49Z",
-      "updated_at": "2026-10-24T04:42:30Z",
-      "rank": 6
+      "updated_at": "2026-10-25T04:54:57Z",
+      "rank": 5
     },
     {
       "name": "QingYunA/answer-me-with-html",
@@ -159,9 +134,9 @@
       "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "full_description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "language": "JavaScript",
-      "stars": 4320,
+      "stars": 4375,
       "stars_gained": 0,
-      "forks": 288,
+      "forks": 293,
       "topics": [
         "agent-skill",
         "ai-agent",
@@ -178,8 +153,8 @@
         "ste100"
       ],
       "created_at": "2026-10-02T09:57:40Z",
-      "updated_at": "2026-10-24T04:20:42Z",
-      "rank": 7
+      "updated_at": "2026-10-25T03:48:51Z",
+      "rank": 6
     },
     {
       "name": "onehumanbeing/esp32-iphone-agent",
@@ -187,9 +162,9 @@
       "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "full_description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "language": "C",
-      "stars": 3655,
+      "stars": 3813,
       "stars_gained": 0,
-      "forks": 480,
+      "forks": 499,
       "topics": [
         "ai-agent",
         "airplay",
@@ -202,8 +177,8 @@
         "usb-hid"
       ],
       "created_at": "2026-10-11T19:10:25Z",
-      "updated_at": "2026-10-24T04:44:05Z",
-      "rank": 8
+      "updated_at": "2026-10-25T04:34:23Z",
+      "rank": 7
     },
     {
       "name": "Folkbench/folkbench",
@@ -211,9 +186,9 @@
       "description": "AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
       "full_description": "AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
       "language": "Rust",
-      "stars": 3021,
+      "stars": 3591,
       "stars_gained": 0,
-      "forks": 14,
+      "forks": 19,
       "topics": [
         "ai",
         "api-relay",
@@ -231,8 +206,8 @@
         "tauri"
       ],
       "created_at": "2026-10-02T09:50:45Z",
-      "updated_at": "2026-10-24T04:43:48Z",
-      "rank": 9
+      "updated_at": "2026-10-25T05:01:23Z",
+      "rank": 8
     },
     {
       "name": "Leonxlnx/earshot",
@@ -240,9 +215,9 @@
       "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "full_description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "language": "Python",
-      "stars": 2494,
+      "stars": 2647,
       "stars_gained": 0,
-      "forks": 155,
+      "forks": 162,
       "topics": [
         "ai-agents",
         "audio",
@@ -251,8 +226,8 @@
         "sound-design"
       ],
       "created_at": "2026-10-15T06:52:46Z",
-      "updated_at": "2026-10-24T04:23:31Z",
-      "rank": 10
+      "updated_at": "2026-10-25T04:54:27Z",
+      "rank": 9
     },
     {
       "name": "nanaism/yomiyasu",
@@ -260,9 +235,9 @@
       "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
       "full_description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
       "language": "Python",
-      "stars": 2443,
+      "stars": 2503,
       "stars_gained": 0,
-      "forks": 63,
+      "forks": 64,
       "topics": [
         "agent-skills",
         "ai-writing",
@@ -280,8 +255,8 @@
         "writing-tool"
       ],
       "created_at": "2026-09-30T11:49:32Z",
-      "updated_at": "2026-10-24T04:47:43Z",
-      "rank": 11
+      "updated_at": "2026-10-25T04:51:55Z",
+      "rank": 10
     },
     {
       "name": "deeplethe/solid-glass",
@@ -289,7 +264,7 @@
       "description": "A design system for AI applications. Material, physical, tactile, technical.",
       "full_description": "A design system for AI applications. Material, physical, tactile, technical.",
       "language": "TypeScript",
-      "stars": 2191,
+      "stars": 2199,
       "stars_gained": 0,
       "forks": 35,
       "topics": [
@@ -306,8 +281,8 @@
         "theme"
       ],
       "created_at": "2026-10-12T09:19:02Z",
-      "updated_at": "2026-10-24T03:27:08Z",
-      "rank": 12
+      "updated_at": "2026-10-25T03:41:46Z",
+      "rank": 11
     },
     {
       "name": "jiwoochris/artex-global",
@@ -315,9 +290,9 @@
       "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)",
       "full_description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)",
       "language": "Go",
-      "stars": 2092,
+      "stars": 2142,
       "stars_gained": 0,
-      "forks": 2247,
+      "forks": 2274,
       "topics": [
         "ai-agent",
         "autonomous-agents",
@@ -335,8 +310,8 @@
         "threat-detection"
       ],
       "created_at": "2026-10-03T14:49:48Z",
-      "updated_at": "2026-10-24T04:48:57Z",
-      "rank": 13
+      "updated_at": "2026-10-25T04:46:19Z",
+      "rank": 12
     },
     {
       "name": "trhhubsd/ARTEX",
@@ -344,9 +319,9 @@
       "description": "ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军",
       "full_description": "ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军",
       "language": "Go",
-      "stars": 1823,
+      "stars": 1877,
       "stars_gained": 0,
-      "forks": 897,
+      "forks": 920,
       "topics": [
         "ai-agent",
         "ai-security",
@@ -370,34 +345,8 @@
         "web-security"
       ],
       "created_at": "2026-10-08T20:35:22Z",
-      "updated_at": "2026-10-24T04:37:25Z",
-      "rank": 14
-    },
-    {
-      "name": "zhuyansen/new-term-radar",
-      "url": "https://github.com/zhuyansen/new-term-radar",
-      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "full_description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "language": "Python",
-      "stars": 1757,
-      "stars_gained": 0,
-      "forks": 544,
-      "topics": [
-        "agent-skills",
-        "ai",
-        "aisa",
-        "claude-code",
-        "claude-skills",
-        "google-trends",
-        "keyword-research",
-        "mcp",
-        "mcp-server",
-        "seo",
-        "trends"
-      ],
-      "created_at": "2026-10-12T07:11:01Z",
-      "updated_at": "2026-10-24T02:59:32Z",
-      "rank": 15
+      "updated_at": "2026-10-25T05:00:58Z",
+      "rank": 13
     },
     {
       "name": "mw00/project-maya",
@@ -405,9 +354,9 @@
       "description": "Project Maya - run GLM-5.3-Flash (321B MoE) and DeepSeek-V4.1-Flash-1017 (748B MoE) privately on your own GPU(s), from one card to 16, NVIDIA or AMD, Linux or Windows. Engine, server, dashboard, OpenAI- and Anthropic-compatible API, quant tools.",
       "full_description": "Project Maya - run GLM-5.3-Flash (321B MoE) and DeepSeek-V4.1-Flash-1017 (748B MoE) privately on your own GPU(s), from one card to 16, NVIDIA or AMD, Linux or Windows. Engine, server, dashboard, OpenAI- and Anthropic-compatible API, quant tools.",
       "language": "C++",
-      "stars": 1692,
+      "stars": 1790,
       "stars_gained": 0,
-      "forks": 213,
+      "forks": 232,
       "topics": [
         "cuda",
         "deepseek",
@@ -425,8 +374,34 @@
         "self-hosted"
       ],
       "created_at": "2026-10-06T22:55:13Z",
-      "updated_at": "2026-10-24T04:35:50Z",
-      "rank": 16
+      "updated_at": "2026-10-25T04:32:44Z",
+      "rank": 14
+    },
+    {
+      "name": "zhuyansen/new-term-radar",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "full_description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "language": "Python",
+      "stars": 1775,
+      "stars_gained": 0,
+      "forks": 545,
+      "topics": [
+        "agent-skills",
+        "ai",
+        "aisa",
+        "claude-code",
+        "claude-skills",
+        "google-trends",
+        "keyword-research",
+        "mcp",
+        "mcp-server",
+        "seo",
+        "trends"
+      ],
+      "created_at": "2026-10-12T07:11:01Z",
+      "updated_at": "2026-10-25T03:53:16Z",
+      "rank": 15
     },
     {
       "name": "StartLuxLabs/StartLux-Decision",
@@ -434,9 +409,9 @@
       "description": "Open decision models from 0.8B to 27B: a calibrated probability for every option in one pass, and a short thought only when unsure. Engine for vLLM, llama.cpp and MLX.",
       "full_description": "Open decision models from 0.8B to 27B: a calibrated probability for every option in one pass, and a short thought only when unsure. Engine for vLLM, llama.cpp and MLX.",
       "language": "Python",
-      "stars": 1439,
+      "stars": 1510,
       "stars_gained": 0,
-      "forks": 127,
+      "forks": 143,
       "topics": [
         "agents",
         "calibration",
@@ -452,8 +427,8 @@
         "vllm"
       ],
       "created_at": "2026-09-29T11:53:37Z",
-      "updated_at": "2026-10-24T04:50:28Z",
-      "rank": 17
+      "updated_at": "2026-10-25T04:42:59Z",
+      "rank": 16
     },
     {
       "name": "marclou/mailcheap",
@@ -461,9 +436,9 @@
       "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
       "full_description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
       "language": "JavaScript",
-      "stars": 1347,
+      "stars": 1411,
       "stars_gained": 0,
-      "forks": 344,
+      "forks": 372,
       "topics": [
         "ai-agents",
         "amazon-ses",
@@ -480,8 +455,58 @@
         "substack-alternative"
       ],
       "created_at": "2026-10-10T12:55:36Z",
-      "updated_at": "2026-10-24T04:20:31Z",
+      "updated_at": "2026-10-25T04:58:27Z",
+      "rank": 17
+    },
+    {
+      "name": "hujjun/mcd-saver-strategist",
+      "url": "https://github.com/hujjun/mcd-saver-strategist",
+      "description": "麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimizer · McDonalds China MCP Server · Agent Skill for WorkBuddy · 麦当劳程序员创意开发大赛参赛作品",
+      "full_description": "麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimizer · McDonalds China MCP Server · Agent Skill for WorkBuddy · 麦当劳程序员创意开发大赛参赛作品",
+      "language": "Python",
+      "stars": 1395,
+      "stars_gained": 0,
+      "forks": 86,
+      "topics": [
+        "agent-skill",
+        "ai-agent",
+        "coupon-optimizer",
+        "coupons",
+        "deterministic-optimization",
+        "fast-food",
+        "mcd",
+        "mcdonalds",
+        "mcdonalds-mcp",
+        "mcp",
+        "mcp-server",
+        "money-saving",
+        "python",
+        "workbuddy",
+        "workbuddy-skill"
+      ],
+      "created_at": "2026-10-09T03:21:52Z",
+      "updated_at": "2026-10-25T04:49:58Z",
       "rank": 18
+    },
+    {
+      "name": "Sam-Hui-dot/mcd-budget-meal",
+      "url": "https://github.com/Sam-Hui-dot/mcd-budget-meal",
+      "description": "麦麦预算餐：基于麦当劳 MCP 的真实核价、预算比较与餐品替换 Skill",
+      "full_description": "麦麦预算餐：基于麦当劳 MCP 的真实核价、预算比较与餐品替换 Skill",
+      "language": "HTML",
+      "stars": 1346,
+      "stars_gained": 0,
+      "forks": 44,
+      "topics": [
+        "mcdonalds",
+        "mcp",
+        "python",
+        "skill",
+        "workbuddy"
+      ],
+      "created_at": "2026-10-11T08:25:55Z",
+      "updated_at": "2026-10-25T05:03:35Z",
+      "rank": 19
     },
     {
       "name": "morluto/awesome-reverse-engineering",
@@ -489,9 +514,9 @@
       "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
       "full_description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
       "language": "Python",
-      "stars": 1166,
+      "stars": 1211,
       "stars_gained": 0,
-      "forks": 257,
+      "forks": 259,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -515,8 +540,28 @@
         "static-analysis"
       ],
       "created_at": "2026-10-09T14:58:20Z",
-      "updated_at": "2026-10-24T03:37:40Z",
-      "rank": 19
+      "updated_at": "2026-10-25T03:58:56Z",
+      "rank": 20
+    },
+    {
+      "name": "reason-machines/reason-network",
+      "url": "https://github.com/reason-machines/reason-network",
+      "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+      "full_description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+      "language": "Rust",
+      "stars": 1198,
+      "stars_gained": 0,
+      "forks": 101,
+      "topics": [
+        "coding-agents",
+        "iroh",
+        "mcp",
+        "peer-to-peer",
+        "reason"
+      ],
+      "created_at": "2026-10-16T15:34:34Z",
+      "updated_at": "2026-10-25T04:51:26Z",
+      "rank": 21
     },
     {
       "name": "jwuthri-cloud/Tracely-ai",
@@ -524,7 +569,7 @@
       "description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
       "full_description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
       "language": "Python",
-      "stars": 1163,
+      "stars": 1168,
       "stars_gained": 0,
       "forks": 140,
       "topics": [
@@ -545,57 +590,7 @@
         "tracing"
       ],
       "created_at": "2026-10-11T15:38:03Z",
-      "updated_at": "2026-10-23T23:29:33Z",
-      "rank": 20
-    },
-    {
-      "name": "reason-machines/reason-network",
-      "url": "https://github.com/reason-machines/reason-network",
-      "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
-      "full_description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
-      "language": "Rust",
-      "stars": 1155,
-      "stars_gained": 0,
-      "forks": 95,
-      "topics": [
-        "coding-agents",
-        "iroh",
-        "mcp",
-        "peer-to-peer",
-        "reason"
-      ],
-      "created_at": "2026-10-16T15:34:34Z",
-      "updated_at": "2026-10-24T04:09:58Z",
-      "rank": 21
-    },
-    {
-      "name": "hujjun/mcd-saver-strategist",
-      "url": "https://github.com/hujjun/mcd-saver-strategist",
-      "description": "麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimizer · McDonalds China MCP Server · Agent Skill for WorkBuddy · 麦当劳程序员创意开发大赛参赛作品",
-      "full_description": "麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimizer · McDonalds China MCP Server · Agent Skill for WorkBuddy · 麦当劳程序员创意开发大赛参赛作品",
-      "language": "Python",
-      "stars": 1139,
-      "stars_gained": 0,
-      "forks": 86,
-      "topics": [
-        "agent-skill",
-        "ai-agent",
-        "coupon-optimizer",
-        "coupons",
-        "deterministic-optimization",
-        "fast-food",
-        "mcd",
-        "mcdonalds",
-        "mcdonalds-mcp",
-        "mcp",
-        "mcp-server",
-        "money-saving",
-        "python",
-        "workbuddy",
-        "workbuddy-skill"
-      ],
-      "created_at": "2026-10-09T03:21:52Z",
-      "updated_at": "2026-10-24T03:26:27Z",
+      "updated_at": "2026-10-25T03:42:47Z",
       "rank": 22
     },
     {
@@ -604,7 +599,7 @@
       "description": "Official PyTorch implementation of VisionHOPE: Visual Backbones as Self-Modifying Learning Systems.",
       "full_description": "Official PyTorch implementation of VisionHOPE: Visual Backbones as Self-Modifying Learning Systems.",
       "language": "Python",
-      "stars": 1084,
+      "stars": 1147,
       "stars_gained": 0,
       "forks": 42,
       "topics": [
@@ -618,8 +613,52 @@
         "visual-foundation-models"
       ],
       "created_at": "2026-09-27T06:56:59Z",
-      "updated_at": "2026-10-24T04:24:13Z",
+      "updated_at": "2026-10-25T04:36:10Z",
       "rank": 23
+    },
+    {
+      "name": "datalab-to/indra",
+      "url": "https://github.com/datalab-to/indra",
+      "description": "1M param OCR model - runs on CPU, 15x faster than tesseract, close to 1B+ param models in accuracy",
+      "full_description": "1M param OCR model - runs on CPU, 15x faster than tesseract, close to 1B+ param models in accuracy",
+      "language": "Python",
+      "stars": 1041,
+      "stars_gained": 0,
+      "forks": 108,
+      "topics": [
+        "ai",
+        "cpu",
+        "document-parsing",
+        "ocr",
+        "onnx",
+        "pdf"
+      ],
+      "created_at": "2026-10-13T11:07:11Z",
+      "updated_at": "2026-10-25T02:52:11Z",
+      "rank": 24
+    },
+    {
+      "name": "Tejashmakwana/motionmaxxing",
+      "url": "https://github.com/Tejashmakwana/motionmaxxing",
+      "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
+      "full_description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
+      "language": "JavaScript",
+      "stars": 1031,
+      "stars_gained": 0,
+      "forks": 93,
+      "topics": [
+        "agent-skills",
+        "ai",
+        "claude-code",
+        "gsap",
+        "hyperframes",
+        "motion-graphics",
+        "motionmaxxing",
+        "video"
+      ],
+      "created_at": "2026-10-06T18:18:49Z",
+      "updated_at": "2026-10-25T04:13:28Z",
+      "rank": 25
     },
     {
       "name": "Harvil1/codeAgent",
@@ -644,7 +683,7 @@
       ],
       "created_at": "2026-10-02T05:15:41Z",
       "updated_at": "2026-10-20T08:36:58Z",
-      "rank": 24
+      "rank": 26
     },
     {
       "name": "Edwardxlai/easyread",
@@ -652,9 +691,9 @@
       "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
       "full_description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
       "language": "Python",
-      "stars": 1014,
+      "stars": 1020,
       "stars_gained": 0,
-      "forks": 83,
+      "forks": 85,
       "topics": [
         "academic",
         "arxiv",
@@ -670,51 +709,7 @@
         "translation"
       ],
       "created_at": "2026-09-30T12:52:24Z",
-      "updated_at": "2026-10-24T03:42:58Z",
-      "rank": 25
-    },
-    {
-      "name": "Tejashmakwana/motionmaxxing",
-      "url": "https://github.com/Tejashmakwana/motionmaxxing",
-      "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
-      "full_description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
-      "language": "JavaScript",
-      "stars": 1010,
-      "stars_gained": 0,
-      "forks": 93,
-      "topics": [
-        "agent-skills",
-        "ai",
-        "claude-code",
-        "gsap",
-        "hyperframes",
-        "motion-graphics",
-        "motionmaxxing",
-        "video"
-      ],
-      "created_at": "2026-10-06T18:18:49Z",
-      "updated_at": "2026-10-24T03:27:47Z",
-      "rank": 26
-    },
-    {
-      "name": "datalab-to/indra",
-      "url": "https://github.com/datalab-to/indra",
-      "description": "1M param OCR model - runs on CPU, 15x faster than tesseract, close to 1B+ param models in accuracy",
-      "full_description": "1M param OCR model - runs on CPU, 15x faster than tesseract, close to 1B+ param models in accuracy",
-      "language": "Python",
-      "stars": 1002,
-      "stars_gained": 0,
-      "forks": 105,
-      "topics": [
-        "ai",
-        "cpu",
-        "document-parsing",
-        "ocr",
-        "onnx",
-        "pdf"
-      ],
-      "created_at": "2026-10-13T11:07:11Z",
-      "updated_at": "2026-10-24T01:13:15Z",
+      "updated_at": "2026-10-25T02:04:35Z",
       "rank": 27
     },
     {
@@ -723,7 +718,7 @@
       "description": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
       "full_description": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
       "language": "Python",
-      "stars": 998,
+      "stars": 1004,
       "stars_gained": 0,
       "forks": 21,
       "topics": [
@@ -739,7 +734,7 @@
         "workbuddy"
       ],
       "created_at": "2026-10-10T12:59:19Z",
-      "updated_at": "2026-10-24T02:51:49Z",
+      "updated_at": "2026-10-24T16:17:03Z",
       "rank": 28
     },
     {
@@ -748,7 +743,7 @@
       "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
       "full_description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
       "language": "TypeScript",
-      "stars": 942,
+      "stars": 938,
       "stars_gained": 0,
       "forks": 31,
       "topics": [
@@ -761,7 +756,7 @@
         "web-automation"
       ],
       "created_at": "2026-10-13T09:18:55Z",
-      "updated_at": "2026-10-23T12:17:55Z",
+      "updated_at": "2026-10-25T03:23:09Z",
       "rank": 29
     },
     {
@@ -770,9 +765,9 @@
       "description": "An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and working tools). Built with OpenUI.",
       "full_description": "An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and working tools). Built with OpenUI.",
       "language": "TypeScript",
-      "stars": 795,
+      "stars": 812,
       "stars_gained": 0,
-      "forks": 60,
+      "forks": 63,
       "topics": [
         "agents",
         "ai",
@@ -791,7 +786,7 @@
         "typescript"
       ],
       "created_at": "2026-10-08T05:37:45Z",
-      "updated_at": "2026-10-24T04:41:34Z",
+      "updated_at": "2026-10-25T02:01:35Z",
       "rank": 30
     }
   ]
