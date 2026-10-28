@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T05:21:39.697649+00:00",
+  "updated": "2026-10-28T06:00:12.606151+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
       "full_description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
       "language": "",
-      "stars": 502,
+      "stars": 509,
       "stars_gained": 0,
-      "forks": 102,
+      "forks": 104,
       "topics": [
         "ai",
         "ai-safety",
@@ -23,31 +23,8 @@
         "security"
       ],
       "created_at": "2026-10-21T14:44:06Z",
-      "updated_at": "2026-10-27T04:38:39Z",
+      "updated_at": "2026-10-28T01:39:52Z",
       "rank": 1
-    },
-    {
-      "name": "hevnsnt/CVEngine",
-      "url": "https://github.com/hevnsnt/CVEngine",
-      "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-      "full_description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-      "language": "Python",
-      "stars": 389,
-      "stars_gained": 0,
-      "forks": 59,
-      "topics": [
-        "ai",
-        "attack-surface-management",
-        "bbot",
-        "cybersecurity",
-        "mcp",
-        "nmap",
-        "nuclei",
-        "vulnerability-scanner"
-      ],
-      "created_at": "2026-10-24T22:34:43Z",
-      "updated_at": "2026-10-27T04:55:35Z",
-      "rank": 2
     },
     {
       "name": "huaxialucaicaizi/ai-startup-skills",
@@ -55,9 +32,9 @@
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
       "full_description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
       "language": "Python",
-      "stars": 349,
+      "stars": 435,
       "stars_gained": 0,
-      "forks": 29,
+      "forks": 32,
       "topics": [
         "agent-skills",
         "ai",
@@ -74,7 +51,30 @@
         "startup"
       ],
       "created_at": "2026-10-22T10:23:29Z",
-      "updated_at": "2026-10-27T05:16:26Z",
+      "updated_at": "2026-10-27T22:56:23Z",
+      "rank": 2
+    },
+    {
+      "name": "hevnsnt/CVEngine",
+      "url": "https://github.com/hevnsnt/CVEngine",
+      "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+      "full_description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+      "language": "Python",
+      "stars": 425,
+      "stars_gained": 0,
+      "forks": 66,
+      "topics": [
+        "ai",
+        "attack-surface-management",
+        "bbot",
+        "cybersecurity",
+        "mcp",
+        "nmap",
+        "nuclei",
+        "vulnerability-scanner"
+      ],
+      "created_at": "2026-10-24T22:34:43Z",
+      "updated_at": "2026-10-28T05:34:20Z",
       "rank": 3
     },
     {
@@ -110,12 +110,35 @@
       "rank": 4
     },
     {
+      "name": "patch-gg/anymove",
+      "url": "https://github.com/patch-gg/anymove",
+      "description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
+      "full_description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
+      "language": "Python",
+      "stars": 234,
+      "stars_gained": 0,
+      "forks": 25,
+      "topics": [
+        "agent-skills",
+        "animation",
+        "blender",
+        "claude-code-plugin",
+        "dinov2",
+        "gamedev",
+        "generative-ai",
+        "motion-capture"
+      ],
+      "created_at": "2026-10-27T08:00:42Z",
+      "updated_at": "2026-10-28T05:49:48Z",
+      "rank": 5
+    },
+    {
       "name": "xingjian-bai/opal",
       "url": "https://github.com/xingjian-bai/opal",
       "description": "OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.",
       "full_description": "OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.",
       "language": "Python",
-      "stars": 219,
+      "stars": 230,
       "stars_gained": 0,
       "forks": 12,
       "topics": [
@@ -125,8 +148,39 @@
         "pytorch"
       ],
       "created_at": "2026-10-21T14:17:50Z",
-      "updated_at": "2026-10-27T05:11:57Z",
-      "rank": 5
+      "updated_at": "2026-10-28T01:30:33Z",
+      "rank": 6
+    },
+    {
+      "name": "0xS4N4TG/kinetograph",
+      "url": "https://github.com/0xS4N4TG/kinetograph",
+      "description": "A blazingly fast programmatic video engine, made for agents.",
+      "full_description": "A blazingly fast programmatic video engine, made for agents.",
+      "language": "TypeScript",
+      "stars": 218,
+      "stars_gained": 0,
+      "forks": 18,
+      "topics": [
+        "agents",
+        "ai-agents",
+        "ffmpeg",
+        "gpu",
+        "hyperframes",
+        "mcp",
+        "motion-graphics",
+        "programmatic-video",
+        "react",
+        "remotion",
+        "rust",
+        "skia",
+        "typescript",
+        "video",
+        "video-rendering",
+        "wgpu"
+      ],
+      "created_at": "2026-10-23T05:15:41Z",
+      "updated_at": "2026-10-28T05:30:37Z",
+      "rank": 7
     },
     {
       "name": "jouaaaaaa/mcd-self-butler",
@@ -134,7 +188,7 @@
       "description": "麦当劳自助管家 McButler — 基于麦当劳 MCP 的点单参谋：每日推荐 / 套餐健康体检 / 门店全成本比价 / 团餐智能配餐 / 麦险分信用评级 / 麦门小剧场。麦当劳 1024 程序员节参赛作品。",
       "full_description": "麦当劳自助管家 McButler — 基于麦当劳 MCP 的点单参谋：每日推荐 / 套餐健康体检 / 门店全成本比价 / 团餐智能配餐 / 麦险分信用评级 / 麦门小剧场。麦当劳 1024 程序员节参赛作品。",
       "language": "Python",
-      "stars": 218,
+      "stars": 217,
       "stars_gained": 0,
       "forks": 3,
       "topics": [
@@ -147,8 +201,8 @@
         "workbuddy"
       ],
       "created_at": "2026-10-24T04:34:37Z",
-      "updated_at": "2026-10-26T11:50:11Z",
-      "rank": 6
+      "updated_at": "2026-10-28T04:45:24Z",
+      "rank": 8
     },
     {
       "name": "lklbar666/mcd-saver-checkup",
@@ -169,7 +223,7 @@
       ],
       "created_at": "2026-10-21T03:28:42Z",
       "updated_at": "2026-10-26T05:28:16Z",
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "Cattmonkey/ChaosIntelligence",
@@ -177,7 +231,7 @@
       "description": "把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training.",
       "full_description": "把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training.",
       "language": "Python",
-      "stars": 200,
+      "stars": 202,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -195,31 +249,8 @@
         "workflow-automation"
       ],
       "created_at": "2026-10-23T13:04:31Z",
-      "updated_at": "2026-10-27T00:19:57Z",
-      "rank": 8
-    },
-    {
-      "name": "h9-tec/ai-roadmap-2026",
-      "url": "https://github.com/h9-tec/ai-roadmap-2026",
-      "description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
-      "full_description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
-      "language": "",
-      "stars": 171,
-      "stars_gained": 0,
-      "forks": 19,
-      "topics": [
-        "agents",
-        "ai",
-        "ai-engineering",
-        "evaluation",
-        "learning-path",
-        "llm",
-        "rag",
-        "roadmap"
-      ],
-      "created_at": "2026-10-21T12:23:43Z",
-      "updated_at": "2026-10-27T04:14:17Z",
-      "rank": 9
+      "updated_at": "2026-10-27T16:56:53Z",
+      "rank": 10
     },
     {
       "name": "yzlin286-wq/Deepscient",
@@ -227,7 +258,7 @@
       "description": "让 AI 与人类一起攻克真正的科学难题 —— 12 阶段 55 门 · 36 工具 · 98 条技能 · 证据链与可复现",
       "full_description": "让 AI 与人类一起攻克真正的科学难题 —— 12 阶段 55 门 · 36 工具 · 98 条技能 · 证据链与可复现",
       "language": "JavaScript",
-      "stars": 149,
+      "stars": 196,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -243,8 +274,135 @@
         "windows"
       ],
       "created_at": "2026-10-21T07:44:10Z",
-      "updated_at": "2026-10-27T05:07:51Z",
-      "rank": 10
+      "updated_at": "2026-10-28T00:06:19Z",
+      "rank": 11
+    },
+    {
+      "name": "JunWan666/astrbot-for-android",
+      "url": "https://github.com/JunWan666/astrbot-for-android",
+      "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
+      "full_description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
+      "language": "Kotlin",
+      "stars": 187,
+      "stars_gained": 0,
+      "forks": 10,
+      "topics": [
+        "ai",
+        "android",
+        "astrbot",
+        "chatbot",
+        "jetpack-compose",
+        "kotlin",
+        "llm",
+        "napcat",
+        "napcatqq",
+        "onebot",
+        "proot",
+        "qq-bot",
+        "self-hosted",
+        "ubuntu"
+      ],
+      "created_at": "2026-10-26T05:13:32Z",
+      "updated_at": "2026-10-28T05:56:34Z",
+      "rank": 12
+    },
+    {
+      "name": "patch-gg/trompe",
+      "url": "https://github.com/patch-gg/trompe",
+      "description": "Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out.",
+      "full_description": "Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out.",
+      "language": "TypeScript",
+      "stars": 176,
+      "stars_gained": 0,
+      "forks": 9,
+      "topics": [
+        "gamedev",
+        "generative-ai",
+        "procedural",
+        "texturing",
+        "threejs",
+        "webgl"
+      ],
+      "created_at": "2026-10-25T04:27:06Z",
+      "updated_at": "2026-10-28T05:38:27Z",
+      "rank": 13
+    },
+    {
+      "name": "h9-tec/ai-roadmap-2026",
+      "url": "https://github.com/h9-tec/ai-roadmap-2026",
+      "description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
+      "full_description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
+      "language": "",
+      "stars": 176,
+      "stars_gained": 0,
+      "forks": 19,
+      "topics": [
+        "agents",
+        "ai",
+        "ai-engineering",
+        "evaluation",
+        "learning-path",
+        "llm",
+        "rag",
+        "roadmap"
+      ],
+      "created_at": "2026-10-21T12:23:43Z",
+      "updated_at": "2026-10-28T04:30:37Z",
+      "rank": 14
+    },
+    {
+      "name": "ChannelCooperStart/capri-ai",
+      "url": "https://github.com/ChannelCooperStart/capri-ai",
+      "description": "🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.",
+      "full_description": "🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.",
+      "language": "",
+      "stars": 170,
+      "stars_gained": 0,
+      "forks": 43,
+      "topics": [
+        "ai-agent",
+        "ai-agents",
+        "ai-assistants",
+        "antigravity",
+        "autamation",
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "codex",
+        "cyberpunks",
+        "edgerunners",
+        "edgerunners-2",
+        "llm",
+        "llm-agents"
+      ],
+      "created_at": "2026-10-27T22:00:47Z",
+      "updated_at": "2026-10-28T05:23:39Z",
+      "rank": 15
+    },
+    {
+      "name": "qybaihe/bla",
+      "url": "https://github.com/qybaihe/bla",
+      "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "full_description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "language": "TypeScript",
+      "stars": 163,
+      "stars_gained": 0,
+      "forks": 43,
+      "topics": [
+        "adversarial-ai",
+        "claude-code",
+        "cursor",
+        "electron-security",
+        "llm-security",
+        "mcp",
+        "mcp-server",
+        "obfuscation",
+        "reverse-engineering",
+        "webassembly"
+      ],
+      "created_at": "2026-10-25T05:25:45Z",
+      "updated_at": "2026-10-28T05:51:53Z",
+      "rank": 16
     },
     {
       "name": "heterodoxin/AbliteratedOutTheBox",
@@ -252,7 +410,7 @@
       "description": "llama.cpp fork that abliterates at inference",
       "full_description": "llama.cpp fork that abliterates at inference",
       "language": "C++",
-      "stars": 149,
+      "stars": 155,
       "stars_gained": 0,
       "forks": 16,
       "topics": [
@@ -264,36 +422,8 @@
         "llms"
       ],
       "created_at": "2026-10-21T21:54:10Z",
-      "updated_at": "2026-10-27T00:43:00Z",
-      "rank": 11
-    },
-    {
-      "name": "yuatemycat/SuperGhidra",
-      "url": "https://github.com/yuatemycat/SuperGhidra",
-      "description": "SuperGhidra: Autonomous Agent Reverse Engineering, Lock-Free Ghidra Daemon & C++ Recovery Suite",
-      "full_description": "SuperGhidra: Autonomous Agent Reverse Engineering, Lock-Free Ghidra Daemon & C++ Recovery Suite",
-      "language": "Python",
-      "stars": 145,
-      "stars_gained": 0,
-      "forks": 9,
-      "topics": [
-        "arm64",
-        "binary-analysis",
-        "decompiler",
-        "disassembler",
-        "ghidra",
-        "mcp",
-        "pcode",
-        "python",
-        "reverseengineering",
-        "reversing",
-        "smt-solver",
-        "x86-64",
-        "z3"
-      ],
-      "created_at": "2026-10-20T08:22:31Z",
-      "updated_at": "2026-10-27T04:21:13Z",
-      "rank": 12
+      "updated_at": "2026-10-28T00:25:09Z",
+      "rank": 17
     },
     {
       "name": "XRayLau1/maitaiyi",
@@ -313,7 +443,7 @@
       ],
       "created_at": "2026-10-23T16:06:14Z",
       "updated_at": "2026-10-25T16:09:07Z",
-      "rank": 13
+      "rank": 18
     },
     {
       "name": "xanthichi/mcd-meal-mate",
@@ -336,7 +466,7 @@
       ],
       "created_at": "2026-10-24T12:39:14Z",
       "updated_at": "2026-10-26T05:14:59Z",
-      "rank": 14
+      "rank": 19
     },
     {
       "name": "gundamli/McShake",
@@ -344,7 +474,7 @@
       "description": "麦当劳官方 MCP 驱动的像素风老虎机：营养账本 + 凑单优化 + 1+1 随心配",
       "full_description": "麦当劳官方 MCP 驱动的像素风老虎机：营养账本 + 凑单优化 + 1+1 随心配",
       "language": "JavaScript",
-      "stars": 126,
+      "stars": 127,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -358,55 +488,8 @@
         "workbuddy"
       ],
       "created_at": "2026-10-21T00:44:19Z",
-      "updated_at": "2026-10-26T05:08:55Z",
-      "rank": 15
-    },
-    {
-      "name": "patch-gg/trompe",
-      "url": "https://github.com/patch-gg/trompe",
-      "description": "Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out.",
-      "full_description": "Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out.",
-      "language": "TypeScript",
-      "stars": 122,
-      "stars_gained": 0,
-      "forks": 6,
-      "topics": [
-        "gamedev",
-        "generative-ai",
-        "procedural",
-        "texturing",
-        "threejs",
-        "webgl"
-      ],
-      "created_at": "2026-10-25T04:27:06Z",
-      "updated_at": "2026-10-27T05:06:06Z",
-      "rank": 16
-    },
-    {
-      "name": "xiaozhangup/Oh-My-McDonald",
-      "url": "https://github.com/xiaozhangup/Oh-My-McDonald",
-      "description": "基于麦当劳官方 MCP 的对话式 AI Skill，支持餐品推荐、门店比价、优惠查询、营养计算和探索记录，并通过 Python 生成体素风格分享图片。",
-      "full_description": "基于麦当劳官方 MCP 的对话式 AI Skill，支持餐品推荐、门店比价、优惠查询、营养计算和探索记录，并通过 Python 生成体素风格分享图片。",
-      "language": "Python",
-      "stars": 121,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai-agent",
-        "ai-skill",
-        "coupons",
-        "data-visualization",
-        "mcdonalds",
-        "mcdonalds-mcp",
-        "mcp",
-        "model-context-protocol",
-        "nutrition",
-        "python",
-        "voxel"
-      ],
-      "created_at": "2026-10-24T08:38:16Z",
-      "updated_at": "2026-10-26T14:11:25Z",
-      "rank": 17
+      "updated_at": "2026-10-27T06:40:52Z",
+      "rank": 20
     },
     {
       "name": "stockedge/manga-generator",
@@ -414,7 +497,7 @@
       "description": "原作から脚本・画像生成・組版・PDF出力まで進める、Codex向け漫画制作ツール",
       "full_description": "原作から脚本・画像生成・組版・PDF出力まで進める、Codex向け漫画制作ツール",
       "language": "JavaScript",
-      "stars": 118,
+      "stars": 122,
       "stars_gained": 0,
       "forks": 22,
       "topics": [
@@ -440,8 +523,34 @@
         "text-to-comic"
       ],
       "created_at": "2026-10-22T02:58:45Z",
-      "updated_at": "2026-10-26T22:35:23Z",
-      "rank": 18
+      "updated_at": "2026-10-28T05:10:09Z",
+      "rank": 21
+    },
+    {
+      "name": "xiaozhangup/Oh-My-McDonald",
+      "url": "https://github.com/xiaozhangup/Oh-My-McDonald",
+      "description": "基于麦当劳官方 MCP 的对话式 AI Skill，支持餐品推荐、门店比价、优惠查询、营养计算和探索记录，并通过 Python 生成体素风格分享图片。",
+      "full_description": "基于麦当劳官方 MCP 的对话式 AI Skill，支持餐品推荐、门店比价、优惠查询、营养计算和探索记录，并通过 Python 生成体素风格分享图片。",
+      "language": "Python",
+      "stars": 122,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai-agent",
+        "ai-skill",
+        "coupons",
+        "data-visualization",
+        "mcdonalds",
+        "mcdonalds-mcp",
+        "mcp",
+        "model-context-protocol",
+        "nutrition",
+        "python",
+        "voxel"
+      ],
+      "created_at": "2026-10-24T08:38:16Z",
+      "updated_at": "2026-10-27T18:53:57Z",
+      "rank": 22
     },
     {
       "name": "wahaha-potato/mcd-coupon-xray",
@@ -464,30 +573,7 @@
       ],
       "created_at": "2026-10-23T02:38:59Z",
       "updated_at": "2026-10-26T05:42:22Z",
-      "rank": 19
-    },
-    {
-      "name": "Alex-star-arch/mcd-burger-studio",
-      "url": "https://github.com/Alex-star-arch/mcd-burger-studio",
-      "description": "麦当劳「真」随心配 · 用 MCP 真实在售菜单自由拼套餐、设计 3D 汉堡，作品发布与投票打榜 | McDonald's Make-It-Your-Way",
-      "full_description": "麦当劳「真」随心配 · 用 MCP 真实在售菜单自由拼套餐、设计 3D 汉堡，作品发布与投票打榜 | McDonald's Make-It-Your-Way",
-      "language": "HTML",
-      "stars": 115,
-      "stars_gained": 0,
-      "forks": 3,
-      "topics": [
-        "food-tech",
-        "hackathon",
-        "mcdonalds",
-        "mcp",
-        "python",
-        "threejs",
-        "voting",
-        "workbuddy"
-      ],
-      "created_at": "2026-10-23T07:58:39Z",
-      "updated_at": "2026-10-26T06:02:45Z",
-      "rank": 20
+      "rank": 23
     },
     {
       "name": "boyuchengz/canvas-mcp",
@@ -495,9 +581,9 @@
       "description": "Read-only MCP server that connects Claude, ChatGPT and other AI assistants to Canvas LMS.",
       "full_description": "Read-only MCP server that connects Claude, ChatGPT and other AI assistants to Canvas LMS.",
       "language": "JavaScript",
-      "stars": 115,
+      "stars": 116,
       "stars_gained": 0,
-      "forks": 0,
+      "forks": 29,
       "topics": [
         "canvas",
         "canvas-lms",
@@ -512,80 +598,7 @@
         "students"
       ],
       "created_at": "2026-10-25T20:12:43Z",
-      "updated_at": "2026-10-27T01:57:12Z",
-      "rank": 21
-    },
-    {
-      "name": "ayingQAQ/McCosmos",
-      "url": "https://github.com/ayingQAQ/McCosmos",
-      "description": "McCosmos · 麦门星图｜基于麦当劳 MCP 的餐品营养对比与替代发现 Skill，提供独立运行包、可解释分析与三维星图。",
-      "full_description": "McCosmos · 麦门星图｜基于麦当劳 MCP 的餐品营养对比与替代发现 Skill，提供独立运行包、可解释分析与三维星图。",
-      "language": "TypeScript",
-      "stars": 114,
-      "stars_gained": 0,
-      "forks": 1,
-      "topics": [
-        "agent-skills",
-        "data-visualization",
-        "mcdonalds",
-        "mcp",
-        "nutrition",
-        "react",
-        "threejs",
-        "typescript"
-      ],
-      "created_at": "2026-10-21T02:42:11Z",
-      "updated_at": "2026-10-27T01:11:24Z",
-      "rank": 22
-    },
-    {
-      "name": "YOLOW92/pagesift",
-      "url": "https://github.com/YOLOW92/pagesift",
-      "description": "High-performance, memory-efficient Rust web crawler & content extraction engine for AI agents and RAG. Adaptive crawling, clean Markdown, structured data, PDF/RSS parsing, browser rendering, Firecrawl-compatible APIs, and Python/Node.js SDKs.",
-      "full_description": "High-performance, memory-efficient Rust web crawler & content extraction engine for AI agents and RAG. Adaptive crawling, clean Markdown, structured data, PDF/RSS parsing, browser rendering, Firecrawl-compatible APIs, and Python/Node.js SDKs.",
-      "language": "Rust",
-      "stars": 109,
-      "stars_gained": 0,
-      "forks": 17,
-      "topics": [
-        "ai-agents",
-        "browser-automation",
-        "data-extraction",
-        "firecrawl",
-        "html-to-markdown",
-        "markdown",
-        "mcp",
-        "pdf-extraction",
-        "rag",
-        "rust",
-        "web-crawler",
-        "web-scraping"
-      ],
-      "created_at": "2026-10-20T17:30:59Z",
-      "updated_at": "2026-10-27T04:26:22Z",
-      "rank": 23
-    },
-    {
-      "name": "BEN020406/maimen-order-manager",
-      "url": "https://github.com/BEN020406/maimen-order-manager",
-      "description": "麦当劳 MCP 技能：待评价清单、好评兑礼进度、发票报销门槛凑单、单次抽奖确认。99 项测试，非官方产品。",
-      "full_description": "麦当劳 MCP 技能：待评价清单、好评兑礼进度、发票报销门槛凑单、单次抽奖确认。99 项测试，非官方产品。",
-      "language": "Python",
-      "stars": 109,
-      "stars_gained": 0,
-      "forks": 6,
-      "topics": [
-        "ai-agent",
-        "cli",
-        "mcdonalds",
-        "mcp",
-        "personal-productivity",
-        "python",
-        "skill",
-        "workbuddy"
-      ],
-      "created_at": "2026-10-21T16:06:41Z",
-      "updated_at": "2026-10-24T10:44:16Z",
+      "updated_at": "2026-10-27T20:04:22Z",
       "rank": 24
     },
     {
@@ -594,7 +607,7 @@
       "description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
       "full_description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
       "language": "JavaScript",
-      "stars": 109,
+      "stars": 116,
       "stars_gained": 0,
       "forks": 5,
       "topics": [
@@ -620,8 +633,102 @@
         "social-bot"
       ],
       "created_at": "2026-10-23T03:39:33Z",
-      "updated_at": "2026-10-27T05:10:47Z",
+      "updated_at": "2026-10-28T05:43:04Z",
       "rank": 25
+    },
+    {
+      "name": "Alex-star-arch/mcd-burger-studio",
+      "url": "https://github.com/Alex-star-arch/mcd-burger-studio",
+      "description": "麦当劳「真」随心配 · 用 MCP 真实在售菜单自由拼套餐、设计 3D 汉堡，作品发布与投票打榜 | McDonald's Make-It-Your-Way",
+      "full_description": "麦当劳「真」随心配 · 用 MCP 真实在售菜单自由拼套餐、设计 3D 汉堡，作品发布与投票打榜 | McDonald's Make-It-Your-Way",
+      "language": "HTML",
+      "stars": 115,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "food-tech",
+        "hackathon",
+        "mcdonalds",
+        "mcp",
+        "python",
+        "threejs",
+        "voting",
+        "workbuddy"
+      ],
+      "created_at": "2026-10-23T07:58:39Z",
+      "updated_at": "2026-10-26T06:02:45Z",
+      "rank": 26
+    },
+    {
+      "name": "ayingQAQ/McCosmos",
+      "url": "https://github.com/ayingQAQ/McCosmos",
+      "description": "McCosmos · 麦门星图｜基于麦当劳 MCP 的餐品营养对比与替代发现 Skill，提供独立运行包、可解释分析与三维星图。",
+      "full_description": "McCosmos · 麦门星图｜基于麦当劳 MCP 的餐品营养对比与替代发现 Skill，提供独立运行包、可解释分析与三维星图。",
+      "language": "TypeScript",
+      "stars": 114,
+      "stars_gained": 0,
+      "forks": 1,
+      "topics": [
+        "agent-skills",
+        "data-visualization",
+        "mcdonalds",
+        "mcp",
+        "nutrition",
+        "react",
+        "threejs",
+        "typescript"
+      ],
+      "created_at": "2026-10-21T02:42:11Z",
+      "updated_at": "2026-10-27T01:11:24Z",
+      "rank": 27
+    },
+    {
+      "name": "BEN020406/maimen-order-manager",
+      "url": "https://github.com/BEN020406/maimen-order-manager",
+      "description": "麦当劳 MCP 技能：待评价清单、好评兑礼进度、发票报销门槛凑单、单次抽奖确认。99 项测试，非官方产品。",
+      "full_description": "麦当劳 MCP 技能：待评价清单、好评兑礼进度、发票报销门槛凑单、单次抽奖确认。99 项测试，非官方产品。",
+      "language": "Python",
+      "stars": 109,
+      "stars_gained": 0,
+      "forks": 6,
+      "topics": [
+        "ai-agent",
+        "cli",
+        "mcdonalds",
+        "mcp",
+        "personal-productivity",
+        "python",
+        "skill",
+        "workbuddy"
+      ],
+      "created_at": "2026-10-21T16:06:41Z",
+      "updated_at": "2026-10-24T10:44:16Z",
+      "rank": 28
+    },
+    {
+      "name": "lillyguisnet/sam3-segmentation",
+      "url": "https://github.com/lillyguisnet/sam3-segmentation",
+      "description": "Agent skill: outline, mask and count objects in photos with Meta's SAM 3 on your own NVIDIA GPU, with review, exports and a viewer. Works with Claude Code, Codex, Cursor, Pi and other Agent Skills clients.",
+      "full_description": "Agent skill: outline, mask and count objects in photos with Meta's SAM 3 on your own NVIDIA GPU, with review, exports and a viewer. Works with Claude Code, Codex, Cursor, Pi and other Agent Skills clients.",
+      "language": "Python",
+      "stars": 107,
+      "stars_gained": 0,
+      "forks": 6,
+      "topics": [
+        "agent-skills",
+        "annotation",
+        "claude-code",
+        "claude-code-plugin",
+        "codex",
+        "computer-vision",
+        "image-segmentation",
+        "instance-segmentation",
+        "sam3",
+        "segment-anything"
+      ],
+      "created_at": "2026-10-24T01:49:15Z",
+      "updated_at": "2026-10-28T02:52:07Z",
+      "rank": 29
     },
     {
       "name": "ChinaOpenClaw/mcd-nutrition-expert",
@@ -655,111 +762,6 @@
       ],
       "created_at": "2026-10-24T18:06:01Z",
       "updated_at": "2026-10-26T11:12:01Z",
-      "rank": 26
-    },
-    {
-      "name": "0xS4N4TG/kinetograph",
-      "url": "https://github.com/0xS4N4TG/kinetograph",
-      "description": "A blazingly fast programmatic video engine, made for agents.",
-      "full_description": "A blazingly fast programmatic video engine, made for agents.",
-      "language": "TypeScript",
-      "stars": 105,
-      "stars_gained": 0,
-      "forks": 11,
-      "topics": [
-        "agents",
-        "ai-agents",
-        "ffmpeg",
-        "gpu",
-        "mcp",
-        "motion-graphics",
-        "programmatic-video",
-        "react",
-        "remotion",
-        "rust",
-        "skia",
-        "typescript",
-        "video",
-        "video-rendering",
-        "wgpu"
-      ],
-      "created_at": "2026-10-23T05:15:41Z",
-      "updated_at": "2026-10-27T03:58:41Z",
-      "rank": 27
-    },
-    {
-      "name": "verity-mods/verity-enhanced",
-      "url": "https://github.com/verity-mods/verity-enhanced",
-      "description": "Unofficial Enhanced Edition of the Verity Minecraft mod. Upgraded AI, new scenarios, multiple endings, and support for Forge 1.18 - 1.21.11",
-      "full_description": "Unofficial Enhanced Edition of the Verity Minecraft mod. Upgraded AI, new scenarios, multiple endings, and support for Forge 1.18 - 1.21.11",
-      "language": "",
-      "stars": 100,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai",
-        "forge",
-        "horror",
-        "minecraft",
-        "minecraft-horror",
-        "minecraft-mod",
-        "minecraft-mod-2026",
-        "minecraft-mod-verity",
-        "minecraft-verity",
-        "mods",
-        "remaster",
-        "story",
-        "verity"
-      ],
-      "created_at": "2026-10-23T13:18:04Z",
-      "updated_at": "2026-10-23T16:42:29Z",
-      "rank": 28
-    },
-    {
-      "name": "wenboxia/mcd-advisor",
-      "url": "https://github.com/wenboxia/mcd-advisor",
-      "description": "麦麦参谋：想吃的一样不变，用麦当劳官方核价帮你找到这一顿更合适的买法（麦当劳中国 MCP · Agent Skill · 零依赖 CLI）",
-      "full_description": "麦麦参谋：想吃的一样不变，用麦当劳官方核价帮你找到这一顿更合适的买法（麦当劳中国 MCP · Agent Skill · 零依赖 CLI）",
-      "language": "JavaScript",
-      "stars": 96,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "agent-skill",
-        "claude-code",
-        "codex",
-        "deepseek",
-        "mcdonalds",
-        "mcp",
-        "nodejs"
-      ],
-      "created_at": "2026-10-21T13:45:45Z",
-      "updated_at": "2026-10-25T12:29:22Z",
-      "rank": 29
-    },
-    {
-      "name": "lillyguisnet/sam3-segmentation",
-      "url": "https://github.com/lillyguisnet/sam3-segmentation",
-      "description": "Agent skill: outline, mask and count objects in photos with Meta's SAM 3 on your own NVIDIA GPU, with review, exports and a viewer. Works with Claude Code, Codex, Cursor, Pi and other Agent Skills clients.",
-      "full_description": "Agent skill: outline, mask and count objects in photos with Meta's SAM 3 on your own NVIDIA GPU, with review, exports and a viewer. Works with Claude Code, Codex, Cursor, Pi and other Agent Skills clients.",
-      "language": "Python",
-      "stars": 91,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "agent-skills",
-        "annotation",
-        "claude-code",
-        "claude-code-plugin",
-        "codex",
-        "computer-vision",
-        "image-segmentation",
-        "instance-segmentation",
-        "sam3",
-        "segment-anything"
-      ],
-      "created_at": "2026-10-24T01:49:15Z",
-      "updated_at": "2026-10-27T05:13:43Z",
       "rank": 30
     }
   ]
