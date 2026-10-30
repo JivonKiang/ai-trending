@@ -1,36 +1,58 @@
 {
-  "updated": "2026-10-29T06:10:06.889392+00:00",
+  "updated": "2026-10-30T06:09:55.886598+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
   "projects": [
     {
-      "name": "huaxialucaicaizi/ai-startup-skills",
-      "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
-      "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "full_description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "language": "Python",
-      "stars": 504,
+      "name": "qybaihe/bla",
+      "url": "https://github.com/qybaihe/bla",
+      "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "full_description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "language": "TypeScript",
+      "stars": 980,
       "stars_gained": 0,
-      "forks": 32,
+      "forks": 139,
       "topics": [
-        "agent-skills",
-        "ai",
-        "business-plan",
+        "adversarial-ai",
         "claude-code",
-        "codex",
         "cursor",
-        "entrepreneurship",
-        "growth",
-        "mvp-validation",
-        "one-person-company",
-        "openai",
-        "pricing",
-        "startup"
+        "electron-security",
+        "llm-security",
+        "mcp",
+        "mcp-server",
+        "obfuscation",
+        "reverse-engineering",
+        "webassembly"
       ],
-      "created_at": "2026-10-22T10:23:29Z",
-      "updated_at": "2026-10-29T05:35:14Z",
+      "created_at": "2026-10-25T05:25:45Z",
+      "updated_at": "2026-10-30T06:08:30Z",
       "rank": 1
+    },
+    {
+      "name": "ccch1mneyyy/dsh-go",
+      "url": "https://github.com/ccch1mneyyy/dsh-go",
+      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。Android · Unofficial.",
+      "full_description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。Android · Unofficial.",
+      "language": "Dart",
+      "stars": 732,
+      "stars_gained": 0,
+      "forks": 28,
+      "topics": [
+        "ai-agent",
+        "android",
+        "android-app",
+        "coding-agent",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-tui",
+        "flutter",
+        "llm"
+      ],
+      "created_at": "2026-10-25T08:09:52Z",
+      "updated_at": "2026-10-30T06:09:32Z",
+      "rank": 2
     },
     {
       "name": "hevnsnt/CVEngine",
@@ -38,9 +60,9 @@
       "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
       "full_description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
       "language": "Python",
-      "stars": 448,
+      "stars": 499,
       "stars_gained": 0,
-      "forks": 67,
+      "forks": 76,
       "topics": [
         "ai",
         "attack-surface-management",
@@ -52,8 +74,8 @@
         "vulnerability-scanner"
       ],
       "created_at": "2026-10-24T22:34:43Z",
-      "updated_at": "2026-10-29T03:04:34Z",
-      "rank": 2
+      "updated_at": "2026-10-30T05:20:00Z",
+      "rank": 3
     },
     {
       "name": "ChannelCooperStart/capri-ai",
@@ -61,9 +83,9 @@
       "description": "🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.",
       "full_description": "🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.",
       "language": "",
-      "stars": 386,
+      "stars": 431,
       "stars_gained": 0,
-      "forks": 64,
+      "forks": 67,
       "topics": [
         "ai-agent",
         "ai-agents",
@@ -81,8 +103,8 @@
         "llm-agents"
       ],
       "created_at": "2026-10-27T22:00:47Z",
-      "updated_at": "2026-10-29T02:41:32Z",
-      "rank": 3
+      "updated_at": "2026-10-30T02:37:21Z",
+      "rank": 4
     },
     {
       "name": "patch-gg/anymove",
@@ -90,9 +112,9 @@
       "description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
       "full_description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
       "language": "Python",
-      "stars": 384,
+      "stars": 430,
       "stars_gained": 0,
-      "forks": 41,
+      "forks": 43,
       "topics": [
         "agent-skills",
         "animation",
@@ -104,8 +126,8 @@
         "motion-capture"
       ],
       "created_at": "2026-10-27T08:00:42Z",
-      "updated_at": "2026-10-29T06:02:11Z",
-      "rank": 4
+      "updated_at": "2026-10-30T05:53:13Z",
+      "rank": 5
     },
     {
       "name": "0xS4N4TG/kinetograph",
@@ -113,9 +135,9 @@
       "description": "A blazingly fast programmatic video engine, made for agents.",
       "full_description": "A blazingly fast programmatic video engine, made for agents.",
       "language": "TypeScript",
-      "stars": 309,
+      "stars": 342,
       "stars_gained": 0,
-      "forks": 20,
+      "forks": 24,
       "topics": [
         "agents",
         "ai-agents",
@@ -135,40 +157,55 @@
         "wgpu"
       ],
       "created_at": "2026-10-23T05:15:41Z",
-      "updated_at": "2026-10-29T05:18:09Z",
-      "rank": 5
+      "updated_at": "2026-10-30T05:17:04Z",
+      "rank": 6
     },
     {
-      "name": "free-cracks/Adobe-Acrobat-Pro",
-      "url": "https://github.com/free-cracks/Adobe-Acrobat-Pro",
-      "description": "",
-      "full_description": "",
-      "language": "",
-      "stars": 288,
+      "name": "jackwener/DeepseekHarness-Android",
+      "url": "https://github.com/jackwener/DeepseekHarness-Android",
+      "description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
+      "full_description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
+      "language": "Kotlin",
+      "stars": 322,
       "stars_gained": 0,
-      "forks": 0,
+      "forks": 29,
       "topics": [
-        "adobe-acrobat",
-        "ai",
-        "ilovepdf",
-        "pdf",
-        "pdf-compressor",
-        "pdf-converter",
-        "pdf-editor-pdf",
-        "pdf-lib",
-        "pdf-to-jpg",
-        "pdf-to-json",
-        "pdf-to-png",
-        "pdfeditor",
-        "pdftoword",
-        "pythia8",
-        "split-pdf",
-        "splitpdf",
-        "watermark-pdf"
+        "ai-agent",
+        "android",
+        "deepseek",
+        "deepseek-harness",
+        "llm",
+        "phone-agent",
+        "shizuku"
       ],
-      "created_at": "2026-10-26T09:34:33Z",
-      "updated_at": "2026-10-27T01:21:48Z",
-      "rank": 6
+      "created_at": "2026-10-27T19:26:12Z",
+      "updated_at": "2026-10-30T06:04:12Z",
+      "rank": 7
+    },
+    {
+      "name": "shipwords-dev/shipwords",
+      "url": "https://github.com/shipwords-dev/shipwords",
+      "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
+      "full_description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
+      "language": "TypeScript",
+      "stars": 284,
+      "stars_gained": 0,
+      "forks": 186,
+      "topics": [
+        "ai",
+        "cloudflare",
+        "cloudflare-workers",
+        "d1",
+        "react",
+        "saas-boilerplate",
+        "saas-starter",
+        "seo",
+        "stripe",
+        "tanstack-start"
+      ],
+      "created_at": "2026-10-28T06:35:51Z",
+      "updated_at": "2026-10-30T06:07:02Z",
+      "rank": 8
     },
     {
       "name": "JunWan666/astrbot-for-android",
@@ -176,7 +213,7 @@
       "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
       "full_description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
       "language": "Kotlin",
-      "stars": 243,
+      "stars": 264,
       "stars_gained": 0,
       "forks": 11,
       "topics": [
@@ -196,8 +233,39 @@
         "ubuntu"
       ],
       "created_at": "2026-10-26T05:13:32Z",
-      "updated_at": "2026-10-29T05:32:01Z",
-      "rank": 7
+      "updated_at": "2026-10-30T05:29:13Z",
+      "rank": 9
+    },
+    {
+      "name": "yjid/kensaku",
+      "url": "https://github.com/yjid/kensaku",
+      "description": "Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
+      "full_description": "Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
+      "language": "Rust",
+      "stars": 236,
+      "stars_gained": 0,
+      "forks": 11,
+      "topics": [
+        "ai-agents",
+        "desktop",
+        "desktop-search",
+        "file-search",
+        "full-text-search",
+        "launcher",
+        "local-first",
+        "mcp",
+        "ocr",
+        "open-source",
+        "privacy",
+        "rust",
+        "search",
+        "semantic-search",
+        "tauri",
+        "windows"
+      ],
+      "created_at": "2026-10-24T21:00:26Z",
+      "updated_at": "2026-10-30T05:53:05Z",
+      "rank": 10
     },
     {
       "name": "jouaaaaaa/mcd-self-butler",
@@ -219,7 +287,7 @@
       ],
       "created_at": "2026-10-24T04:34:37Z",
       "updated_at": "2026-10-28T04:45:24Z",
-      "rank": 8
+      "rank": 11
     },
     {
       "name": "Cattmonkey/ChaosIntelligence",
@@ -246,78 +314,30 @@
       ],
       "created_at": "2026-10-23T13:04:31Z",
       "updated_at": "2026-10-29T02:53:38Z",
-      "rank": 9
-    },
-    {
-      "name": "qybaihe/bla",
-      "url": "https://github.com/qybaihe/bla",
-      "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
-      "full_description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
-      "language": "TypeScript",
-      "stars": 202,
-      "stars_gained": 0,
-      "forks": 57,
-      "topics": [
-        "adversarial-ai",
-        "claude-code",
-        "cursor",
-        "electron-security",
-        "llm-security",
-        "mcp",
-        "mcp-server",
-        "obfuscation",
-        "reverse-engineering",
-        "webassembly"
-      ],
-      "created_at": "2026-10-25T05:25:45Z",
-      "updated_at": "2026-10-29T02:55:16Z",
-      "rank": 10
-    },
-    {
-      "name": "shipwords-dev/shipwords",
-      "url": "https://github.com/shipwords-dev/shipwords",
-      "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
-      "full_description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
-      "language": "TypeScript",
-      "stars": 188,
-      "stars_gained": 0,
-      "forks": 118,
-      "topics": [
-        "ai",
-        "cloudflare",
-        "cloudflare-workers",
-        "d1",
-        "react",
-        "saas-boilerplate",
-        "saas-starter",
-        "seo",
-        "stripe",
-        "tanstack-start"
-      ],
-      "created_at": "2026-10-28T06:35:51Z",
-      "updated_at": "2026-10-29T06:09:39Z",
-      "rank": 11
-    },
-    {
-      "name": "patch-gg/trompe",
-      "url": "https://github.com/patch-gg/trompe",
-      "description": "Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out.",
-      "full_description": "Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out.",
-      "language": "TypeScript",
-      "stars": 179,
-      "stars_gained": 0,
-      "forks": 11,
-      "topics": [
-        "gamedev",
-        "generative-ai",
-        "procedural",
-        "texturing",
-        "threejs",
-        "webgl"
-      ],
-      "created_at": "2026-10-25T04:27:06Z",
-      "updated_at": "2026-10-29T05:04:11Z",
       "rank": 12
+    },
+    {
+      "name": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "full_description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "language": "Kotlin",
+      "stars": 189,
+      "stars_gained": 0,
+      "forks": 33,
+      "topics": [
+        "accessibility",
+        "ai-agent",
+        "android",
+        "automation",
+        "jetpack-compose",
+        "kotlin",
+        "llm",
+        "mobile-agent"
+      ],
+      "created_at": "2026-10-29T14:34:07Z",
+      "updated_at": "2026-10-30T06:09:30Z",
+      "rank": 13
     },
     {
       "name": "emanuele-em/kanzo",
@@ -325,9 +345,9 @@
       "description": "Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup.",
       "full_description": "Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup.",
       "language": "Rust",
-      "stars": 133,
+      "stars": 186,
       "stars_gained": 0,
-      "forks": 9,
+      "forks": 10,
       "topics": [
         "ai-agents",
         "claude-code",
@@ -348,28 +368,161 @@
         "task-manager"
       ],
       "created_at": "2026-10-25T11:14:03Z",
-      "updated_at": "2026-10-29T00:41:30Z",
-      "rank": 13
+      "updated_at": "2026-10-30T04:05:36Z",
+      "rank": 14
     },
     {
-      "name": "XRayLau1/maitaiyi",
-      "url": "https://github.com/XRayLau1/maitaiyi",
-      "description": "麦门综合门诊：12 项问诊测出你的麦门体质，出具诊断证明书与 Rp. 处方笺（麦当劳 MCP）",
-      "full_description": "麦门综合门诊：12 项问诊测出你的麦门体质，出具诊断证明书与 Rp. 处方笺（麦当劳 MCP）",
-      "language": "HTML",
-      "stars": 128,
+      "name": "patch-gg/trompe",
+      "url": "https://github.com/patch-gg/trompe",
+      "description": "Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out.",
+      "full_description": "Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out.",
+      "language": "TypeScript",
+      "stars": 180,
       "stars_gained": 0,
-      "forks": 1,
+      "forks": 11,
       "topics": [
-        "mcdonalds",
+        "gamedev",
+        "generative-ai",
+        "procedural",
+        "texturing",
+        "threejs",
+        "webgl"
+      ],
+      "created_at": "2026-10-25T04:27:06Z",
+      "updated_at": "2026-10-29T11:46:43Z",
+      "rank": 15
+    },
+    {
+      "name": "jmanico/grim-prompter",
+      "url": "https://github.com/jmanico/grim-prompter",
+      "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.",
+      "full_description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.",
+      "language": "",
+      "stars": 179,
+      "stars_gained": 0,
+      "forks": 15,
+      "topics": [
+        "ai-agents",
+        "appsec",
+        "claude-code",
+        "codex",
+        "linddun",
+        "llm",
+        "pasta",
+        "prompt-engineering",
+        "security",
+        "stride",
+        "threat-modeling"
+      ],
+      "created_at": "2026-10-28T12:09:26Z",
+      "updated_at": "2026-10-30T05:35:56Z",
+      "rank": 16
+    },
+    {
+      "name": "mutonby/agentring",
+      "url": "https://github.com/mutonby/agentring",
+      "description": "Let your AI agents call your phone over VoIP, and call them back. Your phone rings like a real call, even locked; a voice AI talks it through and returns the transcript. Self-hosted, open source, no phone numbers or Twilio.",
+      "full_description": "Let your AI agents call your phone over VoIP, and call them back. Your phone rings like a real call, even locked; a voice AI talks it through and returns the transcript. Self-hosted, open source, no phone numbers or Twilio.",
+      "language": "Kotlin",
+      "stars": 175,
+      "stars_gained": 0,
+      "forks": 21,
+      "topics": [
+        "ai-agents",
+        "android",
+        "claude-code",
+        "gemini-live",
+        "livekit",
         "mcp",
         "mcp-server",
-        "personality-test",
-        "skills"
+        "phone-calls",
+        "self-hosted",
+        "voice-ai",
+        "voip",
+        "webrtc"
       ],
-      "created_at": "2026-10-23T16:06:14Z",
-      "updated_at": "2026-10-28T06:08:58Z",
-      "rank": 14
+      "created_at": "2026-10-23T15:44:01Z",
+      "updated_at": "2026-10-30T05:59:05Z",
+      "rank": 17
+    },
+    {
+      "name": "lwh0630/TokenBar",
+      "url": "https://github.com/lwh0630/TokenBar",
+      "description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
+      "full_description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
+      "language": "Dart",
+      "stars": 152,
+      "stars_gained": 0,
+      "forks": 11,
+      "topics": [
+        "ai",
+        "android",
+        "claude",
+        "codex",
+        "cursor",
+        "dart",
+        "flutter",
+        "ios",
+        "linux",
+        "llm",
+        "macos",
+        "quota",
+        "system-tray",
+        "tray",
+        "usage-monitor",
+        "windows"
+      ],
+      "created_at": "2026-10-24T07:30:31Z",
+      "updated_at": "2026-10-30T06:07:04Z",
+      "rank": 18
+    },
+    {
+      "name": "aa1143/NamiGPT",
+      "url": "https://github.com/aa1143/NamiGPT",
+      "description": "零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step",
+      "full_description": "零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step",
+      "language": "Python",
+      "stars": 135,
+      "stars_gained": 0,
+      "forks": 12,
+      "topics": [
+        "attention",
+        "chinese",
+        "deep-learning",
+        "from-scratch",
+        "gpt-2",
+        "large-language-models",
+        "llm",
+        "pytorch",
+        "transformer",
+        "tutorial"
+      ],
+      "created_at": "2026-10-28T00:57:01Z",
+      "updated_at": "2026-10-30T04:08:12Z",
+      "rank": 19
+    },
+    {
+      "name": "NerverDevs/nervecenter",
+      "url": "https://github.com/NerverDevs/nervecenter",
+      "description": "new-api / sub2api 中转站账号管理中心：余额、API Key、用量、倍率、模型比价 | https://nvcenter.cc",
+      "full_description": "new-api / sub2api 中转站账号管理中心：余额、API Key、用量、倍率、模型比价 | https://nvcenter.cc",
+      "language": "TypeScript",
+      "stars": 130,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "api-key-management",
+        "api-relay",
+        "claude",
+        "dashboard",
+        "llm",
+        "new-api",
+        "openai",
+        "sub2api"
+      ],
+      "created_at": "2026-10-23T15:07:06Z",
+      "updated_at": "2026-10-30T06:02:56Z",
+      "rank": 20
     },
     {
       "name": "xanthichi/mcd-meal-mate",
@@ -392,67 +545,27 @@
       ],
       "created_at": "2026-10-24T12:39:14Z",
       "updated_at": "2026-10-26T05:14:59Z",
-      "rank": 15
+      "rank": 21
     },
     {
-      "name": "ccch1mneyyy/dsh-go",
-      "url": "https://github.com/ccch1mneyyy/dsh-go",
-      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。Android · Unofficial.",
-      "full_description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。Android · Unofficial.",
-      "language": "",
-      "stars": 126,
+      "name": "XRayLau1/maitaiyi",
+      "url": "https://github.com/XRayLau1/maitaiyi",
+      "description": "麦门综合门诊：12 项问诊测出你的麦门体质，出具诊断证明书与 Rp. 处方笺（麦当劳 MCP）",
+      "full_description": "麦门综合门诊：12 项问诊测出你的麦门体质，出具诊断证明书与 Rp. 处方笺（麦当劳 MCP）",
+      "language": "HTML",
+      "stars": 127,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 1,
       "topics": [
-        "ai-agent",
-        "android",
-        "android-app",
-        "coding-agent",
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-tui",
-        "flutter",
-        "llm"
+        "mcdonalds",
+        "mcp",
+        "mcp-server",
+        "personality-test",
+        "skills"
       ],
-      "created_at": "2026-10-25T08:09:52Z",
-      "updated_at": "2026-10-29T05:57:12Z",
-      "rank": 16
-    },
-    {
-      "name": "stockedge/manga-generator",
-      "url": "https://github.com/stockedge/manga-generator",
-      "description": "原作から脚本・画像生成・組版・PDF出力まで進める、Codex向け漫画制作ツール",
-      "full_description": "原作から脚本・画像生成・組版・PDF出力まで進める、Codex向け漫画制作ツール",
-      "language": "JavaScript",
-      "stars": 124,
-      "stars_gained": 0,
-      "forks": 23,
-      "topics": [
-        "ai-agents",
-        "ai-comic",
-        "ai-comics",
-        "ai-manga",
-        "character-consistency",
-        "claude-code",
-        "codex",
-        "comfyui",
-        "comic-creation",
-        "comic-generation",
-        "comic-generator",
-        "comics",
-        "generative-ai",
-        "image-generation",
-        "manga",
-        "manga-generator",
-        "novel-to-comic",
-        "pdf-generation",
-        "storyboard",
-        "text-to-comic"
-      ],
-      "created_at": "2026-10-22T02:58:45Z",
-      "updated_at": "2026-10-29T06:09:14Z",
-      "rank": 17
+      "created_at": "2026-10-23T16:06:14Z",
+      "updated_at": "2026-10-30T05:53:01Z",
+      "rank": 22
     },
     {
       "name": "xiaozhangup/Oh-My-McDonald",
@@ -478,7 +591,7 @@
       ],
       "created_at": "2026-10-24T08:38:16Z",
       "updated_at": "2026-10-27T18:53:57Z",
-      "rank": 18
+      "rank": 23
     },
     {
       "name": "liyupi/dafeiyu-cleaner",
@@ -486,7 +599,7 @@
       "description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
       "full_description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
       "language": "JavaScript",
-      "stars": 119,
+      "stars": 122,
       "stars_gained": 0,
       "forks": 6,
       "topics": [
@@ -512,33 +625,8 @@
         "social-bot"
       ],
       "created_at": "2026-10-23T03:39:33Z",
-      "updated_at": "2026-10-29T03:10:52Z",
-      "rank": 19
-    },
-    {
-      "name": "aa1143/NamiGPT",
-      "url": "https://github.com/aa1143/NamiGPT",
-      "description": "零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step",
-      "full_description": "零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step",
-      "language": "Python",
-      "stars": 117,
-      "stars_gained": 0,
-      "forks": 8,
-      "topics": [
-        "attention",
-        "chinese",
-        "deep-learning",
-        "from-scratch",
-        "gpt-2",
-        "large-language-models",
-        "llm",
-        "pytorch",
-        "transformer",
-        "tutorial"
-      ],
-      "created_at": "2026-10-28T00:57:01Z",
-      "updated_at": "2026-10-29T04:32:37Z",
-      "rank": 20
+      "updated_at": "2026-10-29T15:03:40Z",
+      "rank": 24
     },
     {
       "name": "wahaha-potato/mcd-coupon-xray",
@@ -561,7 +649,7 @@
       ],
       "created_at": "2026-10-23T02:38:59Z",
       "updated_at": "2026-10-26T05:42:22Z",
-      "rank": 21
+      "rank": 25
     },
     {
       "name": "boyuchengz/canvas-mcp",
@@ -587,38 +675,7 @@
       ],
       "created_at": "2026-10-25T20:12:43Z",
       "updated_at": "2026-10-28T10:17:28Z",
-      "rank": 22
-    },
-    {
-      "name": "lwh0630/TokenBar",
-      "url": "https://github.com/lwh0630/TokenBar",
-      "description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
-      "full_description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
-      "language": "Dart",
-      "stars": 117,
-      "stars_gained": 0,
-      "forks": 8,
-      "topics": [
-        "ai",
-        "android",
-        "claude",
-        "codex",
-        "cursor",
-        "dart",
-        "flutter",
-        "ios",
-        "linux",
-        "llm",
-        "macos",
-        "quota",
-        "system-tray",
-        "tray",
-        "usage-monitor",
-        "windows"
-      ],
-      "created_at": "2026-10-24T07:30:31Z",
-      "updated_at": "2026-10-29T05:34:37Z",
-      "rank": 23
+      "rank": 26
     },
     {
       "name": "Alex-star-arch/mcd-burger-studio",
@@ -641,32 +698,7 @@
       ],
       "created_at": "2026-10-23T07:58:39Z",
       "updated_at": "2026-10-26T06:02:45Z",
-      "rank": 24
-    },
-    {
-      "name": "lillyguisnet/sam3-segmentation",
-      "url": "https://github.com/lillyguisnet/sam3-segmentation",
-      "description": "Agent skill: outline, mask and count objects in photos with Meta's SAM 3 on your own NVIDIA GPU, with review, exports and a viewer. Works with Claude Code, Codex, Cursor, Pi and other Agent Skills clients.",
-      "full_description": "Agent skill: outline, mask and count objects in photos with Meta's SAM 3 on your own NVIDIA GPU, with review, exports and a viewer. Works with Claude Code, Codex, Cursor, Pi and other Agent Skills clients.",
-      "language": "Python",
-      "stars": 112,
-      "stars_gained": 0,
-      "forks": 7,
-      "topics": [
-        "agent-skills",
-        "annotation",
-        "claude-code",
-        "claude-code-plugin",
-        "codex",
-        "computer-vision",
-        "image-segmentation",
-        "instance-segmentation",
-        "sam3",
-        "segment-anything"
-      ],
-      "created_at": "2026-10-24T01:49:15Z",
-      "updated_at": "2026-10-29T03:41:52Z",
-      "rank": 25
+      "rank": 27
     },
     {
       "name": "Shaitrish/37studio",
@@ -674,9 +706,9 @@
       "description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
       "full_description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
       "language": "Go",
-      "stars": 107,
+      "stars": 115,
       "stars_gained": 0,
-      "forks": 12,
+      "forks": 13,
       "topics": [
         "ai",
         "ai-agents",
@@ -693,31 +725,33 @@
         "video-editing"
       ],
       "created_at": "2026-10-23T00:26:52Z",
-      "updated_at": "2026-10-29T05:23:51Z",
-      "rank": 26
+      "updated_at": "2026-10-30T03:55:40Z",
+      "rank": 28
     },
     {
-      "name": "NerverDevs/nervecenter",
-      "url": "https://github.com/NerverDevs/nervecenter",
-      "description": "new-api / sub2api 中转站账号管理中心：余额、API Key、用量、倍率、模型比价 | https://nvcenter.cc",
-      "full_description": "new-api / sub2api 中转站账号管理中心：余额、API Key、用量、倍率、模型比价 | https://nvcenter.cc",
-      "language": "TypeScript",
-      "stars": 106,
+      "name": "lillyguisnet/sam3-segmentation",
+      "url": "https://github.com/lillyguisnet/sam3-segmentation",
+      "description": "Agent skill: outline, mask and count objects in photos with Meta's SAM 3 on your own NVIDIA GPU, with review, exports and a viewer. Works with Claude Code, Codex, Cursor, Pi and other Agent Skills clients.",
+      "full_description": "Agent skill: outline, mask and count objects in photos with Meta's SAM 3 on your own NVIDIA GPU, with review, exports and a viewer. Works with Claude Code, Codex, Cursor, Pi and other Agent Skills clients.",
+      "language": "Python",
+      "stars": 112,
       "stars_gained": 0,
-      "forks": 0,
+      "forks": 8,
       "topics": [
-        "api-key-management",
-        "api-relay",
-        "claude",
-        "dashboard",
-        "llm",
-        "new-api",
-        "openai",
-        "sub2api"
+        "agent-skills",
+        "annotation",
+        "claude-code",
+        "claude-code-plugin",
+        "codex",
+        "computer-vision",
+        "image-segmentation",
+        "instance-segmentation",
+        "sam3",
+        "segment-anything"
       ],
-      "created_at": "2026-10-23T15:07:06Z",
-      "updated_at": "2026-10-29T06:01:27Z",
-      "rank": 27
+      "created_at": "2026-10-24T01:49:15Z",
+      "updated_at": "2026-10-29T03:41:52Z",
+      "rank": 29
     },
     {
       "name": "ChinaOpenClaw/mcd-nutrition-expert",
@@ -751,61 +785,6 @@
       ],
       "created_at": "2026-10-24T18:06:01Z",
       "updated_at": "2026-10-26T11:12:01Z",
-      "rank": 28
-    },
-    {
-      "name": "verity-mods/verity-enhanced",
-      "url": "https://github.com/verity-mods/verity-enhanced",
-      "description": "Unofficial Enhanced Edition of the Verity Minecraft mod. Upgraded AI, new scenarios, multiple endings, and support for Forge 1.18 - 1.21.11",
-      "full_description": "Unofficial Enhanced Edition of the Verity Minecraft mod. Upgraded AI, new scenarios, multiple endings, and support for Forge 1.18 - 1.21.11",
-      "language": "",
-      "stars": 100,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai",
-        "forge",
-        "horror",
-        "minecraft",
-        "minecraft-horror",
-        "minecraft-mod",
-        "minecraft-mod-2026",
-        "minecraft-mod-verity",
-        "minecraft-verity",
-        "mods",
-        "remaster",
-        "story",
-        "verity"
-      ],
-      "created_at": "2026-10-23T13:18:04Z",
-      "updated_at": "2026-10-23T16:42:29Z",
-      "rank": 29
-    },
-    {
-      "name": "lucianodiisouza/flecha-browser",
-      "url": "https://github.com/lucianodiisouza/flecha-browser",
-      "description": "Open-source Arc alternative for macOS: a Chromium browser for developers with Spaces, a dev command bar and a built-in MCP server for coding agents.",
-      "full_description": "Open-source Arc alternative for macOS: a Chromium browser for developers with Spaces, a dev command bar and a built-in MCP server for coding agents.",
-      "language": "TypeScript",
-      "stars": 99,
-      "stars_gained": 0,
-      "forks": 12,
-      "topics": [
-        "arc-alternative",
-        "arc-browser",
-        "browser",
-        "chromium",
-        "claude-code",
-        "developer-tools",
-        "macos",
-        "mcp",
-        "mcp-server",
-        "open-source",
-        "vertical-tabs",
-        "web-browser"
-      ],
-      "created_at": "2026-10-22T17:03:15Z",
-      "updated_at": "2026-10-28T18:36:05Z",
       "rank": 30
     }
   ]
