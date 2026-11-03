@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T06:34:30.691590+00:00",
+  "updated": "2026-11-03T07:04:54.317535+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "full_description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "language": "Kotlin",
-      "stars": 4395,
+      "stars": 5656,
       "stars_gained": 0,
-      "forks": 836,
+      "forks": 1100,
       "topics": [
         "accessibility",
         "ai-agent",
@@ -24,7 +24,7 @@
         "mobile-agent"
       ],
       "created_at": "2026-10-29T14:34:07Z",
-      "updated_at": "2026-11-02T06:34:00Z",
+      "updated_at": "2026-11-03T07:04:48Z",
       "rank": 1
     },
     {
@@ -33,9 +33,9 @@
       "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
       "full_description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
       "language": "TypeScript",
-      "stars": 793,
+      "stars": 1808,
       "stars_gained": 0,
-      "forks": 10,
+      "forks": 18,
       "topics": [
         "ai-agent",
         "ai-assistant",
@@ -59,7 +59,7 @@
         "wechat"
       ],
       "created_at": "2026-10-27T08:51:18Z",
-      "updated_at": "2026-11-02T06:32:28Z",
+      "updated_at": "2026-11-03T07:04:28Z",
       "rank": 2
     },
     {
@@ -68,9 +68,9 @@
       "description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
       "full_description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
       "language": "Kotlin",
-      "stars": 722,
+      "stars": 760,
       "stars_gained": 0,
-      "forks": 78,
+      "forks": 81,
       "topics": [
         "ai-agent",
         "android",
@@ -81,7 +81,7 @@
         "shizuku"
       ],
       "created_at": "2026-10-27T19:26:12Z",
-      "updated_at": "2026-11-02T06:31:31Z",
+      "updated_at": "2026-11-03T05:22:46Z",
       "rank": 3
     },
     {
@@ -90,15 +90,15 @@
       "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
       "full_description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
       "language": "JavaScript",
-      "stars": 615,
+      "stars": 683,
       "stars_gained": 0,
-      "forks": 159,
+      "forks": 171,
       "topics": [
         "ai",
         "gpt"
       ],
       "created_at": "2026-10-29T15:28:16Z",
-      "updated_at": "2026-11-02T06:33:23Z",
+      "updated_at": "2026-11-03T06:48:14Z",
       "rank": 4
     },
     {
@@ -107,9 +107,9 @@
       "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
       "full_description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
       "language": "Python",
-      "stars": 532,
+      "stars": 636,
       "stars_gained": 0,
-      "forks": 443,
+      "forks": 503,
       "topics": [
         "ai-agents",
         "autonomous-agents",
@@ -120,8 +120,30 @@
         "pentest"
       ],
       "created_at": "2026-10-30T15:12:35Z",
-      "updated_at": "2026-11-02T06:29:52Z",
+      "updated_at": "2026-11-03T06:50:21Z",
       "rank": 5
+    },
+    {
+      "name": "Balanov/uncut",
+      "url": "https://github.com/Balanov/uncut",
+      "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "full_description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "language": "Go",
+      "stars": 576,
+      "stars_gained": 0,
+      "forks": 8,
+      "topics": [
+        "agent-harness",
+        "cli",
+        "coding-agent",
+        "go",
+        "headless",
+        "llm",
+        "local-models"
+      ],
+      "created_at": "2026-11-01T17:19:30Z",
+      "updated_at": "2026-11-03T04:55:49Z",
+      "rank": 6
     },
     {
       "name": "patch-gg/anymove",
@@ -129,9 +151,9 @@
       "description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
       "full_description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
       "language": "Python",
-      "stars": 468,
+      "stars": 490,
       "stars_gained": 0,
-      "forks": 48,
+      "forks": 52,
       "topics": [
         "agent-skills",
         "animation",
@@ -143,8 +165,8 @@
         "motion-capture"
       ],
       "created_at": "2026-10-27T08:00:42Z",
-      "updated_at": "2026-11-02T06:13:02Z",
-      "rank": 6
+      "updated_at": "2026-11-03T03:50:56Z",
+      "rank": 7
     },
     {
       "name": "wanghao-SunSky/cs329z-chinese",
@@ -152,9 +174,9 @@
       "description": "斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.",
       "full_description": "斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.",
       "language": "HTML",
-      "stars": 411,
+      "stars": 468,
       "stars_gained": 0,
-      "forks": 45,
+      "forks": 50,
       "topics": [
         "agent-memory",
         "agentic-ai",
@@ -173,29 +195,7 @@
         "tutorial"
       ],
       "created_at": "2026-10-28T18:18:24Z",
-      "updated_at": "2026-11-02T05:43:55Z",
-      "rank": 7
-    },
-    {
-      "name": "Balanov/uncut",
-      "url": "https://github.com/Balanov/uncut",
-      "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
-      "full_description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
-      "language": "Go",
-      "stars": 382,
-      "stars_gained": 0,
-      "forks": 1,
-      "topics": [
-        "agent-harness",
-        "cli",
-        "coding-agent",
-        "go",
-        "headless",
-        "llm",
-        "local-models"
-      ],
-      "created_at": "2026-11-01T17:19:30Z",
-      "updated_at": "2026-11-02T06:32:52Z",
+      "updated_at": "2026-11-03T06:55:24Z",
       "rank": 8
     },
     {
@@ -204,7 +204,7 @@
       "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.",
       "full_description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.",
       "language": "",
-      "stars": 337,
+      "stars": 349,
       "stars_gained": 0,
       "forks": 30,
       "topics": [
@@ -221,7 +221,7 @@
         "threat-modeling"
       ],
       "created_at": "2026-10-28T12:09:26Z",
-      "updated_at": "2026-11-02T04:56:31Z",
+      "updated_at": "2026-11-03T01:12:23Z",
       "rank": 9
     },
     {
@@ -230,9 +230,9 @@
       "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
       "full_description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
       "language": "TypeScript",
-      "stars": 335,
+      "stars": 348,
       "stars_gained": 0,
-      "forks": 213,
+      "forks": 221,
       "topics": [
         "ai",
         "cloudflare",
@@ -246,37 +246,8 @@
         "tanstack-start"
       ],
       "created_at": "2026-10-28T06:35:51Z",
-      "updated_at": "2026-11-02T06:25:59Z",
+      "updated_at": "2026-11-03T06:56:35Z",
       "rank": 10
-    },
-    {
-      "name": "JunWan666/astrbot-for-android",
-      "url": "https://github.com/JunWan666/astrbot-for-android",
-      "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
-      "full_description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
-      "language": "Kotlin",
-      "stars": 308,
-      "stars_gained": 0,
-      "forks": 13,
-      "topics": [
-        "ai",
-        "android",
-        "astrbot",
-        "chatbot",
-        "jetpack-compose",
-        "kotlin",
-        "llm",
-        "napcat",
-        "napcatqq",
-        "onebot",
-        "proot",
-        "qq-bot",
-        "self-hosted",
-        "ubuntu"
-      ],
-      "created_at": "2026-10-26T05:13:32Z",
-      "updated_at": "2026-11-02T06:13:01Z",
-      "rank": 11
     },
     {
       "name": "Balanov/baiagent-director",
@@ -301,35 +272,42 @@
       ],
       "created_at": "2026-10-28T20:52:16Z",
       "updated_at": "2026-11-02T02:16:19Z",
-      "rank": 12
+      "rank": 11
     },
     {
-      "name": "rtora/munorai",
-      "url": "https://github.com/rtora/munorai",
-      "description": "Supercharge the AI you already use. Greener. Better. Faster. Cheaper.",
-      "full_description": "Supercharge the AI you already use. Greener. Better. Faster. Cheaper.",
-      "language": "",
-      "stars": 236,
+      "name": "aa1143/NamiAgent",
+      "url": "https://github.com/aa1143/NamiAgent",
+      "description": "零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent",
+      "full_description": "零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent",
+      "language": "Python",
+      "stars": 249,
       "stars_gained": 0,
-      "forks": 3,
+      "forks": 21,
       "topics": [
-        "ai",
-        "ai-agents",
-        "developer-tools"
+        "agent",
+        "ai-agent",
+        "chinese",
+        "claude-code",
+        "deepseek",
+        "from-scratch",
+        "llm",
+        "mcp",
+        "python",
+        "tutorial"
       ],
-      "created_at": "2026-10-26T04:20:09Z",
-      "updated_at": "2026-11-02T05:56:57Z",
-      "rank": 13
+      "created_at": "2026-10-30T11:03:30Z",
+      "updated_at": "2026-11-03T07:03:10Z",
+      "rank": 12
     },
     {
       "name": "muaaz9329/cheap-ag",
       "url": "https://github.com/muaaz9329/cheap-ag",
-      "description": "50x your Claude usage with cheap-ag. Opus plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code.",
-      "full_description": "50x your Claude usage with cheap-ag. Opus plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code.",
+      "description": "50x your usage with cheap-ag. Opus/Astra plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code & Codex.",
+      "full_description": "50x your usage with cheap-ag. Opus/Astra plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code & Codex.",
       "language": "TypeScript",
-      "stars": 207,
+      "stars": 234,
       "stars_gained": 0,
-      "forks": 16,
+      "forks": 17,
       "topics": [
         "agentic-coding",
         "ai-agents",
@@ -353,31 +331,32 @@
         "openrouter"
       ],
       "created_at": "2026-10-28T22:26:18Z",
-      "updated_at": "2026-11-02T05:30:49Z",
-      "rank": 14
+      "updated_at": "2026-11-03T06:45:19Z",
+      "rank": 13
     },
     {
-      "name": "tavern-labs-ai/persona-ai-sdk",
-      "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
-      "description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
-      "full_description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
-      "language": "TypeScript",
-      "stars": 195,
+      "name": "SAOS-3624/dsh-see-now",
+      "url": "https://github.com/SAOS-3624/dsh-see-now",
+      "description": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+      "full_description": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+      "language": "JavaScript",
+      "stars": 210,
       "stars_gained": 0,
-      "forks": 2,
+      "forks": 14,
       "topics": [
-        "ai",
-        "bedrock",
-        "characters",
+        "ai-agent",
+        "dsh",
+        "dsh-plugin",
+        "ffmpeg",
         "llm",
-        "memory",
-        "persona",
-        "personality",
-        "sdk"
+        "realtime",
+        "screen-capture",
+        "token-efficient",
+        "vision"
       ],
-      "created_at": "2026-10-31T14:29:10Z",
-      "updated_at": "2026-11-02T04:54:18Z",
-      "rank": 15
+      "created_at": "2026-11-01T13:32:34Z",
+      "updated_at": "2026-11-03T06:55:40Z",
+      "rank": 14
     },
     {
       "name": "enmerasoftware/ai-design-check",
@@ -385,9 +364,9 @@
       "description": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
       "full_description": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
       "language": "JavaScript",
-      "stars": 174,
+      "stars": 205,
       "stars_gained": 0,
-      "forks": 9,
+      "forks": 11,
       "topics": [
         "agent-skill",
         "ai",
@@ -403,8 +382,56 @@
         "ui"
       ],
       "created_at": "2026-10-28T07:20:59Z",
-      "updated_at": "2026-11-02T06:24:45Z",
+      "updated_at": "2026-11-03T05:23:49Z",
+      "rank": 15
+    },
+    {
+      "name": "tavern-labs-ai/persona-ai-sdk",
+      "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
+      "description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
+      "full_description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
+      "language": "TypeScript",
+      "stars": 198,
+      "stars_gained": 0,
+      "forks": 2,
+      "topics": [
+        "ai",
+        "bedrock",
+        "characters",
+        "llm",
+        "memory",
+        "persona",
+        "personality",
+        "sdk"
+      ],
+      "created_at": "2026-10-31T14:29:10Z",
+      "updated_at": "2026-11-03T03:00:31Z",
       "rank": 16
+    },
+    {
+      "name": "Interactive-Active-AI/NextTransformer",
+      "url": "https://github.com/Interactive-Active-AI/NextTransformer",
+      "description": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers, with compute-matched benchmarking and a platform for autonomous architecture research.",
+      "full_description": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers, with compute-matched benchmarking and a platform for autonomous architecture research.",
+      "language": "Python",
+      "stars": 176,
+      "stars_gained": 0,
+      "forks": 11,
+      "topics": [
+        "auto-research",
+        "benchmark",
+        "deep-learning",
+        "language-models",
+        "linear-attention",
+        "llm",
+        "looped-transformer",
+        "pytorch",
+        "sparse-attention",
+        "transformer"
+      ],
+      "created_at": "2026-10-31T07:46:13Z",
+      "updated_at": "2026-11-03T06:23:53Z",
+      "rank": 17
     },
     {
       "name": "aa1143/NamiGPT",
@@ -412,9 +439,9 @@
       "description": "零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step",
       "full_description": "零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step",
       "language": "Python",
-      "stars": 161,
+      "stars": 173,
       "stars_gained": 0,
-      "forks": 14,
+      "forks": 15,
       "topics": [
         "attention",
         "chinese",
@@ -428,8 +455,8 @@
         "tutorial"
       ],
       "created_at": "2026-10-28T00:57:01Z",
-      "updated_at": "2026-11-01T17:47:35Z",
-      "rank": 17
+      "updated_at": "2026-11-03T05:43:41Z",
+      "rank": 18
     },
     {
       "name": "hhtower/price-comparison",
@@ -437,7 +464,7 @@
       "description": "AI 订阅与卡网比价平台，说出需求，让 AI 帮你选。聚合 ChatGPT / Codex、Claude、Gemini 等代充或账号报价，对比价格走势、充值渠道与质保。AI-powered shopping and price comparison for subscriptions and accounts, with cross-shop offers, price history and purchase details.",
       "full_description": "AI 订阅与卡网比价平台，说出需求，让 AI 帮你选。聚合 ChatGPT / Codex、Claude、Gemini 等代充或账号报价，对比价格走势、充值渠道与质保。AI-powered shopping and price comparison for subscriptions and accounts, with cross-shop offers, price history and purchase details.",
       "language": "TypeScript",
-      "stars": 141,
+      "stars": 160,
       "stars_gained": 0,
       "forks": 4,
       "topics": [
@@ -453,128 +480,8 @@
         "web-scraping"
       ],
       "created_at": "2026-10-28T06:06:20Z",
-      "updated_at": "2026-11-02T03:12:13Z",
-      "rank": 18
-    },
-    {
-      "name": "aa1143/NamiAgent",
-      "url": "https://github.com/aa1143/NamiAgent",
-      "description": "零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent",
-      "full_description": "零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent",
-      "language": "Python",
-      "stars": 131,
-      "stars_gained": 0,
-      "forks": 9,
-      "topics": [
-        "agent",
-        "ai-agent",
-        "chinese",
-        "claude-code",
-        "deepseek",
-        "from-scratch",
-        "llm",
-        "mcp",
-        "python",
-        "tutorial"
-      ],
-      "created_at": "2026-10-30T11:03:30Z",
-      "updated_at": "2026-11-02T06:29:52Z",
+      "updated_at": "2026-11-03T06:02:39Z",
       "rank": 19
-    },
-    {
-      "name": "Interactive-Active-AI/NextTransformer",
-      "url": "https://github.com/Interactive-Active-AI/NextTransformer",
-      "description": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers, with compute-matched benchmarking and a platform for autonomous architecture research.",
-      "full_description": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers, with compute-matched benchmarking and a platform for autonomous architecture research.",
-      "language": "Python",
-      "stars": 127,
-      "stars_gained": 0,
-      "forks": 8,
-      "topics": [
-        "auto-research",
-        "benchmark",
-        "deep-learning",
-        "language-models",
-        "linear-attention",
-        "llm",
-        "looped-transformer",
-        "pytorch",
-        "sparse-attention",
-        "transformer"
-      ],
-      "created_at": "2026-10-31T07:46:13Z",
-      "updated_at": "2026-11-02T06:15:33Z",
-      "rank": 20
-    },
-    {
-      "name": "eduwxyz/tucano",
-      "url": "https://github.com/eduwxyz/tucano",
-      "description": "Your team of AI agents, on your Mac, Windows or Linux. Agents that talk in channels, write code, review each other and use your tools, on the Claude Code, Codex, OpenCode or Pi you already have. Anything that touches the real world waits for your yes.",
-      "full_description": "Your team of AI agents, on your Mac, Windows or Linux. Agents that talk in channels, write code, review each other and use your tools, on the Claude Code, Codex, OpenCode or Pi you already have. Anything that touches the real world waits for your yes.",
-      "language": "TypeScript",
-      "stars": 122,
-      "stars_gained": 0,
-      "forks": 24,
-      "topics": [
-        "agent-team",
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "electron",
-        "local-first",
-        "macos",
-        "mcp",
-        "multi-agent"
-      ],
-      "created_at": "2026-10-28T04:27:38Z",
-      "updated_at": "2026-11-02T06:09:38Z",
-      "rank": 21
-    },
-    {
-      "name": "Aevonix/FlashAlign",
-      "url": "https://github.com/Aevonix/FlashAlign",
-      "description": "ReAlign models instantly, on demand. Per-request alignment for verified users and channels, or Always On. Use directly or with Hermes, OpenClaw and custom harnesses.",
-      "full_description": "ReAlign models instantly, on demand. Per-request alignment for verified users and channels, or Always On. Use directly or with Hermes, OpenClaw and custom harnesses.",
-      "language": "Python",
-      "stars": 115,
-      "stars_gained": 0,
-      "forks": 13,
-      "topics": [
-        "abliteration",
-        "hermes",
-        "inference",
-        "llama-cpp",
-        "llm",
-        "model-alignment",
-        "openclaw",
-        "sglang",
-        "tensorfold",
-        "vllm"
-      ],
-      "created_at": "2026-10-31T05:37:12Z",
-      "updated_at": "2026-11-02T05:58:51Z",
-      "rank": 22
-    },
-    {
-      "name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
-      "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
-      "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
-      "full_description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
-      "language": "Markdown",
-      "stars": 112,
-      "stars_gained": 0,
-      "forks": 19,
-      "topics": [
-        "ai",
-        "fde",
-        "fde-interview",
-        "forward-deployed-engineer",
-        "forward-deployed-engineering",
-        "roadmap"
-      ],
-      "created_at": "2026-10-30T09:01:03Z",
-      "updated_at": "2026-11-02T06:27:21Z",
-      "rank": 23
     },
     {
       "name": "gh9ko8y/graphmemory",
@@ -582,7 +489,7 @@
       "description": "Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)",
       "full_description": "Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)",
       "language": "Python",
-      "stars": 111,
+      "stars": 155,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
@@ -598,8 +505,53 @@
         "python"
       ],
       "created_at": "2026-10-30T12:53:31Z",
-      "updated_at": "2026-11-02T03:29:20Z",
-      "rank": 24
+      "updated_at": "2026-11-03T06:59:08Z",
+      "rank": 20
+    },
+    {
+      "name": "eduwxyz/tucano",
+      "url": "https://github.com/eduwxyz/tucano",
+      "description": "Your team of AI agents, on your Mac, Windows or Linux. Agents that talk in channels, write code, review each other and use your tools, on the Claude Code, Codex, OpenCode or Pi you already have. Anything that touches the real world waits for your yes.",
+      "full_description": "Your team of AI agents, on your Mac, Windows or Linux. Agents that talk in channels, write code, review each other and use your tools, on the Claude Code, Codex, OpenCode or Pi you already have. Anything that touches the real world waits for your yes.",
+      "language": "TypeScript",
+      "stars": 140,
+      "stars_gained": 0,
+      "forks": 26,
+      "topics": [
+        "agent-team",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "electron",
+        "local-first",
+        "macos",
+        "mcp",
+        "multi-agent"
+      ],
+      "created_at": "2026-10-28T04:27:38Z",
+      "updated_at": "2026-11-03T06:25:24Z",
+      "rank": 21
+    },
+    {
+      "name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
+      "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
+      "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
+      "full_description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
+      "language": "Markdown",
+      "stars": 124,
+      "stars_gained": 0,
+      "forks": 21,
+      "topics": [
+        "ai",
+        "fde",
+        "fde-interview",
+        "forward-deployed-engineer",
+        "forward-deployed-engineering",
+        "roadmap"
+      ],
+      "created_at": "2026-10-30T09:01:03Z",
+      "updated_at": "2026-11-03T06:42:06Z",
+      "rank": 22
     },
     {
       "name": "yc-software/minecraft-agent-harness",
@@ -607,7 +559,7 @@
       "description": "Run language-model agents in Minecraft with Mineflayer tools, persistent sessions and shell sandboxes.",
       "full_description": "Run language-model agents in Minecraft with Mineflayer tools, persistent sessions and shell sandboxes.",
       "language": "JavaScript",
-      "stars": 98,
+      "stars": 122,
       "stars_gained": 0,
       "forks": 9,
       "topics": [
@@ -619,8 +571,33 @@
         "multi-agent"
       ],
       "created_at": "2026-10-29T05:21:45Z",
-      "updated_at": "2026-11-02T06:04:26Z",
-      "rank": 25
+      "updated_at": "2026-11-03T02:18:04Z",
+      "rank": 23
+    },
+    {
+      "name": "Aevonix/FlashAlign",
+      "url": "https://github.com/Aevonix/FlashAlign",
+      "description": "ReAlign models instantly, on demand. Per-request alignment for verified users and channels, or Always On. Use directly or with Hermes, OpenClaw and custom harnesses.",
+      "full_description": "ReAlign models instantly, on demand. Per-request alignment for verified users and channels, or Always On. Use directly or with Hermes, OpenClaw and custom harnesses.",
+      "language": "Python",
+      "stars": 120,
+      "stars_gained": 0,
+      "forks": 14,
+      "topics": [
+        "abliteration",
+        "hermes",
+        "inference",
+        "llama-cpp",
+        "llm",
+        "model-alignment",
+        "openclaw",
+        "sglang",
+        "tensorfold",
+        "vllm"
+      ],
+      "created_at": "2026-10-31T05:37:12Z",
+      "updated_at": "2026-11-02T21:20:58Z",
+      "rank": 24
     },
     {
       "name": "peterpoal134/memory-brain",
@@ -628,9 +605,9 @@
       "description": "给 AstrBot 的可落地 AI 记忆与生活层：五类记忆、混合检索、遗忘治理、情绪边界、自主生活循环。不覆盖人格。",
       "full_description": "给 AstrBot 的可落地 AI 记忆与生活层：五类记忆、混合检索、遗忘治理、情绪边界、自主生活循环。不覆盖人格。",
       "language": "JavaScript",
-      "stars": 97,
+      "stars": 118,
       "stars_gained": 0,
-      "forks": 9,
+      "forks": 13,
       "topics": [
         "agpl",
         "ai-companion",
@@ -642,8 +619,86 @@
         "rag"
       ],
       "created_at": "2026-10-28T16:08:47Z",
-      "updated_at": "2026-11-02T06:18:12Z",
+      "updated_at": "2026-11-03T06:09:58Z",
+      "rank": 25
+    },
+    {
+      "name": "wendersoon/radar-cnpj-mcp",
+      "url": "https://github.com/wendersoon/radar-cnpj-mcp",
+      "description": "Servidor MCP e CLI para localizar empresas brasileiras por CNAE e região, utilizando dados abertos de CNPJ da Receita Federal.",
+      "full_description": "Servidor MCP e CLI para localizar empresas brasileiras por CNAE e região, utilizando dados abertos de CNPJ da Receita Federal.",
+      "language": "TypeScript",
+      "stars": 111,
+      "stars_gained": 0,
+      "forks": 12,
+      "topics": [
+        "cnae",
+        "cnpj",
+        "duckdb",
+        "mcp",
+        "mcp-server",
+        "receita-federal",
+        "typescript"
+      ],
+      "created_at": "2026-11-01T23:58:28Z",
+      "updated_at": "2026-11-03T04:31:46Z",
       "rank": 26
+    },
+    {
+      "name": "trina-app/trina-ax",
+      "url": "https://github.com/trina-app/trina-ax",
+      "description": "Set up Claude Code once. Your whole company gets it. Self-hosted Claude Code and Codex with your company files, team skills, MCP and per-person folder permissions.",
+      "full_description": "Set up Claude Code once. Your whole company gets it. Self-hosted Claude Code and Codex with your company files, team skills, MCP and per-person folder permissions.",
+      "language": "TypeScript",
+      "stars": 111,
+      "stars_gained": 0,
+      "forks": 7,
+      "topics": [
+        "agent-skills",
+        "ai-workspace",
+        "claude-code",
+        "codex",
+        "document-management",
+        "hwp",
+        "mcp",
+        "self-hosted",
+        "team-collaboration",
+        "typescript"
+      ],
+      "created_at": "2026-10-28T04:31:27Z",
+      "updated_at": "2026-11-03T05:58:19Z",
+      "rank": 27
+    },
+    {
+      "name": "exzade/EXZA-Remote",
+      "url": "https://github.com/exzade/EXZA-Remote",
+      "description": "Secure AI-powered remote computer access for ChatGPT, Claude and compatible MCP clients.",
+      "full_description": "Secure AI-powered remote computer access for ChatGPT, Claude and compatible MCP clients.",
+      "language": "",
+      "stars": 106,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai-commander",
+        "ai-communication",
+        "ai-tools",
+        "automation",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "linux",
+        "macos",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "remote-access",
+        "windows"
+      ],
+      "created_at": "2026-11-02T10:04:59Z",
+      "updated_at": "2026-11-03T06:55:54Z",
+      "rank": 28
     },
     {
       "name": "fush520/fush-vue-mcp",
@@ -651,9 +706,9 @@
       "description": "Fush Vue MCP —— Vue 前端逆向 + Web 安全测试工具（Chrome 扩展 + MCP 服务端，91 个工具）",
       "full_description": "Fush Vue MCP —— Vue 前端逆向 + Web 安全测试工具（Chrome 扩展 + MCP 服务端，91 个工具）",
       "language": "JavaScript",
-      "stars": 91,
+      "stars": 104,
       "stars_gained": 0,
-      "forks": 1,
+      "forks": 3,
       "topics": [
         "ai-agents",
         "anti-debug",
@@ -665,8 +720,8 @@
         "vue"
       ],
       "created_at": "2026-10-27T15:56:51Z",
-      "updated_at": "2026-11-02T06:11:42Z",
-      "rank": 27
+      "updated_at": "2026-11-02T22:18:27Z",
+      "rank": 29
     },
     {
       "name": "w0ldan/exoproc",
@@ -674,7 +729,7 @@
       "description": "TypeScript toolkit for Windows x64 native systems programming, memory manipulation, and process instrumentation.",
       "full_description": "TypeScript toolkit for Windows x64 native systems programming, memory manipulation, and process instrumentation.",
       "language": "TypeScript",
-      "stars": 91,
+      "stars": 94,
       "stars_gained": 0,
       "forks": 12,
       "topics": [
@@ -694,59 +749,7 @@
         "static-analysis"
       ],
       "created_at": "2026-10-28T20:27:46Z",
-      "updated_at": "2026-11-02T00:10:35Z",
-      "rank": 28
-    },
-    {
-      "name": "Deibler/openskycam",
-      "url": "https://github.com/Deibler/openskycam",
-      "description": "Record a sky camera around the clock, keep the footage on your own disk, and find what flew past.",
-      "full_description": "Record a sky camera around the clock, keep the footage on your own disk, and find what flew past.",
-      "language": "TypeScript",
-      "stars": 78,
-      "stars_gained": 0,
-      "forks": 11,
-      "topics": [
-        "astronomy",
-        "cloudflare-workers",
-        "computer-vision",
-        "mcp",
-        "meteor-detection",
-        "object-tracking",
-        "rtsp",
-        "self-hosted",
-        "sky-camera",
-        "yolo"
-      ],
-      "created_at": "2026-10-26T01:53:40Z",
-      "updated_at": "2026-11-01T19:11:31Z",
-      "rank": 29
-    },
-    {
-      "name": "AISEO-VirtualabDigital/mcp-video-editor",
-      "url": "https://github.com/AISEO-VirtualabDigital/mcp-video-editor",
-      "description": "Wag na kayo magbayad ng 5k PHP. Ito na — libre. MCP server for CapCut + OpenCut from Cursor, Claude, Codex, Antigravity, OpenCode, KiloCode, Qwen Code and ZCode. 59 tools: timeline editing, effects catalog, voiceover (OpenAI/ElevenLabs), Remotion/HyperFrames render. Premiere/Filmora export is BETA and untested. Dry-run safe.",
-      "full_description": "Wag na kayo magbayad ng 5k PHP. Ito na — libre. MCP server for CapCut + OpenCut from Cursor, Claude, Codex, Antigravity, OpenCode, KiloCode, Qwen Code and ZCode. 59 tools: timeline editing, effects catalog, voiceover (OpenAI/ElevenLabs), Remotion/HyperFrames render. Premiere/Filmora export is BETA and untested. Dry-run safe.",
-      "language": "TypeScript",
-      "stars": 76,
-      "stars_gained": 0,
-      "forks": 22,
-      "topics": [
-        "ai-agents",
-        "capcut",
-        "claude",
-        "cursor",
-        "elevenlabs",
-        "mcp",
-        "model-context-protocol",
-        "opencut",
-        "remotion",
-        "text-to-speech",
-        "typescript",
-        "video-editing"
-      ],
-      "created_at": "2026-10-26T15:43:13Z",
-      "updated_at": "2026-10-31T19:45:20Z",
+      "updated_at": "2026-11-02T16:19:16Z",
       "rank": 30
     }
   ]
