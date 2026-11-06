@@ -1,41 +1,18 @@
 {
-  "updated": "2026-11-05T07:08:39.373982+00:00",
+  "updated": "2026-11-06T07:08:19.500137+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
   "projects": [
-    {
-      "name": "wangzan101/Mika",
-      "url": "https://github.com/wangzan101/Mika",
-      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "full_description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "language": "Kotlin",
-      "stars": 6812,
-      "stars_gained": 0,
-      "forks": 1498,
-      "topics": [
-        "accessibility",
-        "ai-agent",
-        "android",
-        "automation",
-        "jetpack-compose",
-        "kotlin",
-        "llm",
-        "mobile-agent"
-      ],
-      "created_at": "2026-10-29T14:34:07Z",
-      "updated_at": "2026-11-05T07:08:34Z",
-      "rank": 1
-    },
     {
       "name": "KKKKhazix/agent-autoloop",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
       "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "full_description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "language": "TypeScript",
-      "stars": 2859,
+      "stars": 3392,
       "stars_gained": 0,
-      "forks": 550,
+      "forks": 627,
       "topics": [
         "ai-agents",
         "automation",
@@ -50,8 +27,8 @@
         "workflow"
       ],
       "created_at": "2026-11-03T08:02:11Z",
-      "updated_at": "2026-11-05T07:07:29Z",
-      "rank": 2
+      "updated_at": "2026-11-06T07:07:32Z",
+      "rank": 1
     },
     {
       "name": "N1nEmAn/sapper-v2",
@@ -59,9 +36,9 @@
       "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
       "full_description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
       "language": "Python",
-      "stars": 1009,
+      "stars": 1403,
       "stars_gained": 0,
-      "forks": 644,
+      "forks": 798,
       "topics": [
         "ai-agents",
         "autonomous-agents",
@@ -72,25 +49,8 @@
         "pentest"
       ],
       "created_at": "2026-10-30T15:12:35Z",
-      "updated_at": "2026-11-05T07:08:19Z",
-      "rank": 3
-    },
-    {
-      "name": "sleepy-zone/ai-ref-library-cn",
-      "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
-      "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
-      "full_description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
-      "language": "JavaScript",
-      "stars": 716,
-      "stars_gained": 0,
-      "forks": 176,
-      "topics": [
-        "ai",
-        "gpt"
-      ],
-      "created_at": "2026-10-29T15:28:16Z",
-      "updated_at": "2026-11-05T01:59:04Z",
-      "rank": 4
+      "updated_at": "2026-11-06T07:03:33Z",
+      "rank": 2
     },
     {
       "name": "Balanov/uncut",
@@ -98,9 +58,9 @@
       "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
       "full_description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
       "language": "Go",
-      "stars": 601,
+      "stars": 610,
       "stars_gained": 0,
-      "forks": 14,
+      "forks": 17,
       "topics": [
         "agent-harness",
         "cli",
@@ -111,8 +71,81 @@
         "local-models"
       ],
       "created_at": "2026-11-01T17:19:30Z",
-      "updated_at": "2026-11-05T01:27:29Z",
+      "updated_at": "2026-11-06T07:00:38Z",
+      "rank": 3
+    },
+    {
+      "name": "Sandflow-ai/sand3d",
+      "url": "https://github.com/Sandflow-ai/sand3d",
+      "description": "3D modeling in Python, built for LLMs.",
+      "full_description": "3D modeling in Python, built for LLMs.",
+      "language": "HTML",
+      "stars": 437,
+      "stars_gained": 0,
+      "forks": 47,
+      "topics": [
+        "3d",
+        "blender",
+        "cad",
+        "llm",
+        "procedural-modeling",
+        "python",
+        "usd"
+      ],
+      "created_at": "2026-11-03T08:23:03Z",
+      "updated_at": "2026-11-06T07:03:30Z",
+      "rank": 4
+    },
+    {
+      "name": "HerdBuilderEstimate/roblox-studio-mcp",
+      "url": "https://github.com/HerdBuilderEstimate/roblox-studio-mcp",
+      "description": "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-source and lightweight",
+      "full_description": "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-source and lightweight",
+      "language": "Python",
+      "stars": 425,
+      "stars_gained": 0,
+      "forks": 110,
+      "topics": [
+        "ai-tools",
+        "automation",
+        "claude",
+        "cursor",
+        "developer-tools",
+        "game-development",
+        "mcp",
+        "model-context-protocol",
+        "open-source",
+        "roblox",
+        "roblox-studio",
+        "typescript"
+      ],
+      "created_at": "2026-11-06T06:16:35Z",
+      "updated_at": "2026-11-06T06:53:10Z",
       "rank": 5
+    },
+    {
+      "name": "SAOS-3624/dsh-see-now",
+      "url": "https://github.com/SAOS-3624/dsh-see-now",
+      "description": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+      "full_description": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+      "language": "JavaScript",
+      "stars": 399,
+      "stars_gained": 0,
+      "forks": 41,
+      "topics": [
+        "ai-agent",
+        "dsh",
+        "dsh-plugin",
+        "ffmpeg",
+        "llm",
+        "realtime",
+        "screen-capture",
+        "token-efficient",
+        "vision"
+      ],
+      "created_at": "2026-11-01T13:32:34Z",
+      "updated_at": "2026-11-06T06:46:15Z",
+      "rank": 6
     },
     {
       "name": "aa1143/NamiAgent",
@@ -120,9 +153,9 @@
       "description": "零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent",
       "full_description": "零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent",
       "language": "Python",
-      "stars": 357,
+      "stars": 384,
       "stars_gained": 0,
-      "forks": 35,
+      "forks": 37,
       "topics": [
         "agent",
         "ai-agent",
@@ -136,32 +169,33 @@
         "tutorial"
       ],
       "created_at": "2026-10-30T11:03:30Z",
-      "updated_at": "2026-11-05T07:06:57Z",
-      "rank": 6
+      "updated_at": "2026-11-06T06:34:19Z",
+      "rank": 7
     },
     {
-      "name": "SAOS-3624/dsh-see-now",
-      "url": "https://github.com/SAOS-3624/dsh-see-now",
-      "description": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
-      "full_description": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+      "name": "mrhlaingbwardev/agentic-hacking-skills",
+      "url": "https://github.com/mrhlaingbwardev/agentic-hacking-skills",
+      "description": "AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)",
+      "full_description": "AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)",
       "language": "JavaScript",
-      "stars": 355,
+      "stars": 345,
       "stars_gained": 0,
-      "forks": 34,
+      "forks": 60,
       "topics": [
-        "ai-agent",
-        "dsh",
-        "dsh-plugin",
-        "ffmpeg",
-        "llm",
-        "realtime",
-        "screen-capture",
-        "token-efficient",
-        "vision"
+        "agents",
+        "ai",
+        "automation",
+        "hacking",
+        "mcp",
+        "opencode",
+        "pentesting",
+        "security",
+        "skills",
+        "web-security"
       ],
-      "created_at": "2026-11-01T13:32:34Z",
-      "updated_at": "2026-11-05T06:43:14Z",
-      "rank": 7
+      "created_at": "2026-11-01T04:00:04Z",
+      "updated_at": "2026-11-06T03:59:27Z",
+      "rank": 8
     },
     {
       "name": "Interactive-Active-AI/NextTransformer",
@@ -169,9 +203,9 @@
       "description": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers/LLM, with compute-matched benchmarking and a platform for autonomous architecture research.",
       "full_description": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers/LLM, with compute-matched benchmarking and a platform for autonomous architecture research.",
       "language": "Python",
-      "stars": 294,
+      "stars": 328,
       "stars_gained": 0,
-      "forks": 23,
+      "forks": 26,
       "topics": [
         "auto-research",
         "benchmark",
@@ -186,8 +220,50 @@
         "transformer"
       ],
       "created_at": "2026-10-31T07:46:13Z",
-      "updated_at": "2026-11-05T07:06:29Z",
-      "rank": 8
+      "updated_at": "2026-11-06T06:49:53Z",
+      "rank": 9
+    },
+    {
+      "name": "JosssphZhou/poki",
+      "url": "https://github.com/JosssphZhou/poki",
+      "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "full_description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "language": "JavaScript",
+      "stars": 303,
+      "stars_gained": 0,
+      "forks": 60,
+      "topics": [
+        "ai-agents",
+        "automation",
+        "ios",
+        "iphone",
+        "mcp",
+        "model-context-protocol"
+      ],
+      "created_at": "2026-11-05T15:04:31Z",
+      "updated_at": "2026-11-06T07:00:49Z",
+      "rank": 10
+    },
+    {
+      "name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
+      "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
+      "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
+      "full_description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
+      "language": "Markdown",
+      "stars": 226,
+      "stars_gained": 0,
+      "forks": 34,
+      "topics": [
+        "ai",
+        "fde",
+        "fde-interview",
+        "forward-deployed-engineer",
+        "forward-deployed-engineering",
+        "roadmap"
+      ],
+      "created_at": "2026-10-30T09:01:03Z",
+      "updated_at": "2026-11-06T06:01:38Z",
+      "rank": 11
     },
     {
       "name": "tavern-labs-ai/persona-ai-sdk",
@@ -195,7 +271,7 @@
       "description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
       "full_description": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
       "language": "TypeScript",
-      "stars": 197,
+      "stars": 196,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
@@ -209,8 +285,8 @@
         "sdk"
       ],
       "created_at": "2026-10-31T14:29:10Z",
-      "updated_at": "2026-11-03T09:28:30Z",
-      "rank": 9
+      "updated_at": "2026-11-05T14:20:59Z",
+      "rank": 12
     },
     {
       "name": "gh9ko8y/graphmemory",
@@ -218,7 +294,7 @@
       "description": "Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)",
       "full_description": "Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)",
       "language": "Python",
-      "stars": 190,
+      "stars": 194,
       "stars_gained": 0,
       "forks": 5,
       "topics": [
@@ -234,81 +310,53 @@
         "python"
       ],
       "created_at": "2026-10-30T12:53:31Z",
-      "updated_at": "2026-11-05T02:23:46Z",
-      "rank": 10
+      "updated_at": "2026-11-06T07:01:36Z",
+      "rank": 13
     },
     {
-      "name": "exzade/EXZA-Remote",
-      "url": "https://github.com/exzade/EXZA-Remote",
-      "description": "Secure AI-powered remote computer access for ChatGPT, Claude and compatible MCP clients.",
-      "full_description": "Secure AI-powered remote computer access for ChatGPT, Claude and compatible MCP clients.",
+      "name": "silverdugongenhance/PromptReel",
+      "url": "https://github.com/silverdugongenhance/PromptReel",
+      "description": "Free desktop app that turns a text prompt into a short video clip on your own PC. Local AI text-to-video with Wan 2.2: type a scene, pick wide, vertical or square, get an MP4. No credits, no subscription, no queue. Windows 10/11.",
+      "full_description": "Free desktop app that turns a text prompt into a short video clip on your own PC. Local AI text-to-video with Wan 2.2: type a scene, pick wide, vertical or square, get an MP4. No credits, no subscription, no queue. Windows 10/11.",
       "language": "",
-      "stars": 176,
+      "stars": 151,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
-        "ai-commander",
-        "ai-communication",
         "ai-tools",
-        "automation",
-        "chatgpt",
-        "claude",
-        "claude-code",
-        "codex",
-        "developer-tools",
-        "linux",
-        "macos",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "remote-access",
-        "windows"
+        "ai-video",
+        "ai-video-clip",
+        "ai-video-generator-crack",
+        "free",
+        "generative-ai",
+        "local-ai",
+        "offline",
+        "prompt-to-video",
+        "text-to-video-generation",
+        "video-generation",
+        "wan2-2"
       ],
-      "created_at": "2026-11-02T10:04:59Z",
-      "updated_at": "2026-11-03T23:27:44Z",
-      "rank": 11
+      "created_at": "2026-11-04T15:29:54Z",
+      "updated_at": "2026-11-05T20:47:52Z",
+      "rank": 14
     },
     {
-      "name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
-      "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
-      "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
-      "full_description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
-      "language": "Markdown",
-      "stars": 165,
-      "stars_gained": 0,
-      "forks": 24,
-      "topics": [
-        "ai",
-        "fde",
-        "fde-interview",
-        "forward-deployed-engineer",
-        "forward-deployed-engineering",
-        "roadmap"
-      ],
-      "created_at": "2026-10-30T09:01:03Z",
-      "updated_at": "2026-11-05T07:07:49Z",
-      "rank": 12
-    },
-    {
-      "name": "yc-software/minecraft-agent-harness",
-      "url": "https://github.com/yc-software/minecraft-agent-harness",
-      "description": "Run language-model agents in Minecraft with Mineflayer tools, persistent sessions and shell sandboxes.",
-      "full_description": "Run language-model agents in Minecraft with Mineflayer tools, persistent sessions and shell sandboxes.",
+      "name": "RUC-NLPIR/CoworkOS",
+      "url": "https://github.com/RUC-NLPIR/CoworkOS",
+      "description": "CoworkOS: a cowork harness for long-horizon and human-in-the-loop task execution",
+      "full_description": "CoworkOS: a cowork harness for long-horizon and human-in-the-loop task execution",
       "language": "JavaScript",
-      "stars": 136,
+      "stars": 130,
       "stars_gained": 0,
-      "forks": 11,
+      "forks": 13,
       "topics": [
-        "agent-harness",
-        "ai-agents",
-        "llm",
-        "minecraft",
-        "mineflayer",
-        "multi-agent"
+        "agent",
+        "cowork",
+        "harness"
       ],
-      "created_at": "2026-10-29T05:21:45Z",
-      "updated_at": "2026-11-05T06:26:20Z",
-      "rank": 13
+      "created_at": "2026-11-03T00:47:02Z",
+      "updated_at": "2026-11-06T04:14:40Z",
+      "rank": 15
     },
     {
       "name": "wendersoon/radar-cnpj-mcp",
@@ -330,30 +378,40 @@
       ],
       "created_at": "2026-11-01T23:58:28Z",
       "updated_at": "2026-11-05T01:32:37Z",
-      "rank": 14
+      "rank": 16
     },
     {
-      "name": "ElysiumForge-Labs/elysium-chain-mcp",
-      "url": "https://github.com/ElysiumForge-Labs/elysium-chain-mcp",
-      "description": "MCP server for AI agents to read and interact with Elysium, Kinetiq’s Arbitrum Orbit L2 on Hyperliquid",
-      "full_description": "MCP server for AI agents to read and interact with Elysium, Kinetiq’s Arbitrum Orbit L2 on Hyperliquid",
-      "language": "TypeScript",
-      "stars": 124,
+      "name": "mankidev/codixel",
+      "url": "https://github.com/mankidev/codixel",
+      "description": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
+      "full_description": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
+      "language": "JavaScript",
+      "stars": 125,
       "stars_gained": 0,
-      "forks": 0,
+      "forks": 10,
       "topics": [
-        "ai-agents",
-        "elysium",
-        "evm",
-        "hyperliquid",
-        "kinetiq",
-        "mcp",
-        "model-context-protocol",
-        "typescript"
+        "8bit",
+        "agent-skills",
+        "ai",
+        "ai-art",
+        "claude-code",
+        "claude-skill",
+        "dithering",
+        "game-development",
+        "game-effects",
+        "gamedev",
+        "indie-game",
+        "javascript",
+        "particle-effects",
+        "pixel-art",
+        "pixel-art-tools",
+        "retro",
+        "sprite-animation",
+        "sprites"
       ],
-      "created_at": "2026-10-30T15:51:36Z",
-      "updated_at": "2026-11-05T05:42:16Z",
-      "rank": 15
+      "created_at": "2026-10-31T18:31:02Z",
+      "updated_at": "2026-11-06T04:43:14Z",
+      "rank": 17
     },
     {
       "name": "Aevonix/FlashAlign",
@@ -377,86 +435,146 @@
         "vllm"
       ],
       "created_at": "2026-10-31T05:37:12Z",
-      "updated_at": "2026-11-04T06:24:28Z",
-      "rank": 16
-    },
-    {
-      "name": "RUC-NLPIR/CoworkOS",
-      "url": "https://github.com/RUC-NLPIR/CoworkOS",
-      "description": "CoworkOS: a cowork harness for long-horizon and human-in-the-loop task execution",
-      "full_description": "CoworkOS: a cowork harness for long-horizon and human-in-the-loop task execution",
-      "language": "JavaScript",
-      "stars": 122,
-      "stars_gained": 0,
-      "forks": 12,
-      "topics": [
-        "agent",
-        "cowork",
-        "harness"
-      ],
-      "created_at": "2026-11-03T00:47:02Z",
-      "updated_at": "2026-11-05T05:33:13Z",
-      "rank": 17
-    },
-    {
-      "name": "mankidev/codixel",
-      "url": "https://github.com/mankidev/codixel",
-      "description": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
-      "full_description": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
-      "language": "JavaScript",
-      "stars": 109,
-      "stars_gained": 0,
-      "forks": 9,
-      "topics": [
-        "8bit",
-        "agent-skills",
-        "ai",
-        "ai-art",
-        "claude-code",
-        "claude-skill",
-        "dithering",
-        "game-development",
-        "game-effects",
-        "gamedev",
-        "indie-game",
-        "javascript",
-        "particle-effects",
-        "pixel-art",
-        "pixel-art-tools",
-        "retro",
-        "sprite-animation",
-        "sprites"
-      ],
-      "created_at": "2026-10-31T18:31:02Z",
-      "updated_at": "2026-11-05T04:40:27Z",
+      "updated_at": "2026-11-06T04:55:09Z",
       "rank": 18
     },
     {
-      "name": "silverdugongenhance/PromptReel",
-      "url": "https://github.com/silverdugongenhance/PromptReel",
-      "description": "Free desktop app that turns a text prompt into a short video clip on your own PC. Local AI text-to-video with Wan 2.2: type a scene, pick wide, vertical or square, get an MP4. No credits, no subscription, no queue. Windows 10/11.",
-      "full_description": "Free desktop app that turns a text prompt into a short video clip on your own PC. Local AI text-to-video with Wan 2.2: type a scene, pick wide, vertical or square, get an MP4. No credits, no subscription, no queue. Windows 10/11.",
-      "language": "",
-      "stars": 106,
+      "name": "do-whilefor/ClawGod_Y",
+      "url": "https://github.com/do-whilefor/ClawGod_Y",
+      "description": "Claude Code “God Mode,” designed to let the model “breach the armor” (i.e., bypass restrictions).",
+      "full_description": "Claude Code “God Mode,” designed to let the model “breach the armor” (i.e., bypass restrictions).",
+      "language": "JavaScript",
+      "stars": 123,
+      "stars_gained": 0,
+      "forks": 3,
+      "topics": [
+        "ai",
+        "bugbounty",
+        "cladue-code",
+        "clawgod",
+        "pojia"
+      ],
+      "created_at": "2026-10-30T06:00:48Z",
+      "updated_at": "2026-11-06T06:05:46Z",
+      "rank": 19
+    },
+    {
+      "name": "yucezerey/turkish-anti-ai-skill",
+      "url": "https://github.com/yucezerey/turkish-anti-ai-skill",
+      "description": "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.",
+      "full_description": "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.",
+      "language": "Python",
+      "stars": 122,
+      "stars_gained": 0,
+      "forks": 9,
+      "topics": [
+        "agent-skills",
+        "ai-skills",
+        "ai-writing",
+        "claude-code",
+        "codex",
+        "cursor-rules",
+        "de-slop",
+        "gemini-cli",
+        "humanizer",
+        "llm",
+        "prompt-engineering",
+        "tdk",
+        "turkish",
+        "turkish-nlp"
+      ],
+      "created_at": "2026-11-05T20:08:28Z",
+      "updated_at": "2026-11-06T07:06:04Z",
+      "rank": 20
+    },
+    {
+      "name": "ElysiumForge-Labs/elysium-chain-mcp",
+      "url": "https://github.com/ElysiumForge-Labs/elysium-chain-mcp",
+      "description": "MCP server for AI agents to read and interact with Elysium, Kinetiq’s Arbitrum Orbit L2 on Hyperliquid",
+      "full_description": "MCP server for AI agents to read and interact with Elysium, Kinetiq’s Arbitrum Orbit L2 on Hyperliquid",
+      "language": "TypeScript",
+      "stars": 119,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
-        "ai-tools",
-        "ai-video",
-        "ai-video-clip",
-        "ai-video-generator-crack",
-        "free",
-        "generative-ai",
-        "local-ai",
-        "offline",
-        "prompt-to-video",
-        "text-to-video-generation",
-        "video-generation",
-        "wan2-2"
+        "ai-agents",
+        "elysium",
+        "evm",
+        "hyperliquid",
+        "kinetiq",
+        "mcp",
+        "model-context-protocol",
+        "typescript"
       ],
-      "created_at": "2026-11-04T15:29:54Z",
-      "updated_at": "2026-11-05T05:37:33Z",
-      "rank": 19
+      "created_at": "2026-10-30T15:51:36Z",
+      "updated_at": "2026-11-06T06:38:31Z",
+      "rank": 21
+    },
+    {
+      "name": "Glen-Web-App/best-agent-memory-mcp",
+      "url": "https://github.com/Glen-Web-App/best-agent-memory-mcp",
+      "description": "Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight, Basic Memory, claude-mem, Graphiti, Cognee, the official memory server and more, with storage, capture model, team sharing, license and live stars.",
+      "full_description": "Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight, Basic Memory, claude-mem, Graphiti, Cognee, the official memory server and more, with storage, capture model, team sharing, license and live stars.",
+      "language": "",
+      "stars": 115,
+      "stars_gained": 0,
+      "forks": 18,
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "ai-memory",
+        "awesome",
+        "awesome-list",
+        "claude-code",
+        "codex",
+        "coding-agents",
+        "cursor",
+        "llm-memory",
+        "long-term-memory",
+        "mcp",
+        "mcp-memory",
+        "mcp-memory-server",
+        "mcp-server",
+        "mcp-servers",
+        "mem0",
+        "memory-mcp",
+        "model-context-protocol",
+        "persistent-memory"
+      ],
+      "created_at": "2026-11-05T01:23:58Z",
+      "updated_at": "2026-11-06T06:58:11Z",
+      "rank": 22
+    },
+    {
+      "name": "exzade/EXZA-Remote",
+      "url": "https://github.com/exzade/EXZA-Remote",
+      "description": "Secure AI-powered remote computer access for ChatGPT, Claude and compatible MCP clients.",
+      "full_description": "Secure AI-powered remote computer access for ChatGPT, Claude and compatible MCP clients.",
+      "language": "",
+      "stars": 114,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai-commander",
+        "ai-communication",
+        "ai-tools",
+        "automation",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "linux",
+        "macos",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "remote-access",
+        "windows"
+      ],
+      "created_at": "2026-11-02T10:04:59Z",
+      "updated_at": "2026-11-05T14:28:16Z",
+      "rank": 23
     },
     {
       "name": "glincker/awesome-selfhosted-ai",
@@ -464,9 +582,9 @@
       "description": "Curated list of self-hosted open-source AI: local LLMs, chat UIs, agents, MCP servers, RAG, speech and image generation. Health-checked weekly, dead projects removed automatically.",
       "full_description": "Curated list of self-hosted open-source AI: local LLMs, chat UIs, agents, MCP servers, RAG, speech and image generation. Health-checked weekly, dead projects removed automatically.",
       "language": "JavaScript",
-      "stars": 106,
+      "stars": 112,
       "stars_gained": 0,
-      "forks": 12,
+      "forks": 15,
       "topics": [
         "ai-agents",
         "awesome",
@@ -486,8 +604,27 @@
         "vector-database"
       ],
       "created_at": "2026-10-31T05:50:40Z",
-      "updated_at": "2026-11-05T06:03:58Z",
-      "rank": 20
+      "updated_at": "2026-11-06T03:26:36Z",
+      "rank": 24
+    },
+    {
+      "name": "YT-Proteus-bot/MineAgent",
+      "url": "https://github.com/YT-Proteus-bot/MineAgent",
+      "description": "agent定制自由化，agent流程可视化。在浏览器里用画布搭出工业级 Agent 流程，选框架自动生成架构图， 拖节点、连线、写代码、配模型，点「保存」就把整张画布编译成一个可独立运行的 Python Agent 项目， 点「运行」直接在你的机器上真实执行并流式回传每一步。欢迎各位同行二次开发，如有商用请说明出处。",
+      "full_description": "agent定制自由化，agent流程可视化。在浏览器里用画布搭出工业级 Agent 流程，选框架自动生成架构图， 拖节点、连线、写代码、配模型，点「保存」就把整张画布编译成一个可独立运行的 Python Agent 项目， 点「运行」直接在你的机器上真实执行并流式回传每一步。欢迎各位同行二次开发，如有商用请说明出处。",
+      "language": "Python",
+      "stars": 111,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-workflow",
+        "agents"
+      ],
+      "created_at": "2026-11-05T06:01:27Z",
+      "updated_at": "2026-11-06T07:06:54Z",
+      "rank": 25
     },
     {
       "name": "Heming9/agenterm",
@@ -495,9 +632,9 @@
       "description": "Let agents control any remote computer, anytime, anywhere. Self-hosted AI agent remote assistance via MCP and terminal.",
       "full_description": "Let agents control any remote computer, anytime, anywhere. Self-hosted AI agent remote assistance via MCP and terminal.",
       "language": "Go",
-      "stars": 98,
+      "stars": 101,
       "stars_gained": 0,
-      "forks": 2,
+      "forks": 4,
       "topics": [
         "ai-agent",
         "mcp",
@@ -507,8 +644,8 @@
         "terminal"
       ],
       "created_at": "2026-10-30T19:37:52Z",
-      "updated_at": "2026-11-05T06:47:45Z",
-      "rank": 21
+      "updated_at": "2026-11-05T20:06:15Z",
+      "rank": 26
     },
     {
       "name": "Zguoxu/tiny-transformer-from-scratch",
@@ -516,7 +653,7 @@
       "description": "A tiny Transformer built from scratch in PyTorch, with an English-to-Chinese translation demo | 用 PyTorch 从零实现的小型 Transformer，附英译中演示，帮助理解模型原理",
       "full_description": "A tiny Transformer built from scratch in PyTorch, with an English-to-Chinese translation demo | 用 PyTorch 从零实现的小型 Transformer，附英译中演示，帮助理解模型原理",
       "language": "Jupyter Notebook",
-      "stars": 94,
+      "stars": 98,
       "stars_gained": 0,
       "forks": 3,
       "topics": [
@@ -529,8 +666,52 @@
         "transformer"
       ],
       "created_at": "2026-11-02T03:08:59Z",
-      "updated_at": "2026-11-05T06:30:45Z",
-      "rank": 22
+      "updated_at": "2026-11-05T19:43:28Z",
+      "rank": 27
+    },
+    {
+      "name": "aa1143/NamiDSH",
+      "url": "https://github.com/aa1143/NamiDSH",
+      "description": "对照 DeepSeek Harness 的迷你学习项目：迷你版 Cordis + 迷你版 DSH + 网页端 Agent",
+      "full_description": "对照 DeepSeek Harness 的迷你学习项目：迷你版 Cordis + 迷你版 DSH + 网页端 Agent",
+      "language": "TypeScript",
+      "stars": 96,
+      "stars_gained": 0,
+      "forks": 9,
+      "topics": [
+        "agent",
+        "cordis",
+        "deepseek-harness",
+        "plugin-architecture",
+        "typescript"
+      ],
+      "created_at": "2026-11-05T06:10:10Z",
+      "updated_at": "2026-11-06T07:00:12Z",
+      "rank": 28
+    },
+    {
+      "name": "kerlenton/bootgpt",
+      "url": "https://github.com/kerlenton/bootgpt",
+      "description": "A language model that lives in a boot sector",
+      "full_description": "A language model that lives in a boot sector",
+      "language": "Python",
+      "stars": 96,
+      "stars_gained": 0,
+      "forks": 4,
+      "topics": [
+        "assembly",
+        "bootsector",
+        "demoscene",
+        "language-model",
+        "machine-learning",
+        "neural-networks",
+        "qemu",
+        "sizecoding",
+        "x86"
+      ],
+      "created_at": "2026-10-30T21:28:17Z",
+      "updated_at": "2026-11-05T18:30:34Z",
+      "rank": 29
     },
     {
       "name": "akari-sora/synology-nas-cli",
@@ -553,169 +734,6 @@
       ],
       "created_at": "2026-10-30T09:52:47Z",
       "updated_at": "2026-11-05T06:37:08Z",
-      "rank": 23
-    },
-    {
-      "name": "PisenAILab/china-patent-figure-skill",
-      "url": "https://github.com/PisenAILab/china-patent-figure-skill",
-      "description": "中国专利附图 Skill：从 3D 装配体（STEP）一步出符合国家知识产权局形式要求的说明书附图。自动标号与引线、13 项质检、PDF/Word/DXF 导出，支持 Skill / MCP / CLI，本地运行。",
-      "full_description": "中国专利附图 Skill：从 3D 装配体（STEP）一步出符合国家知识产权局形式要求的说明书附图。自动标号与引线、13 项质检、PDF/Word/DXF 导出，支持 Skill / MCP / CLI，本地运行。",
-      "language": "Python",
-      "stars": 93,
-      "stars_gained": 0,
-      "forks": 8,
-      "topics": [
-        "agent-skill",
-        "cad",
-        "claude-code-skill",
-        "cnipa",
-        "mcp",
-        "opencascade",
-        "patent",
-        "patent-drawing",
-        "patent-figure",
-        "step"
-      ],
-      "created_at": "2026-10-30T10:20:36Z",
-      "updated_at": "2026-11-04T09:55:28Z",
-      "rank": 24
-    },
-    {
-      "name": "kerlenton/bootgpt",
-      "url": "https://github.com/kerlenton/bootgpt",
-      "description": "A language model that lives in a boot sector",
-      "full_description": "A language model that lives in a boot sector",
-      "language": "Python",
-      "stars": 93,
-      "stars_gained": 0,
-      "forks": 3,
-      "topics": [
-        "assembly",
-        "bootsector",
-        "demoscene",
-        "language-model",
-        "machine-learning",
-        "neural-networks",
-        "qemu",
-        "sizecoding",
-        "x86"
-      ],
-      "created_at": "2026-10-30T21:28:17Z",
-      "updated_at": "2026-11-05T01:30:07Z",
-      "rank": 25
-    },
-    {
-      "name": "vixhal-baraiya/qwenFS",
-      "url": "https://github.com/vixhal-baraiya/qwenFS",
-      "description": "Qwen3.5-2B with a filesystem compiled and inserted directly into its weights.",
-      "full_description": "Qwen3.5-2B with a filesystem compiled and inserted directly into its weights.",
-      "language": "Python",
-      "stars": 89,
-      "stars_gained": 0,
-      "forks": 10,
-      "topics": [
-        "artificial-intelligence",
-        "filesystem",
-        "llm",
-        "qwen3-5"
-      ],
-      "created_at": "2026-11-02T21:43:41Z",
-      "updated_at": "2026-11-05T03:42:24Z",
-      "rank": 26
-    },
-    {
-      "name": "do-whilefor/ClawGod_Y",
-      "url": "https://github.com/do-whilefor/ClawGod_Y",
-      "description": "Claude Code “God Mode,” designed to let the model “breach the armor” (i.e., bypass restrictions).",
-      "full_description": "Claude Code “God Mode,” designed to let the model “breach the armor” (i.e., bypass restrictions).",
-      "language": "JavaScript",
-      "stars": 85,
-      "stars_gained": 0,
-      "forks": 2,
-      "topics": [
-        "ai",
-        "bugbounty",
-        "cladue-code",
-        "clawgod",
-        "pojia"
-      ],
-      "created_at": "2026-10-30T06:00:48Z",
-      "updated_at": "2026-11-05T06:09:22Z",
-      "rank": 27
-    },
-    {
-      "name": "MarkIvor/predictorlab",
-      "url": "https://github.com/MarkIvor/predictorlab",
-      "description": "Self-hosted tabular ML that doesn't lie. Leakage Guard, conformal intervals, profit-optimized thresholds, counterfactuals & instant REST/MCP API.",
-      "full_description": "Self-hosted tabular ML that doesn't lie. Leakage Guard, conformal intervals, profit-optimized thresholds, counterfactuals & instant REST/MCP API.",
-      "language": "Python",
-      "stars": 67,
-      "stars_gained": 0,
-      "forks": 1,
-      "topics": [
-        "automl",
-        "catboost",
-        "conformal-prediction",
-        "counterfactual-explanations",
-        "data-leakage",
-        "duckdb",
-        "explainable-ai",
-        "fastapi",
-        "lightgbm",
-        "machine-learning",
-        "mcp-server",
-        "mlops",
-        "self-hosted",
-        "tabular-data"
-      ],
-      "created_at": "2026-11-01T19:30:27Z",
-      "updated_at": "2026-11-04T14:32:52Z",
-      "rank": 28
-    },
-    {
-      "name": "sirioberati/showhow",
-      "url": "https://github.com/sirioberati/showhow",
-      "description": "Explainer reels drawn in code: every move lands on a spoken word, every render is checked. Free and open source, from tein.",
-      "full_description": "Explainer reels drawn in code: every move lands on a spoken word, every render is checked. Free and open source, from tein.",
-      "language": "TypeScript",
-      "stars": 66,
-      "stars_gained": 0,
-      "forks": 17,
-      "topics": [
-        "canvas",
-        "elevenlabs",
-        "explainer-video",
-        "mcp",
-        "open-source",
-        "remotion"
-      ],
-      "created_at": "2026-10-29T17:07:14Z",
-      "updated_at": "2026-11-04T17:01:47Z",
-      "rank": 29
-    },
-    {
-      "name": "0x45dd/pwner",
-      "url": "https://github.com/0x45dd/pwner",
-      "description": "Autonomous agentic network penetration-testing tool (authorized use only)",
-      "full_description": "Autonomous agentic network penetration-testing tool (authorized use only)",
-      "language": "Python",
-      "stars": 65,
-      "stars_gained": 0,
-      "forks": 5,
-      "topics": [
-        "agent",
-        "ai-agent",
-        "cli",
-        "infosec",
-        "llm",
-        "nmap",
-        "offensive-security",
-        "pentest",
-        "python",
-        "security"
-      ],
-      "created_at": "2026-11-02T13:15:15Z",
-      "updated_at": "2026-11-05T06:56:27Z",
       "rank": 30
     }
   ]
