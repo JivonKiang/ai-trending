@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T06:59:01.314148+00:00",
+  "updated": "2026-11-10T07:35:52.386730+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
       "full_description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
       "language": "Dart",
-      "stars": 16666,
+      "stars": 18002,
       "stars_gained": 0,
-      "forks": 720,
+      "forks": 782,
       "topics": [
         "ai-agent",
         "android",
@@ -27,7 +27,7 @@
         "llm"
       ],
       "created_at": "2026-10-25T08:09:52Z",
-      "updated_at": "2026-11-09T06:58:34Z",
+      "updated_at": "2026-11-10T07:34:55Z",
       "rank": 1
     },
     {
@@ -36,9 +36,9 @@
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "full_description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "language": "Kotlin",
-      "stars": 7804,
+      "stars": 7959,
       "stars_gained": 0,
-      "forks": 1787,
+      "forks": 1824,
       "topics": [
         "accessibility",
         "ai-agent",
@@ -50,7 +50,7 @@
         "mobile-agent"
       ],
       "created_at": "2026-10-29T14:34:07Z",
-      "updated_at": "2026-11-09T06:38:55Z",
+      "updated_at": "2026-11-10T07:09:47Z",
       "rank": 2
     },
     {
@@ -59,9 +59,9 @@
       "description": "Experience-Driven Black-Box Cost Control for Coding Agents",
       "full_description": "Experience-Driven Black-Box Cost Control for Coding Agents",
       "language": "Python",
-      "stars": 5338,
+      "stars": 5565,
       "stars_gained": 0,
-      "forks": 320,
+      "forks": 345,
       "topics": [
         "agentic-ai",
         "agentic-coding",
@@ -84,7 +84,7 @@
         "token-optimization"
       ],
       "created_at": "2026-10-13T04:16:50Z",
-      "updated_at": "2026-11-09T06:55:57Z",
+      "updated_at": "2026-11-10T07:25:56Z",
       "rank": 3
     },
     {
@@ -93,9 +93,9 @@
       "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "full_description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "language": "Swift",
-      "stars": 4718,
+      "stars": 4781,
       "stars_gained": 0,
-      "forks": 650,
+      "forks": 656,
       "topics": [
         "ai-agent",
         "airplay",
@@ -109,8 +109,33 @@
         "usb-hid"
       ],
       "created_at": "2026-10-11T19:10:25Z",
-      "updated_at": "2026-11-09T06:45:02Z",
+      "updated_at": "2026-11-10T07:31:27Z",
       "rank": 4
+    },
+    {
+      "name": "qybaihe/bla",
+      "url": "https://github.com/qybaihe/bla",
+      "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "full_description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "language": "TypeScript",
+      "stars": 4590,
+      "stars_gained": 0,
+      "forks": 551,
+      "topics": [
+        "adversarial-ai",
+        "claude-code",
+        "cursor",
+        "electron-security",
+        "llm-security",
+        "mcp",
+        "mcp-server",
+        "obfuscation",
+        "reverse-engineering",
+        "webassembly"
+      ],
+      "created_at": "2026-10-25T05:25:45Z",
+      "updated_at": "2026-11-10T07:35:43Z",
+      "rank": 5
     },
     {
       "name": "Leonxlnx/earshot",
@@ -118,9 +143,9 @@
       "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "full_description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "language": "Python",
-      "stars": 4296,
+      "stars": 4393,
       "stars_gained": 0,
-      "forks": 275,
+      "forks": 282,
       "topics": [
         "ai-agents",
         "audio",
@@ -129,8 +154,8 @@
         "sound-design"
       ],
       "created_at": "2026-10-15T06:52:46Z",
-      "updated_at": "2026-11-09T06:27:35Z",
-      "rank": 5
+      "updated_at": "2026-11-10T07:33:52Z",
+      "rank": 6
     },
     {
       "name": "KKKKhazix/agent-autoloop",
@@ -138,9 +163,9 @@
       "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "full_description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "language": "TypeScript",
-      "stars": 4175,
+      "stars": 4356,
       "stars_gained": 0,
-      "forks": 757,
+      "forks": 794,
       "topics": [
         "ai-agents",
         "automation",
@@ -155,32 +180,7 @@
         "workflow"
       ],
       "created_at": "2026-11-03T08:02:11Z",
-      "updated_at": "2026-11-09T06:51:27Z",
-      "rank": 6
-    },
-    {
-      "name": "qybaihe/bla",
-      "url": "https://github.com/qybaihe/bla",
-      "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
-      "full_description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
-      "language": "TypeScript",
-      "stars": 3928,
-      "stars_gained": 0,
-      "forks": 484,
-      "topics": [
-        "adversarial-ai",
-        "claude-code",
-        "cursor",
-        "electron-security",
-        "llm-security",
-        "mcp",
-        "mcp-server",
-        "obfuscation",
-        "reverse-engineering",
-        "webassembly"
-      ],
-      "created_at": "2026-10-25T05:25:45Z",
-      "updated_at": "2026-11-09T06:54:47Z",
+      "updated_at": "2026-11-10T07:28:26Z",
       "rank": 7
     },
     {
@@ -189,9 +189,9 @@
       "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
       "full_description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
       "language": "Python",
-      "stars": 2741,
+      "stars": 2871,
       "stars_gained": 0,
-      "forks": 45,
+      "forks": 46,
       "topics": [
         "ai-agent",
         "ai-assistant",
@@ -215,7 +215,7 @@
         "wechat"
       ],
       "created_at": "2026-10-27T08:51:18Z",
-      "updated_at": "2026-11-09T06:29:29Z",
+      "updated_at": "2026-11-10T07:33:21Z",
       "rank": 8
     },
     {
@@ -224,9 +224,9 @@
       "description": "Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese.",
       "full_description": "Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese.",
       "language": "Python",
-      "stars": 2165,
+      "stars": 2372,
       "stars_gained": 0,
-      "forks": 395,
+      "forks": 434,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -250,7 +250,7 @@
         "web-reverse-engineering"
       ],
       "created_at": "2026-10-16T00:42:04Z",
-      "updated_at": "2026-11-09T06:52:35Z",
+      "updated_at": "2026-11-10T07:29:58Z",
       "rank": 9
     },
     {
@@ -259,9 +259,9 @@
       "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
       "full_description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
       "language": "Python",
-      "stars": 2144,
+      "stars": 2147,
       "stars_gained": 0,
-      "forks": 640,
+      "forks": 642,
       "topics": [
         "agent-skills",
         "ai",
@@ -278,7 +278,7 @@
         "trends"
       ],
       "created_at": "2026-10-12T07:11:01Z",
-      "updated_at": "2026-11-09T06:54:41Z",
+      "updated_at": "2026-11-10T07:33:23Z",
       "rank": 10
     },
     {
@@ -287,7 +287,7 @@
       "description": "A design system for AI applications. Material, physical, tactile, technical.",
       "full_description": "A design system for AI applications. Material, physical, tactile, technical.",
       "language": "TypeScript",
-      "stars": 2055,
+      "stars": 2061,
       "stars_gained": 0,
       "forks": 43,
       "topics": [
@@ -304,7 +304,7 @@
         "theme"
       ],
       "created_at": "2026-10-12T09:19:02Z",
-      "updated_at": "2026-11-09T04:10:57Z",
+      "updated_at": "2026-11-10T03:56:52Z",
       "rank": 11
     },
     {
@@ -313,9 +313,9 @@
       "description": "The world's law in git: any provision, any country, any date, and the law that wrote each word.",
       "full_description": "The world's law in git: any provision, any country, any date, and the law that wrote each word.",
       "language": "HTML",
-      "stars": 1891,
+      "stars": 1909,
       "stars_gained": 0,
-      "forks": 181,
+      "forks": 182,
       "topics": [
         "git",
         "law",
@@ -325,7 +325,7 @@
         "open-data"
       ],
       "created_at": "2026-10-28T13:34:16Z",
-      "updated_at": "2026-11-09T06:55:43Z",
+      "updated_at": "2026-11-10T07:33:05Z",
       "rank": 12
     },
     {
@@ -334,9 +334,9 @@
       "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
       "full_description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
       "language": "Python",
-      "stars": 1691,
+      "stars": 1816,
       "stars_gained": 0,
-      "forks": 892,
+      "forks": 932,
       "topics": [
         "ai-agents",
         "autonomous-agents",
@@ -347,7 +347,7 @@
         "pentest"
       ],
       "created_at": "2026-10-30T15:12:35Z",
-      "updated_at": "2026-11-09T06:53:58Z",
+      "updated_at": "2026-11-10T07:06:46Z",
       "rank": 13
     },
     {
@@ -356,9 +356,9 @@
       "description": "1M param OCR model - runs on CPU, 15x faster than tesseract, close to 1B+ param models in accuracy",
       "full_description": "1M param OCR model - runs on CPU, 15x faster than tesseract, close to 1B+ param models in accuracy",
       "language": "Python",
-      "stars": 1688,
+      "stars": 1717,
       "stars_gained": 0,
-      "forks": 173,
+      "forks": 176,
       "topics": [
         "ai",
         "cpu",
@@ -368,7 +368,7 @@
         "pdf"
       ],
       "created_at": "2026-10-13T11:07:11Z",
-      "updated_at": "2026-11-09T05:06:52Z",
+      "updated_at": "2026-11-10T06:08:58Z",
       "rank": 14
     },
     {
@@ -377,9 +377,9 @@
       "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
       "full_description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
       "language": "Rust",
-      "stars": 1685,
+      "stars": 1700,
       "stars_gained": 0,
-      "forks": 150,
+      "forks": 151,
       "topics": [
         "agent-to-agent",
         "ai-agents",
@@ -396,36 +396,8 @@
         "reason"
       ],
       "created_at": "2026-10-16T15:34:34Z",
-      "updated_at": "2026-11-09T06:53:50Z",
+      "updated_at": "2026-11-10T07:32:40Z",
       "rank": 15
-    },
-    {
-      "name": "marclou/mailcheap",
-      "url": "https://github.com/marclou/mailcheap",
-      "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
-      "full_description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
-      "language": "JavaScript",
-      "stars": 1663,
-      "stars_gained": 0,
-      "forks": 422,
-      "topics": [
-        "ai-agents",
-        "amazon-ses",
-        "beehiiv-alternative",
-        "email",
-        "email-marketing",
-        "mailchimp-alternative",
-        "mcp",
-        "mcp-server",
-        "mongodb",
-        "newsletter",
-        "nextjs",
-        "self-hosted",
-        "substack-alternative"
-      ],
-      "created_at": "2026-10-10T12:55:36Z",
-      "updated_at": "2026-11-09T03:28:26Z",
-      "rank": 16
     },
     {
       "name": "Sandflow-ai/sand3d",
@@ -433,9 +405,9 @@
       "description": "3D modeling in Python, built for LLMs.",
       "full_description": "3D modeling in Python, built for LLMs.",
       "language": "HTML",
-      "stars": 1482,
+      "stars": 1664,
       "stars_gained": 0,
-      "forks": 164,
+      "forks": 188,
       "topics": [
         "3d",
         "blender",
@@ -446,8 +418,8 @@
         "usd"
       ],
       "created_at": "2026-11-03T08:23:03Z",
-      "updated_at": "2026-11-09T06:57:23Z",
-      "rank": 17
+      "updated_at": "2026-11-10T07:10:58Z",
+      "rank": 16
     },
     {
       "name": "yjid/kensaku",
@@ -455,9 +427,9 @@
       "description": "Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
       "full_description": "Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
       "language": "Rust",
-      "stars": 1444,
+      "stars": 1529,
       "stars_gained": 0,
-      "forks": 98,
+      "forks": 103,
       "topics": [
         "ai-agents",
         "desktop",
@@ -477,8 +449,8 @@
         "windows"
       ],
       "created_at": "2026-10-24T21:00:26Z",
-      "updated_at": "2026-11-09T06:56:57Z",
-      "rank": 18
+      "updated_at": "2026-11-10T07:30:31Z",
+      "rank": 17
     },
     {
       "name": "Sam-Hui-dot/mcd-budget-meal",
@@ -486,7 +458,7 @@
       "description": "麦麦预算餐：基于麦当劳 MCP 的真实核价、预算比较与餐品替换 Skill",
       "full_description": "麦麦预算餐：基于麦当劳 MCP 的真实核价、预算比较与餐品替换 Skill",
       "language": "HTML",
-      "stars": 1326,
+      "stars": 1327,
       "stars_gained": 0,
       "forks": 42,
       "topics": [
@@ -497,8 +469,8 @@
         "workbuddy"
       ],
       "created_at": "2026-10-11T08:25:55Z",
-      "updated_at": "2026-11-07T13:22:25Z",
-      "rank": 19
+      "updated_at": "2026-11-10T05:26:16Z",
+      "rank": 18
     },
     {
       "name": "emanuele-em/kanzo",
@@ -506,9 +478,9 @@
       "description": "Self-hosted, sharable kanban for humans and agents. One 4.7 MB binary, 5 MB of RAM, 10 to 60 tokens per agent reply, starts in 3 ms, zero setup.",
       "full_description": "Self-hosted, sharable kanban for humans and agents. One 4.7 MB binary, 5 MB of RAM, 10 to 60 tokens per agent reply, starts in 3 ms, zero setup.",
       "language": "Rust",
-      "stars": 1123,
+      "stars": 1141,
       "stars_gained": 0,
-      "forks": 82,
+      "forks": 86,
       "topics": [
         "ai-agents",
         "claude-code",
@@ -529,8 +501,8 @@
         "task-manager"
       ],
       "created_at": "2026-10-25T11:14:03Z",
-      "updated_at": "2026-11-09T06:39:35Z",
-      "rank": 20
+      "updated_at": "2026-11-10T05:43:39Z",
+      "rank": 19
     },
     {
       "name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
@@ -538,9 +510,9 @@
       "description": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
       "full_description": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
       "language": "Python",
-      "stars": 1063,
+      "stars": 1088,
       "stars_gained": 0,
-      "forks": 984,
+      "forks": 1012,
       "topics": [
         "ai-agents",
         "cross-border-ecommerce",
@@ -553,8 +525,8 @@
         "workflow-automation"
       ],
       "created_at": "2026-10-13T10:13:21Z",
-      "updated_at": "2026-11-09T06:55:40Z",
-      "rank": 21
+      "updated_at": "2026-11-10T07:33:19Z",
+      "rank": 20
     },
     {
       "name": "yzlin286-wq/Deepscient",
@@ -562,7 +534,7 @@
       "description": "让 AI 与人类一起攻克真正的科学难题 —— 12 阶段 55 门 · 36 工具 · 98 条技能 · 证据链与可复现",
       "full_description": "让 AI 与人类一起攻克真正的科学难题 —— 12 阶段 55 门 · 36 工具 · 98 条技能 · 证据链与可复现",
       "language": "JavaScript",
-      "stars": 961,
+      "stars": 974,
       "stars_gained": 0,
       "forks": 18,
       "topics": [
@@ -578,8 +550,8 @@
         "windows"
       ],
       "created_at": "2026-10-21T07:44:10Z",
-      "updated_at": "2026-11-09T02:07:23Z",
-      "rank": 22
+      "updated_at": "2026-11-10T01:34:07Z",
+      "rank": 21
     },
     {
       "name": "jwuthri-cloud/Tracely-ai",
@@ -587,7 +559,7 @@
       "description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
       "full_description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
       "language": "Python",
-      "stars": 946,
+      "stars": 947,
       "stars_gained": 0,
       "forks": 85,
       "topics": [
@@ -608,8 +580,8 @@
         "tracing"
       ],
       "created_at": "2026-10-11T15:38:03Z",
-      "updated_at": "2026-11-08T18:59:32Z",
-      "rank": 23
+      "updated_at": "2026-11-09T17:44:31Z",
+      "rank": 22
     },
     {
       "name": "sahenjp/RustXNG",
@@ -617,9 +589,9 @@
       "description": "Self-hosted metasearch and grounding engine for AI agents, based on SearXNG. Rust, JSON API, optional page text.",
       "full_description": "Self-hosted metasearch and grounding engine for AI agents, based on SearXNG. Rust, JSON API, optional page text.",
       "language": "Rust",
-      "stars": 935,
+      "stars": 943,
       "stars_gained": 0,
-      "forks": 74,
+      "forks": 76,
       "topics": [
         "agpl",
         "ai-agents",
@@ -635,8 +607,8 @@
         "self-hosted"
       ],
       "created_at": "2026-10-18T03:06:52Z",
-      "updated_at": "2026-11-09T06:36:57Z",
-      "rank": 24
+      "updated_at": "2026-11-10T06:10:51Z",
+      "rank": 23
     },
     {
       "name": "huaxialucaicaizi/ai-startup-skills",
@@ -644,7 +616,7 @@
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
       "full_description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
       "language": "Python",
-      "stars": 921,
+      "stars": 924,
       "stars_gained": 0,
       "forks": 64,
       "topics": [
@@ -663,82 +635,8 @@
         "startup"
       ],
       "created_at": "2026-10-22T10:23:29Z",
-      "updated_at": "2026-11-09T05:40:07Z",
-      "rank": 25
-    },
-    {
-      "name": "jackwener/DSH-Android",
-      "url": "https://github.com/jackwener/DSH-Android",
-      "description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
-      "full_description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
-      "language": "Kotlin",
-      "stars": 889,
-      "stars_gained": 0,
-      "forks": 99,
-      "topics": [
-        "ai-agent",
-        "android",
-        "deepseek",
-        "deepseek-harness",
-        "llm",
-        "phone-agent",
-        "shizuku"
-      ],
-      "created_at": "2026-10-27T19:26:12Z",
-      "updated_at": "2026-11-09T06:56:54Z",
-      "rank": 26
-    },
-    {
-      "name": "zgsfsec/Full-Chain-Sentinel-System",
-      "url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
-      "description": "全链哨兵，是集Web 渗透、安卓 App 安全测试、iOS APP安全测试、攻防批量打点、自动化应急响应、开源漏洞监测为一体的网络安全 Agent，用于安全服务交付自动化辅助，禁止用于非法用途。",
-      "full_description": "全链哨兵，是集Web 渗透、安卓 App 安全测试、iOS APP安全测试、攻防批量打点、自动化应急响应、开源漏洞监测为一体的网络安全 Agent，用于安全服务交付自动化辅助，禁止用于非法用途。",
-      "language": "TypeScript",
-      "stars": 804,
-      "stars_gained": 0,
-      "forks": 243,
-      "topics": [
-        "agent",
-        "blue-team",
-        "cybersecurity",
-        "cybersecurity-tools",
-        "pentest-tool",
-        "pentest-tools",
-        "pentesting-tools",
-        "security",
-        "security-tools",
-        "self-agent-id"
-      ],
-      "created_at": "2026-10-16T04:05:37Z",
-      "updated_at": "2026-11-09T06:53:04Z",
-      "rank": 27
-    },
-    {
-      "name": "ctoldigital/axuse",
-      "url": "https://github.com/ctoldigital/axuse",
-      "description": "Accessibility-first browser & computer use for AI agents — one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of screenshot loops: diffed snapshots, stable element refs, trusted input, typed errors. Zero dependencies",
-      "full_description": "Accessibility-first browser & computer use for AI agents — one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of screenshot loops: diffed snapshots, stable element refs, trusted input, typed errors. Zero dependencies",
-      "language": "JavaScript",
-      "stars": 803,
-      "stars_gained": 0,
-      "forks": 40,
-      "topics": [
-        "agentic-automation",
-        "ai-agents",
-        "browser-automation",
-        "browser-use",
-        "cdp",
-        "chrome-devtools-protocol",
-        "computer-use",
-        "cua",
-        "mcp",
-        "model-context-protocol",
-        "rpa",
-        "web-automation"
-      ],
-      "created_at": "2026-10-14T19:55:37Z",
-      "updated_at": "2026-11-07T04:49:47Z",
-      "rank": 28
+      "updated_at": "2026-11-10T05:00:29Z",
+      "rank": 24
     },
     {
       "name": "EL4CTEO/blender-skills",
@@ -746,9 +644,9 @@
       "description": "Professional Blender 5.2 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.",
       "full_description": "Professional Blender 5.2 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.",
       "language": "Python",
-      "stars": 803,
+      "stars": 923,
       "stars_gained": 0,
-      "forks": 82,
+      "forks": 89,
       "topics": [
         "3d",
         "agent-skills",
@@ -770,7 +668,102 @@
         "unreal-engine"
       ],
       "created_at": "2026-10-14T19:08:14Z",
-      "updated_at": "2026-11-09T06:50:05Z",
+      "updated_at": "2026-11-10T07:26:51Z",
+      "rank": 25
+    },
+    {
+      "name": "jackwener/DSH-Android",
+      "url": "https://github.com/jackwener/DSH-Android",
+      "description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
+      "full_description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
+      "language": "Kotlin",
+      "stars": 899,
+      "stars_gained": 0,
+      "forks": 100,
+      "topics": [
+        "ai-agent",
+        "android",
+        "deepseek",
+        "deepseek-harness",
+        "llm",
+        "phone-agent",
+        "shizuku"
+      ],
+      "created_at": "2026-10-27T19:26:12Z",
+      "updated_at": "2026-11-10T07:10:40Z",
+      "rank": 26
+    },
+    {
+      "name": "zgsfsec/Full-Chain-Sentinel-System",
+      "url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
+      "description": "全链哨兵，是集Web 渗透、安卓 App 安全测试、iOS APP安全测试、攻防批量打点、自动化应急响应、开源漏洞监测为一体的网络安全 Agent，用于安全服务交付自动化辅助，禁止用于非法用途。",
+      "full_description": "全链哨兵，是集Web 渗透、安卓 App 安全测试、iOS APP安全测试、攻防批量打点、自动化应急响应、开源漏洞监测为一体的网络安全 Agent，用于安全服务交付自动化辅助，禁止用于非法用途。",
+      "language": "TypeScript",
+      "stars": 853,
+      "stars_gained": 0,
+      "forks": 253,
+      "topics": [
+        "agent",
+        "blue-team",
+        "cybersecurity",
+        "cybersecurity-tools",
+        "pentest-tool",
+        "pentest-tools",
+        "pentesting-tools",
+        "security",
+        "security-tools",
+        "self-agent-id"
+      ],
+      "created_at": "2026-10-16T04:05:37Z",
+      "updated_at": "2026-11-10T07:07:29Z",
+      "rank": 27
+    },
+    {
+      "name": "JosssphZhou/poki",
+      "url": "https://github.com/JosssphZhou/poki",
+      "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "full_description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "language": "Swift",
+      "stars": 819,
+      "stars_gained": 0,
+      "forks": 170,
+      "topics": [
+        "ai-agents",
+        "automation",
+        "ios",
+        "iphone",
+        "mcp",
+        "model-context-protocol"
+      ],
+      "created_at": "2026-11-05T15:04:31Z",
+      "updated_at": "2026-11-10T07:35:11Z",
+      "rank": 28
+    },
+    {
+      "name": "ctoldigital/axuse",
+      "url": "https://github.com/ctoldigital/axuse",
+      "description": "Accessibility-first browser & computer use for AI agents — one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of screenshot loops: diffed snapshots, stable element refs, trusted input, typed errors. Zero dependencies",
+      "full_description": "Accessibility-first browser & computer use for AI agents — one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of screenshot loops: diffed snapshots, stable element refs, trusted input, typed errors. Zero dependencies",
+      "language": "JavaScript",
+      "stars": 804,
+      "stars_gained": 0,
+      "forks": 41,
+      "topics": [
+        "agentic-automation",
+        "ai-agents",
+        "browser-automation",
+        "browser-use",
+        "cdp",
+        "chrome-devtools-protocol",
+        "computer-use",
+        "cua",
+        "mcp",
+        "model-context-protocol",
+        "rpa",
+        "web-automation"
+      ],
+      "created_at": "2026-10-14T19:55:37Z",
+      "updated_at": "2026-11-09T21:53:06Z",
       "rank": 29
     },
     {
@@ -779,9 +772,9 @@
       "description": "Connect AI agents to real iPhones and Androids",
       "full_description": "Connect AI agents to real iPhones and Androids",
       "language": "Python",
-      "stars": 769,
+      "stars": 778,
       "stars_gained": 0,
-      "forks": 65,
+      "forks": 66,
       "topics": [
         "ai-agents",
         "android",
@@ -793,7 +786,7 @@
         "phone-automation"
       ],
       "created_at": "2026-10-23T06:27:40Z",
-      "updated_at": "2026-11-09T04:42:34Z",
+      "updated_at": "2026-11-10T07:00:32Z",
       "rank": 30
     }
   ]
