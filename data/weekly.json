@@ -1,66 +1,18 @@
 {
-  "updated": "2026-11-10T07:35:51.333878+00:00",
+  "updated": "2026-11-11T06:53:55.775773+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
   "projects": [
-    {
-      "name": "KKKKhazix/agent-autoloop",
-      "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "full_description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "language": "TypeScript",
-      "stars": 4356,
-      "stars_gained": 0,
-      "forks": 794,
-      "topics": [
-        "ai-agents",
-        "automation",
-        "claude-code",
-        "cli",
-        "codex",
-        "event-driven",
-        "mcp",
-        "nodejs",
-        "self-hosted",
-        "typescript",
-        "workflow"
-      ],
-      "created_at": "2026-11-03T08:02:11Z",
-      "updated_at": "2026-11-10T07:28:26Z",
-      "rank": 1
-    },
-    {
-      "name": "Sandflow-ai/sand3d",
-      "url": "https://github.com/Sandflow-ai/sand3d",
-      "description": "3D modeling in Python, built for LLMs.",
-      "full_description": "3D modeling in Python, built for LLMs.",
-      "language": "HTML",
-      "stars": 1664,
-      "stars_gained": 0,
-      "forks": 188,
-      "topics": [
-        "3d",
-        "blender",
-        "cad",
-        "llm",
-        "procedural-modeling",
-        "python",
-        "usd"
-      ],
-      "created_at": "2026-11-03T08:23:03Z",
-      "updated_at": "2026-11-10T07:10:58Z",
-      "rank": 2
-    },
     {
       "name": "JosssphZhou/poki",
       "url": "https://github.com/JosssphZhou/poki",
       "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
       "full_description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
       "language": "Swift",
-      "stars": 819,
+      "stars": 941,
       "stars_gained": 0,
-      "forks": 170,
+      "forks": 177,
       "topics": [
         "ai-agents",
         "automation",
@@ -70,8 +22,32 @@
         "model-context-protocol"
       ],
       "created_at": "2026-11-05T15:04:31Z",
-      "updated_at": "2026-11-10T07:35:11Z",
-      "rank": 3
+      "updated_at": "2026-11-11T06:47:12Z",
+      "rank": 1
+    },
+    {
+      "name": "21stware/bowel",
+      "url": "https://github.com/21stware/bowel",
+      "description": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
+      "full_description": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
+      "language": "Go",
+      "stars": 422,
+      "stars_gained": 0,
+      "forks": 25,
+      "topics": [
+        "android",
+        "clash",
+        "clash-meta",
+        "linux",
+        "macos",
+        "mcp",
+        "mihomo",
+        "proxy-client",
+        "windows"
+      ],
+      "created_at": "2026-11-07T17:45:52Z",
+      "updated_at": "2026-11-11T06:35:29Z",
+      "rank": 2
     },
     {
       "name": "shanselman/sandbox-mcp",
@@ -79,7 +55,7 @@
       "description": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
       "full_description": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
       "language": "JavaScript",
-      "stars": 388,
+      "stars": 405,
       "stars_gained": 0,
       "forks": 19,
       "topics": [
@@ -92,8 +68,60 @@
         "windows-sandbox"
       ],
       "created_at": "2026-11-06T19:02:14Z",
-      "updated_at": "2026-11-10T07:22:54Z",
+      "updated_at": "2026-11-11T05:57:20Z",
+      "rank": 3
+    },
+    {
+      "name": "Dodaios/ste80-humanizer",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "full_description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "language": "Python",
+      "stars": 331,
+      "stars_gained": 0,
+      "forks": 19,
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "asd-ste100",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "cursor",
+        "humanize-ai-text",
+        "humanizer",
+        "karpathy",
+        "llm",
+        "plain-language",
+        "simplified-technical-english",
+        "writing"
+      ],
+      "created_at": "2026-11-09T17:18:59Z",
+      "updated_at": "2026-11-11T06:41:17Z",
       "rank": 4
+    },
+    {
+      "name": "gogoymh/auto-ontology-mcp",
+      "url": "https://github.com/gogoymh/auto-ontology-mcp",
+      "description": "NVIDIA Auto Ontology's semantic layer and a personal knowledge base as an MCP server for Claude, ChatGPT and other MCP clients. No LLM API key needed.",
+      "full_description": "NVIDIA Auto Ontology's semantic layer and a personal knowledge base as an MCP server for Claude, ChatGPT and other MCP clients. No LLM API key needed.",
+      "language": "Python",
+      "stars": 324,
+      "stars_gained": 0,
+      "forks": 47,
+      "topics": [
+        "chatgpt",
+        "claude",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "ontology",
+        "semantic-layer",
+        "text-to-sql"
+      ],
+      "created_at": "2026-11-06T12:09:07Z",
+      "updated_at": "2026-11-11T06:51:34Z",
+      "rank": 5
     },
     {
       "name": "yucezerey/turkish-anti-ai-skill",
@@ -101,9 +129,9 @@
       "description": "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.",
       "full_description": "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.",
       "language": "Python",
-      "stars": 290,
+      "stars": 302,
       "stars_gained": 0,
-      "forks": 21,
+      "forks": 23,
       "topics": [
         "agent-skills",
         "ai-skills",
@@ -121,58 +149,8 @@
         "turkish-nlp"
       ],
       "created_at": "2026-11-05T20:08:28Z",
-      "updated_at": "2026-11-10T06:29:00Z",
-      "rank": 5
-    },
-    {
-      "name": "Nanoutrolley/roblox-studio-mcp",
-      "url": "https://github.com/Nanoutrolley/roblox-studio-mcp",
-      "description": "Model Context Protocol (MCP) server for Roblox Studio. Connect AI assistants (Claude, Cursor, Cline) to read object trees, automate Lua scripting, and run playtests safely. Open-source AI bridge.",
-      "full_description": "Model Context Protocol (MCP) server for Roblox Studio. Connect AI assistants (Claude, Cursor, Cline) to read object trees, automate Lua scripting, and run playtests safely. Open-source AI bridge.",
-      "language": "Python",
-      "stars": 283,
-      "stars_gained": 0,
-      "forks": 215,
-      "topics": [
-        "ai-tools",
-        "automation",
-        "claude",
-        "cursor",
-        "game-development",
-        "lua",
-        "mcp",
-        "model-context-protocol",
-        "open-source",
-        "roblox",
-        "roblox-studio",
-        "typescript"
-      ],
-      "created_at": "2026-11-09T08:58:06Z",
-      "updated_at": "2026-11-10T05:29:15Z",
+      "updated_at": "2026-11-11T02:04:37Z",
       "rank": 6
-    },
-    {
-      "name": "gogoymh/auto-ontology-mcp",
-      "url": "https://github.com/gogoymh/auto-ontology-mcp",
-      "description": "NVIDIA Auto Ontology's semantic layer and a personal knowledge base as an MCP server for Claude, ChatGPT and other MCP clients. No LLM API key needed.",
-      "full_description": "NVIDIA Auto Ontology's semantic layer and a personal knowledge base as an MCP server for Claude, ChatGPT and other MCP clients. No LLM API key needed.",
-      "language": "Python",
-      "stars": 274,
-      "stars_gained": 0,
-      "forks": 40,
-      "topics": [
-        "chatgpt",
-        "claude",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "ontology",
-        "semantic-layer",
-        "text-to-sql"
-      ],
-      "created_at": "2026-11-06T12:09:07Z",
-      "updated_at": "2026-11-10T07:31:20Z",
-      "rank": 7
     },
     {
       "name": "Glen-Web-App/best-agent-memory-mcp",
@@ -207,6 +185,41 @@
       ],
       "created_at": "2026-11-05T01:23:58Z",
       "updated_at": "2026-11-09T03:23:18Z",
+      "rank": 7
+    },
+    {
+      "name": "TIGER-AI-Lab/WebsiteBench",
+      "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
+      "description": "Can AI agents rebuild websites through browser exploration?",
+      "full_description": "Can AI agents rebuild websites through browser exploration?",
+      "language": "Python",
+      "stars": 208,
+      "stars_gained": 0,
+      "forks": 37,
+      "topics": [
+        "agent-evaluation",
+        "ai",
+        "ai-agents",
+        "benchmark",
+        "benchmarking",
+        "browser-automation",
+        "browser-use",
+        "full-stack",
+        "harbor",
+        "harbor-framework",
+        "llm",
+        "llm-benchmark",
+        "llm-benchmarking",
+        "llm-benchmarks",
+        "reverse-engineering",
+        "swe-bench",
+        "visual-evaluation",
+        "web-agents",
+        "web-development",
+        "website-reconstruction"
+      ],
+      "created_at": "2026-11-04T12:58:50Z",
+      "updated_at": "2026-11-11T06:16:16Z",
       "rank": 8
     },
     {
@@ -242,7 +255,7 @@
       "description": "对照 DeepSeek Harness 的迷你学习项目：迷你版 Cordis + 迷你版 DSH + 网页端 Agent",
       "full_description": "对照 DeepSeek Harness 的迷你学习项目：迷你版 Cordis + 迷你版 DSH + 网页端 Agent",
       "language": "TypeScript",
-      "stars": 190,
+      "stars": 198,
       "stars_gained": 0,
       "forks": 30,
       "topics": [
@@ -253,72 +266,8 @@
         "typescript"
       ],
       "created_at": "2026-11-05T06:10:10Z",
-      "updated_at": "2026-11-10T05:48:33Z",
+      "updated_at": "2026-11-11T05:11:58Z",
       "rank": 10
-    },
-    {
-      "name": "Dodaios/ste80-humanizer",
-      "url": "https://github.com/Dodaios/ste80-humanizer",
-      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-      "full_description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-      "language": "Python",
-      "stars": 177,
-      "stars_gained": 0,
-      "forks": 11,
-      "topics": [
-        "agent-skills",
-        "ai-writing",
-        "asd-ste100",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "cursor",
-        "humanize-ai-text",
-        "humanizer",
-        "karpathy",
-        "llm",
-        "plain-language",
-        "simplified-technical-english",
-        "writing"
-      ],
-      "created_at": "2026-11-09T17:18:59Z",
-      "updated_at": "2026-11-10T07:20:49Z",
-      "rank": 11
-    },
-    {
-      "name": "TIGER-AI-Lab/WebsiteBench",
-      "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
-      "description": "Can AI agents rebuild websites through browser exploration?",
-      "full_description": "Can AI agents rebuild websites through browser exploration?",
-      "language": "Python",
-      "stars": 177,
-      "stars_gained": 0,
-      "forks": 36,
-      "topics": [
-        "agent-evaluation",
-        "ai",
-        "ai-agents",
-        "benchmark",
-        "benchmarking",
-        "browser-automation",
-        "browser-use",
-        "full-stack",
-        "harbor",
-        "harbor-framework",
-        "llm",
-        "llm-benchmark",
-        "llm-benchmarking",
-        "llm-benchmarks",
-        "reverse-engineering",
-        "swe-bench",
-        "visual-evaluation",
-        "web-agents",
-        "web-development",
-        "website-reconstruction"
-      ],
-      "created_at": "2026-11-04T12:58:50Z",
-      "updated_at": "2026-11-10T07:08:12Z",
-      "rank": 12
     },
     {
       "name": "fanhuayishiy/ai-crew-pass",
@@ -326,9 +275,9 @@
       "description": "非人类员工｜九位 AI 同事的 3D 工牌领取处，中英文、透明 PNG 下载。微信公众号：风花AI实验室。",
       "full_description": "非人类员工｜九位 AI 同事的 3D 工牌领取处，中英文、透明 PNG 下载。微信公众号：风花AI实验室。",
       "language": "TypeScript",
-      "stars": 162,
+      "stars": 181,
       "stars_gained": 0,
-      "forks": 12,
+      "forks": 14,
       "topics": [
         "ai",
         "astro",
@@ -338,26 +287,8 @@
         "threejs"
       ],
       "created_at": "2026-11-06T16:47:02Z",
-      "updated_at": "2026-11-10T07:30:59Z",
-      "rank": 13
-    },
-    {
-      "name": "RUC-NLPIR/CoworkOS",
-      "url": "https://github.com/RUC-NLPIR/CoworkOS",
-      "description": "CoworkOS: a cowork harness for long-horizon and human-in-the-loop task execution",
-      "full_description": "CoworkOS: a cowork harness for long-horizon and human-in-the-loop task execution",
-      "language": "JavaScript",
-      "stars": 152,
-      "stars_gained": 0,
-      "forks": 16,
-      "topics": [
-        "agent",
-        "cowork",
-        "harness"
-      ],
-      "created_at": "2026-11-03T00:47:02Z",
-      "updated_at": "2026-11-10T06:20:07Z",
-      "rank": 14
+      "updated_at": "2026-11-11T06:13:02Z",
+      "rank": 11
     },
     {
       "name": "YT-Proteus-bot/MineAgent",
@@ -365,7 +296,7 @@
       "description": "agent定制自由化，agent流程可视化。在浏览器里用画布搭出工业级 Agent 流程，选框架自动生成架构图， 拖节点、连线、写代码、配模型，点「保存」就把整张画布编译成一个可独立运行的 Python Agent 项目， 点「运行」直接在你的机器上真实执行并流式回传每一步。欢迎各位同行二次开发，如有商用请说明出处。",
       "full_description": "agent定制自由化，agent流程可视化。在浏览器里用画布搭出工业级 Agent 流程，选框架自动生成架构图， 拖节点、连线、写代码、配模型，点「保存」就把整张画布编译成一个可独立运行的 Python Agent 项目， 点「运行」直接在你的机器上真实执行并流式回传每一步。欢迎各位同行二次开发，如有商用请说明出处。",
       "language": "Python",
-      "stars": 112,
+      "stars": 159,
       "stars_gained": 0,
       "forks": 0,
       "topics": [
@@ -375,8 +306,136 @@
         "agents"
       ],
       "created_at": "2026-11-05T06:01:27Z",
-      "updated_at": "2026-11-09T21:58:12Z",
+      "updated_at": "2026-11-11T02:35:04Z",
+      "rank": 12
+    },
+    {
+      "name": "DevCrabs-Inc/yandex-metrika-mcp",
+      "url": "https://github.com/DevCrabs-Inc/yandex-metrika-mcp",
+      "description": "Read-only MCP server for Yandex Metrika (Яндекс Метрика): verifiable reports, period comparisons, time series and exports for Claude, Cursor, VS Code and Codex.",
+      "full_description": "Read-only MCP server for Yandex Metrika (Яндекс Метрика): verifiable reports, period comparisons, time series and exports for Claude, Cursor, VS Code and Codex.",
+      "language": "TypeScript",
+      "stars": 127,
+      "stars_gained": 0,
+      "forks": 1,
+      "topics": [
+        "ai-agents",
+        "analytics",
+        "claude",
+        "claude-code",
+        "claude-desktop",
+        "codex",
+        "cursor",
+        "mcp",
+        "mcp-server",
+        "mcpb",
+        "metrika",
+        "model-context-protocol",
+        "seo",
+        "typescript",
+        "vscode",
+        "web-analytics",
+        "yandex",
+        "yandex-metrica",
+        "yandex-metrika"
+      ],
+      "created_at": "2026-11-06T12:18:59Z",
+      "updated_at": "2026-11-10T19:38:22Z",
+      "rank": 13
+    },
+    {
+      "name": "bookleme/bookleme",
+      "url": "https://github.com/bookleme/bookleme",
+      "description": "读了么（BookLeme）· 把一本书编译成 Agent Skill —— 双引擎 + 可插拔体裁插件 + 逐字忠实度回验",
+      "full_description": "读了么（BookLeme）· 把一本书编译成 Agent Skill —— 双引擎 + 可插拔体裁插件 + 逐字忠实度回验",
+      "language": "Python",
+      "stars": 108,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "agent-skills",
+        "book-to-skill",
+        "document-processing",
+        "knowledge-management",
+        "llm",
+        "prompt-engineering"
+      ],
+      "created_at": "2026-11-09T03:29:27Z",
+      "updated_at": "2026-11-11T06:09:38Z",
+      "rank": 14
+    },
+    {
+      "name": "QiYueran-source/waymark",
+      "url": "https://github.com/QiYueran-source/waymark",
+      "description": "Waymark is a local-first, Git-friendly work tracker that keeps project work items in Markdown files, with support for hierarchies, dependencies, and customizable fields.",
+      "full_description": "Waymark is a local-first, Git-friendly work tracker that keeps project work items in Markdown files, with support for hierarchies, dependencies, and customizable fields.",
+      "language": "Rust",
+      "stars": 107,
+      "stars_gained": 0,
+      "forks": 75,
+      "topics": [
+        "git",
+        "issue-tracker",
+        "local-first",
+        "markdown",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "rust"
+      ],
+      "created_at": "2026-11-04T01:59:27Z",
+      "updated_at": "2026-11-11T04:17:31Z",
       "rank": 15
+    },
+    {
+      "name": "SparkofSpike/Brain4Agent",
+      "url": "https://github.com/SparkofSpike/Brain4Agent",
+      "description": "Committed to building the world’s most cutting-edge, CJK-first memory module for all mainstream agents. Any issues and PRs are welcome.",
+      "full_description": "Committed to building the world’s most cutting-edge, CJK-first memory module for all mainstream agents. Any issues and PRs are welcome.",
+      "language": "Python",
+      "stars": 102,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "agent-memory",
+        "agent-skills",
+        "agent-tools",
+        "bm25",
+        "chinese",
+        "cjk",
+        "japanese",
+        "korean",
+        "local-first",
+        "long-term-memory",
+        "mcp",
+        "memory",
+        "no-llm",
+        "python",
+        "retrieval",
+        "sqlite"
+      ],
+      "created_at": "2026-11-08T01:38:31Z",
+      "updated_at": "2026-11-11T06:51:30Z",
+      "rank": 16
+    },
+    {
+      "name": "joeseesun/xnews",
+      "url": "https://github.com/joeseesun/xnews",
+      "description": "X News — overseas founder posts & AI videos, rewritten in Qiaomu Chinese",
+      "full_description": "X News — overseas founder posts & AI videos, rewritten in Qiaomu Chinese",
+      "language": "HTML",
+      "stars": 98,
+      "stars_gained": 0,
+      "forks": 11,
+      "topics": [
+        "ai",
+        "cloudflare-workers",
+        "news",
+        "rss"
+      ],
+      "created_at": "2026-11-05T16:42:40Z",
+      "updated_at": "2026-11-11T06:46:22Z",
+      "rank": 17
     },
     {
       "name": "RapidSailorFreeze/studsmith",
@@ -404,7 +463,29 @@
       ],
       "created_at": "2026-11-08T13:11:10Z",
       "updated_at": "2026-11-08T19:51:28Z",
-      "rank": 16
+      "rank": 18
+    },
+    {
+      "name": "tommy0103/blackhole",
+      "url": "https://github.com/tommy0103/blackhole",
+      "description": "A blackhole for your Claude Code. ",
+      "full_description": "A blackhole for your Claude Code. ",
+      "language": "Shell",
+      "stars": 93,
+      "stars_gained": 0,
+      "forks": 12,
+      "topics": [
+        "agent",
+        "claude-code",
+        "colima",
+        "container-isolation",
+        "macos",
+        "sandbox",
+        "virtio-fs"
+      ],
+      "created_at": "2026-11-08T20:41:33Z",
+      "updated_at": "2026-11-11T06:42:21Z",
+      "rank": 19
     },
     {
       "name": "HimanshuMohanty-Git24/gitaviswa",
@@ -412,9 +493,9 @@
       "description": "GitaViśva (गीताविश्व): the Bhagavad Gita as a living knowledge graph. Explore all 700 verses in 3D, read 20 classical commentaries, listen to recitations, ask a GraphRAG companion with your own free API key, and keep a private journal. Works offline.",
       "full_description": "GitaViśva (गीताविश्व): the Bhagavad Gita as a living knowledge graph. Explore all 700 verses in 3D, read 20 classical commentaries, listen to recitations, ask a GraphRAG companion with your own free API key, and keep a private journal. Works offline.",
       "language": "Cypher",
-      "stars": 85,
+      "stars": 93,
       "stars_gained": 0,
-      "forks": 36,
+      "forks": 40,
       "topics": [
         "bhagavad-gita",
         "byok",
@@ -428,8 +509,60 @@
         "threejs"
       ],
       "created_at": "2026-11-04T05:20:11Z",
-      "updated_at": "2026-11-10T05:53:06Z",
-      "rank": 17
+      "updated_at": "2026-11-11T04:11:37Z",
+      "rank": 20
+    },
+    {
+      "name": "NamtaoProductions/0rwx.com",
+      "url": "https://github.com/NamtaoProductions/0rwx.com",
+      "description": "",
+      "full_description": "",
+      "language": "HTML",
+      "stars": 93,
+      "stars_gained": 0,
+      "forks": 10,
+      "topics": [
+        "ai",
+        "brainmade",
+        "framework",
+        "thinking"
+      ],
+      "created_at": "2026-11-07T09:12:11Z",
+      "updated_at": "2026-11-11T05:40:53Z",
+      "rank": 21
+    },
+    {
+      "name": "pktq/lasik",
+      "url": "https://github.com/pktq/lasik",
+      "description": "BLA blinds your agent. LASIK gives it its sight back. Static de-blinding CLI + MCP server that undoes BLA (Blind LLM Agents) hardening so coding agents and REA can read the real code again. Never executes the target.",
+      "full_description": "BLA blinds your agent. LASIK gives it its sight back. Static de-blinding CLI + MCP server that undoes BLA (Blind LLM Agents) hardening so coding agents and REA can read the real code again. Never executes the target.",
+      "language": "TypeScript",
+      "stars": 90,
+      "stars_gained": 0,
+      "forks": 9,
+      "topics": [
+        "ai-agents",
+        "anti-bla",
+        "bla",
+        "claude-code",
+        "deobfuscation",
+        "deobfuscator",
+        "electron",
+        "javascript",
+        "lasik",
+        "llm-security",
+        "malware-analysis",
+        "mcp",
+        "mcp-server",
+        "prompt-injection",
+        "rea",
+        "reverse-engineering",
+        "static-analysis",
+        "webassembly"
+      ],
+      "created_at": "2026-11-09T16:35:56Z",
+      "updated_at": "2026-11-11T06:27:45Z",
+      "rank": 22
     },
     {
       "name": "ensignalp/kota",
@@ -437,7 +570,7 @@
       "description": "AI kullanım limitleri GNOME üst panelinde — Claude, Codex, Gemini, Copilot, API bakiyeleri · AI usage limits in the GNOME top bar",
       "full_description": "AI kullanım limitleri GNOME üst panelinde — Claude, Codex, Gemini, Copilot, API bakiyeleri · AI usage limits in the GNOME top bar",
       "language": "Rust",
-      "stars": 82,
+      "stars": 83,
       "stars_gained": 0,
       "forks": 2,
       "topics": [
@@ -451,27 +584,27 @@
         "usage-limits"
       ],
       "created_at": "2026-11-07T20:42:04Z",
-      "updated_at": "2026-11-10T04:53:17Z",
-      "rank": 18
+      "updated_at": "2026-11-10T10:58:58Z",
+      "rank": 23
     },
     {
-      "name": "NamtaoProductions/0rwx.com",
-      "url": "https://github.com/NamtaoProductions/0rwx.com",
-      "description": "",
-      "full_description": "",
-      "language": "HTML",
-      "stars": 76,
+      "name": "professorsolderin/project-lighthouse",
+      "url": "https://github.com/professorsolderin/project-lighthouse",
+      "description": "Project Lighthouse — shining AI on the pages history never read: transcriptions, deep reads and findings from the notebooks of Gauss, Riemann, Euler and more",
+      "full_description": "Project Lighthouse — shining AI on the pages history never read: transcriptions, deep reads and findings from the notebooks of Gauss, Riemann, Euler and more",
+      "language": "Python",
+      "stars": 79,
       "stars_gained": 0,
-      "forks": 10,
+      "forks": 5,
       "topics": [
         "ai",
-        "brainmade",
-        "framework",
-        "thinking"
+        "history-of-science",
+        "manuscripts",
+        "mathematics"
       ],
-      "created_at": "2026-11-07T09:12:11Z",
-      "updated_at": "2026-11-10T03:31:29Z",
-      "rank": 19
+      "created_at": "2026-11-09T10:41:21Z",
+      "updated_at": "2026-11-11T03:46:17Z",
+      "rank": 24
     },
     {
       "name": "munitkala/selfsemester",
@@ -479,7 +612,7 @@
       "description": "Windows app that turns any subject into a full, scheduled, graded course, built and marked by your own Claude Code",
       "full_description": "Windows app that turns any subject into a full, scheduled, graded course, built and marked by your own Claude Code",
       "language": "Rust",
-      "stars": 71,
+      "stars": 77,
       "stars_gained": 0,
       "forks": 8,
       "topics": [
@@ -505,83 +638,8 @@
         "windows"
       ],
       "created_at": "2026-11-04T20:50:56Z",
-      "updated_at": "2026-11-10T05:05:43Z",
-      "rank": 20
-    },
-    {
-      "name": "liujiaqi2024/Free-ClaudeOpus-5.5",
-      "url": "https://github.com/liujiaqi2024/Free-ClaudeOpus-5.5",
-      "description": "",
-      "full_description": "",
-      "language": "",
-      "stars": 71,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai-assistants",
-        "ai-model",
-        "anthropic",
-        "anthropic-api",
-        "anthropic-claude",
-        "chatbot",
-        "claude-5-opus",
-        "claude-api",
-        "claude-cli",
-        "claude-code",
-        "claude-desktop",
-        "claude-opus",
-        "claude-opus-5-5",
-        "claude-ultra",
-        "coding-assistant",
-        "generative-ai",
-        "llm",
-        "machine-learning",
-        "prompt-engineering"
-      ],
-      "created_at": "2026-11-09T20:19:19Z",
-      "updated_at": "2026-11-09T21:08:17Z",
-      "rank": 21
-    },
-    {
-      "name": "bookleme/bookleme",
-      "url": "https://github.com/bookleme/bookleme",
-      "description": "读了么（BookLeme）· 把一本书编译成 Agent Skill —— 双引擎 + 可插拔体裁插件 + 逐字忠实度回验",
-      "full_description": "读了么（BookLeme）· 把一本书编译成 Agent Skill —— 双引擎 + 可插拔体裁插件 + 逐字忠实度回验",
-      "language": "Python",
-      "stars": 71,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "agent-skills",
-        "book-to-skill",
-        "document-processing",
-        "knowledge-management",
-        "llm",
-        "prompt-engineering"
-      ],
-      "created_at": "2026-11-09T03:29:27Z",
-      "updated_at": "2026-11-10T07:29:24Z",
-      "rank": 22
-    },
-    {
-      "name": "cacheMon/PrefixSim",
-      "url": "https://github.com/cacheMon/PrefixSim",
-      "description": "A simulator for LLM Inference prefix cache",
-      "full_description": "A simulator for LLM Inference prefix cache",
-      "language": "C++",
-      "stars": 68,
-      "stars_gained": 0,
-      "forks": 9,
-      "topics": [
-        "cache",
-        "llm",
-        "llm-inference",
-        "llm-serving",
-        "prefix-cache"
-      ],
-      "created_at": "2026-11-04T21:22:34Z",
-      "updated_at": "2026-11-10T05:10:28Z",
-      "rank": 23
+      "updated_at": "2026-11-11T05:34:38Z",
+      "rank": 25
     },
     {
       "name": "wanshuiyin/SuperARIS",
@@ -589,9 +647,9 @@
       "description": "SuperARIS — Your personal research agent with ARIS (Auto Research In Sleep), powered by a team of agents.",
       "full_description": "SuperARIS — Your personal research agent with ARIS (Auto Research In Sleep), powered by a team of agents.",
       "language": "Python",
-      "stars": 65,
+      "stars": 77,
       "stars_gained": 0,
-      "forks": 5,
+      "forks": 7,
       "topics": [
         "agent-orchestration",
         "ai-research",
@@ -608,27 +666,28 @@
         "superagent"
       ],
       "created_at": "2026-11-08T05:12:40Z",
-      "updated_at": "2026-11-10T06:39:42Z",
-      "rank": 24
+      "updated_at": "2026-11-11T05:49:18Z",
+      "rank": 26
     },
     {
-      "name": "professorsolderin/project-lighthouse",
-      "url": "https://github.com/professorsolderin/project-lighthouse",
-      "description": "Project Lighthouse — shining AI on the pages history never read: transcriptions, deep reads and findings from the notebooks of Gauss, Riemann, Euler and more",
-      "full_description": "Project Lighthouse — shining AI on the pages history never read: transcriptions, deep reads and findings from the notebooks of Gauss, Riemann, Euler and more",
-      "language": "Python",
-      "stars": 64,
+      "name": "cacheMon/PrefixSim",
+      "url": "https://github.com/cacheMon/PrefixSim",
+      "description": "A simulator for LLM Inference prefix cache",
+      "full_description": "A simulator for LLM Inference prefix cache",
+      "language": "C++",
+      "stars": 73,
       "stars_gained": 0,
-      "forks": 4,
+      "forks": 9,
       "topics": [
-        "ai",
-        "history-of-science",
-        "manuscripts",
-        "mathematics"
+        "cache",
+        "llm",
+        "llm-inference",
+        "llm-serving",
+        "prefix-cache"
       ],
-      "created_at": "2026-11-09T10:41:21Z",
-      "updated_at": "2026-11-10T07:17:18Z",
-      "rank": 25
+      "created_at": "2026-11-04T21:22:34Z",
+      "updated_at": "2026-11-11T05:23:49Z",
+      "rank": 27
     },
     {
       "name": "RiventronLucky53535/crypto-rpocket-accumulation-scanner",
@@ -654,7 +713,7 @@
       ],
       "created_at": "2026-11-05T11:54:26Z",
       "updated_at": "2026-11-09T22:48:38Z",
-      "rank": 26
+      "rank": 28
     },
     {
       "name": "YTJanmind/jobbot-rpocket",
@@ -683,7 +742,7 @@
       ],
       "created_at": "2026-11-05T11:56:54Z",
       "updated_at": "2026-11-09T22:48:53Z",
-      "rank": 27
+      "rank": 29
     },
     {
       "name": "Zenithopal/LooseEnds-resp",
@@ -715,70 +774,6 @@
       ],
       "created_at": "2026-11-05T11:57:06Z",
       "updated_at": "2026-11-09T22:48:54Z",
-      "rank": 28
-    },
-    {
-      "name": "DespiteVoltcloud/InterviewCopilot-rpocket-team",
-      "url": "https://github.com/DespiteVoltcloud/InterviewCopilot-rpocket-team",
-      "description": "EdTech application designed to bridge the gap between learning and landing your dream job",
-      "full_description": "EdTech application designed to bridge the gap between learning and landing your dream job",
-      "language": "HTML",
-      "stars": 57,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "agentic-ai",
-        "ai",
-        "ai-agents",
-        "ai-tools",
-        "api",
-        "assistant",
-        "cheat-engine-desktop",
-        "cheat-engine-forza-horizon-6",
-        "cheat-engine-tool",
-        "cheat-engine-windows",
-        "cheat2026",
-        "copilot",
-        "interview",
-        "parakeet"
-      ],
-      "created_at": "2026-11-05T11:56:46Z",
-      "updated_at": "2026-11-09T22:48:52Z",
-      "rank": 29
-    },
-    {
-      "name": "quyetcao/ai-manus",
-      "url": "https://github.com/quyetcao/ai-manus",
-      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "full_description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "language": "Python",
-      "stars": 56,
-      "stars_gained": 0,
-      "forks": 46,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-sdk",
-        "anthropic",
-        "chatbot",
-        "function-calling",
-        "gemeni",
-        "generative-ai",
-        "llm",
-        "multimodal",
-        "openai",
-        "react",
-        "solidjs",
-        "streaming",
-        "svelte",
-        "tanstack",
-        "tool-calling",
-        "typescript",
-        "typescript-sdk",
-        "vue"
-      ],
-      "created_at": "2026-11-06T18:16:53Z",
-      "updated_at": "2026-11-10T05:52:28Z",
       "rank": 30
     }
   ]
