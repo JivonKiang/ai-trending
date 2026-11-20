@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T07:44:15.087848+00:00",
+  "updated": "2026-11-20T07:36:13.936804+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
       "full_description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
       "language": "Dart",
-      "stars": 27554,
+      "stars": 28510,
       "stars_gained": 0,
-      "forks": 1321,
+      "forks": 1362,
       "topics": [
         "ai-agent",
         "android",
@@ -27,7 +27,7 @@
         "llm"
       ],
       "created_at": "2026-10-25T08:09:52Z",
-      "updated_at": "2026-11-19T07:44:01Z",
+      "updated_at": "2026-11-20T07:35:54Z",
       "rank": 1
     },
     {
@@ -36,9 +36,9 @@
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "full_description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "language": "Kotlin",
-      "stars": 9120,
+      "stars": 9230,
       "stars_gained": 0,
-      "forks": 2058,
+      "forks": 2079,
       "topics": [
         "accessibility",
         "ai-agent",
@@ -50,7 +50,7 @@
         "mobile-agent"
       ],
       "created_at": "2026-10-29T14:34:07Z",
-      "updated_at": "2026-11-19T07:37:22Z",
+      "updated_at": "2026-11-20T07:31:48Z",
       "rank": 2
     },
     {
@@ -59,9 +59,9 @@
       "description": "🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server & CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors & Android DEX against AI reverse-engineering agents (REA).",
       "full_description": "🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server & CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors & Android DEX against AI reverse-engineering agents (REA).",
       "language": "TypeScript",
-      "stars": 6158,
+      "stars": 6238,
       "stars_gained": 0,
-      "forks": 770,
+      "forks": 778,
       "topics": [
         "adversarial-ai",
         "ai-security",
@@ -84,34 +84,8 @@
         "webassembly"
       ],
       "created_at": "2026-10-25T05:25:45Z",
-      "updated_at": "2026-11-19T07:38:36Z",
+      "updated_at": "2026-11-20T07:33:01Z",
       "rank": 3
-    },
-    {
-      "name": "KKKKhazix/agent-autoloop",
-      "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "full_description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "language": "TypeScript",
-      "stars": 5965,
-      "stars_gained": 0,
-      "forks": 1110,
-      "topics": [
-        "ai-agents",
-        "automation",
-        "claude-code",
-        "cli",
-        "codex",
-        "event-driven",
-        "mcp",
-        "nodejs",
-        "self-hosted",
-        "typescript",
-        "workflow"
-      ],
-      "created_at": "2026-11-03T08:02:11Z",
-      "updated_at": "2026-11-19T07:27:52Z",
-      "rank": 4
     },
     {
       "name": "vercel-labs/ui",
@@ -119,9 +93,9 @@
       "description": "A library of behaviors for agents to build the next generation of user interfaces.",
       "full_description": "A library of behaviors for agents to build the next generation of user interfaces.",
       "language": "TypeScript",
-      "stars": 5957,
+      "stars": 6183,
       "stars_gained": 0,
-      "forks": 202,
+      "forks": 214,
       "topics": [
         "accessibility",
         "agent",
@@ -141,8 +115,104 @@
         "webmcp"
       ],
       "created_at": "2026-10-26T17:39:27Z",
-      "updated_at": "2026-11-19T07:40:52Z",
+      "updated_at": "2026-11-20T07:35:43Z",
+      "rank": 4
+    },
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "full_description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "language": "TypeScript",
+      "stars": 6073,
+      "stars_gained": 0,
+      "forks": 1132,
+      "topics": [
+        "ai-agents",
+        "automation",
+        "claude-code",
+        "cli",
+        "codex",
+        "event-driven",
+        "mcp",
+        "nodejs",
+        "self-hosted",
+        "typescript",
+        "workflow"
+      ],
+      "created_at": "2026-11-03T08:02:11Z",
+      "updated_at": "2026-11-20T07:31:51Z",
       "rank": 5
+    },
+    {
+      "name": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "full_description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "language": "Rust",
+      "stars": 5635,
+      "stars_gained": 0,
+      "forks": 452,
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "cli",
+        "code-migration",
+        "codex",
+        "ffi",
+        "golang",
+        "java",
+        "javascript",
+        "mcp",
+        "migration",
+        "napi",
+        "performance",
+        "porting",
+        "pyo3",
+        "python",
+        "rewrite",
+        "ruby",
+        "rust",
+        "typescript"
+      ],
+      "created_at": "2026-11-16T12:10:36Z",
+      "updated_at": "2026-11-20T07:35:09Z",
+      "rank": 6
+    },
+    {
+      "name": "mdiri-ai/SoduWork",
+      "url": "https://github.com/mdiri-ai/SoduWork",
+      "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
+      "full_description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
+      "language": "JavaScript",
+      "stars": 4754,
+      "stars_gained": 0,
+      "forks": 396,
+      "topics": [
+        "agent-harness",
+        "agent-orchestration",
+        "agent-workflows",
+        "ai-agents",
+        "ai-workflows",
+        "anti-slop",
+        "claude-code",
+        "codex",
+        "deepseek",
+        "electron",
+        "fastapi",
+        "harness",
+        "human-in-the-loop",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "opencode",
+        "plugin-system",
+        "self-hosted",
+        "team-collaboration"
+      ],
+      "created_at": "2026-10-29T02:43:14Z",
+      "updated_at": "2026-11-20T07:36:12Z",
+      "rank": 7
     },
     {
       "name": "modelflare-ai/AnyModelBot",
@@ -150,7 +220,7 @@
       "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
       "full_description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
       "language": "Python",
-      "stars": 4689,
+      "stars": 4738,
       "stars_gained": 0,
       "forks": 110,
       "topics": [
@@ -176,101 +246,8 @@
         "wechat"
       ],
       "created_at": "2026-10-27T08:51:18Z",
-      "updated_at": "2026-11-19T07:38:56Z",
-      "rank": 6
-    },
-    {
-      "name": "erkamyaman/rust-anything",
-      "url": "https://github.com/erkamyaman/rust-anything",
-      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-      "full_description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-      "language": "Rust",
-      "stars": 3862,
-      "stars_gained": 0,
-      "forks": 321,
-      "topics": [
-        "agent-skills",
-        "claude-code",
-        "cli",
-        "code-migration",
-        "codex",
-        "ffi",
-        "golang",
-        "java",
-        "javascript",
-        "mcp",
-        "migration",
-        "napi",
-        "performance",
-        "porting",
-        "pyo3",
-        "python",
-        "rewrite",
-        "ruby",
-        "rust",
-        "typescript"
-      ],
-      "created_at": "2026-11-16T12:10:36Z",
-      "updated_at": "2026-11-19T07:43:53Z",
-      "rank": 7
-    },
-    {
-      "name": "mdiri-ai/SoduWork",
-      "url": "https://github.com/mdiri-ai/SoduWork",
-      "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
-      "full_description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
-      "language": "JavaScript",
-      "stars": 3149,
-      "stars_gained": 0,
-      "forks": 368,
-      "topics": [
-        "agent-harness",
-        "agent-orchestration",
-        "agent-workflows",
-        "ai-agents",
-        "ai-workflows",
-        "anti-slop",
-        "claude-code",
-        "codex",
-        "deepseek",
-        "electron",
-        "fastapi",
-        "harness",
-        "human-in-the-loop",
-        "llm",
-        "mcp",
-        "multi-agent",
-        "opencode",
-        "plugin-system",
-        "self-hosted",
-        "team-collaboration"
-      ],
-      "created_at": "2026-10-29T02:43:14Z",
-      "updated_at": "2026-11-19T07:43:51Z",
+      "updated_at": "2026-11-20T07:07:32Z",
       "rank": 8
-    },
-    {
-      "name": "DIYgod/pinky",
-      "url": "https://github.com/DIYgod/pinky",
-      "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
-      "full_description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
-      "language": "Go",
-      "stars": 2491,
-      "stars_gained": 0,
-      "forks": 260,
-      "topics": [
-        "ai-agent",
-        "android",
-        "claude-code",
-        "ios",
-        "iphone",
-        "mcp",
-        "mcp-server",
-        "phone-automation"
-      ],
-      "created_at": "2026-11-06T16:53:14Z",
-      "updated_at": "2026-11-19T06:42:25Z",
-      "rank": 9
     },
     {
       "name": "FrigadeHQ/yogurt",
@@ -278,9 +255,9 @@
       "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
       "full_description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
       "language": "TypeScript",
-      "stars": 2472,
+      "stars": 2658,
       "stars_gained": 0,
-      "forks": 170,
+      "forks": 204,
       "topics": [
         "ai-meeting-assistant",
         "ai-notetaker",
@@ -304,7 +281,30 @@
         "windows"
       ],
       "created_at": "2026-11-10T20:01:01Z",
-      "updated_at": "2026-11-19T07:41:34Z",
+      "updated_at": "2026-11-20T07:34:12Z",
+      "rank": 9
+    },
+    {
+      "name": "DIYgod/pinky",
+      "url": "https://github.com/DIYgod/pinky",
+      "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
+      "full_description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
+      "language": "Go",
+      "stars": 2561,
+      "stars_gained": 0,
+      "forks": 267,
+      "topics": [
+        "ai-agent",
+        "android",
+        "claude-code",
+        "ios",
+        "iphone",
+        "mcp",
+        "mcp-server",
+        "phone-automation"
+      ],
+      "created_at": "2026-11-06T16:53:14Z",
+      "updated_at": "2026-11-20T07:29:04Z",
       "rank": 10
     },
     {
@@ -313,9 +313,9 @@
       "description": "The first fruit of the Nüwa tree — an autonomous AI pentest legion (634-team champion, 8h unattended, 1B tokens beat 4.5B). Not just a tool: evolvable by design. Grow your own fruit on the Nüwa Foundation (Create/Language/History).",
       "full_description": "The first fruit of the Nüwa tree — an autonomous AI pentest legion (634-team champion, 8h unattended, 1B tokens beat 4.5B). Not just a tool: evolvable by design. Grow your own fruit on the Nüwa Foundation (Create/Language/History).",
       "language": "Python",
-      "stars": 2471,
+      "stars": 2497,
       "stars_gained": 0,
-      "forks": 1208,
+      "forks": 1218,
       "topics": [
         "agentic-workflows",
         "ai-agents",
@@ -331,7 +331,7 @@
         "swarm-intelligence"
       ],
       "created_at": "2026-10-30T15:12:35Z",
-      "updated_at": "2026-11-19T07:35:14Z",
+      "updated_at": "2026-11-20T06:03:07Z",
       "rank": 11
     },
     {
@@ -340,9 +340,9 @@
       "description": "3D modeling in Python, built for LLMs.",
       "full_description": "3D modeling in Python, built for LLMs.",
       "language": "HTML",
-      "stars": 2160,
+      "stars": 2183,
       "stars_gained": 0,
-      "forks": 237,
+      "forks": 240,
       "topics": [
         "3d",
         "blender",
@@ -353,7 +353,7 @@
         "usd"
       ],
       "created_at": "2026-11-03T08:23:03Z",
-      "updated_at": "2026-11-19T07:01:55Z",
+      "updated_at": "2026-11-20T07:20:55Z",
       "rank": 12
     },
     {
@@ -362,9 +362,9 @@
       "description": "The world's law in git: any provision, any country, any date, and the law that wrote each word.",
       "full_description": "The world's law in git: any provision, any country, any date, and the law that wrote each word.",
       "language": "HTML",
-      "stars": 2105,
+      "stars": 2125,
       "stars_gained": 0,
-      "forks": 191,
+      "forks": 192,
       "topics": [
         "git",
         "law",
@@ -374,7 +374,7 @@
         "open-data"
       ],
       "created_at": "2026-10-28T13:34:16Z",
-      "updated_at": "2026-11-19T03:37:52Z",
+      "updated_at": "2026-11-20T07:02:48Z",
       "rank": 13
     },
     {
@@ -383,9 +383,9 @@
       "description": "Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
       "full_description": "Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
       "language": "Rust",
-      "stars": 1851,
+      "stars": 1870,
       "stars_gained": 0,
-      "forks": 120,
+      "forks": 122,
       "topics": [
         "ai-agents",
         "desktop",
@@ -405,7 +405,7 @@
         "windows"
       ],
       "created_at": "2026-10-24T21:00:26Z",
-      "updated_at": "2026-11-19T06:30:28Z",
+      "updated_at": "2026-11-20T07:28:22Z",
       "rank": 14
     },
     {
@@ -414,9 +414,9 @@
       "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
       "full_description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
       "language": "TypeScript",
-      "stars": 1731,
+      "stars": 1770,
       "stars_gained": 0,
-      "forks": 320,
+      "forks": 332,
       "topics": [
         "agentic-ai",
         "ai-agents",
@@ -440,8 +440,40 @@
         "team-chat"
       ],
       "created_at": "2026-11-09T00:50:28Z",
-      "updated_at": "2026-11-19T07:38:12Z",
+      "updated_at": "2026-11-20T07:18:52Z",
       "rank": 15
+    },
+    {
+      "name": "JosssphZhou/poki",
+      "url": "https://github.com/JosssphZhou/poki",
+      "description": "Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the screen, and taps, types and swipes in real apps with your own model account.",
+      "full_description": "Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the screen, and taps, types and swipes in real apps with your own model account.",
+      "language": "Swift",
+      "stars": 1678,
+      "stars_gained": 0,
+      "forks": 265,
+      "topics": [
+        "ai-agents",
+        "ai-assistant",
+        "automation",
+        "claude-code",
+        "computer-use",
+        "gui-agent",
+        "ios",
+        "ios-app",
+        "iphone",
+        "llm",
+        "mcp",
+        "mobile-agent",
+        "model-context-protocol",
+        "open-source",
+        "phone-agent",
+        "swift",
+        "voice-assistant"
+      ],
+      "created_at": "2026-11-05T15:04:31Z",
+      "updated_at": "2026-11-20T06:56:29Z",
+      "rank": 16
     },
     {
       "name": "RunanywhereAI/trnrt",
@@ -449,7 +481,7 @@
       "description": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
       "full_description": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
       "language": "Python",
-      "stars": 1634,
+      "stars": 1639,
       "stars_gained": 0,
       "forks": 24,
       "topics": [
@@ -465,29 +497,29 @@
         "trainium"
       ],
       "created_at": "2026-10-30T18:30:04Z",
-      "updated_at": "2026-11-19T07:21:13Z",
-      "rank": 16
+      "updated_at": "2026-11-20T02:25:38Z",
+      "rank": 17
     },
     {
-      "name": "JosssphZhou/poki",
-      "url": "https://github.com/JosssphZhou/poki",
-      "description": "Poki uses your iPhone like you do. An open-source agent that sees your screen and taps, types, and swipes across any app on your real device. Runs locally, plugs right into Claude Code and any MCP agent.",
-      "full_description": "Poki uses your iPhone like you do. An open-source agent that sees your screen and taps, types, and swipes across any app on your real device. Runs locally, plugs right into Claude Code and any MCP agent.",
-      "language": "Swift",
-      "stars": 1611,
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "full_description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "language": "Python",
+      "stars": 1277,
       "stars_gained": 0,
-      "forks": 259,
+      "forks": 114,
       "topics": [
-        "ai-agents",
-        "automation",
-        "ios",
-        "iphone",
-        "mcp",
-        "model-context-protocol"
+        "agent-skill",
+        "benchmarking",
+        "claude-code",
+        "inference",
+        "llm",
+        "speculative-decoding"
       ],
-      "created_at": "2026-11-05T15:04:31Z",
-      "updated_at": "2026-11-19T07:28:19Z",
-      "rank": 17
+      "created_at": "2026-11-16T18:40:04Z",
+      "updated_at": "2026-11-20T07:16:46Z",
+      "rank": 18
     },
     {
       "name": "wici-ai/inferssd",
@@ -495,9 +527,9 @@
       "description": "Run models larger than your RAM or VRAM by streaming MoE experts from SSD. Built on llama.cpp.",
       "full_description": "Run models larger than your RAM or VRAM by streaming MoE experts from SSD. Built on llama.cpp.",
       "language": "C++",
-      "stars": 1240,
+      "stars": 1262,
       "stars_gained": 0,
-      "forks": 109,
+      "forks": 112,
       "topics": [
         "cuda",
         "gguf",
@@ -517,8 +549,8 @@
         "windows"
       ],
       "created_at": "2026-10-22T10:40:45Z",
-      "updated_at": "2026-11-19T07:39:49Z",
-      "rank": 18
+      "updated_at": "2026-11-20T06:23:37Z",
+      "rank": 19
     },
     {
       "name": "emanuele-em/kanzo",
@@ -526,9 +558,9 @@
       "description": "Self-hosted, sharable kanban for humans and agents. One 4.7 MB binary, 5 MB of RAM, 10 to 60 tokens per agent reply, starts in 3 ms, zero setup.",
       "full_description": "Self-hosted, sharable kanban for humans and agents. One 4.7 MB binary, 5 MB of RAM, 10 to 60 tokens per agent reply, starts in 3 ms, zero setup.",
       "language": "Rust",
-      "stars": 1232,
+      "stars": 1247,
       "stars_gained": 0,
-      "forks": 105,
+      "forks": 109,
       "topics": [
         "ai-agents",
         "claude-code",
@@ -549,51 +581,8 @@
         "task-manager"
       ],
       "created_at": "2026-10-25T11:14:03Z",
-      "updated_at": "2026-11-19T05:30:42Z",
-      "rank": 19
-    },
-    {
-      "name": "sybil-solutions/inference-optimisation-skill",
-      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-      "full_description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-      "language": "Python",
-      "stars": 1163,
-      "stars_gained": 0,
-      "forks": 108,
-      "topics": [
-        "agent-skill",
-        "benchmarking",
-        "claude-code",
-        "inference",
-        "llm",
-        "speculative-decoding"
-      ],
-      "created_at": "2026-11-16T18:40:04Z",
-      "updated_at": "2026-11-19T07:41:06Z",
+      "updated_at": "2026-11-20T06:55:18Z",
       "rank": 20
-    },
-    {
-      "name": "jackwener/DSH-Android",
-      "url": "https://github.com/jackwener/DSH-Android",
-      "description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
-      "full_description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
-      "language": "Kotlin",
-      "stars": 1009,
-      "stars_gained": 0,
-      "forks": 114,
-      "topics": [
-        "ai-agent",
-        "android",
-        "deepseek",
-        "deepseek-harness",
-        "llm",
-        "phone-agent",
-        "shizuku"
-      ],
-      "created_at": "2026-10-27T19:26:12Z",
-      "updated_at": "2026-11-19T06:50:00Z",
-      "rank": 21
     },
     {
       "name": "hyperionaidev/smolmaxxing",
@@ -601,9 +590,9 @@
       "description": "maxxing the ability to run different LLMs on the smallest devices possible",
       "full_description": "maxxing the ability to run different LLMs on the smallest devices possible",
       "language": "C",
-      "stars": 1008,
+      "stars": 1034,
       "stars_gained": 0,
-      "forks": 52,
+      "forks": 54,
       "topics": [
         "edge-ai",
         "llama-cpp",
@@ -616,8 +605,59 @@
         "quantization-algorithms"
       ],
       "created_at": "2026-11-04T07:09:41Z",
-      "updated_at": "2026-11-19T07:24:32Z",
+      "updated_at": "2026-11-20T07:10:57Z",
+      "rank": 21
+    },
+    {
+      "name": "jackwener/DSH-Android",
+      "url": "https://github.com/jackwener/DSH-Android",
+      "description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
+      "full_description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
+      "language": "Kotlin",
+      "stars": 1019,
+      "stars_gained": 0,
+      "forks": 114,
+      "topics": [
+        "ai-agent",
+        "android",
+        "deepseek",
+        "deepseek-harness",
+        "llm",
+        "phone-agent",
+        "shizuku"
+      ],
+      "created_at": "2026-10-27T19:26:12Z",
+      "updated_at": "2026-11-20T06:23:58Z",
       "rank": 22
+    },
+    {
+      "name": "Dodaios/ste80-humanizer",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "full_description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "language": "Python",
+      "stars": 997,
+      "stars_gained": 0,
+      "forks": 69,
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "asd-ste100",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "cursor",
+        "humanize-ai-text",
+        "humanizer",
+        "karpathy",
+        "llm",
+        "plain-language",
+        "simplified-technical-english",
+        "writing"
+      ],
+      "created_at": "2026-11-09T17:18:59Z",
+      "updated_at": "2026-11-20T06:42:19Z",
+      "rank": 23
     },
     {
       "name": "yzlin286-wq/Deepscient",
@@ -642,7 +682,7 @@
       ],
       "created_at": "2026-10-21T07:44:10Z",
       "updated_at": "2026-11-19T06:54:20Z",
-      "rank": 23
+      "rank": 24
     },
     {
       "name": "simpsoka/zigzag",
@@ -650,9 +690,9 @@
       "description": "Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery, edit stitches visually, and create designs with AI agents via MCP.",
       "full_description": "Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery, edit stitches visually, and create designs with AI agents via MCP.",
       "language": "Rust",
-      "stars": 948,
+      "stars": 979,
       "stars_gained": 0,
-      "forks": 60,
+      "forks": 64,
       "topics": [
         "brother-skitch",
         "embroidery",
@@ -668,8 +708,8 @@
         "windows"
       ],
       "created_at": "2026-10-30T01:53:39Z",
-      "updated_at": "2026-11-19T07:24:01Z",
-      "rank": 24
+      "updated_at": "2026-11-20T07:29:04Z",
+      "rank": 25
     },
     {
       "name": "huaxialucaicaizi/ai-startup-skills",
@@ -677,7 +717,7 @@
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
       "full_description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
       "language": "Python",
-      "stars": 931,
+      "stars": 932,
       "stars_gained": 0,
       "forks": 66,
       "topics": [
@@ -696,37 +736,43 @@
         "startup"
       ],
       "created_at": "2026-10-22T10:23:29Z",
-      "updated_at": "2026-11-18T01:58:06Z",
-      "rank": 25
+      "updated_at": "2026-11-19T23:36:15Z",
+      "rank": 26
     },
     {
-      "name": "Dodaios/ste80-humanizer",
-      "url": "https://github.com/Dodaios/ste80-humanizer",
-      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-      "full_description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-      "language": "Python",
+      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "full_description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "language": "",
       "stars": 916,
       "stars_gained": 0,
-      "forks": 64,
+      "forks": 1,
       "topics": [
-        "agent-skills",
-        "ai-writing",
-        "asd-ste100",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "cursor",
-        "humanize-ai-text",
-        "humanizer",
-        "karpathy",
+        "ai-agents",
+        "ai-assistant",
+        "blender",
+        "blender-addon",
+        "blender-ai",
+        "blender-automation",
+        "blender-mcp",
+        "blender-plugin",
+        "blender-scripting",
+        "bpy",
+        "chatgpt",
+        "claude",
+        "gemini",
         "llm",
-        "plain-language",
-        "simplified-technical-english",
-        "writing"
+        "mcp",
+        "mcp-for-blender",
+        "mcp-server",
+        "model-context-protocol",
+        "ollama",
+        "opencode"
       ],
-      "created_at": "2026-11-09T17:18:59Z",
-      "updated_at": "2026-11-19T07:39:49Z",
-      "rank": 26
+      "created_at": "2026-11-19T14:43:10Z",
+      "updated_at": "2026-11-20T07:35:53Z",
+      "rank": 27
     },
     {
       "name": "looplj/reveric",
@@ -734,9 +780,9 @@
       "description": "Agent Native 一站式 AI 小说，短剧桌面创作工作台",
       "full_description": "Agent Native 一站式 AI 小说，短剧桌面创作工作台",
       "language": "Dart",
-      "stars": 900,
+      "stars": 915,
       "stars_gained": 0,
-      "forks": 218,
+      "forks": 222,
       "topics": [
         "agent",
         "infinite-canvas",
@@ -747,8 +793,8 @@
         "short-drama"
       ],
       "created_at": "2026-10-22T16:20:15Z",
-      "updated_at": "2026-11-19T01:07:01Z",
-      "rank": 27
+      "updated_at": "2026-11-20T06:55:50Z",
+      "rank": 28
     },
     {
       "name": "phone-harness/mcp",
@@ -756,7 +802,7 @@
       "description": "Connect AI agents to real iPhones and Androids",
       "full_description": "Connect AI agents to real iPhones and Androids",
       "language": "Python",
-      "stars": 822,
+      "stars": 828,
       "stars_gained": 0,
       "forks": 72,
       "topics": [
@@ -770,24 +816,7 @@
         "phone-automation"
       ],
       "created_at": "2026-10-23T06:27:40Z",
-      "updated_at": "2026-11-18T23:53:28Z",
-      "rank": 28
-    },
-    {
-      "name": "sleepy-zone/ai-ref-library-cn",
-      "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
-      "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
-      "full_description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
-      "language": "JavaScript",
-      "stars": 784,
-      "stars_gained": 0,
-      "forks": 184,
-      "topics": [
-        "ai",
-        "gpt"
-      ],
-      "created_at": "2026-10-29T15:28:16Z",
-      "updated_at": "2026-11-19T06:23:29Z",
+      "updated_at": "2026-11-20T03:43:28Z",
       "rank": 29
     },
     {
@@ -796,9 +825,9 @@
       "description": "鲸鲸 · 让 DeepSeek 用你的微信账号陪聊（Windows 桌面端 + WPF 启动器）。WeChat chat bot powered by DeepSeek/Qwen.",
       "full_description": "鲸鲸 · 让 DeepSeek 用你的微信账号陪聊（Windows 桌面端 + WPF 启动器）。WeChat chat bot powered by DeepSeek/Qwen.",
       "language": "JavaScript",
-      "stars": 762,
+      "stars": 797,
       "stars_gained": 0,
-      "forks": 45,
+      "forks": 47,
       "topics": [
         "chatbot",
         "deepseek",
@@ -811,7 +840,7 @@
         "wpf"
       ],
       "created_at": "2026-10-26T09:17:35Z",
-      "updated_at": "2026-11-19T07:02:57Z",
+      "updated_at": "2026-11-20T07:34:23Z",
       "rank": 30
     }
   ]
