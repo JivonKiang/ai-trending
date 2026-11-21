@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T07:36:12.903831+00:00",
+  "updated": "2026-11-21T07:31:44.026888+00:00",
   "period": "weekly",
   "label": "本周",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
       "full_description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
       "language": "Rust",
-      "stars": 5635,
+      "stars": 6868,
       "stars_gained": 0,
-      "forks": 452,
+      "forks": 544,
       "topics": [
         "agent-skills",
         "claude-code",
@@ -36,29 +36,8 @@
         "typescript"
       ],
       "created_at": "2026-11-16T12:10:36Z",
-      "updated_at": "2026-11-20T07:35:09Z",
+      "updated_at": "2026-11-21T07:31:40Z",
       "rank": 1
-    },
-    {
-      "name": "sybil-solutions/inference-optimisation-skill",
-      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-      "full_description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-      "language": "Python",
-      "stars": 1277,
-      "stars_gained": 0,
-      "forks": 114,
-      "topics": [
-        "agent-skill",
-        "benchmarking",
-        "claude-code",
-        "inference",
-        "llm",
-        "speculative-decoding"
-      ],
-      "created_at": "2026-11-16T18:40:04Z",
-      "updated_at": "2026-11-20T07:16:46Z",
-      "rank": 2
     },
     {
       "name": "bookwjitchieni1986/blender-ai-mcp-addon",
@@ -66,9 +45,9 @@
       "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
       "full_description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
       "language": "",
-      "stars": 916,
+      "stars": 1866,
       "stars_gained": 0,
-      "forks": 1,
+      "forks": 24,
       "topics": [
         "ai-agents",
         "ai-assistant",
@@ -92,8 +71,56 @@
         "opencode"
       ],
       "created_at": "2026-11-19T14:43:10Z",
-      "updated_at": "2026-11-20T07:35:53Z",
+      "updated_at": "2026-11-21T07:29:42Z",
+      "rank": 2
+    },
+    {
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "full_description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "language": "Python",
+      "stars": 1382,
+      "stars_gained": 0,
+      "forks": 126,
+      "topics": [
+        "agent-skill",
+        "benchmarking",
+        "claude-code",
+        "inference",
+        "llm",
+        "speculative-decoding"
+      ],
+      "created_at": "2026-11-16T18:40:04Z",
+      "updated_at": "2026-11-21T07:18:51Z",
       "rank": 3
+    },
+    {
+      "name": "mankidev/antialgorithm",
+      "url": "https://github.com/mankidev/antialgorithm",
+      "description": "Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI.",
+      "full_description": "Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI.",
+      "language": "Python",
+      "stars": 577,
+      "stars_gained": 0,
+      "forks": 34,
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "codex",
+        "creative-writing",
+        "creativity",
+        "design",
+        "llm",
+        "naming",
+        "svg",
+        "ui-design"
+      ],
+      "created_at": "2026-11-14T09:48:23Z",
+      "updated_at": "2026-11-21T06:27:12Z",
+      "rank": 4
     },
     {
       "name": "YellowLaborerMarket/Gemini-Config-Checker-",
@@ -125,7 +152,7 @@
       ],
       "created_at": "2026-11-15T16:48:18Z",
       "updated_at": "2026-11-19T09:37:41Z",
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "weightcashiercupola/Gemini-Config-Checker-",
@@ -157,103 +184,7 @@
       ],
       "created_at": "2026-11-15T16:47:11Z",
       "updated_at": "2026-11-19T09:39:50Z",
-      "rank": 5
-    },
-    {
-      "name": "WingDataVacuum/Gemini-Config-Checker-",
-      "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "full_description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "language": "Makefile",
-      "stars": 472,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai",
-        "ai-search",
-        "aichecker",
-        "chatgpt",
-        "cli",
-        "config-checker",
-        "gemeni",
-        "gemeni-checker",
-        "generative-ai",
-        "lim-seo",
-        "llm",
-        "mcp-server",
-        "nextjs",
-        "open-code",
-        "seo-checker",
-        "seo-tool",
-        "typescript"
-      ],
-      "created_at": "2026-11-15T16:47:17Z",
-      "updated_at": "2026-11-19T09:39:39Z",
       "rank": 6
-    },
-    {
-      "name": "TypeTyrantScheme/Gemini-Config-Checker-",
-      "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "full_description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "language": "Makefile",
-      "stars": 472,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai",
-        "ai-search",
-        "aichecker",
-        "chatgpt",
-        "cli",
-        "config-checker",
-        "gemeni",
-        "gemeni-checker",
-        "generative-ai",
-        "lim-seo",
-        "llm",
-        "mcp-server",
-        "nextjs",
-        "open-code",
-        "seo-checker",
-        "seo-tool",
-        "typescript"
-      ],
-      "created_at": "2026-11-15T16:46:04Z",
-      "updated_at": "2026-11-19T09:37:46Z",
-      "rank": 7
-    },
-    {
-      "name": "WindGatorRise37/Gemini-Config-Checker-",
-      "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "full_description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "language": "Makefile",
-      "stars": 472,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai",
-        "ai-search",
-        "aichecker",
-        "chatgpt",
-        "cli",
-        "config-checker",
-        "gemeni",
-        "gemeni-checker",
-        "generative-ai",
-        "lim-seo",
-        "llm",
-        "mcp-server",
-        "nextjs",
-        "open-code",
-        "seo-checker",
-        "seo-tool",
-        "typescript"
-      ],
-      "created_at": "2026-11-15T16:47:17Z",
-      "updated_at": "2026-11-19T09:39:42Z",
-      "rank": 8
     },
     {
       "name": "WinnerSpecialist/Gemini-Config-Checker-",
@@ -285,14 +216,46 @@
       ],
       "created_at": "2026-11-15T16:47:17Z",
       "updated_at": "2026-11-19T09:39:45Z",
-      "rank": 9
+      "rank": 7
     },
     {
-      "name": "Violetnyudress/Gemini-Config-Checker-",
-      "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
+      "name": "WingDataVacuum/Gemini-Config-Checker-",
+      "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
       "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "full_description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "language": "Go",
+      "language": "Makefile",
+      "stars": 472,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai",
+        "ai-search",
+        "aichecker",
+        "chatgpt",
+        "cli",
+        "config-checker",
+        "gemeni",
+        "gemeni-checker",
+        "generative-ai",
+        "lim-seo",
+        "llm",
+        "mcp-server",
+        "nextjs",
+        "open-code",
+        "seo-checker",
+        "seo-tool",
+        "typescript"
+      ],
+      "created_at": "2026-11-15T16:47:17Z",
+      "updated_at": "2026-11-19T09:39:39Z",
+      "rank": 8
+    },
+    {
+      "name": "TypeTyrantScheme/Gemini-Config-Checker-",
+      "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "full_description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "language": "Makefile",
       "stars": 472,
       "stars_gained": 0,
       "forks": 0,
@@ -316,8 +279,8 @@
         "typescript"
       ],
       "created_at": "2026-11-15T16:46:04Z",
-      "updated_at": "2026-11-19T09:37:47Z",
-      "rank": 10
+      "updated_at": "2026-11-19T09:37:46Z",
+      "rank": 9
     },
     {
       "name": "WireProvostPucker/Gemini-Config-Checker-",
@@ -349,14 +312,14 @@
       ],
       "created_at": "2026-11-15T16:48:15Z",
       "updated_at": "2026-11-19T09:39:39Z",
-      "rank": 11
+      "rank": 10
     },
     {
-      "name": "TrooperFilter/Gemini-Config-Checker-",
-      "url": "https://github.com/TrooperFilter/Gemini-Config-Checker-",
+      "name": "Violetnyudress/Gemini-Config-Checker-",
+      "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
       "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "full_description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "language": "Makefile",
+      "language": "Go",
       "stars": 472,
       "stars_gained": 0,
       "forks": 0,
@@ -380,8 +343,8 @@
         "typescript"
       ],
       "created_at": "2026-11-15T16:46:04Z",
-      "updated_at": "2026-11-19T09:39:55Z",
-      "rank": 12
+      "updated_at": "2026-11-19T09:37:47Z",
+      "rank": 11
     },
     {
       "name": "Visionbeyondtrack/Gemini-Config-Checker-",
@@ -413,43 +376,11 @@
       ],
       "created_at": "2026-11-15T16:46:05Z",
       "updated_at": "2026-11-19T09:37:46Z",
-      "rank": 13
+      "rank": 12
     },
     {
-      "name": "TurtleReside/Gemini-Config-Checker-",
-      "url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "full_description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "language": "Go",
-      "stars": 472,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai",
-        "ai-search",
-        "aichecker",
-        "chatgpt",
-        "cli",
-        "config-checker",
-        "gemeni",
-        "gemeni-checker",
-        "generative-ai",
-        "lim-seo",
-        "llm",
-        "mcp-server",
-        "nextjs",
-        "open-code",
-        "seo-checker",
-        "seo-tool",
-        "typescript"
-      ],
-      "created_at": "2026-11-15T16:46:04Z",
-      "updated_at": "2026-11-19T09:37:47Z",
-      "rank": 14
-    },
-    {
-      "name": "WharfBoulderColander/Gemini-Config-Checker-",
-      "url": "https://github.com/WharfBoulderColander/Gemini-Config-Checker-",
+      "name": "WindGatorRise37/Gemini-Config-Checker-",
+      "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
       "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "full_description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "language": "Makefile",
@@ -475,9 +406,9 @@
         "seo-tool",
         "typescript"
       ],
-      "created_at": "2026-11-15T16:47:12Z",
-      "updated_at": "2026-11-19T09:39:51Z",
-      "rank": 15
+      "created_at": "2026-11-15T16:47:17Z",
+      "updated_at": "2026-11-19T09:39:42Z",
+      "rank": 13
     },
     {
       "name": "VortexHostFeel/Gemini-Config-Checker-",
@@ -509,6 +440,70 @@
       ],
       "created_at": "2026-11-15T16:46:07Z",
       "updated_at": "2026-11-19T09:39:56Z",
+      "rank": 14
+    },
+    {
+      "name": "TurtleReside/Gemini-Config-Checker-",
+      "url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "full_description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "language": "Go",
+      "stars": 472,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai",
+        "ai-search",
+        "aichecker",
+        "chatgpt",
+        "cli",
+        "config-checker",
+        "gemeni",
+        "gemeni-checker",
+        "generative-ai",
+        "lim-seo",
+        "llm",
+        "mcp-server",
+        "nextjs",
+        "open-code",
+        "seo-checker",
+        "seo-tool",
+        "typescript"
+      ],
+      "created_at": "2026-11-15T16:46:04Z",
+      "updated_at": "2026-11-19T09:37:47Z",
+      "rank": 15
+    },
+    {
+      "name": "weldbladesmithwharf/Gemini-Config-Checker-",
+      "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "full_description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "language": "Makefile",
+      "stars": 472,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai",
+        "ai-search",
+        "aichecker",
+        "chatgpt",
+        "cli",
+        "config-checker",
+        "gemeni",
+        "gemeni-checker",
+        "generative-ai",
+        "lim-seo",
+        "llm",
+        "mcp-server",
+        "nextjs",
+        "open-code",
+        "seo-checker",
+        "seo-tool",
+        "typescript"
+      ],
+      "created_at": "2026-11-15T16:47:11Z",
+      "updated_at": "2026-11-19T09:39:49Z",
       "rank": 16
     },
     {
@@ -544,6 +539,70 @@
       "rank": 17
     },
     {
+      "name": "TrooperFilter/Gemini-Config-Checker-",
+      "url": "https://github.com/TrooperFilter/Gemini-Config-Checker-",
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "full_description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "language": "Makefile",
+      "stars": 472,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai",
+        "ai-search",
+        "aichecker",
+        "chatgpt",
+        "cli",
+        "config-checker",
+        "gemeni",
+        "gemeni-checker",
+        "generative-ai",
+        "lim-seo",
+        "llm",
+        "mcp-server",
+        "nextjs",
+        "open-code",
+        "seo-checker",
+        "seo-tool",
+        "typescript"
+      ],
+      "created_at": "2026-11-15T16:46:04Z",
+      "updated_at": "2026-11-19T09:39:55Z",
+      "rank": 18
+    },
+    {
+      "name": "WharfBoulderColander/Gemini-Config-Checker-",
+      "url": "https://github.com/WharfBoulderColander/Gemini-Config-Checker-",
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "full_description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "language": "Makefile",
+      "stars": 472,
+      "stars_gained": 0,
+      "forks": 0,
+      "topics": [
+        "ai",
+        "ai-search",
+        "aichecker",
+        "chatgpt",
+        "cli",
+        "config-checker",
+        "gemeni",
+        "gemeni-checker",
+        "generative-ai",
+        "lim-seo",
+        "llm",
+        "mcp-server",
+        "nextjs",
+        "open-code",
+        "seo-checker",
+        "seo-tool",
+        "typescript"
+      ],
+      "created_at": "2026-11-15T16:47:12Z",
+      "updated_at": "2026-11-19T09:39:51Z",
+      "rank": 19
+    },
+    {
       "name": "VisionWormStudio/Gemini-Config-Checker-",
       "url": "https://github.com/VisionWormStudio/Gemini-Config-Checker-",
       "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
@@ -573,7 +632,7 @@
       ],
       "created_at": "2026-11-15T16:46:04Z",
       "updated_at": "2026-11-19T09:39:57Z",
-      "rank": 18
+      "rank": 20
     },
     {
       "name": "WestLocksmithSpout/Gemini-Config-Checker-",
@@ -605,39 +664,7 @@
       ],
       "created_at": "2026-11-15T16:47:12Z",
       "updated_at": "2026-11-19T09:39:43Z",
-      "rank": 19
-    },
-    {
-      "name": "weldbladesmithwharf/Gemini-Config-Checker-",
-      "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "full_description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "language": "Makefile",
-      "stars": 472,
-      "stars_gained": 0,
-      "forks": 0,
-      "topics": [
-        "ai",
-        "ai-search",
-        "aichecker",
-        "chatgpt",
-        "cli",
-        "config-checker",
-        "gemeni",
-        "gemeni-checker",
-        "generative-ai",
-        "lim-seo",
-        "llm",
-        "mcp-server",
-        "nextjs",
-        "open-code",
-        "seo-checker",
-        "seo-tool",
-        "typescript"
-      ],
-      "created_at": "2026-11-15T16:47:11Z",
-      "updated_at": "2026-11-19T09:39:49Z",
-      "rank": 20
+      "rank": 21
     },
     {
       "name": "wisemeadowlarkspike/Gemini-Config-Checker-",
@@ -669,7 +696,7 @@
       ],
       "created_at": "2026-11-15T16:48:18Z",
       "updated_at": "2026-11-19T09:39:38Z",
-      "rank": 21
+      "rank": 22
     },
     {
       "name": "Watchlespeed/Gemini-Config-Checker-",
@@ -701,7 +728,7 @@
       ],
       "created_at": "2026-11-15T16:47:11Z",
       "updated_at": "2026-11-19T09:39:46Z",
-      "rank": 22
+      "rank": 23
     },
     {
       "name": "WerewolfEmuHub/Gemini-Config-Checker-",
@@ -733,7 +760,7 @@
       ],
       "created_at": "2026-11-15T16:47:11Z",
       "updated_at": "2026-11-19T09:39:44Z",
-      "rank": 23
+      "rank": 24
     },
     {
       "name": "WindowStaffGate11/Gemini-Config-Checker-",
@@ -765,28 +792,6 @@
       ],
       "created_at": "2026-11-15T16:47:18Z",
       "updated_at": "2026-11-19T09:39:41Z",
-      "rank": 24
-    },
-    {
-      "name": "ysunyang4/Nexus",
-      "url": "https://github.com/ysunyang4/Nexus",
-      "description": "Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, with user-controlled permissions.",
-      "full_description": "Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, with user-controlled permissions.",
-      "language": "TypeScript",
-      "stars": 445,
-      "stars_gained": 0,
-      "forks": 78,
-      "topics": [
-        "ai-agent",
-        "browser-extension",
-        "chrome-extension",
-        "llm",
-        "local-ai",
-        "mcp",
-        "webagent"
-      ],
-      "created_at": "2026-11-13T13:46:21Z",
-      "updated_at": "2026-11-20T07:04:32Z",
       "rank": 25
     },
     {
@@ -797,7 +802,7 @@
       "language": "",
       "stars": 383,
       "stars_gained": 0,
-      "forks": 9,
+      "forks": 8,
       "topics": [
         "adminlte",
         "agent-skills",
@@ -826,7 +831,7 @@
       "language": "",
       "stars": 379,
       "stars_gained": 0,
-      "forks": 9,
+      "forks": 8,
       "topics": [
         "ai",
         "ai-agents",
@@ -861,7 +866,7 @@
       "language": "",
       "stars": 379,
       "stars_gained": 0,
-      "forks": 174,
+      "forks": 173,
       "topics": [
         "adminlte",
         "agent-skills",
@@ -925,7 +930,7 @@
       "language": "",
       "stars": 377,
       "stars_gained": 0,
-      "forks": 9,
+      "forks": 8,
       "topics": [
         "adminlte",
         "agent-skills",
