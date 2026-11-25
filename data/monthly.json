@@ -1,44 +1,18 @@
 {
-  "updated": "2026-11-24T10:12:49.068754+00:00",
+  "updated": "2026-11-25T08:57:03.251644+00:00",
   "period": "monthly",
   "label": "本月",
   "count": 30,
   "projects": [
-    {
-      "name": "ccch1mneyyy/dsh-Go",
-      "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-      "full_description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-      "language": "Dart",
-      "stars": 31080,
-      "stars_gained": 0,
-      "forks": 1499,
-      "topics": [
-        "ai-agent",
-        "android",
-        "android-app",
-        "coding-agent",
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "dsh-tui",
-        "flutter",
-        "llm"
-      ],
-      "created_at": "2026-10-25T08:09:52Z",
-      "updated_at": "2026-11-24T10:08:34Z",
-      "rank": 1
-    },
     {
       "name": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "full_description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "language": "Kotlin",
-      "stars": 9828,
+      "stars": 9922,
       "stars_gained": 0,
-      "forks": 2198,
+      "forks": 2220,
       "topics": [
         "accessibility",
         "ai-agent",
@@ -50,8 +24,8 @@
         "mobile-agent"
       ],
       "created_at": "2026-10-29T14:34:07Z",
-      "updated_at": "2026-11-24T10:07:12Z",
-      "rank": 2
+      "updated_at": "2026-11-25T08:54:36Z",
+      "rank": 1
     },
     {
       "name": "erkamyaman/rust-anything",
@@ -59,9 +33,9 @@
       "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
       "full_description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
       "language": "Rust",
-      "stars": 8959,
+      "stars": 9380,
       "stars_gained": 0,
-      "forks": 725,
+      "forks": 769,
       "topics": [
         "agent-skills",
         "claude-code",
@@ -85,8 +59,8 @@
         "typescript"
       ],
       "created_at": "2026-11-16T12:10:36Z",
-      "updated_at": "2026-11-24T10:05:13Z",
-      "rank": 3
+      "updated_at": "2026-11-25T08:54:15Z",
+      "rank": 2
     },
     {
       "name": "mdiri-ai/SoduWork",
@@ -94,9 +68,9 @@
       "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
       "full_description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
       "language": "JavaScript",
-      "stars": 7462,
+      "stars": 7882,
       "stars_gained": 0,
-      "forks": 647,
+      "forks": 707,
       "topics": [
         "agent-harness",
         "agent-orchestration",
@@ -120,18 +94,18 @@
         "team-collaboration"
       ],
       "created_at": "2026-10-29T02:43:14Z",
-      "updated_at": "2026-11-24T10:11:53Z",
-      "rank": 4
+      "updated_at": "2026-11-25T08:56:09Z",
+      "rank": 3
     },
     {
       "name": "vercel-labs/ui",
       "url": "https://github.com/vercel-labs/ui",
-      "description": "A library of behaviors for agents to build the next generation of user interfaces.",
-      "full_description": "A library of behaviors for agents to build the next generation of user interfaces.",
+      "description": "A library of behaviors for agents to build and drive the next generation of user interfaces.",
+      "full_description": "A library of behaviors for agents to build and drive the next generation of user interfaces.",
       "language": "TypeScript",
-      "stars": 6998,
+      "stars": 7348,
       "stars_gained": 0,
-      "forks": 246,
+      "forks": 256,
       "topics": [
         "accessibility",
         "agent",
@@ -151,42 +125,8 @@
         "webmcp"
       ],
       "created_at": "2026-10-26T17:39:27Z",
-      "updated_at": "2026-11-24T10:03:36Z",
-      "rank": 5
-    },
-    {
-      "name": "qybaihe/bla",
-      "url": "https://github.com/qybaihe/bla",
-      "description": "🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server & CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors & Android DEX against AI reverse-engineering agents (REA).",
-      "full_description": "🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server & CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors & Android DEX against AI reverse-engineering agents (REA).",
-      "language": "TypeScript",
-      "stars": 6652,
-      "stars_gained": 0,
-      "forks": 821,
-      "topics": [
-        "adversarial-ai",
-        "ai-security",
-        "android-security",
-        "binary-protection",
-        "claude-code",
-        "codex",
-        "cursor",
-        "electron-security",
-        "gguf",
-        "ghidra",
-        "llm-security",
-        "mcp",
-        "mcp-server",
-        "obfuscation",
-        "python-security",
-        "reverse-engineering",
-        "safetensors",
-        "software-protection",
-        "webassembly"
-      ],
-      "created_at": "2026-10-25T05:25:45Z",
-      "updated_at": "2026-11-24T09:59:53Z",
-      "rank": 6
+      "updated_at": "2026-11-25T08:55:33Z",
+      "rank": 4
     },
     {
       "name": "KKKKhazix/agent-autoloop",
@@ -194,9 +134,9 @@
       "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "full_description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "language": "TypeScript",
-      "stars": 6450,
+      "stars": 6528,
       "stars_gained": 0,
-      "forks": 1204,
+      "forks": 1218,
       "topics": [
         "ai-agents",
         "automation",
@@ -211,8 +151,8 @@
         "workflow"
       ],
       "created_at": "2026-11-03T08:02:11Z",
-      "updated_at": "2026-11-24T09:44:21Z",
-      "rank": 7
+      "updated_at": "2026-11-25T08:39:39Z",
+      "rank": 5
     },
     {
       "name": "modelflare-ai/AnyModelBot",
@@ -220,9 +160,9 @@
       "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
       "full_description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
       "language": "Python",
-      "stars": 4996,
+      "stars": 5005,
       "stars_gained": 0,
-      "forks": 118,
+      "forks": 120,
       "topics": [
         "ai-agent",
         "ai-assistant",
@@ -246,8 +186,8 @@
         "wechat"
       ],
       "created_at": "2026-10-27T08:51:18Z",
-      "updated_at": "2026-11-24T09:18:37Z",
-      "rank": 8
+      "updated_at": "2026-11-25T03:56:13Z",
+      "rank": 6
     },
     {
       "name": "XinaTian/MROffice",
@@ -255,9 +195,9 @@
       "description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
       "full_description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
       "language": "TypeScript",
-      "stars": 3419,
+      "stars": 4296,
       "stars_gained": 0,
-      "forks": 387,
+      "forks": 457,
       "topics": [
         "ai",
         "ai-agent",
@@ -281,8 +221,8 @@
         "xlsx"
       ],
       "created_at": "2026-11-10T17:54:07Z",
-      "updated_at": "2026-11-24T10:11:58Z",
-      "rank": 9
+      "updated_at": "2026-11-25T08:48:46Z",
+      "rank": 7
     },
     {
       "name": "EL4CTEO/fast-anything",
@@ -290,9 +230,9 @@
       "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "full_description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "language": "Rust",
-      "stars": 3386,
+      "stars": 3756,
       "stars_gained": 0,
-      "forks": 228,
+      "forks": 269,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -316,8 +256,8 @@
         "typescript"
       ],
       "created_at": "2026-11-21T14:40:27Z",
-      "updated_at": "2026-11-24T10:06:55Z",
-      "rank": 10
+      "updated_at": "2026-11-25T08:54:34Z",
+      "rank": 8
     },
     {
       "name": "FrigadeHQ/yogurt",
@@ -325,9 +265,9 @@
       "description": "Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, Windows and Linux. An alternative to Granola, Otter and Fireflies.",
       "full_description": "Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, Windows and Linux. An alternative to Granola, Otter and Fireflies.",
       "language": "TypeScript",
-      "stars": 3133,
+      "stars": 3432,
       "stars_gained": 0,
-      "forks": 271,
+      "forks": 300,
       "topics": [
         "ai-meeting-assistant",
         "ai-notetaker",
@@ -351,8 +291,8 @@
         "windows"
       ],
       "created_at": "2026-11-10T20:01:01Z",
-      "updated_at": "2026-11-24T10:12:03Z",
-      "rank": 11
+      "updated_at": "2026-11-25T08:53:52Z",
+      "rank": 9
     },
     {
       "name": "DIYgod/pinky",
@@ -360,9 +300,9 @@
       "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
       "full_description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
       "language": "Go",
-      "stars": 2739,
+      "stars": 2774,
       "stars_gained": 0,
-      "forks": 286,
+      "forks": 292,
       "topics": [
         "ai-agent",
         "android",
@@ -374,8 +314,8 @@
         "phone-automation"
       ],
       "created_at": "2026-11-06T16:53:14Z",
-      "updated_at": "2026-11-24T10:12:31Z",
-      "rank": 12
+      "updated_at": "2026-11-25T08:06:43Z",
+      "rank": 10
     },
     {
       "name": "N1nEmAn/sapper-v2",
@@ -383,9 +323,9 @@
       "description": "The first fruit of the Nüwa tree — an autonomous AI pentest legion (634-team champion, 8h unattended, 1B tokens beat 4.5B). Not just a tool: evolvable by design. Grow your own fruit on the Nüwa Foundation (Create/Language/History).",
       "full_description": "The first fruit of the Nüwa tree — an autonomous AI pentest legion (634-team champion, 8h unattended, 1B tokens beat 4.5B). Not just a tool: evolvable by design. Grow your own fruit on the Nüwa Foundation (Create/Language/History).",
       "language": "Python",
-      "stars": 2606,
+      "stars": 2633,
       "stars_gained": 0,
-      "forks": 1268,
+      "forks": 1277,
       "topics": [
         "agentic-workflows",
         "ai-agents",
@@ -401,8 +341,8 @@
         "swarm-intelligence"
       ],
       "created_at": "2026-10-30T15:12:35Z",
-      "updated_at": "2026-11-24T08:54:19Z",
-      "rank": 13
+      "updated_at": "2026-11-25T08:43:32Z",
+      "rank": 11
     },
     {
       "name": "sybil-solutions/inference-optimisation-skill",
@@ -410,9 +350,9 @@
       "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
       "full_description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
       "language": "Python",
-      "stars": 2373,
+      "stars": 2629,
       "stars_gained": 0,
-      "forks": 222,
+      "forks": 240,
       "topics": [
         "agent-skill",
         "benchmarking",
@@ -422,8 +362,8 @@
         "speculative-decoding"
       ],
       "created_at": "2026-11-16T18:40:04Z",
-      "updated_at": "2026-11-24T10:11:11Z",
-      "rank": 14
+      "updated_at": "2026-11-25T08:51:38Z",
+      "rank": 12
     },
     {
       "name": "Sandflow-ai/sand3d",
@@ -431,9 +371,9 @@
       "description": "3D modeling in Python, built for LLMs.",
       "full_description": "3D modeling in Python, built for LLMs.",
       "language": "HTML",
-      "stars": 2257,
+      "stars": 2299,
       "stars_gained": 0,
-      "forks": 245,
+      "forks": 251,
       "topics": [
         "3d",
         "blender",
@@ -444,8 +384,8 @@
         "usd"
       ],
       "created_at": "2026-11-03T08:23:03Z",
-      "updated_at": "2026-11-24T07:18:11Z",
-      "rank": 15
+      "updated_at": "2026-11-25T08:54:29Z",
+      "rank": 13
     },
     {
       "name": "lexifina/global-law",
@@ -453,9 +393,9 @@
       "description": "The world's law in git: any provision, any country, any date, and the law that wrote each word.",
       "full_description": "The world's law in git: any provision, any country, any date, and the law that wrote each word.",
       "language": "HTML",
-      "stars": 2237,
+      "stars": 2274,
       "stars_gained": 0,
-      "forks": 205,
+      "forks": 212,
       "topics": [
         "git",
         "law",
@@ -465,8 +405,8 @@
         "open-data"
       ],
       "created_at": "2026-10-28T13:34:16Z",
-      "updated_at": "2026-11-24T10:12:13Z",
-      "rank": 16
+      "updated_at": "2026-11-25T08:51:48Z",
+      "rank": 14
     },
     {
       "name": "agentes-chat/agentes-chat",
@@ -474,9 +414,9 @@
       "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
       "full_description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
       "language": "TypeScript",
-      "stars": 2002,
+      "stars": 2032,
       "stars_gained": 0,
-      "forks": 394,
+      "forks": 403,
       "topics": [
         "agentic-ai",
         "ai-agents",
@@ -500,65 +440,8 @@
         "team-chat"
       ],
       "created_at": "2026-11-09T00:50:28Z",
-      "updated_at": "2026-11-24T08:27:17Z",
-      "rank": 17
-    },
-    {
-      "name": "JosssphZhou/poki",
-      "url": "https://github.com/JosssphZhou/poki",
-      "description": "Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the screen, and taps, types and swipes in real apps with your own model account.",
-      "full_description": "Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the screen, and taps, types and swipes in real apps with your own model account.",
-      "language": "Swift",
-      "stars": 1900,
-      "stars_gained": 0,
-      "forks": 279,
-      "topics": [
-        "ai-agents",
-        "ai-assistant",
-        "automation",
-        "claude-code",
-        "computer-use",
-        "gui-agent",
-        "ios",
-        "ios-app",
-        "iphone",
-        "llm",
-        "mcp",
-        "mobile-agent",
-        "model-context-protocol",
-        "open-source",
-        "phone-agent",
-        "swift",
-        "voice-assistant"
-      ],
-      "created_at": "2026-11-05T15:04:31Z",
-      "updated_at": "2026-11-24T08:44:04Z",
-      "rank": 18
-    },
-    {
-      "name": "RunanywhereAI/trnrt",
-      "url": "https://github.com/RunanywhereAI/trnrt",
-      "description": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
-      "full_description": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
-      "language": "Python",
-      "stars": 1661,
-      "stars_gained": 0,
-      "forks": 28,
-      "topics": [
-        "aws",
-        "glm",
-        "inference",
-        "llm",
-        "llm-serving",
-        "megakernels",
-        "neuron",
-        "nki",
-        "openai-api",
-        "trainium"
-      ],
-      "created_at": "2026-10-30T18:30:04Z",
-      "updated_at": "2026-11-24T06:00:25Z",
-      "rank": 19
+      "updated_at": "2026-11-25T08:40:24Z",
+      "rank": 15
     },
     {
       "name": "pierridotite/mobile-agent-testers",
@@ -566,9 +449,9 @@
       "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
       "full_description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
       "language": "Python",
-      "stars": 1623,
+      "stars": 1997,
       "stars_gained": 0,
-      "forks": 161,
+      "forks": 199,
       "topics": [
         "accessibility-testing",
         "ai-agents",
@@ -592,166 +475,65 @@
         "ui-testing"
       ],
       "created_at": "2026-11-16T19:11:44Z",
-      "updated_at": "2026-11-24T10:08:39Z",
-      "rank": 20
+      "updated_at": "2026-11-25T08:50:09Z",
+      "rank": 16
     },
     {
-      "name": "emanuele-em/kanzo",
-      "url": "https://github.com/emanuele-em/kanzo",
-      "description": "Self-hosted, sharable kanban for humans and agents. One 4.7 MB binary, 5 MB of RAM, 10 to 60 tokens per agent reply, starts in 3 ms, zero setup.",
-      "full_description": "Self-hosted, sharable kanban for humans and agents. One 4.7 MB binary, 5 MB of RAM, 10 to 60 tokens per agent reply, starts in 3 ms, zero setup.",
-      "language": "Rust",
-      "stars": 1333,
+      "name": "JosssphZhou/poki",
+      "url": "https://github.com/JosssphZhou/poki",
+      "description": "Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the screen, and taps, types and swipes in real apps with your own model account.",
+      "full_description": "Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the screen, and taps, types and swipes in real apps with your own model account.",
+      "language": "Swift",
+      "stars": 1956,
       "stars_gained": 0,
-      "forks": 123,
+      "forks": 287,
       "topics": [
         "ai-agents",
+        "ai-assistant",
+        "automation",
         "claude-code",
-        "cli",
-        "codex",
-        "coding-agents",
-        "kanban",
-        "local-first",
+        "computer-use",
+        "gui-agent",
+        "ios",
+        "ios-app",
+        "iphone",
+        "llm",
         "mcp",
-        "mcp-server",
+        "mobile-agent",
         "model-context-protocol",
-        "productivity",
-        "project-management",
-        "raspberry-pi",
-        "rust",
-        "self-hosted",
-        "sqlite",
-        "task-manager"
-      ],
-      "created_at": "2026-10-25T11:14:03Z",
-      "updated_at": "2026-11-24T08:54:12Z",
-      "rank": 21
-    },
-    {
-      "name": "hyperionaidev/smolmaxxing",
-      "url": "https://github.com/hyperionaidev/smolmaxxing",
-      "description": "maxxing the ability to run different LLMs on the smallest devices possible",
-      "full_description": "maxxing the ability to run different LLMs on the smallest devices possible",
-      "language": "C",
-      "stars": 1123,
-      "stars_gained": 0,
-      "forks": 63,
-      "topics": [
-        "edge-ai",
-        "llama-cpp",
-        "llama-cpp-alternative",
-        "llm",
-        "local-llm",
-        "local-llm-support",
-        "on-device",
-        "quantization",
-        "quantization-algorithms"
-      ],
-      "created_at": "2026-11-04T07:09:41Z",
-      "updated_at": "2026-11-23T22:18:29Z",
-      "rank": 22
-    },
-    {
-      "name": "simpsoka/zigzag",
-      "url": "https://github.com/simpsoka/zigzag",
-      "description": "Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery, edit stitches visually, and create designs with AI agents via MCP.",
-      "full_description": "Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery, edit stitches visually, and create designs with AI agents via MCP.",
-      "language": "Rust",
-      "stars": 1119,
-      "stars_gained": 0,
-      "forks": 84,
-      "topics": [
-        "brother-skitch",
-        "embroidery",
-        "embroidery-digitizing",
-        "embroidery-software",
-        "machine-embroidery",
-        "macos",
-        "mcp",
-        "model-context-protocol",
-        "rust",
-        "svg",
-        "vector-editor",
-        "windows"
-      ],
-      "created_at": "2026-10-30T01:53:39Z",
-      "updated_at": "2026-11-24T09:14:56Z",
-      "rank": 23
-    },
-    {
-      "name": "Dodaios/ste80-humanizer",
-      "url": "https://github.com/Dodaios/ste80-humanizer",
-      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-      "full_description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-      "language": "Python",
-      "stars": 1113,
-      "stars_gained": 0,
-      "forks": 77,
-      "topics": [
-        "agent-skills",
-        "ai-writing",
-        "asd-ste100",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "cursor",
-        "humanize-ai-text",
-        "humanizer",
-        "karpathy",
-        "llm",
-        "plain-language",
-        "simplified-technical-english",
-        "writing"
-      ],
-      "created_at": "2026-11-09T17:18:59Z",
-      "updated_at": "2026-11-24T08:37:15Z",
-      "rank": 24
-    },
-    {
-      "name": "jackwener/DSH-Android",
-      "url": "https://github.com/jackwener/DSH-Android",
-      "description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
-      "full_description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
-      "language": "Kotlin",
-      "stars": 1041,
-      "stars_gained": 0,
-      "forks": 120,
-      "topics": [
-        "ai-agent",
-        "android",
-        "deepseek",
-        "deepseek-harness",
-        "llm",
+        "open-source",
         "phone-agent",
-        "shizuku"
+        "swift",
+        "voice-assistant"
       ],
-      "created_at": "2026-10-27T19:26:12Z",
-      "updated_at": "2026-11-24T09:08:45Z",
-      "rank": 25
+      "created_at": "2026-11-05T15:04:31Z",
+      "updated_at": "2026-11-25T08:56:00Z",
+      "rank": 17
     },
     {
-      "name": "Banan1cee/whale_girl",
-      "url": "https://github.com/Banan1cee/whale_girl",
-      "description": "鲸鲸 · 让 DeepSeek 用你的微信账号陪聊（Windows 桌面端 + WPF 启动器）。WeChat chat bot powered by DeepSeek/Qwen.",
-      "full_description": "鲸鲸 · 让 DeepSeek 用你的微信账号陪聊（Windows 桌面端 + WPF 启动器）。WeChat chat bot powered by DeepSeek/Qwen.",
-      "language": "JavaScript",
-      "stars": 966,
+      "name": "RunanywhereAI/trnrt",
+      "url": "https://github.com/RunanywhereAI/trnrt",
+      "description": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
+      "full_description": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
+      "language": "Python",
+      "stars": 1662,
       "stars_gained": 0,
-      "forks": 55,
+      "forks": 29,
       "topics": [
-        "chatbot",
-        "deepseek",
+        "aws",
+        "glm",
+        "inference",
         "llm",
-        "nodejs",
-        "python",
-        "uiautomation",
-        "wechat-bot",
-        "windows",
-        "wpf"
+        "llm-serving",
+        "megakernels",
+        "neuron",
+        "nki",
+        "openai-api",
+        "trainium"
       ],
-      "created_at": "2026-10-26T09:17:35Z",
-      "updated_at": "2026-11-24T09:27:19Z",
-      "rank": 26
+      "created_at": "2026-10-30T18:30:04Z",
+      "updated_at": "2026-11-24T12:09:48Z",
+      "rank": 18
     },
     {
       "name": "INK-Q/agy-fast",
@@ -759,9 +541,9 @@
       "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
       "full_description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
       "language": "TypeScript",
-      "stars": 852,
+      "stars": 1367,
       "stars_gained": 0,
-      "forks": 54,
+      "forks": 80,
       "topics": [
         "ai-agent",
         "ai-coding",
@@ -785,8 +567,134 @@
         "token-optimization"
       ],
       "created_at": "2026-11-19T04:58:46Z",
-      "updated_at": "2026-11-24T10:05:01Z",
-      "rank": 27
+      "updated_at": "2026-11-25T08:54:27Z",
+      "rank": 19
+    },
+    {
+      "name": "simpsoka/zigzag",
+      "url": "https://github.com/simpsoka/zigzag",
+      "description": "Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery, edit stitches visually, and create designs with AI agents via MCP.",
+      "full_description": "Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery, edit stitches visually, and create designs with AI agents via MCP.",
+      "language": "Rust",
+      "stars": 1133,
+      "stars_gained": 0,
+      "forks": 87,
+      "topics": [
+        "brother-skitch",
+        "embroidery",
+        "embroidery-digitizing",
+        "embroidery-software",
+        "machine-embroidery",
+        "macos",
+        "mcp",
+        "model-context-protocol",
+        "rust",
+        "svg",
+        "vector-editor",
+        "windows"
+      ],
+      "created_at": "2026-10-30T01:53:39Z",
+      "updated_at": "2026-11-25T04:58:00Z",
+      "rank": 20
+    },
+    {
+      "name": "Dodaios/ste80-humanizer",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "full_description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "language": "Python",
+      "stars": 1127,
+      "stars_gained": 0,
+      "forks": 79,
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "asd-ste100",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "cursor",
+        "humanize-ai-text",
+        "humanizer",
+        "karpathy",
+        "llm",
+        "plain-language",
+        "simplified-technical-english",
+        "writing"
+      ],
+      "created_at": "2026-11-09T17:18:59Z",
+      "updated_at": "2026-11-25T08:30:55Z",
+      "rank": 21
+    },
+    {
+      "name": "hyperionaidev/smolmaxxing",
+      "url": "https://github.com/hyperionaidev/smolmaxxing",
+      "description": "maxxing the ability to run different LLMs on the smallest devices possible",
+      "full_description": "maxxing the ability to run different LLMs on the smallest devices possible",
+      "language": "C",
+      "stars": 1125,
+      "stars_gained": 0,
+      "forks": 64,
+      "topics": [
+        "edge-ai",
+        "llama-cpp",
+        "llama-cpp-alternative",
+        "llm",
+        "local-llm",
+        "local-llm-support",
+        "on-device",
+        "quantization",
+        "quantization-algorithms"
+      ],
+      "created_at": "2026-11-04T07:09:41Z",
+      "updated_at": "2026-11-25T05:44:45Z",
+      "rank": 22
+    },
+    {
+      "name": "jackwener/DSH-Android",
+      "url": "https://github.com/jackwener/DSH-Android",
+      "description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
+      "full_description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
+      "language": "Kotlin",
+      "stars": 1058,
+      "stars_gained": 0,
+      "forks": 122,
+      "topics": [
+        "ai-agent",
+        "android",
+        "deepseek",
+        "deepseek-harness",
+        "llm",
+        "phone-agent",
+        "shizuku"
+      ],
+      "created_at": "2026-10-27T19:26:12Z",
+      "updated_at": "2026-11-25T08:34:03Z",
+      "rank": 23
+    },
+    {
+      "name": "Banan1cee/whale_girl",
+      "url": "https://github.com/Banan1cee/whale_girl",
+      "description": "鲸鲸 · 让 DeepSeek 用你的微信账号陪聊（Windows 桌面端 + WPF 启动器）。WeChat chat bot powered by DeepSeek/Qwen.",
+      "full_description": "鲸鲸 · 让 DeepSeek 用你的微信账号陪聊（Windows 桌面端 + WPF 启动器）。WeChat chat bot powered by DeepSeek/Qwen.",
+      "language": "JavaScript",
+      "stars": 994,
+      "stars_gained": 0,
+      "forks": 56,
+      "topics": [
+        "chatbot",
+        "deepseek",
+        "llm",
+        "nodejs",
+        "python",
+        "uiautomation",
+        "wechat-bot",
+        "windows",
+        "wpf"
+      ],
+      "created_at": "2026-10-26T09:17:35Z",
+      "updated_at": "2026-11-25T07:57:44Z",
+      "rank": 24
     },
     {
       "name": "mankidev/antialgorithm",
@@ -794,9 +702,9 @@
       "description": "Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI.",
       "full_description": "Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI.",
       "language": "Python",
-      "stars": 796,
+      "stars": 849,
       "stars_gained": 0,
-      "forks": 50,
+      "forks": 53,
       "topics": [
         "agent-skills",
         "claude-code",
@@ -812,8 +720,39 @@
         "ui-design"
       ],
       "created_at": "2026-11-14T09:48:23Z",
-      "updated_at": "2026-11-24T10:07:46Z",
-      "rank": 28
+      "updated_at": "2026-11-25T08:29:02Z",
+      "rank": 25
+    },
+    {
+      "name": "qianyiai/kurocat",
+      "url": "https://github.com/qianyiai/kurocat",
+      "description": "KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）",
+      "full_description": "KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）",
+      "language": "TypeScript",
+      "stars": 821,
+      "stars_gained": 0,
+      "forks": 132,
+      "topics": [
+        "android",
+        "bongo-cat",
+        "bongocat",
+        "cross-platform",
+        "desktop-pet",
+        "keyboard-visualizer",
+        "kurocat",
+        "linux",
+        "macos",
+        "mcp",
+        "obs-studio",
+        "open-source",
+        "rust",
+        "tauri",
+        "typing-cat",
+        "windows"
+      ],
+      "created_at": "2026-11-21T15:49:31Z",
+      "updated_at": "2026-11-25T08:56:27Z",
+      "rank": 26
     },
     {
       "name": "sleepy-zone/ai-ref-library-cn",
@@ -830,7 +769,7 @@
       ],
       "created_at": "2026-10-29T15:28:16Z",
       "updated_at": "2026-11-23T14:14:40Z",
-      "rank": 29
+      "rank": 27
     },
     {
       "name": "interfere-inc/landmines",
@@ -838,7 +777,7 @@
       "description": "Oxlint rules that keep AI-written code honest: real implementations, real signals, no flake masking.",
       "full_description": "Oxlint rules that keep AI-written code honest: real implementations, real signals, no flake masking.",
       "language": "TypeScript",
-      "stars": 774,
+      "stars": 789,
       "stars_gained": 0,
       "forks": 11,
       "topics": [
@@ -850,7 +789,53 @@
         "testing"
       ],
       "created_at": "2026-10-28T16:10:27Z",
-      "updated_at": "2026-11-24T09:47:03Z",
+      "updated_at": "2026-11-25T02:48:26Z",
+      "rank": 28
+    },
+    {
+      "name": "sous-labs/songe",
+      "url": "https://github.com/sous-labs/songe",
+      "description": "A training engine for your local model, using your idle compute",
+      "full_description": "A training engine for your local model, using your idle compute",
+      "language": "Python",
+      "stars": 766,
+      "stars_gained": 0,
+      "forks": 66,
+      "topics": [
+        "coding-agents",
+        "distillation",
+        "fine-tuning",
+        "llm",
+        "local-llm",
+        "lora",
+        "mlx"
+      ],
+      "created_at": "2026-11-20T11:01:20Z",
+      "updated_at": "2026-11-25T08:56:38Z",
+      "rank": 29
+    },
+    {
+      "name": "SAOS-3624/dsh-see-now",
+      "url": "https://github.com/SAOS-3624/dsh-see-now",
+      "description": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+      "full_description": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+      "language": "JavaScript",
+      "stars": 763,
+      "stars_gained": 0,
+      "forks": 77,
+      "topics": [
+        "ai-agent",
+        "dsh",
+        "dsh-plugin",
+        "ffmpeg",
+        "llm",
+        "realtime",
+        "screen-capture",
+        "token-efficient",
+        "vision"
+      ],
+      "created_at": "2026-11-01T13:32:34Z",
+      "updated_at": "2026-11-25T07:12:05Z",
       "rank": 30
     }
   ]
