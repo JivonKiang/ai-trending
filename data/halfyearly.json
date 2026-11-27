@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T08:43:27.249395+00:00",
+  "updated": "2026-11-27T08:54:35.141552+00:00",
   "period": "halfyearly",
   "label": "半年",
   "count": 30,
@@ -10,9 +10,9 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "full_description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars": 198951,
+      "stars": 199573,
       "stars_gained": 0,
-      "forks": 11287,
+      "forks": 11339,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -26,7 +26,7 @@
         "yagni"
       ],
       "created_at": "2026-06-12T00:52:37Z",
-      "updated_at": "2026-11-26T08:42:39Z",
+      "updated_at": "2026-11-27T08:53:41Z",
       "rank": 1
     },
     {
@@ -35,9 +35,9 @@
       "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
       "full_description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
       "language": "JavaScript",
-      "stars": 87579,
+      "stars": 88636,
       "stars_gained": 0,
-      "forks": 2480,
+      "forks": 2506,
       "topics": [
         "ai-agents",
         "deepseek",
@@ -51,28 +51,37 @@
         "openai-compatible"
       ],
       "created_at": "2026-09-24T16:17:19Z",
-      "updated_at": "2026-11-26T08:43:06Z",
+      "updated_at": "2026-11-27T08:54:24Z",
       "rank": 2
     },
     {
       "name": "yetone/magpie",
       "url": "https://github.com/yetone/magpie",
-      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "full_description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "description": "Pool every plan you pay for — Claude, ChatGPT, Copilot, GLM Coding Plan, Kimi Code and more — and use them in any agent: Claude Code, Codex, Claude Desktop… When one runs out, the next takes over.",
+      "full_description": "Pool every plan you pay for — Claude, ChatGPT, Copilot, GLM Coding Plan, Kimi Code and more — and use them in any agent: Claude Code, Codex, Claude Desktop… When one runs out, the next takes over.",
       "language": "Go",
-      "stars": 41763,
+      "stars": 42291,
       "stars_gained": 0,
-      "forks": 3827,
+      "forks": 3885,
       "topics": [
+        "ai-agents",
+        "chatgpt",
+        "claude",
         "claude-code",
         "codex",
         "deepseek",
         "gemini-cli",
+        "github-copilot",
+        "glm",
+        "kimi",
+        "linux",
         "llm",
-        "macos"
+        "llm-gateway",
+        "macos",
+        "windows"
       ],
       "created_at": "2026-09-23T16:22:35Z",
-      "updated_at": "2026-11-26T08:43:22Z",
+      "updated_at": "2026-11-27T08:53:31Z",
       "rank": 3
     },
     {
@@ -81,9 +90,9 @@
       "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "full_description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "language": "Python",
-      "stars": 35975,
+      "stars": 35999,
       "stars_gained": 0,
-      "forks": 3218,
+      "forks": 3219,
       "topics": [
         "calibration",
         "classification",
@@ -100,7 +109,7 @@
         "zero-shot"
       ],
       "created_at": "2026-09-18T04:46:33Z",
-      "updated_at": "2026-11-26T07:58:55Z",
+      "updated_at": "2026-11-27T08:30:20Z",
       "rank": 4
     },
     {
@@ -109,9 +118,9 @@
       "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
       "full_description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
       "language": "Dart",
-      "stars": 32293,
+      "stars": 32972,
       "stars_gained": 0,
-      "forks": 1561,
+      "forks": 1593,
       "topics": [
         "ai-agent",
         "android",
@@ -126,7 +135,7 @@
         "llm"
       ],
       "created_at": "2026-10-25T08:09:52Z",
-      "updated_at": "2026-11-26T08:42:02Z",
+      "updated_at": "2026-11-27T08:54:09Z",
       "rank": 5
     },
     {
@@ -135,9 +144,9 @@
       "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
       "full_description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
       "language": "TypeScript",
-      "stars": 31558,
+      "stars": 31625,
       "stars_gained": 0,
-      "forks": 3733,
+      "forks": 3742,
       "topics": [
         "agentic-ai",
         "ai",
@@ -161,7 +170,7 @@
         "video-generation"
       ],
       "created_at": "2026-07-29T18:49:19Z",
-      "updated_at": "2026-11-26T08:38:54Z",
+      "updated_at": "2026-11-27T08:42:40Z",
       "rank": 6
     },
     {
@@ -170,9 +179,9 @@
       "description": "A privacy-first app that strips AI watermarks from content you own.",
       "full_description": "A privacy-first app that strips AI watermarks from content you own.",
       "language": "Python",
-      "stars": 28751,
+      "stars": 28919,
       "stars_gained": 0,
-      "forks": 3210,
+      "forks": 3217,
       "topics": [
         "agent-skill",
         "ai",
@@ -191,7 +200,7 @@
         "watermarks"
       ],
       "created_at": "2026-08-11T16:32:38Z",
-      "updated_at": "2026-11-26T08:41:25Z",
+      "updated_at": "2026-11-27T08:49:22Z",
       "rank": 7
     },
     {
@@ -200,9 +209,9 @@
       "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
       "full_description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
       "language": "JavaScript",
-      "stars": 24123,
+      "stars": 24346,
       "stars_gained": 0,
-      "forks": 3253,
+      "forks": 3282,
       "topics": [
         "apple-watch",
         "bodyweight",
@@ -226,7 +235,7 @@
         "workout-tracker"
       ],
       "created_at": "2026-07-18T20:41:24Z",
-      "updated_at": "2026-11-26T08:39:10Z",
+      "updated_at": "2026-11-27T08:52:08Z",
       "rank": 8
     },
     {
@@ -235,9 +244,9 @@
       "description": "Open-source plugin for designing and reviewing software with agents",
       "full_description": "Open-source plugin for designing and reviewing software with agents",
       "language": "Python",
-      "stars": 23090,
+      "stars": 23262,
       "stars_gained": 0,
-      "forks": 1703,
+      "forks": 1717,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -257,8 +266,43 @@
         "spec-driven-development"
       ],
       "created_at": "2026-09-13T16:31:06Z",
-      "updated_at": "2026-11-26T08:42:16Z",
+      "updated_at": "2026-11-27T08:49:44Z",
       "rank": 9
+    },
+    {
+      "name": "BaaRai/ARTEX",
+      "url": "https://github.com/BaaRai/ARTEX",
+      "description": "Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.",
+      "full_description": "Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.",
+      "language": "Go",
+      "stars": 22697,
+      "stars_gained": 0,
+      "forks": 8448,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "artex",
+        "autonomous-agents",
+        "bug-bounty",
+        "docker",
+        "golang",
+        "linux",
+        "llm",
+        "mcp",
+        "nextjs",
+        "penetration-testing",
+        "pentest",
+        "postgresql",
+        "rea",
+        "red-team",
+        "security",
+        "security-automation",
+        "sqlite",
+        "typescript"
+      ],
+      "created_at": "2026-10-08T21:14:39Z",
+      "updated_at": "2026-11-27T08:54:31Z",
+      "rank": 10
     },
     {
       "name": "xerj-org/xerj",
@@ -266,9 +310,9 @@
       "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "full_description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "language": "Rust",
-      "stars": 21558,
+      "stars": 21721,
       "stars_gained": 0,
-      "forks": 1338,
+      "forks": 1341,
       "topics": [
         "agent-memory",
         "ai-agents",
@@ -292,8 +336,8 @@
         "vector-search"
       ],
       "created_at": "2026-06-30T04:32:45Z",
-      "updated_at": "2026-11-26T08:39:12Z",
-      "rank": 10
+      "updated_at": "2026-11-27T08:53:31Z",
+      "rank": 11
     },
     {
       "name": "dataelement/dsh-desktop",
@@ -301,9 +345,9 @@
       "description": "DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版",
       "full_description": "DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版",
       "language": "JavaScript",
-      "stars": 21518,
+      "stars": 20228,
       "stars_gained": 0,
-      "forks": 715,
+      "forks": 702,
       "topics": [
         "agent",
         "apps",
@@ -318,42 +362,7 @@
         "harness"
       ],
       "created_at": "2026-08-13T13:45:50Z",
-      "updated_at": "2026-11-26T08:42:44Z",
-      "rank": 11
-    },
-    {
-      "name": "BaaRai/ARTEX",
-      "url": "https://github.com/BaaRai/ARTEX",
-      "description": "Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.",
-      "full_description": "Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.",
-      "language": "Go",
-      "stars": 21272,
-      "stars_gained": 0,
-      "forks": 7928,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "autonomous-agents",
-        "bug-bounty",
-        "docker",
-        "golang",
-        "linux",
-        "llm",
-        "mcp",
-        "nextjs",
-        "penetration-testing",
-        "pentest",
-        "postgresql",
-        "rea",
-        "react",
-        "red-team",
-        "security",
-        "security-automation",
-        "sqlite",
-        "typescript"
-      ],
-      "created_at": "2026-10-08T21:14:39Z",
-      "updated_at": "2026-11-26T08:43:12Z",
+      "updated_at": "2026-11-27T08:50:23Z",
       "rank": 12
     },
     {
@@ -362,9 +371,9 @@
       "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
       "full_description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
       "language": "TypeScript",
-      "stars": 18763,
+      "stars": 18769,
       "stars_gained": 0,
-      "forks": 1544,
+      "forks": 1545,
       "topics": [
         "ai-gateway",
         "ai-tools",
@@ -388,7 +397,7 @@
         "typescript"
       ],
       "created_at": "2026-06-18T23:03:18Z",
-      "updated_at": "2026-11-26T08:13:37Z",
+      "updated_at": "2026-11-27T08:19:54Z",
       "rank": 13
     },
     {
@@ -397,9 +406,9 @@
       "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
       "full_description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
       "language": "Rust",
-      "stars": 18354,
+      "stars": 18627,
       "stars_gained": 0,
-      "forks": 2611,
+      "forks": 2638,
       "topics": [
         "3d-modeling",
         "brep",
@@ -412,7 +421,7 @@
         "wasm"
       ],
       "created_at": "2026-10-07T18:57:48Z",
-      "updated_at": "2026-11-26T08:43:12Z",
+      "updated_at": "2026-11-27T08:28:05Z",
       "rank": 14
     },
     {
@@ -421,9 +430,9 @@
       "description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
       "full_description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
       "language": "TypeScript",
-      "stars": 15930,
+      "stars": 15957,
       "stars_gained": 0,
-      "forks": 1242,
+      "forks": 1243,
       "topics": [
         "chatgpt",
         "chatgpt-pro",
@@ -437,7 +446,7 @@
         "typescript"
       ],
       "created_at": "2026-07-26T13:04:44Z",
-      "updated_at": "2026-11-26T07:55:33Z",
+      "updated_at": "2026-11-27T08:37:00Z",
       "rank": 15
     },
     {
@@ -446,7 +455,7 @@
       "description": "Multiplayer agent harness for teams",
       "full_description": "Multiplayer agent harness for teams",
       "language": "TypeScript",
-      "stars": 15792,
+      "stars": 15800,
       "stars_gained": 0,
       "forks": 1960,
       "topics": [
@@ -456,7 +465,7 @@
         "qm"
       ],
       "created_at": "2026-07-29T20:03:08Z",
-      "updated_at": "2026-11-26T06:32:46Z",
+      "updated_at": "2026-11-27T07:54:16Z",
       "rank": 16
     },
     {
@@ -465,9 +474,9 @@
       "description": "MiMo Code: Where Models and Agents Co-Evolve",
       "full_description": "MiMo Code: Where Models and Agents Co-Evolve",
       "language": "TypeScript",
-      "stars": 13799,
+      "stars": 13797,
       "stars_gained": 0,
-      "forks": 1479,
+      "forks": 1478,
       "topics": [
         "ai",
         "ai-agents",
@@ -476,7 +485,7 @@
         "mimo-code"
       ],
       "created_at": "2026-06-10T11:52:41Z",
-      "updated_at": "2026-11-26T08:25:05Z",
+      "updated_at": "2026-11-27T08:41:11Z",
       "rank": 17
     },
     {
@@ -485,9 +494,9 @@
       "description": "The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.",
       "full_description": "The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.",
       "language": "TypeScript",
-      "stars": 13559,
+      "stars": 13711,
       "stars_gained": 0,
-      "forks": 1692,
+      "forks": 1713,
       "topics": [
         "ag-ui",
         "agent-governance",
@@ -498,7 +507,7 @@
         "mcp"
       ],
       "created_at": "2026-08-17T00:44:59Z",
-      "updated_at": "2026-11-26T08:42:13Z",
+      "updated_at": "2026-11-27T08:43:57Z",
       "rank": 18
     },
     {
@@ -507,9 +516,9 @@
       "description": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.",
       "full_description": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.",
       "language": "TypeScript",
-      "stars": 12969,
+      "stars": 13012,
       "stars_gained": 0,
-      "forks": 1797,
+      "forks": 1805,
       "topics": [
         "ai",
         "ai-agent",
@@ -533,7 +542,7 @@
         "xlsx"
       ],
       "created_at": "2026-07-31T09:40:58Z",
-      "updated_at": "2026-11-26T08:32:59Z",
+      "updated_at": "2026-11-27T07:59:29Z",
       "rank": 19
     },
     {
@@ -542,9 +551,9 @@
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "full_description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
-      "stars": 12686,
+      "stars": 12722,
       "stars_gained": 0,
-      "forks": 1968,
+      "forks": 1972,
       "topics": [
         "avx2",
         "c99",
@@ -568,7 +577,7 @@
         "zero-dependencies"
       ],
       "created_at": "2026-08-01T09:29:38Z",
-      "updated_at": "2026-11-26T08:21:09Z",
+      "updated_at": "2026-11-27T08:14:35Z",
       "rank": 20
     },
     {
@@ -577,9 +586,9 @@
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "full_description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
-      "stars": 12515,
+      "stars": 12563,
       "stars_gained": 0,
-      "forks": 1798,
+      "forks": 1806,
       "topics": [
         "agent",
         "agentic-ai",
@@ -590,7 +599,7 @@
         "long-term-memory"
       ],
       "created_at": "2026-07-08T12:54:20Z",
-      "updated_at": "2026-11-26T08:43:22Z",
+      "updated_at": "2026-11-27T08:27:19Z",
       "rank": 21
     },
     {
@@ -599,7 +608,7 @@
       "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
       "full_description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
       "language": "TypeScript",
-      "stars": 11839,
+      "stars": 11843,
       "stars_gained": 0,
       "forks": 1584,
       "topics": [
@@ -622,8 +631,43 @@
         "prompt-engineering"
       ],
       "created_at": "2026-06-09T06:28:20Z",
-      "updated_at": "2026-11-26T01:46:19Z",
+      "updated_at": "2026-11-27T07:14:44Z",
       "rank": 22
+    },
+    {
+      "name": "kajisho5/ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "full_description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "language": "Python",
+      "stars": 11679,
+      "stars_gained": 0,
+      "forks": 974,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "audio-processing",
+        "captions",
+        "claude-code",
+        "codex",
+        "coding-agent",
+        "cursor",
+        "ffmpeg",
+        "gemini-cli-extension",
+        "loudness-normalization",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "python",
+        "subtitles",
+        "transcoding",
+        "video",
+        "video-editing",
+        "whisper"
+      ],
+      "created_at": "2026-09-03T14:33:38Z",
+      "updated_at": "2026-11-27T08:53:03Z",
+      "rank": 23
     },
     {
       "name": "omnigent-ai/omnigent",
@@ -631,9 +675,9 @@
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
       "full_description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
       "language": "Python",
-      "stars": 11567,
+      "stars": 11584,
       "stars_gained": 0,
-      "forks": 1946,
+      "forks": 1951,
       "topics": [
         "agent-framework",
         "agent-governance",
@@ -653,8 +697,8 @@
         "sandbox"
       ],
       "created_at": "2026-06-11T12:18:13Z",
-      "updated_at": "2026-11-26T08:11:35Z",
-      "rank": 23
+      "updated_at": "2026-11-27T08:09:20Z",
+      "rank": 24
     },
     {
       "name": "trailhq/Trail-Code",
@@ -662,7 +706,7 @@
       "description": "One shared memory for every coding agent on your team. Claude Code, Cursor and Codex get a map of your code and your team's past decisions, so they pick up where you left off.",
       "full_description": "One shared memory for every coding agent on your team. Claude Code, Cursor and Codex get a map of your code and your team's past decisions, so they pick up where you left off.",
       "language": "TypeScript",
-      "stars": 11494,
+      "stars": 11512,
       "stars_gained": 0,
       "forks": 1032,
       "topics": [
@@ -685,8 +729,8 @@
         "tree-sitter"
       ],
       "created_at": "2026-07-03T13:44:21Z",
-      "updated_at": "2026-11-26T07:31:43Z",
-      "rank": 24
+      "updated_at": "2026-11-27T07:18:25Z",
+      "rank": 25
     },
     {
       "name": "KKKKhazix/AIHOT",
@@ -694,9 +738,9 @@
       "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "full_description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "language": "TypeScript",
-      "stars": 11440,
+      "stars": 11486,
       "stars_gained": 0,
-      "forks": 2654,
+      "forks": 2662,
       "topics": [
         "ai",
         "chinese",
@@ -712,8 +756,8 @@
         "typescript"
       ],
       "created_at": "2026-09-28T23:40:05Z",
-      "updated_at": "2026-11-26T08:42:13Z",
-      "rank": 25
+      "updated_at": "2026-11-27T08:48:12Z",
+      "rank": 26
     },
     {
       "name": "spinabot/brigade",
@@ -721,7 +765,7 @@
       "description": "Brigade — Your personal intelligence, built enterprise-grade",
       "full_description": "Brigade — Your personal intelligence, built enterprise-grade",
       "language": "TypeScript",
-      "stars": 11393,
+      "stars": 11392,
       "stars_gained": 0,
       "forks": 82,
       "topics": [
@@ -747,61 +791,8 @@
         "spinabot"
       ],
       "created_at": "2026-06-19T15:18:17Z",
-      "updated_at": "2026-11-26T03:47:06Z",
-      "rank": 26
-    },
-    {
-      "name": "kajisho5/ffmpeg-skill",
-      "url": "https://github.com/kajisho5/ffmpeg-skill",
-      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
-      "full_description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
-      "language": "Python",
-      "stars": 11268,
-      "stars_gained": 0,
-      "forks": 947,
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "audio-processing",
-        "captions",
-        "claude-code",
-        "codex",
-        "coding-agent",
-        "cursor",
-        "ffmpeg",
-        "gemini-cli-extension",
-        "loudness-normalization",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "python",
-        "subtitles",
-        "transcoding",
-        "video",
-        "video-editing",
-        "whisper"
-      ],
-      "created_at": "2026-09-03T14:33:38Z",
-      "updated_at": "2026-11-26T08:41:39Z",
+      "updated_at": "2026-11-26T19:37:17Z",
       "rank": 27
-    },
-    {
-      "name": "Tencent/BrowserSkill",
-      "url": "https://github.com/Tencent/BrowserSkill",
-      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "full_description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "language": "TypeScript",
-      "stars": 10744,
-      "stars_gained": 0,
-      "forks": 788,
-      "topics": [
-        "agent",
-        "browser-use",
-        "dsh-plugin"
-      ],
-      "created_at": "2026-06-22T07:24:40Z",
-      "updated_at": "2026-11-26T08:18:29Z",
-      "rank": 28
     },
     {
       "name": "Jakeschincariol/replica-skill",
@@ -809,9 +800,9 @@
       "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
       "full_description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
       "language": "Python",
-      "stars": 10696,
+      "stars": 10774,
       "stars_gained": 0,
-      "forks": 1971,
+      "forks": 1991,
       "topics": [
         "agent",
         "agent-skills",
@@ -824,42 +815,53 @@
         "saas"
       ],
       "created_at": "2026-10-03T12:07:49Z",
-      "updated_at": "2026-11-26T08:40:22Z",
+      "updated_at": "2026-11-27T08:40:19Z",
+      "rank": 28
+    },
+    {
+      "name": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "full_description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "language": "TypeScript",
+      "stars": 10767,
+      "stars_gained": 0,
+      "forks": 788,
+      "topics": [
+        "agent",
+        "browser-use",
+        "dsh-plugin"
+      ],
+      "created_at": "2026-06-22T07:24:40Z",
+      "updated_at": "2026-11-27T06:41:25Z",
       "rank": 29
     },
     {
-      "name": "Ryze-AI-Adgent/open-seo-mcp-skills",
-      "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
-      "description": "Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
-      "full_description": "Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
-      "language": "Shell",
-      "stars": 10672,
+      "name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "full_description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": 10719,
       "stars_gained": 0,
-      "forks": 404,
+      "forks": 1370,
       "topics": [
-        "ai-seo",
-        "ai-visibility",
-        "backlinks",
-        "claude",
+        "agent",
+        "ai-agent",
+        "ai-assistant",
+        "android",
         "claude-code",
-        "claude-skills",
-        "dataforseo",
-        "generative-engine-optimization",
-        "geo",
-        "geo-mcp",
-        "keyword-research",
-        "llm-seo",
-        "mcp",
-        "mcp-server",
-        "open-source-seo",
-        "rank-tracking",
-        "seo",
-        "seo-audit",
-        "seo-mcp",
-        "seo-mcp-server"
+        "codex",
+        "electron",
+        "ios",
+        "llm",
+        "macos",
+        "react-native",
+        "typescript",
+        "windows"
       ],
-      "created_at": "2026-08-29T23:37:01Z",
-      "updated_at": "2026-11-26T08:35:02Z",
+      "created_at": "2026-07-22T17:49:34Z",
+      "updated_at": "2026-11-27T08:35:57Z",
       "rank": 30
     }
   ]
